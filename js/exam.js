@@ -27,32 +27,98 @@ document.addEventListener('DOMContentLoaded', () => {
   $('pauseExam')?.addEventListener('click', togglePause);
   loadReviewExamLibrary();
   markCompletedOfficialExams();
+  markGeneratedExamScore();
+  refreshExamScoreBadgesFromCloud();
 });
 
 
-function completedExamTypes() {
-  return new Set((PSMStorage.get().exams || []).map((attempt) => attempt.type).filter(Boolean));
+function percentageFromAttempt(attempt) {
+  const direct = Number(attempt?.percentage);
+  if (Number.isFinite(direct)) return Math.max(0, Math.min(100, Math.round(direct)));
+  const total = Number(attempt?.total);
+  const score = Number(attempt?.score);
+  return total > 0 && Number.isFinite(score) ? Math.round((score / total) * 100) : null;
 }
 
-function addCompletionMark(button) {
-  if (!button || button.querySelector('.completion-mark')) return;
-  button.classList.add('completed-item');
-  button.insertAdjacentHTML('beforeend', '<span class="completion-mark" title="Completed" aria-label="Completed">✓</span>');
+function bestExamScores(attempts = []) {
+  const scores = new Map();
+  attempts.forEach((attempt) => {
+    if (!attempt?.type) return;
+    const percentage = percentageFromAttempt(attempt);
+    if (percentage == null) {
+      if (!scores.has(attempt.type)) scores.set(attempt.type, null);
+      return;
+    }
+    const previous = scores.get(attempt.type);
+    if (previous == null || percentage > previous) scores.set(attempt.type, percentage);
+  });
+  return scores;
 }
 
-function markCompletedOfficialExams() {
-  const completed = completedExamTypes();
+function scoreClass(percentage) {
+  if (percentage == null) return 'score-complete';
+  if (percentage >= 90) return 'score-excellent';
+  if (percentage >= 80) return 'score-very-good';
+  if (percentage >= 60) return 'score-good';
+  return 'score-failed';
+}
+
+function setExamScoreBadge(button, percentage, completed = true) {
+  if (!button) return;
+  let badge = button.querySelector('.performance-badge');
+  if (!badge) {
+    badge = document.createElement('span');
+    badge.className = 'performance-badge';
+    button.appendChild(badge);
+  }
+  badge.className = `performance-badge ${scoreClass(percentage)}`;
+  badge.innerHTML = `${percentage == null ? '' : `<strong>${percentage}%</strong>`}${completed ? '<span class="performance-check" aria-hidden="true">✓</span>' : ''}`;
+  badge.title = percentage == null ? 'Completed' : `Best score: ${percentage}%`;
+  badge.setAttribute('aria-label', badge.title);
+  button.classList.add('has-performance-badge');
+}
+
+function localExamScores() {
+  return bestExamScores(PSMStorage.get().exams || []);
+}
+
+function markCompletedOfficialExams(scoreMap = localExamScores()) {
   document.querySelectorAll('.official-exam-button').forEach((button) => {
-    if (completed.has(`official-${Number(button.dataset.exam)}`)) addCompletionMark(button);
+    const type = `official-${Number(button.dataset.exam)}`;
+    if (scoreMap.has(type)) setExamScoreBadge(button, scoreMap.get(type), true);
   });
 }
 
-function markCompletedReviewExams(container) {
-  const completed = completedExamTypes();
+function markCompletedReviewExams(container, scoreMap = localExamScores()) {
   container.querySelectorAll('.review-exam-button').forEach((button) => {
     const type = `element-${Number(button.dataset.element)}-part-${Number(button.dataset.part)}`;
-    if (completed.has(type)) addCompletionMark(button);
+    if (scoreMap.has(type)) setExamScoreBadge(button, scoreMap.get(type), true);
   });
+}
+
+function markGeneratedExamScore(scoreMap = localExamScores()) {
+  if (scoreMap.has('generated')) setExamScoreBadge($('generateExam'), scoreMap.get('generated'), true);
+}
+
+async function refreshExamScoreBadgesFromCloud() {
+  if (!window.PSM_CLOUD?.loadProgress) return;
+  try {
+    const progress = await window.PSM_CLOUD.loadProgress();
+    const cloudAttempts = (progress.exams || []).map((attempt) => ({
+      type: attempt.exam_code,
+      percentage: attempt.percentage,
+      score: attempt.correct_answers,
+      total: attempt.total_questions
+    }));
+    const merged = [...(PSMStorage.get().exams || []), ...cloudAttempts];
+    const scores = bestExamScores(merged);
+    markCompletedOfficialExams(scores);
+    markGeneratedExamScore(scores);
+    const container = $('reviewExamButtons');
+    if (container) markCompletedReviewExams(container, scores);
+  } catch (error) {
+    console.info('[PSM Exam] Cloud scores are not available yet; local scores are shown.', error);
+  }
 }
 
 async function startOfficialExam(examNumber) {
@@ -162,6 +228,7 @@ async function loadReviewExamLibrary() {
       .join('');
 
     markCompletedReviewExams(container);
+    refreshExamScoreBadgesFromCloud();
 
     container.querySelectorAll('.review-exam-button').forEach((button) => {
       button.addEventListener('click', () => startReviewExam({

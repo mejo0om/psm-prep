@@ -63,19 +63,47 @@ async function initializePractice() {
 }
 
 
-function addPracticeCompletionMark(button) {
-  if (!button || button.querySelector('.completion-mark')) return;
-  button.classList.add('completed-item');
-  button.insertAdjacentHTML('beforeend', '<span class="completion-mark" title="Completed" aria-label="Completed">✓</span>');
+function practiceScoreClass(percentage) {
+  if (percentage >= 90) return 'score-excellent';
+  if (percentage >= 80) return 'score-very-good';
+  if (percentage >= 60) return 'score-good';
+  return 'score-failed';
+}
+
+function setPracticePerformanceBadge(button, percentage, completed) {
+  if (!button || percentage == null) return;
+  let badge = button.querySelector('.practice-performance-badge');
+  if (!badge) {
+    badge = document.createElement('span');
+    badge.className = 'practice-performance-badge';
+    button.appendChild(badge);
+  }
+  badge.className = `practice-performance-badge ${practiceScoreClass(percentage)}`;
+  badge.innerHTML = `<strong>${percentage}%</strong>${completed ? '<span class="performance-check" aria-hidden="true">✓</span>' : ''}`;
+  badge.title = completed ? `Practice accuracy: ${percentage}% · Completed` : `Practice accuracy: ${percentage}%`;
+  badge.setAttribute('aria-label', badge.title);
+  button.classList.add('has-practice-performance');
+}
+
+function practicePerformance(bank, data) {
+  const ids = new Set(bank.map((q) => String(q.id)));
+  const practiceHistory = (data.history || []).filter((entry) =>
+    entry?.id != null && ids.has(String(entry.id)) && entry.mode !== 'exam'
+  );
+  if (!practiceHistory.length) return null;
+  const correct = practiceHistory.reduce((sum, entry) => sum + (entry.correct ? 1 : 0), 0);
+  return Math.round((correct / practiceHistory.length) * 100);
 }
 
 function markCompletedPracticeSelections() {
-  const stats = PSMStorage.get().questionStats || {};
+  const data = PSMStorage.get();
+  const stats = data.questionStats || {};
   document.querySelectorAll('.selection-card').forEach((button) => {
     const element = button.dataset.element;
     const bank = element === 'random' ? allQuestions : allQuestions.filter((q) => String(q.element) === element);
     const completed = bank.length > 0 && bank.every((q) => Number(stats[q.id]?.attempts || 0) > 0);
-    if (completed) addPracticeCompletionMark(button);
+    const percentage = practicePerformance(bank, data);
+    if (percentage != null) setPracticePerformanceBadge(button, percentage, completed);
   });
 }
 

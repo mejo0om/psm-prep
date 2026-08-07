@@ -12,3 +12,16 @@
 .review-status-icon{font-weight:900;margin-right:6px}
 .review-correct .review-status-icon,.correct-answer-mark{color:var(--success)}
 .review-wrong .review-status-icon,.wrong-answer-mark{color:var(--danger)}
+
+
+/* v8.5 best-score badges */
+.official-exam-button,.review-exam-button,#generateExam{position:relative}
+.has-performance-badge{padding-right:92px!important}
+.performance-badge{position:absolute;right:10px;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:5px;min-height:28px;padding:4px 8px;border-radius:999px;font-size:.78rem;font-weight:900;line-height:1;white-space:nowrap;box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.performance-check{font-size:.85rem;font-weight:1000}
+.performance-badge.score-excellent{background:#dcfce7;color:#166534}
+.performance-badge.score-very-good{background:#dbeafe;color:#1d4ed8}
+.performance-badge.score-good{background:#fef3c7;color:#92400e}
+.performance-badge.score-failed{background:#fee2e2;color:#b91c1c}
+.performance-badge.score-complete{background:color-mix(in srgb,var(--success) 14%,var(--surface));color:var(--success)}
+@media(max-width:480px){.has-performance-badge{padding-right:86px!important}.performance-badge{right:8px;font-size:.74rem}}
