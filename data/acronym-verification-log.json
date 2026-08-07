@@ -1,0 +1,545 @@
+{
+  "schemaVersion": "3.2.2",
+  "generatedFrom": "Supplied official course book",
+  "counts": {
+    "officialCenter": 75,
+    "verified": 75,
+    "partial": 0,
+    "rejected": 1
+  },
+  "records": [
+    {
+      "key": "acr_nebosh",
+      "acronym": "NEBOSH",
+      "status": "Verified",
+      "page": 1,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hse",
+      "acronym": "HSE",
+      "status": "Verified",
+      "page": 1,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_psm",
+      "acronym": "PSM",
+      "status": "Verified",
+      "page": 7,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ppe",
+      "acronym": "PPE",
+      "status": "Verified",
+      "page": 4,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pslg",
+      "acronym": "PSLG",
+      "status": "Verified",
+      "page": 5,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lpg",
+      "acronym": "LPG",
+      "status": "Verified",
+      "page": 10,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_csb",
+      "acronym": "CSB",
+      "status": "Verified",
+      "page": 12,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_osha",
+      "acronym": "OSHA",
+      "status": "Verified",
+      "page": 13,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ilo",
+      "acronym": "ILO",
+      "status": "Verified",
+      "page": 13,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sds",
+      "acronym": "SDS",
+      "status": "Verified",
+      "page": 13,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_msds",
+      "acronym": "MSDS",
+      "status": "Verified",
+      "page": 101,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sop",
+      "acronym": "SOP",
+      "status": "Verified",
+      "page": 13,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_moc",
+      "acronym": "MOC",
+      "status": "Verified",
+      "page": 14,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_psc",
+      "acronym": "PSC",
+      "status": "Verified",
+      "page": 19,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sms",
+      "acronym": "SMS",
+      "status": "Verified",
+      "page": 24,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_psms",
+      "acronym": "PSMS",
+      "status": "Verified",
+      "page": 24,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pdca",
+      "acronym": "PDCA",
+      "status": "Verified",
+      "page": 26,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_alarp",
+      "acronym": "ALARP",
+      "status": "Verified",
+      "page": 27,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_mapp",
+      "acronym": "MAPP",
+      "status": "Verified",
+      "page": 27,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_comah",
+      "acronym": "COMAH",
+      "status": "Verified",
+      "page": 21,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sq",
+      "acronym": "SQ",
+      "status": "Verified",
+      "page": 35,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_qra",
+      "acronym": "QRA",
+      "status": "Verified",
+      "page": 35,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ra",
+      "acronym": "RA",
+      "status": "Verified",
+      "page": 54,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lod",
+      "acronym": "LOD",
+      "status": "Verified",
+      "page": 36,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hazop",
+      "acronym": "HAZOP",
+      "status": "Verified",
+      "page": 38,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_p_id",
+      "acronym": "P&ID",
+      "status": "Verified",
+      "page": 38,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hazid",
+      "acronym": "HAZID",
+      "status": "Verified",
+      "page": 39,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_fmea",
+      "acronym": "FMEA",
+      "status": "Verified",
+      "page": 39,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_rpn",
+      "acronym": "RPN",
+      "status": "Verified",
+      "page": 39,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_eta",
+      "acronym": "ETA",
+      "status": "Verified",
+      "page": 40,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_loto",
+      "acronym": "LOTO",
+      "status": "Verified",
+      "page": 47,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hv",
+      "acronym": "HV",
+      "status": "Verified",
+      "page": 48,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pha",
+      "acronym": "PHA",
+      "status": "Verified",
+      "page": 53,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ndt",
+      "acronym": "NDT",
+      "status": "Verified",
+      "page": 39,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_prv",
+      "acronym": "PRV",
+      "status": "Verified",
+      "page": 58,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_psv",
+      "acronym": "PSV",
+      "status": "Verified",
+      "page": 58,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sis",
+      "acronym": "SIS",
+      "status": "Verified",
+      "page": 59,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pid",
+      "acronym": "PID",
+      "status": "Verified",
+      "page": 59,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hf",
+      "acronym": "HF",
+      "status": "Verified",
+      "page": 60,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_hro",
+      "acronym": "HRO",
+      "status": "Verified",
+      "page": 60,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_soe",
+      "acronym": "SOE",
+      "status": "Verified",
+      "page": 66,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sce",
+      "acronym": "SCE",
+      "status": "Verified",
+      "page": 65,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ps",
+      "acronym": "PS",
+      "status": "Verified",
+      "page": 69,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_farsi",
+      "acronym": "FARSI",
+      "status": "Verified",
+      "page": 57,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_rosov",
+      "acronym": "ROSOV",
+      "status": "Verified",
+      "page": 69,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ups",
+      "acronym": "UPS",
+      "status": "Verified",
+      "page": 70,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pfd",
+      "acronym": "PFD",
+      "status": "Verified",
+      "page": 13,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_mtbf",
+      "acronym": "MTBF",
+      "status": "Verified",
+      "page": 70,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sil",
+      "acronym": "SIL",
+      "status": "Verified",
+      "page": 70,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ac",
+      "acronym": "AC",
+      "status": "Verified",
+      "page": 78,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_dc",
+      "acronym": "DC",
+      "status": "Verified",
+      "page": 78,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_esd",
+      "acronym": "ESD",
+      "status": "Verified",
+      "page": 82,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_stp",
+      "acronym": "STP",
+      "status": "Verified",
+      "page": 84,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_azdn",
+      "acronym": "AZDN",
+      "status": "Verified",
+      "page": 85,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_sps",
+      "acronym": "SPS",
+      "status": "Verified",
+      "page": 85,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ghs",
+      "acronym": "GHS",
+      "status": "Verified",
+      "page": 86,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lng",
+      "acronym": "LNG",
+      "status": "Verified",
+      "page": 92,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lah",
+      "acronym": "LAH",
+      "status": "Verified",
+      "page": 97,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lahh",
+      "acronym": "LAHH",
+      "status": "Verified",
+      "page": 97,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_loc",
+      "acronym": "LOC",
+      "status": "Verified",
+      "page": 97,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_efrt",
+      "acronym": "EFRT",
+      "status": "Verified",
+      "page": 98,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ifrt",
+      "acronym": "IFRT",
+      "status": "Verified",
+      "page": 98,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pv",
+      "acronym": "PV",
+      "status": "Verified",
+      "page": 98,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_ufl",
+      "acronym": "UFL",
+      "status": "Verified",
+      "page": 107,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_uel",
+      "acronym": "UEL",
+      "status": "Verified",
+      "page": 107,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lfl",
+      "acronym": "LFL",
+      "status": "Verified",
+      "page": 107,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_lel",
+      "acronym": "LEL",
+      "status": "Verified",
+      "page": 107,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_bleve",
+      "acronym": "BLEVE",
+      "status": "Verified",
+      "page": 109,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_vce",
+      "acronym": "VCE",
+      "status": "Verified",
+      "page": 110,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_cvce",
+      "acronym": "CVCE",
+      "status": "Verified",
+      "page": 109,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_uvce",
+      "acronym": "UVCE",
+      "status": "Verified",
+      "page": 109,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_pfp",
+      "acronym": "PFP",
+      "status": "Verified",
+      "page": 111,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_afp",
+      "acronym": "AFP",
+      "status": "Verified",
+      "page": 112,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_mie",
+      "acronym": "MIE",
+      "status": "Verified",
+      "page": 116,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "acr_eemua",
+      "acronym": "EEMUA",
+      "status": "Verified",
+      "page": 67,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    },
+    {
+      "key": "rejected_lopa",
+      "acronym": "LOPA",
+      "status": "Rejected",
+      "reason": "Not found in the supplied official NEBOSH PSM course book.",
+      "visibleInOfficialCenter": false,
+      "notes": "Full name and explanation checked against the supplied course-book context."
+    }
+  ]
+}

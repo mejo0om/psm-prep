@@ -1,0 +1,32 @@
+{
+  "version": "3.0.0",
+  "status": "built",
+  "counts": {
+    "concepts": 203,
+    "relationships": 341,
+    "questions": 556,
+    "techniques": 11,
+    "hazards": 23
+  },
+  "files": [
+    "concepts.json",
+    "relationships.json",
+    "concept-types.json",
+    "question-intelligence.json",
+    "question-mapping.json",
+    "techniques.json",
+    "hazards.json",
+    "knowledge-graph.json"
+  ],
+  "integrations": [
+    "knowledge.html",
+    "js/knowledge.js",
+    "css/knowledge.css",
+    "Exam 2-5 JSON databases"
+  ],
+  "validation": {
+    "allQuestionIdsUnique": true,
+    "allRelationshipEndpointsValid": true,
+    "allPrimaryConceptsValid": true
+  }
+}

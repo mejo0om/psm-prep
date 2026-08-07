@@ -1,0 +1,123 @@
+{
+  "name": "PSM Prep",
+  "version": "3.2.0",
+  "contentSource": "Master question workbook plus preserved website Exam 1",
+  "elementQuestionCount": 356,
+  "counts": {
+    "element1": 59,
+    "element2": 94,
+    "element3": 100,
+    "element4": 103,
+    "questions": 649,
+    "practiceQuestions": 356,
+    "officialExamQuestions": 293,
+    "concepts": 203,
+    "relationships": 341,
+    "acronyms": 75,
+    "mockExams": 8
+  },
+  "examQuestionCount": 293,
+  "examDurationMinutes": 60,
+  "defaultTheme": "light",
+  "bookMappingStatus": "Section-level mapping included",
+  "acronymCount": 26,
+  "mappedQuestions": 258,
+  "unmappedQuestions": 98,
+  "features": [
+    "Advanced progress engine",
+    "Question mastery",
+    "Weak-area analytics",
+    "Favorites practice",
+    "Kill Mistakes 2.0",
+    "Advanced search",
+    "Exam answer review",
+    "Achievements",
+    "Study streak",
+    "Knowledge Engine",
+    "Concept explorer",
+    "Knowledge graph",
+    "Question intelligence",
+    "Eight source-preserved mock exams"
+  ],
+  "ui": "Responsive sidebar dashboard with mobile bottom navigation",
+  "newFeatures": [
+    "Interactive dashboard",
+    "Weekly activity chart",
+    "Element performance chart",
+    "Daily goal ring",
+    "Book Center",
+    "Smart Practice recommendations",
+    "Section-based practice",
+    "Weak-topic practice",
+    "Exam pause and resume",
+    "Exam autosave draft",
+    "Mobile bottom navigation"
+  ],
+  "exam1QuestionCount": 40,
+  "generatedMockExamQuestionCount": 40,
+  "flashResumeEnabled": true,
+  "answerExplanationsEnabled": false,
+  "questionCountTotal": 649,
+  "questionVerificationStatus": "Element 1 verified; Elements 2-4 and Exam 1 pending question-by-question verification",
+  "knowledgeEngine": true,
+  "knowledgeEngineStats": {
+    "concepts": 203,
+    "relationships": 341,
+    "questions": 556,
+    "techniques": 11,
+    "hazards": 23
+  },
+  "questionIntelligenceCount": 649,
+  "release": "Comprehensive Exams Production Edition",
+  "lastAuditUtc": "2026-08-03T18:04:25.487987+00:00",
+  "examLibrary": [
+    {
+      "number": 1,
+      "file": "exam1.json",
+      "questionCount": 40,
+      "durationMinutes": 60
+    },
+    {
+      "number": 2,
+      "file": "exam2.json",
+      "questionCount": 40,
+      "durationMinutes": 60
+    },
+    {
+      "number": 3,
+      "file": "exam3.json",
+      "questionCount": 40,
+      "durationMinutes": 60
+    },
+    {
+      "number": 4,
+      "file": "exam4.json",
+      "questionCount": 40,
+      "durationMinutes": 60
+    },
+    {
+      "number": 5,
+      "file": "exam5.json",
+      "questionCount": 40,
+      "durationMinutes": 60
+    },
+    {
+      "number": 6,
+      "file": "exam6.json",
+      "questionCount": 38,
+      "durationMinutes": 60
+    },
+    {
+      "number": 8,
+      "file": "exam8.json",
+      "questionCount": 22,
+      "durationMinutes": 60
+    },
+    {
+      "number": 9,
+      "file": "exam9.json",
+      "questionCount": 33,
+      "durationMinutes": 60
+    }
+  ]
+}

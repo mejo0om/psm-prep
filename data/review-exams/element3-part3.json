@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E3-Q242",
+    "question": "What does SIS stand for?",
+    "options": [
+      "Security Information System.",
+      "Safety Information System.",
+      "Safety Instrumented System.",
+      "Safety Integrity Systems"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Safety Instrumented System.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 242,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q243",
+    "question": "The system for connections and equipment that operates automatically the process controls, such as valves and maintains the process in the operational envelope.",
+    "options": [
+      "Safety instrumentation system (SIS)",
+      "Asset Integrity",
+      "Alarm Management",
+      "Asset Reliability"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Safety instrumentation system (SIS)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 243,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q244",
+    "question": "The three separate elements - proportional-integral derivative- which comprise the control loop that regulates the process variables, e.g., pressure. This avoids the need to have manually operated process control.",
+    "options": [
+      "Proportional-integral-derivative (PID)",
+      "Safety instrumented system (SIS)",
+      "Safety integrity level (SIL)",
+      "Substance"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Proportional-integral-derivative (PID)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 244,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q245",
+    "question": "This is the calculated average time that elapses between failures of a system, equipment or a component. This is used in relation to predict failures of repairable systems (non-repairable systems just fail, so the term obviously would not make sense).",
+    "options": [
+      "Mean time to fail (MTTF)",
+      "Mean time to repair (MTTR)",
+      "Mean time between failure (MTBF)",
+      "Probability of failure on demand (PFD)"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Mean time between failure (MTBF)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 245,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q246",
+    "question": "What is the purpose of a Safety Instrumentation System (SIS)?",
+    "options": [
+      "To monitor the condition of process parameters and if these values are exceeded beyond the Safety Operating Envelope (SOE) they will alarm the control room operator for further action.",
+      "To monitor the condition of the process associated with safety issues only.",
+      "To monitor the condition of process parameters and if these values are exceeded beyond the Safety Operating Envelope (SOE) they operate automatically to place the process back into the SOE again.",
+      "To monitor the condition of the process parameters to maintain product quality, profitability, and asset safety."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "To monitor the condition of process parameters and if these values are exceeded beyond the Safety Operating Envelope (SOE) they operate automatically to place the process back into the SOE again.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 246,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q247",
+    "question": "A shutoff valve whose operation can be controlled from a point which is remote (i.e., some distance away) from the valve itself, such as in a control room. It is mainly used for rapid emergency isolation of vessels, pipelines, etc. during emergencies, such as major leaks.",
+    "options": [
+      "Pressure control valve (PCV)",
+      "Remotely operated shutoff valve (ROSOV)",
+      "Pressure safety valve (PSV)",
+      "Pressure relief valve (PRV)"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Remotely operated shutoff valve (ROSOV)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 247,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q248",
+    "question": "Steam that does not wet the surface it touches is called",
+    "options": [
+      "Vacuum",
+      "Superheated",
+      "High pressure",
+      "Saturated"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Superheated",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 248,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q249",
+    "question": "What are the characteristics of inert gas?",
+    "options": [
+      "Odorless, colorless, with very low chemical reactivity.",
+      "Odorless, colorless, with very high reactivity.",
+      "Odorless with very high reactivity.",
+      "Odorless, colorless, with very high reactivity."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Odorless, colorless, with very low chemical reactivity.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 249,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q250",
+    "question": "One of the hazards of using nitrogen as an inerting gas is",
+    "options": [
+      "Increased oxygen concentrations.",
+      "Decreased flammability.",
+      "Increased flammability.",
+      "Decreased oxygen concentrations."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Decreased oxygen concentrations.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 250,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q251",
+    "question": "Inerting ensures that the concentration of oxygen is",
+    "options": [
+      "Above the level that supports combustion in a flammable atmosphere.",
+      "At the level that supports combustion in a flammable atmosphere.",
+      "Below the level that supports combustion in a flammable atmosphere.",
+      "At or above the level that supports combustion in a flammable atmosphere"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Below the level that supports combustion in a flammable atmosphere.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 251,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q252",
+    "question": "A vessel is being pressure tested. The vessel is sealed off and water is pumped in. The water pressure slowly increased to 150% of the designed operational pressure and vessel is monitored to see if any leaks are visible. What type of pressure testing does this describe?",
+    "options": [
+      "Hydrodynamic",
+      "Hydraulic",
+      "Hydrostatic",
+      "Hydropneumatics"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Hydrostatic",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 252,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q253",
+    "question": "What is hydrostatic testing?",
+    "options": [
+      "A means to test water quality to be used in a process.",
+      "A means to ensure equipment is safe and will not leak.",
+      "A means to ensure the supply of cooling water.",
+      "A means to ensure that there are no blockage within process pipework."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A means to ensure equipment is safe and will not leak.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 253,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q254",
+    "question": "The checking of the integrity of the plant before startup or after alteration as a part of MOC procedure is known as:",
+    "options": [
+      "Hazard Analysis",
+      "Process Analysis",
+      "Hydrostatic Testing",
+      "MOC testing"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Hydrostatic Testing",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 254,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q255",
+    "question": "What is saturated steam?",
+    "options": [
+      "Where all the water has been converted to steam.",
+      "Where some liquid water is still retained in the steam.",
+      "Steam under very high pressure.",
+      "Steam with a temperature in excess of 200˚"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Where some liquid water is still retained in the steam.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 255,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q256",
+    "question": "What is the ideal temperature for legionella bacteria to grow",
+    "options": [
+      "47 C",
+      "27 C",
+      "57 C",
+      "37 C"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "37 C",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 256,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q257",
+    "question": "For major industrial use and for process plants, a typical mixture of gases is preferred that is:",
+    "options": [
+      "42% of Nitrogen, 40% of oxygen, 10% of CO2",
+      "52% of argon, 40% of nitrogen, 8% of oxygen",
+      "52% of nitrogen, 40% of argon, 8% of CO2",
+      "54% of CO2, 40% of oxygen, 10% of argon"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "52% of nitrogen, 40% of argon, 8% of CO2",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 257,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q258",
+    "question": "Legionellae bacteria grow at temperatures between:",
+    "options": [
+      "-10°C and -5°",
+      "20°C and 55°",
+      "60°C and 70°",
+      "70°C and 100°"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "20°C and 55°",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 258,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q259",
+    "question": "Another name for saturated steam is .......",
+    "options": [
+      "Wet Steam",
+      "Dry Steam",
+      "Supersaturated Steam",
+      "Overheated Steam"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Wet Steam",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 259,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q260",
+    "question": "What is saturated steam?",
+    "options": [
+      "Where all the water has been converted into steam.",
+      "Steam is under very high pressure.",
+      "Where some liquid water is still retained in the steam.",
+      "Steam at a temperature in excess of 200 °"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Where some liquid water is still retained in the steam.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 260,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q261",
+    "question": "In cooling towers, due to the growth of a particular bacteria namely legionella, is responsible for the disease ----- if comes in contact with the open air:",
+    "options": [
+      "TB (tuberculosis)",
+      "Pneumonia",
+      "Hepatitis",
+      "Diarrhea"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pneumonia",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 261,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q262",
+    "question": "In majority of situations, valve and other control process may be operated either by air or electric drive forces and in situations where air is used, it may be possible to replace the air with:",
+    "options": [
+      "Oxygen",
+      "CO2",
+      "Methane",
+      "Nitrogen"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Nitrogen",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 262,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q263",
+    "question": "---------- may occur as a result of water in a pipeline striking a fixed object under high pressure often occurring during start-up or variable condition.",
+    "options": [
+      "Vacuums",
+      "Water hammer",
+      "Purging",
+      "Pipes erosion"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Water hammer",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 263,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q264",
+    "question": "The steam that is created by reducing the operating pressure using a vacuum pump so the steam is effectively below 100 C is known as:",
+    "options": [
+      "Saturated steam",
+      "Unsaturated steam",
+      "Superheated steam",
+      "Vacuum steam"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Vacuum steam",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 264,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q265",
+    "question": "In pipeline freezing operation, by using --------------- in the blanket around a pipe, it is possible to freeze the contents of the pipe easily and cost effectively:",
+    "options": [
+      "Liquid nitrogen",
+      "Liquid oxygen",
+      "Liquefied CO2",
+      "Liquefied Helium"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Liquid nitrogen",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 265,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q266",
+    "question": "Out of the following, what is a correct fact about superheated steam?",
+    "options": [
+      "Superheated steam has a temperature less than saturated steam.",
+      "Superheated steam produces condensate when it meets air or surfaces.",
+      "Superheated steam is not good for driving equipment such as steam turbines or being transferred long distances through pipework, as saturated steam is more suitable.",
+      "Superheated steam is an invisible gas and cannot be readily detected by the naked eye."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Superheated steam is an invisible gas and cannot be readily detected by the naked eye.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 266,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q267",
+    "question": "Steam that wets the surface it touches is usually called",
+    "options": [
+      "High pressure",
+      "Saturated",
+      "Vacuum",
+      "Superheated"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Saturated",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 267,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q268",
+    "question": "Main property of staturated steam in processing industry",
+    "options": [
+      "Release it's heat immediately",
+      "Very Inexpensive",
+      "Easy To be transported in pipe",
+      "Keep heading for long term"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Release it's heat immediately",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 268,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q269",
+    "question": "During a routine inspection, a plant engineer notices a knocking noise in the steam lines. This noise could indicate the presence of water causing water hammer. What should be the engineer's immediate next step to address this issue effectively?",
+    "options": [
+      "Increase the pressure in the steam lines to clear out any condensation more quickly.",
+      "Shut down the affected section and inspect for the presence of condensate and the functioning of steam traps.",
+      "Ignore the noise as it is a common occurrence in steam lines and does not pose a significant risk.",
+      "Record the noise and continue monitoring without taking immediate action."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Shut down the affected section and inspect for the presence of condensate and the functioning of steam traps.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 269,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q270",
+    "question": "The highest risk associated with the path of the electrical current through the human body is",
+    "options": [
+      "Unconsciousness.",
+      "Entry and exit burns.",
+      "Tingling where contact occurs.",
+      "Stopping the heart."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Stopping the heart.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 270,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q271",
+    "question": "The severity of injury received as a result of contact with electricity is minimized by:",
+    "options": [
+      "High current and low body resistance.",
+      "Low current and high voltage.",
+      "Low current and high body resistance.",
+      "High current and high voltage."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Low current and high body resistance.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 271,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q272",
+    "question": "When filling a vessel with a flammable liquid, one of the main factors that increases the generation of an electrostatic is",
+    "options": [
+      "Overfilling.",
+      "Splash filling.",
+      "Bottom filling.",
+      "Continuous filling."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Splash filling.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 272,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q273",
+    "question": "When filling a vessel with a flammable liquid, one of the main factors that increases the generation of an electrostatic charge is",
+    "options": [
+      "Continuous filling",
+      "Splash filling",
+      "Bottom filling",
+      "Overfilling"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Splash filling",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 273,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q274",
+    "question": "In silos containing flammable dusts or powders, what electrostatic discharge mechanism would you associate with this storage situation?",
+    "options": [
+      "Corona discharges.",
+      "Conical pile (Maurer) discharges.",
+      "Propagating brush discharge.",
+      "Brush discharges."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Conical pile (Maurer) discharges.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 274,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q275",
+    "question": "When filling a road tanker with a flammable liquid like petrol (gasoline), one of the man factors that increased the generation of electrostatic charge is?",
+    "options": [
+      "Continuous filling.",
+      "Partial filling.",
+      "Splash filling.",
+      "Top or bottom filling."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Splash filling.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 275,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q276",
+    "question": "The provision of UPS may be achieved in three ways namely offline, online, live interactive depending on :",
+    "options": [
+      "Availability, cost, place",
+      "Availability, cost, requirement",
+      "Cost, type, functionality",
+      "Cost, requirements, functionality"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Cost, requirements, functionality",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 276,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q277",
+    "question": "It is a temporary back-up power supply. It is installed between the incoming mains power and the critical equipment that requires a constant source of power (or requires power to always be available), such as process controllers, monitoring equipment, alarms and automatic shutdown devices.",
+    "options": [
+      "Uninterruptible power supply (UPS)",
+      "Emergency power supply (EPS)",
+      "Main power supply (MPS)",
+      "Interruptible power supply (IPS)"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Uninterruptible power supply (UPS)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 277,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q278",
+    "question": "What are the three (3) main types of Uninterruptible Power Supply (UPS)?",
+    "options": [
+      "Offline, online and line interactive.",
+      "Offline, online and line disruptive.",
+      "Offline, online and line continuous.",
+      "Offline, online and line reactive."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Offline, online and line interactive.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 278,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q279",
+    "question": "The generators which are installed to match the expected total load or partial required load of the plant is known as:",
+    "options": [
+      "Fixed",
+      "Portable",
+      "Standby",
+      "AC/DC"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Fixed",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 279,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q280",
+    "question": "In generation of electric discharges ------------- results from thin insulating films in contact with a conductor.",
+    "options": [
+      "Spark discharges",
+      "Corona",
+      "Propagating brush",
+      "Brush"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Propagating brush",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 280,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q281",
+    "question": "------------- happens when solid material is poured into a container in the presence of charged air:",
+    "options": [
+      "Streaming current charge",
+      "Conical pile (Maurer)",
+      "Propagating brush",
+      "Brush"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Conical pile (Maurer)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 281,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

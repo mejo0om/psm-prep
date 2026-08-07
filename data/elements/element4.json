@@ -1,0 +1,5571 @@
+[
+  {
+    "id": "E4-Q254",
+    "question": "Function of oxygen in fire is?",
+    "options": [
+      "Burns with fire",
+      "Helps to burn",
+      "No effect",
+      "None of above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Helps to burn",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "1",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 70,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFD"
+    ],
+    "keywords": [
+      "burn",
+      "helps",
+      "function",
+      "oxygen"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 70,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E4-Q255",
+    "question": "Loss of consciousness from heart or respiratory failure when the current in Milliamps is at the level?",
+    "options": [
+      "2-10",
+      "10-25",
+      "25-60",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "25-60",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "2",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 79,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "keywords": [
+      "consciousness",
+      "milliamps",
+      "respiratory",
+      "heart",
+      "current",
+      "loss"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 79,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E4-Q256",
+    "question": "Which is the preferred fire extinguishing media in a typical process control room?",
+    "options": [
+      "Chemical powder",
+      "Foam deluge",
+      "Carbon dioxide (CO2)",
+      "Water deluge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Carbon dioxide (CO2)",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "3",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "CO2",
+      "Q4"
+    ],
+    "keywords": [
+      "dioxide",
+      "carbon",
+      "preferred",
+      "extinguishing",
+      "room",
+      "media"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q257",
+    "question": "Alerting and informing when problems occur during process operation is the main function of?",
+    "options": [
+      "An indicator",
+      "A dial",
+      "An alarm",
+      "A gauge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "An alarm",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "4",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "alerting",
+      "informing",
+      "problems",
+      "function",
+      "main",
+      "alarm"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E4-Q258",
+    "question": "DC current flow in how many directions?",
+    "options": [
+      "One",
+      "Two",
+      "No flow",
+      "None of above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "One",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "5",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 78,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "AC",
+      "DC"
+    ],
+    "keywords": [
+      "directions",
+      "flow",
+      "current"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 78,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q259",
+    "question": "What minimum percentage level of oxygen would be needed along with heat and fuel to complete a fire triangle along with chain reaction?",
+    "options": [
+      "20%",
+      "23.5%",
+      "16%",
+      "10%"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "16%",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "6",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY",
+      "MIE"
+    ],
+    "keywords": [
+      "chain",
+      "triangle",
+      "complete",
+      "percentage",
+      "minimum",
+      "needed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q260",
+    "question": "Heat transfer through hot liquid upward is called?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reaction"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Convection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "7",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "upward",
+      "convection",
+      "transfer",
+      "called",
+      "heat",
+      "liquid"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q261",
+    "question": "Heat transfer through hot objects is called?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reaction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Conduction",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "8",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "conduction",
+      "objects",
+      "transfer",
+      "called",
+      "heat"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q262",
+    "question": "Mechanical friction could be source of?",
+    "options": [
+      "Higher noise",
+      "Ignition",
+      "Mechanical hazards",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Ignition",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "9",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 29,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Explosion"
+    ],
+    "keywords": [
+      "friction",
+      "mechanical",
+      "source",
+      "ignition"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 29,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q263",
+    "question": "If the LEL of fuel is 0% and air 100%, or when UEL of fuel is 100% and air 0%, the fire will start?",
+    "options": [
+      "Yes",
+      "No",
+      "May be",
+      "No idea"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "No",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "10",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "LEL",
+      "UEL"
+    ],
+    "keywords": [
+      "fuel",
+      "start"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q264",
+    "question": "What is the mechanism of JET FIRE?",
+    "options": [
+      "Continuous directed spray of fluid ignited immediately",
+      "Radiated heat",
+      "Can explode",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "11",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "relatedAcronyms": [
+      "FIRE",
+      "JET"
+    ],
+    "keywords": [
+      "mechanism"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E4-Q265",
+    "question": "What is the mechanism of POOL FIRE?",
+    "options": [
+      "Can be on water",
+      "Vapor ignite above pool",
+      "Can explode due vapor cloud",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "12",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "FIRE",
+      "POOL"
+    ],
+    "keywords": [
+      "mechanism",
+      "pool"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q266",
+    "question": "Typical mechanism of external jet fire attack when the tank walls heat up is called?",
+    "options": [
+      "CVCE",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "13",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE"
+    ],
+    "keywords": [
+      "attack",
+      "walls",
+      "mechanism",
+      "bleve",
+      "typical",
+      "external"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q267",
+    "question": "Missiles, fireball, secondary explosion can be the consequences of?",
+    "options": [
+      "CVCE",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "14",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "HSE"
+    ],
+    "keywords": [
+      "fireball",
+      "missiles",
+      "secondary",
+      "bleve",
+      "consequences",
+      "explosion"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q268",
+    "question": "Due to built up inflammable vapour in a vessel or building; the shockwave, overpressure, heat and missiles can be the consequences of?",
+    "options": [
+      "CVCE - Confined Vapor Cloud Explosion",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "CVCE - Confined Vapor Cloud Explosion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "15",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "shockwave",
+      "inflammable",
+      "vapor",
+      "cvce",
+      "overpressure",
+      "missiles"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q269",
+    "question": "Leak detectors can be used to assess?",
+    "options": [
+      "Gas",
+      "Vapor",
+      "Liquid",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "16",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 46,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset management and maintenance strategies"
+    ],
+    "keywords": [
+      "assess",
+      "leak",
+      "detectors",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 46,
+    "primaryConcept": "Asset management and maintenance strategies"
+  },
+  {
+    "id": "E4-Q270",
+    "question": "Localised detectors installed at a specific point is called?",
+    "options": [
+      "Line detectors",
+      "Spot detectors",
+      "Line and spot detectors",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Spot detectors",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "17",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "detectors",
+      "spot",
+      "localised",
+      "installed",
+      "specific",
+      "point"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q271",
+    "question": "Flickering or radiation emitted by fire is detectable with?",
+    "options": [
+      "Line detectors",
+      "Spot detectors",
+      "Flame detectors",
+      "Heat detectors"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Flame detectors",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "18",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "detectable",
+      "flickering",
+      "emitted",
+      "radiation",
+      "flame",
+      "detectors"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q272",
+    "question": "Active and passive fire protection systems are derived from?",
+    "options": [
+      "ISO 45001:2018",
+      "NFPA-USA",
+      "BS EN ISO 13702:1999",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BS EN ISO 13702:1999",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "19",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 127,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "BS",
+      "EN",
+      "ISO",
+      "Q1"
+    ],
+    "keywords": [
+      "1999",
+      "13702",
+      "derived",
+      "active",
+      "passive",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 127,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q273",
+    "question": "Firefighting systems, i.e. fire extinguishers, smoke or heat detectors, sprinklers and fire hoses, are examples of?",
+    "options": [
+      "Passive Fire Protection",
+      "Fire prevention tools",
+      "Active fire prevention",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Active fire prevention",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "20",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "firefighting",
+      "hoses",
+      "sprinklers",
+      "extinguishers",
+      "smoke",
+      "prevention"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q274",
+    "question": "Thermal protection with coating and cladding methods is an example of?",
+    "options": [
+      "Passive Fire Protection",
+      "Fire prevention tools",
+      "Active fire prevention",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Passive Fire Protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "21",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "protection",
+      "cladding",
+      "coating",
+      "methods",
+      "passive",
+      "thermal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q275",
+    "question": "If flammable dust is present occasionally in normal operation but in hidden areas of a plant, how can this area be classified?",
+    "options": [
+      "Zone 20",
+      "Zone 21",
+      "Zone 0",
+      "Zone 1"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 21",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "22",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "hidden",
+      "classified",
+      "occasionally",
+      "zone",
+      "present",
+      "normal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q276",
+    "question": "PFP - Passive Fire Protection is used to maintain?",
+    "options": [
+      "Process safety",
+      "Personal safety",
+      "Integrity, stability, insulation",
+      "Building safety"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Integrity, stability, insulation",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "23",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire and explosion control"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "stability",
+      "insulation",
+      "maintain",
+      "passive",
+      "integrity",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire and explosion control"
+  },
+  {
+    "id": "E4-Q277",
+    "question": "In electrical ATEX approved equipment categories, Category 3 is used in?",
+    "options": [
+      "In all zones",
+      "Zone 1/22 and Zone 2/22",
+      "Zone 2/22 only",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 2/22 only",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "24",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "ATEX"
+    ],
+    "keywords": [
+      "category",
+      "categories",
+      "approved",
+      "atex",
+      "zone",
+      "electrical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q278",
+    "question": "Pressure relief intentional weak design is to ensure?",
+    "options": [
+      "Active Fire Protection",
+      "Explosion protection",
+      "Passive fire protection",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Explosion protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "25",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion"
+    ],
+    "keywords": [
+      "intentional",
+      "weak",
+      "relief",
+      "protection",
+      "design",
+      "ensure"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q279",
+    "question": "ATEX approved electrical equipment belong to below?",
+    "options": [
+      "Category 1: Zone 0 and Zone 20",
+      "Category 2: Zone 1 and Zone 21",
+      "Category 3: Zone 2 and Zone 22",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "26",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "ATEX"
+    ],
+    "keywords": [
+      "belong",
+      "approved",
+      "atex",
+      "electrical",
+      "equipment"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q280",
+    "question": "For fighting with jet and running pool fires, which of the following will be the effective extinguishing system?",
+    "options": [
+      "Dry powder",
+      "Foam",
+      "Inert gas",
+      "Water"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Dry powder",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "27",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "running",
+      "fighting",
+      "extinguishing",
+      "pool",
+      "powder",
+      "fires"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q281",
+    "question": "The best method for removing oxygen and smothering is which option?",
+    "options": [
+      "Foam",
+      "Dry powder",
+      "Inert gas",
+      "Water"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Inert gas",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "28",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "smothering",
+      "option",
+      "removing",
+      "inert",
+      "method",
+      "best"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q282",
+    "question": "For protection of tank farms, which one can be used?",
+    "options": [
+      "Water monitors with high-volume water cannon",
+      "Water or foam sprinklers",
+      "Deluge system, i.e. high-volume sprinklers to cool and shield vessels",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "29",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "farms",
+      "protection",
+      "tank",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q283",
+    "question": "Dust explosions occur due to combination of below DUST PENTAGON?",
+    "options": [
+      "Ignition, oxygen, fuel, confinement, dispersion",
+      "Heat, hot work, oxygen, fuel and chemical reaction",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Ignition, oxygen, fuel, confinement, dispersion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "30",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [
+      "DUST",
+      "PENTAGON"
+    ],
+    "keywords": [
+      "dust",
+      "confinement",
+      "pentagon",
+      "dispersion",
+      "combination",
+      "explosions"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q284",
+    "question": "How can we prevent dust explosions?",
+    "options": [
+      "By identifying hazards/risks and controls",
+      "Inerting and dust extraction",
+      "Zoned areas",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "31",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "explosions",
+      "prevent",
+      "dust"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q285",
+    "question": "Hot gases from fires naturally rise through voids and ducts. This behavior is known as:",
+    "options": [
+      "Convection",
+      "Direct burning",
+      "Radiation",
+      "Conduction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Convection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "32",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "behavior",
+      "ducts",
+      "voids",
+      "naturally",
+      "convection",
+      "rise"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q286",
+    "question": "To manage an organization's reputation during emergencies, there should be a nominated trained person to specifically liaise with:",
+    "options": [
+      "Plant workers",
+      "Media reporters",
+      "Site visitors",
+      "Corporate managers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Media reporters",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "33",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 120,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 120",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "reporters",
+      "liaise",
+      "nominated",
+      "reputation",
+      "specifically",
+      "emergencies"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 120",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 120,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q287",
+    "question": "For which operating environment is ATEX-approved equipment essential?",
+    "options": [
+      "Corrosive atmospheres in offshore oil and gas installations",
+      "Toxic atmospheres in confined space work activities",
+      "Pressurised atmospheres requiring associated relief valves",
+      "Potentially flammable atmospheres from dust or vapour"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Potentially flammable atmospheres from dust or vapour",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "34",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "ATEX",
+      "ATEX-"
+    ],
+    "keywords": [
+      "approved",
+      "atmospheres",
+      "atex",
+      "environment",
+      "potentially",
+      "essential"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q288",
+    "question": "Which of the following is an example of a condition needed for a dust explosion to occur?",
+    "options": [
+      "Dust concentration below the lower explosive limit",
+      "Dust is confined in a hopper or silo",
+      "Dust particle size is very large",
+      "Very high humidity"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dust is confined in a hopper or silo",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "35",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "dust",
+      "silo",
+      "hopper",
+      "condition",
+      "confined",
+      "needed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q289",
+    "question": "Assuming all components are in good condition, what zone is the area around the fuel pump likely to be under normal operation?",
+    "options": [
+      "Zone 0",
+      "Zone 21",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "36",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "zone",
+      "components",
+      "assuming",
+      "condition",
+      "pump",
+      "normal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q290",
+    "question": "Several workers were killed after cutting into the wrong hydrocarbon pipe that had not been isolated. What is the most significant cause?",
+    "options": [
+      "Failure to control ignition sources",
+      "Lack of a deluge system",
+      "Failure to control work",
+      "Plant and process design"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Failure to control work",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "37",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 89,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "keywords": [
+      "killed",
+      "hydrocarbon",
+      "cutting",
+      "isolated",
+      "wrong",
+      "pipe"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 89,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E4-Q291",
+    "question": "What is the best way to learn lessons from a near miss where an operator failed to respond to a high-level alarm?",
+    "options": [
+      "Discuss it only as a personal matter",
+      "Investigate thoroughly, identify root causes and ensure commitment to an evidence-based action plan",
+      "Accept it as a one-off mistake and give refresher training",
+      "Retrain the operator for a different role"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Investigate thoroughly, identify root causes and ensure commitment to an evidence-based action plan",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "38",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 11,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "thoroughly",
+      "investigate",
+      "miss",
+      "respond",
+      "learn",
+      "failed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 11,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q292",
+    "question": "For a food factory hopper where icing sugar is routinely poured into machinery, what zone is the area immediately around the hopper likely to be?",
+    "options": [
+      "Zone 21",
+      "Zone 22",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 21",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "39",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Dangerous substances",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "hopper",
+      "zone",
+      "icing",
+      "routinely",
+      "machinery",
+      "sugar"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q293",
+    "question": "Which of the following is an example of a condition needed for a dust explosion to occur?",
+    "options": [
+      "Dust concentration below lower explosive limit",
+      "Dust is confined in a hopper or silo",
+      "Dust particle size is very large",
+      "Very high humidity"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dust is confined in a hopper or silo",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "40",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "dust",
+      "silo",
+      "hopper",
+      "condition",
+      "confined",
+      "needed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q294",
+    "question": "For which operating environment is ATEX-approved equipment essential?",
+    "options": [
+      "Corrosive atmosphere in offshore oil and gas",
+      "Toxic atmosphere within confined-space work activities",
+      "Pressurized atmosphere requiring associated relief valves",
+      "Potentially flammable atmospheres from dust or vapor"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Potentially flammable atmospheres from dust or vapor",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "41",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "ATEX",
+      "ATEX-"
+    ],
+    "keywords": [
+      "vapor",
+      "approved",
+      "atmospheres",
+      "atex",
+      "potentially",
+      "environment"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q295",
+    "question": "Hot gases from fires naturally rise through voids and ducts. This behavior is known as:",
+    "options": [
+      "Convection",
+      "Direct burning",
+      "Radiation",
+      "Conduction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Convection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "42",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "behavior",
+      "ducts",
+      "voids",
+      "naturally",
+      "convection",
+      "rise"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q296",
+    "question": "You have reduced the chance of a primary dust explosion. What is the best way to reduce the risk of a secondary dust explosion?",
+    "options": [
+      "Avoid ignition sources",
+      "Explosion relief",
+      "Explosion suppression",
+      "Good housekeeping"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Good housekeeping",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "43",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 118,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 118",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "dust",
+      "chance",
+      "reduced",
+      "housekeeping",
+      "explosion",
+      "primary"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 118",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 118,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q297",
+    "question": "A tank containing liquefied petroleum gas became engulfed in fire and later exploded, damaging a large area. What event most likely caused this damage?",
+    "options": [
+      "A boiling liquid expanding vapour explosion - BLEVE",
+      "A jet fire",
+      "A pool fire",
+      "A confined vapour cloud explosion"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "A boiling liquid expanding vapour explosion - BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "44",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "damaging",
+      "engulfed",
+      "liquefied",
+      "exploded",
+      "later",
+      "petroleum"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q298",
+    "question": "After a tank overflow, a flammable vapour cloud travelled across an open roadway, contacted an ignition source and exploded. What type of explosion is this?",
+    "options": [
+      "A confined vapour cloud explosion",
+      "A secondary explosion",
+      "A boiling liquid expanding vapour explosion",
+      "An unconfined vapour cloud explosion"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "An unconfined vapour cloud explosion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "45",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "cloud",
+      "vapour",
+      "roadway",
+      "travelled",
+      "unconfined",
+      "contacted"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q299",
+    "question": "Flammable liquid leaked into a bund and the entire bund caught fire. What is the best description of this type of fire?",
+    "options": [
+      "Jet fire",
+      "Pool fire",
+      "Flash fire",
+      "Secondary fire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pool fire",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "46",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "bund",
+      "caught",
+      "leaked",
+      "entire",
+      "description",
+      "pool"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q300",
+    "question": "Which is the preferred fire extinguishing media in a typical process control room?",
+    "options": [
+      "Chemical powder",
+      "Foam deluge",
+      "Carbon dioxide",
+      "Water deluge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Carbon dioxide",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "47",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "Q4"
+    ],
+    "keywords": [
+      "dioxide",
+      "carbon",
+      "preferred",
+      "extinguishing",
+      "room",
+      "media"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q301",
+    "question": "In processes involving combustible dusts, why is it especially important to maintain good housekeeping?",
+    "options": [
+      "Dust can build up and spontaneously ignite",
+      "Dust on surfaces can be disturbed by a primary explosion, causing a larger secondary explosion",
+      "Dust can be seen by visitors and gives a poor image",
+      "Dust will affect limit sensors and proximity switches"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dust on surfaces can be disturbed by a primary explosion, causing a larger secondary explosion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "48",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "disturbed",
+      "larger",
+      "housekeeping",
+      "explosion",
+      "primary",
+      "surfaces"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q302",
+    "question": "Which of the following best describes hazardous area Zone 1?",
+    "options": [
+      "An explosive cloud of combustible dust is likely to occur occasionally in normal operation",
+      "An explosive atmosphere of flammable gas in air is likely to occur occasionally in normal operation",
+      "A combustible dust cloud is not likely in normal operation but, if it occurs, persists briefly",
+      "A flammable gas atmosphere is not likely in normal operation but, if it occurs, persists briefly"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "An explosive atmosphere of flammable gas in air is likely to occur occasionally in normal operation",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "50",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "keywords": [
+      "occasionally",
+      "describes",
+      "zone",
+      "normal",
+      "best",
+      "hazardous"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q303",
+    "question": "An external fire heats a vessel containing flammable liquid; pressure rises, the relief valve opens, the liquid level drops, and the vessel wall above the liquid weakens and ruptures. What type of explosion is this?",
+    "options": [
+      "A confined vapour cloud explosion",
+      "A secondary explosion",
+      "A boiling liquid expanding vapour explosion - BLEVE",
+      "An unconfined vapour cloud explosion"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "A boiling liquid expanding vapour explosion - BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "51",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 127,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "Q2"
+    ],
+    "keywords": [
+      "liquid",
+      "vessel",
+      "rises",
+      "drops",
+      "heats",
+      "weakens"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 127,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q304",
+    "question": "Development of an emergency plan should consider areas that are?",
+    "options": [
+      "On-site only",
+      "Either on-site or off-site",
+      "Off-site only",
+      "On-site and off-site"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "On-site and off-site",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "52",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 119,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "site",
+      "consider",
+      "development",
+      "plan",
+      "areas",
+      "emergency"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 119,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q305",
+    "question": "Dividing a building into fire-resisting compartments to limit the spread of smoke and fire is an example of which type of fire precaution?",
+    "options": [
+      "Active fire protection",
+      "Fire detection system",
+      "Passive fire protection",
+      "Smoke detection system"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Passive fire protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "53",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "BS",
+      "EN",
+      "ISO",
+      "PFP"
+    ],
+    "keywords": [
+      "precaution",
+      "resisting",
+      "dividing",
+      "compartments",
+      "smoke",
+      "spread"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q306",
+    "question": "One of the main requirements for a primary dust explosion is combustible dust that is:",
+    "options": [
+      "Airborne and within explosive limits",
+      "Airborne and outside explosive limits",
+      "On a hot flat surface outside explosive limits",
+      "On a hot flat surface within explosive limits"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Airborne and within explosive limits",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "54",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "dust",
+      "airborne",
+      "primary",
+      "limits",
+      "combustible",
+      "main"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q307",
+    "question": "The transfer of heat through solids is known as:",
+    "options": [
+      "Convection",
+      "Direct burning",
+      "Radiation",
+      "Conduction"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Conduction",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "55",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "conduction",
+      "solids",
+      "transfer",
+      "known",
+      "heat"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q308",
+    "question": "Alerting and informing when problems occur during process operation is the main function of:",
+    "options": [
+      "An indicator",
+      "A dial",
+      "An alarm",
+      "A gauge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "An alarm",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "56",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "alerting",
+      "informing",
+      "problems",
+      "function",
+      "main",
+      "alarm"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E4-Q309",
+    "question": "Inerting ensures that the concentration of oxygen is:",
+    "options": [
+      "Above the level that supports combustion",
+      "At the level that supports combustion",
+      "Below the level that supports combustion in a flammable atmosphere",
+      "At or above the level that supports combustion"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Below the level that supports combustion in a flammable atmosphere",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "57",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "supports",
+      "ensures",
+      "combustion",
+      "inerting",
+      "concentration",
+      "atmosphere"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q310",
+    "question": "When filling a vessel with a flammable liquid, one of the main factors that increases generation of electrostatic charge is:",
+    "options": [
+      "Overfilling",
+      "Splash filling",
+      "Bottom filling",
+      "Continuous filling"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Splash filling",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "58",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 81,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "keywords": [
+      "filling",
+      "splash",
+      "electrostatic",
+      "generation",
+      "increases",
+      "factors"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 81,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q311",
+    "question": "For which category of worker is a personal emergency evacuation plan most appropriate?",
+    "options": [
+      "Plant workers",
+      "Vulnerable workers",
+      "Contract workers",
+      "Site workers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Vulnerable workers",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "59",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 124,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 124",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "category",
+      "vulnerable",
+      "evacuation",
+      "personal",
+      "worker",
+      "plan"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 124",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 124,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q312",
+    "question": "How does an intumescent material operate in a fire?",
+    "options": [
+      "Contracts when heated",
+      "Expands when heated to prevent the spread of fire and smoke",
+      "Illuminates when heated",
+      "Radiates when heated"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Expands when heated to prevent the spread of fire and smoke",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "60",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 112,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "expands",
+      "intumescent",
+      "heated",
+      "smoke",
+      "spread",
+      "operate"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 112,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q313",
+    "question": "Which is the appropriate type of fire extinguisher to use on metal fires?",
+    "options": [
+      "Water",
+      "Foam",
+      "Dry powder",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Dry powder",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "61",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "keywords": [
+      "extinguisher",
+      "powder",
+      "metal",
+      "fires",
+      "appropriate",
+      "type"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q314",
+    "question": "Sometimes a table-top exercise is used to simulate an emergency. What is the main benefit?",
+    "options": [
+      "Validates plans, develops staff competency and provides an opportunity for improvement",
+      "Identifies hazards, evaluates risk and implements controls",
+      "Analyses unsafe conditions and behaviours and implements corrective actions",
+      "Examines a PSM system and identifies problems and solutions"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Validates plans, develops staff competency and provides an opportunity for improvement",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "62",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 125,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Competence",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "validates",
+      "simulate",
+      "table",
+      "opportunity",
+      "exercise",
+      "develops"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 125,
+    "primaryConcept": "Competence"
+  },
+  {
+    "id": "E4-Q315",
+    "question": "Which is the preferred fire extinguishing media in a typical process control room?",
+    "options": [
+      "Chemical powder",
+      "Foam deluge",
+      "Carbon dioxide",
+      "Water deluge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Carbon dioxide",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "63",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "Q4"
+    ],
+    "keywords": [
+      "dioxide",
+      "carbon",
+      "preferred",
+      "extinguishing",
+      "room",
+      "media"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q316",
+    "question": "One of the hazards of using nitrogen as an inerting gas is:",
+    "options": [
+      "Increased oxygen concentration",
+      "Decreased flammability",
+      "Increased flammability",
+      "Decreased oxygen concentration"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Decreased oxygen concentration",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "64",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 117,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "Utilities",
+      "Dangerous substances",
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "decreased",
+      "inerting",
+      "concentration",
+      "nitrogen",
+      "using",
+      "oxygen"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 117,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E4-Q317",
+    "question": "One of the main typical features of a jet fire is:",
+    "options": [
+      "A highly directional flame",
+      "A rapid spread in every direction",
+      "A flame with an enormous surface area",
+      "A diffuse flame with low momentum"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "A highly directional flame",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "65",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire hazards"
+    ],
+    "relatedAcronyms": [
+      "EXAMPLE"
+    ],
+    "keywords": [
+      "directional",
+      "features",
+      "flame",
+      "highly",
+      "typical",
+      "main"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Fire hazards"
+  },
+  {
+    "id": "E4-Q318",
+    "question": "Possible root causes of ignition in the tank?",
+    "options": [
+      "Lightning strike",
+      "Localized induced static charge",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 and 2",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "66",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 11,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "root",
+      "causes",
+      "possible",
+      "ignition",
+      "tank"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 11,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q319",
+    "question": "How to control the ignition source in a warehouse?",
+    "options": [
+      "Training",
+      "Safety signs",
+      "No use of mobile phones",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "No use of mobile phones",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "67",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "keywords": [
+      "phones",
+      "mobile",
+      "warehouse",
+      "source",
+      "ignition",
+      "control"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q320",
+    "question": "The flammable material must be stored at a percentage of LEL less than the actual LEL of that material?",
+    "options": [
+      "15 percent",
+      "20 percent",
+      "25 percent",
+      "30 percent"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "25 percent",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "68",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 95,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "LEL"
+    ],
+    "keywords": [
+      "material",
+      "percent",
+      "actual",
+      "percentage",
+      "stored",
+      "flammable"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 95,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q321",
+    "question": "Function of oxygen in fire is?",
+    "options": [
+      "Burns with fire",
+      "Helps to burn",
+      "No effect",
+      "None of above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Helps to burn",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "69",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 70,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFD"
+    ],
+    "keywords": [
+      "burn",
+      "helps",
+      "function",
+      "oxygen"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 70,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E4-Q322",
+    "question": "What minimum percentage level of oxygen would be needed along with heat and fuel to complete a fire triangle along with chain reaction?",
+    "options": [
+      "20%",
+      "23.5%",
+      "16%",
+      "10%"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "16%",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "70",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY",
+      "MIE"
+    ],
+    "keywords": [
+      "chain",
+      "triangle",
+      "complete",
+      "percentage",
+      "minimum",
+      "needed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q323",
+    "question": "Heat transfer through hot liquid upward is called?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reaction"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Convection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "71",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "upward",
+      "convection",
+      "transfer",
+      "called",
+      "heat",
+      "liquid"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q324",
+    "question": "Heat transfer through hot objects is called?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reaction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Conduction",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "72",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "conduction",
+      "objects",
+      "transfer",
+      "called",
+      "heat"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q325",
+    "question": "Mechanical friction could be source of?",
+    "options": [
+      "Higher noise",
+      "Ignition",
+      "Mechanical hazards",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Ignition",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "73",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 29,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Explosion"
+    ],
+    "keywords": [
+      "friction",
+      "mechanical",
+      "source",
+      "ignition"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 29,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q326",
+    "question": "If the LEL of fuel is 0% and air 100%, or when UEL of fuel is 100% and air 0%, the fire will start?",
+    "options": [
+      "Yes",
+      "No",
+      "May be",
+      "No idea"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "No",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "74",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "LEL",
+      "UEL"
+    ],
+    "keywords": [
+      "fuel",
+      "start"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q327",
+    "question": "What is the mechanism of POOL FIRE?",
+    "options": [
+      "Can be on water",
+      "Vapor ignite above pool",
+      "Can explode due vapor cloud",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "75",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "FIRE",
+      "POOL"
+    ],
+    "keywords": [
+      "mechanism",
+      "pool"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q328",
+    "question": "Typical mechanism of external jet fire attack when the tank walls heat up is called?",
+    "options": [
+      "CVCE",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "76",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE"
+    ],
+    "keywords": [
+      "attack",
+      "walls",
+      "mechanism",
+      "bleve",
+      "typical",
+      "external"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q329",
+    "question": "Missiles, fireball, secondary explosion can be the consequences of?",
+    "options": [
+      "CVCE",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BLEVE",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "77",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "HSE"
+    ],
+    "keywords": [
+      "fireball",
+      "missiles",
+      "secondary",
+      "bleve",
+      "consequences",
+      "explosion"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q330",
+    "question": "Due to built up inflammable vapour in a vessel or building; the shockwave, overpressure, heat and missiles can be the consequences of?",
+    "options": [
+      "CVCE - Confined Vapor Cloud Explosion",
+      "UVCE",
+      "BLEVE",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "CVCE - Confined Vapor Cloud Explosion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "78",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "shockwave",
+      "inflammable",
+      "vapor",
+      "cvce",
+      "overpressure",
+      "missiles"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q331",
+    "question": "Leak detectors can be used to assess?",
+    "options": [
+      "Gas",
+      "Vapor",
+      "Liquid",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "79",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 46,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset management and maintenance strategies"
+    ],
+    "keywords": [
+      "assess",
+      "leak",
+      "detectors",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 46,
+    "primaryConcept": "Asset management and maintenance strategies"
+  },
+  {
+    "id": "E4-Q332",
+    "question": "Localised detectors installed at a specific point is called?",
+    "options": [
+      "Line detectors",
+      "Spot detectors",
+      "Line and spot detectors",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Spot detectors",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "80",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "detectors",
+      "spot",
+      "localised",
+      "installed",
+      "specific",
+      "point"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q333",
+    "question": "Flickering or radiation emitted by fire is detectable with?",
+    "options": [
+      "Line detectors",
+      "Spot detectors",
+      "Flame detectors",
+      "Heat detectors"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Flame detectors",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "81",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "detectable",
+      "flickering",
+      "emitted",
+      "radiation",
+      "flame",
+      "detectors"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q334",
+    "question": "Active and passive fire protection systems are derived from?",
+    "options": [
+      "ISO 45001:2018",
+      "NFPA-USA",
+      "BS EN ISO 13702:1999",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BS EN ISO 13702:1999",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "82",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 127,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "BS",
+      "EN",
+      "ISO",
+      "Q1"
+    ],
+    "keywords": [
+      "1999",
+      "13702",
+      "derived",
+      "active",
+      "passive",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 127,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q335",
+    "question": "Firefighting systems, i.e. fire extinguishers, smoke or heat detectors, sprinklers and fire hoses, are examples of?",
+    "options": [
+      "Passive Fire Protection",
+      "Fire prevention tools",
+      "Active fire prevention",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Active fire prevention",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "83",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "firefighting",
+      "hoses",
+      "sprinklers",
+      "extinguishers",
+      "smoke",
+      "prevention"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q336",
+    "question": "Thermal protection with coating and cladding methods is an example of?",
+    "options": [
+      "Passive Fire Protection",
+      "Fire prevention tools",
+      "Active fire prevention",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Passive Fire Protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "84",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "protection",
+      "cladding",
+      "coating",
+      "methods",
+      "passive",
+      "thermal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q337",
+    "question": "If flammable dust is present occasionally in normal operation but in hidden areas of a plant, how can this area be classified?",
+    "options": [
+      "Zone 20",
+      "Zone 21",
+      "Zone 0",
+      "Zone 1"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 21",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "85",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "hidden",
+      "classified",
+      "occasionally",
+      "zone",
+      "present",
+      "normal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q338",
+    "question": "In electrical ATEX approved equipment categories, Category 3 is used in?",
+    "options": [
+      "In all zones",
+      "Zone 1/22 and Zone 2/22",
+      "Zone 2/22 only",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 2/22 only",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "86",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "ATEX"
+    ],
+    "keywords": [
+      "category",
+      "categories",
+      "approved",
+      "atex",
+      "zone",
+      "electrical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q339",
+    "question": "Pressure relief intentional weak design is to ensure?",
+    "options": [
+      "Active Fire Protection",
+      "Explosion protection",
+      "Passive fire protection",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Explosion protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "87",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion"
+    ],
+    "keywords": [
+      "intentional",
+      "weak",
+      "relief",
+      "protection",
+      "design",
+      "ensure"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q340",
+    "question": "ATEX approved electrical equipment belong to below?",
+    "options": [
+      "Category 1: Zone 0 and Zone 20",
+      "Category 2: Zone 1 and Zone 21",
+      "Category 3: Zone 2 and Zone 22",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "88",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "ATEX"
+    ],
+    "keywords": [
+      "belong",
+      "approved",
+      "atex",
+      "electrical",
+      "equipment"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q341",
+    "question": "For fighting with jet and running pool fires, which of the following will be the effective extinguishing system?",
+    "options": [
+      "Dry powder",
+      "Foam",
+      "Inert gas",
+      "Water"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Dry powder",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "89",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "running",
+      "fighting",
+      "extinguishing",
+      "pool",
+      "powder",
+      "fires"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q342",
+    "question": "The best method for removing oxygen and smothering is which option?",
+    "options": [
+      "Foam",
+      "Dry powder",
+      "Inert gas",
+      "Water"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Inert gas",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "90",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "smothering",
+      "option",
+      "removing",
+      "inert",
+      "method",
+      "best"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q343",
+    "question": "For protection of tank farms, which one can be used?",
+    "options": [
+      "Water monitors with high-volume water cannon",
+      "Water or foam sprinklers",
+      "Deluge system, i.e. high-volume sprinklers to cool and shield vessels",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "91",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "farms",
+      "protection",
+      "tank",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E4-Q344",
+    "question": "Dust explosions occur due to combination of below DUST PENTAGON?",
+    "options": [
+      "Ignition, oxygen, fuel, confinement, dispersion",
+      "Heat, hot work, oxygen, fuel and chemical reaction",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Ignition, oxygen, fuel, confinement, dispersion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "92",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [
+      "DUST",
+      "PENTAGON"
+    ],
+    "keywords": [
+      "dust",
+      "confinement",
+      "pentagon",
+      "dispersion",
+      "combination",
+      "explosions"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q345",
+    "question": "How can we prevent dust explosions?",
+    "options": [
+      "By identifying hazards/risks and controls",
+      "Inerting and dust extraction",
+      "Zoned areas",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "93",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.3",
+    "bookTopic": "Dust explosions",
+    "bookPageStart": 116,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Explosion",
+      "Dust explosion"
+    ],
+    "keywords": [
+      "explosions",
+      "prevent",
+      "dust"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116",
+    "section": "4.3",
+    "topic": "Dust explosions",
+    "bookPage": 116,
+    "primaryConcept": "Explosion"
+  },
+  {
+    "id": "E4-Q346",
+    "question": "In order for a fire to start, there must be three elements present, namely:",
+    "options": [
+      "Heat, fuel and oxygen",
+      "Heat, CH4 and nitrogen",
+      "Fuel, chemicals and oxygen",
+      "Heat, fuel and air"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Heat, fuel and oxygen",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "94",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "present",
+      "order",
+      "elements",
+      "fuel",
+      "start",
+      "oxygen"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q347",
+    "question": "The transfer of infrared rays from the hot object follows the phenomenon of:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Reaction"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Radiation",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "95",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "rays",
+      "phenomenon",
+      "infrared",
+      "follows",
+      "object",
+      "radiation"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E4-Q348",
+    "question": "If the concentration of fuel is too high compared with oxygen, this falls under:",
+    "options": [
+      "Upper Flammable Limit",
+      "Lower Flammable Limit",
+      "Ignition limit",
+      "Fire limit"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Upper Flammable Limit",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "96",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 107,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "keywords": [
+      "compared",
+      "falls",
+      "upper",
+      "limit",
+      "concentration",
+      "fuel"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 107,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q349",
+    "question": "It is normal practice to keep concentrations of flammable gases/vapours below what percentage of their LEL/LFL to provide a margin of safety?",
+    "options": [
+      "35%",
+      "45%",
+      "25%",
+      "15%"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "25%",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "97",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 108,
+    "bookPageEnd": 110,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 108",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.1",
+      "pageStart": 106,
+      "pageEnd": 110,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "LEL",
+      "LFL"
+    ],
+    "keywords": [
+      "margin",
+      "concentrations",
+      "percentage",
+      "vapours",
+      "practice",
+      "gases"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 108",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 108,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q350",
+    "question": "The explosion caused when pressure in a tank becomes greater than the pressure relief can cope with is known as:",
+    "options": [
+      "BLEVE - Boiling Liquid Expanding Vapour Cloud Explosion",
+      "CVCE - Confined Vapor Cloud Explosion",
+      "UVCE - Unconfined Vapor Cloud Explosion",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "BLEVE - Boiling Liquid Expanding Vapour Cloud Explosion",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "98",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "cope",
+      "pressure",
+      "explosion",
+      "expanding",
+      "boiling",
+      "bleve"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E4-Q351",
+    "question": "PFP - Passive Fire Protection is used to maintain:",
+    "options": [
+      "Integrity, perfection, insulation",
+      "Integrity, stability, insulation",
+      "Stability, credibility, insulation",
+      "Reliance, stability, insulation"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Integrity, stability, insulation",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "99",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire and explosion control"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "stability",
+      "insulation",
+      "maintain",
+      "passive",
+      "integrity",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Fire and explosion control"
+  },
+  {
+    "id": "E4-Q352",
+    "question": "The fire doors under Passive Fire Protection may offer how many minutes of fire protection?",
+    "options": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "30 minutes",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "100",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 111,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "keywords": [
+      "minutes",
+      "protection",
+      "offer",
+      "doors",
+      "passive"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 111,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q353",
+    "question": "Sprinkler systems, foam sprinklers and gas extinguishing systems come under:",
+    "options": [
+      "PFP - Passive Fire Protection",
+      "AFP - Active Fire Protection",
+      "Fire and Explosion Controls",
+      "Fire hazards"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "AFP - Active Fire Protection",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "101",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 112,
+    "bookPageEnd": 115,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.2",
+      "pageStart": 111,
+      "pageEnd": 115,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "AFP",
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "systems",
+      "come",
+      "sprinklers",
+      "sprinkler",
+      "foam",
+      "extinguishing"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 112,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q354",
+    "question": "In area classification, a place where an explosive atmosphere in the form of a cloud of combustible dust is not likely in normal operation, but if it occurs persists for a short period only, comes under:",
+    "options": [
+      "Zone 20",
+      "Zone 2",
+      "Zone 21",
+      "Zone 22"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Zone 22",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "102",
+    "sourcePage": "28",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": 118,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.3",
+      "pageStart": 116,
+      "pageEnd": 118,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Dangerous substances",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [
+      "ATEX"
+    ],
+    "keywords": [
+      "persists",
+      "classification",
+      "comes",
+      "short",
+      "period",
+      "occurs"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E4-Q355",
+    "question": "Development of an emergency plan should consider areas that are:",
+    "options": [
+      "On-site only",
+      "Either on-site or off-site",
+      "Off-site only",
+      "On-site and off-site"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "On-site and off-site",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "103",
+    "sourcePage": "28",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 119,
+    "bookPageEnd": 124,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "4.4",
+      "pageStart": 119,
+      "pageEnd": 124,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "site",
+      "consider",
+      "development",
+      "plan",
+      "areas",
+      "emergency"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 119,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E4-Q356",
+    "question": "Within minutes the entire bund was on fire, taking several hours to extinguish. What is the best description of this type of fire?",
+    "options": [
+      "Jet fire",
+      "Pool fire",
+      "Flash fire",
+      "Secondary fire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pool fire",
+    "element": 4,
+    "part": null,
+    "sourceQuestion": "104",
+    "sourcePage": "28",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 4,
+      "section": "Element 4",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "hours",
+      "entire",
+      "extinguish",
+      "description",
+      "minutes",
+      "taking"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Bulk storage"
+  }
+]

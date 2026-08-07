@@ -1,0 +1,766 @@
+[
+  {
+    "id": "MR-E4-Q440",
+    "question": "What type of fire suppression system is best suited for an electrical substation?",
+    "options": [
+      "Water Sprinkler system",
+      "Inert gas system",
+      "Foam Deluge system",
+      "CO2 system"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "CO2 system",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 441,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q441",
+    "question": "Which of the following properties of dust are required for dust explosion to occur?",
+    "options": [
+      "High humidity and moisture content.",
+      "Dispersion and confinement of dust.",
+      "Relatively large dust particle size.",
+      "Dust cloud in a relatively open area."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dispersion and confinement of dust.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 442,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q442",
+    "question": "One of the main requirements for a primary dust explosion is a combustible dust contains",
+    "options": [
+      "On a hot flat surface within explosive limits",
+      "On a hot flat surface outside explosive limits",
+      "Airborne and outside explosive limits",
+      "Airborne and within explosive limits"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Airborne and within explosive limits",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 443,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q443",
+    "question": "Which of the following is an example of a condition needed for a dust explosion to occur?",
+    "options": [
+      "Dust concentration below lower explosive limit",
+      "Dust is confined in a hopper or silo",
+      "Dust particle size is very large",
+      "Very high humidity"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dust is confined in a hopper or silo",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 444,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q444",
+    "question": "Which method is commonly used for controlling the dangers of dust explosion in industrial s etting?",
+    "options": [
+      "Isolation",
+      "Suppression",
+      "Ventilation",
+      "Ignition source removal"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Ventilation",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 445,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q445",
+    "question": "In order to initiate a dust explosion, there must be five (5) elements needed, which are?",
+    "options": [
+      "Spark, Air, Emulsion, Layers, Discharge",
+      "Discharge, Dispersion, Oxygen, Ignition, Congestion",
+      "Ignition, Oxygen, Confinement, Fuel, Dispersion",
+      "Layers, Oxygen, Ignition, Open Areas, Humidity."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Ignition, Oxygen, Confinement, Fuel, Dispersion",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 446,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q446",
+    "question": "You are working on a site that handles combustible dusts. You have already taken precautio ns to reduce the changes of a primary dust explosion. However, you are worried about the risks of a secondary dust explosion. Which is the best way to reduce this risk?",
+    "options": [
+      "Avoid ignition sources",
+      "Explosion relief",
+      "Explosion suppression",
+      "Good housekeeping"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Good housekeeping",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 447,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q447",
+    "question": "In processes that involve combustible dusts, why is it important to maintain good housekee ping?",
+    "options": [
+      "Dust can build up on a variety of flat and irregular surfaces which can spontaneously ignite.",
+      "Dust on surfaces can be disturbed by a primary explosion causing a larger secondary explosion.",
+      "Dust builds up on surfaces can be clearly seen by visitors and gives a poor image of the company",
+      "Dust will adversely affect limit sensors and proximity switches causing Them to malfunction."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Dust on surfaces can be disturbed by a primary explosion causing a larger secondary explosion.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 448,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q448",
+    "question": "You are working on a site that handles combustible dusts. Which is the best way to reduce the risks of a secondary dust explosion?",
+    "options": [
+      "Avoid ignition sources",
+      "Explosion relief",
+      "Explosion suppression",
+      "Good housekeeping"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Good housekeeping",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 449,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q449",
+    "question": "What is the most appropriate measure to reduce the risk of dust explosion?",
+    "options": [
+      "Remove ignition source",
+      "Install ATEX equipment",
+      "Install dust suppression",
+      "Replacement of dust with less hazardous material"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Remove ignition source",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 450,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q450",
+    "question": "Which of the following is the major hazard from layers of dust accumulating in the plant and on machinery?",
+    "options": [
+      "Plant corrosion leading to a major leak.",
+      "Secondary dust explosions.",
+      "Primary dust explosions.",
+      "Creation of static electrical ignition."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Secondary dust explosions.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 451,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q451",
+    "question": "In a woodworking facility, fine wood dust accumulated in a closed processing chamber. While operating a cutting machine, a spark from faulty electrical equipment ignited the airborne dust within the chamber, causing a rapid combustion. What type of explosion occurred in this scenario, and what is the typical mechanism involved?",
+    "options": [
+      "Primary Dust Explosion — The initial explosion within the process, caused by the ignition of airborne dust in a confined space.",
+      "Secondary Dust Explosion — A larger explosion resulting from dust that was previously unsettled by another explosion.",
+      "Chemical Explosion — Occurs due to a rapid chemical reaction producing heat and gas.",
+      "Flash Fire — A sudden, intense fire without an explosion, spreading rapidly through dust."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Primary Dust Explosion — The initial explosion within the process, caused by the ignition of airborne dust in a confined space.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 452,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q452",
+    "question": "Following the initial explosion in the woodworking facility, the disturbance caused a significant amount of accumulated dust on beams and shelves to become airborne. This dust cloud then ignited, leading to a much larger and more destructive explosion than the first. Based on the description, what type of explosion occurred following the initial incident?",
+    "options": [
+      "Primary Dust Explosion — The first explosion caused by direct ignition of airborne dust.",
+      "Secondary Dust Explosion — A subsequent explosion that is often larger, involving dust disturbed by the primary explosion.",
+      "Combustion Explosion — An explosion resulting from the burning of gases.",
+      "Fireball — A large, spherical fire created by the explosive ignition of a flammable gas."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Secondary Dust Explosion — A subsequent explosion that is often larger, involving dust disturbed by the primary explosion.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 453,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q453",
+    "question": "In a grain silo, a small mechanical failure caused a primary dust explosion which was not immediately severe. However, this explosion dislodged large quantities of grain dust that had settled on various surfaces. When this larger cloud of dust ignited, it resulted in a secondary explosion, exponentially increasing the damage and severity of the incident. What sequence of events correctly describes the explosions that occurred in this scenario?",
+    "options": [
+      "Primary followed by Secondary Dust Explosion — The mechanical failure led to a primary explosion, which then caused a much larger secondary explosion due to disturbed dust.",
+      "Secondary followed by Primary Dust Explosion — A large explosion happened first, followed by a smaller, initial explosion.",
+      "Simultaneous Dust Explosions — Both primary and secondary explosions occurred at the same time.",
+      "Single Dust Explosion — Only one explosion occurred without any subsequent disturbances."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Primary followed by Secondary Dust Explosion — The mechanical failure led to a primary explosion, which then caused a much larger secondary explosion due to disturbed dust.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 454,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q454",
+    "question": "In a metalworking factory, a small fire in one of the machines caused a primary dust explosion. Quick action was taken to suppress the initial explosion and prevent any dust disturbance. What outcome best describes the effect of the actions taken in this scenario?",
+    "options": [
+      "Prevented a Secondary Dust Explosion — Immediate action reduced the disturbance of accumulated dust, preventing a larger explosion.",
+      "Caused a Secondary Dust Explosion — The actions taken led to further disturbance and a subsequent large explosion.",
+      "No Impact on Explosion Sequence — The actions had no effect on the dust or the potential for further explosions.",
+      "Enhanced the Primary Explosion — The actions inadvertently intensified the initial explosion."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Prevented a Secondary Dust Explosion — Immediate action reduced the disturbance of accumulated dust, preventing a larger explosion.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 455,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q455",
+    "question": "In a flour milling operation, an inspection revealed varying sizes of flour dust particles accumulating in the facility. Management is concerned about the potential explosibility of this dust. What particle size range must flour dust fall into to be considered potentially explosible?",
+    "options": [
+      "Larger than 500 microns in diameter.",
+      "Between 420 to 500 microns in diameter.",
+      "420 microns or smaller in diameter.",
+      "300 microns or smaller in diameter."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "420 microns or smaller in diameter.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 456,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q456",
+    "question": "During a routine safety audit at a wood processing plant, airborne wood dust concentrations were measured in various parts of the facility. The auditor needs to assess whether the concentrations are at potentially explosive levels. What is the indicative Lower Explosive Limit (LEL) range for dust to form an explosible atmosphere?",
+    "options": [
+      "5-10 grams per cubic metre of air.",
+      "25-50 grams per cubic metre of air.",
+      "100-200 grams per cubic metre of air.",
+      "Over 200 grams per cubic metre of air."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "25-50 grams per cubic metre of air.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 457,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q457",
+    "question": "A biomass fuel storage facility located in a tropical climate often experiences high temperatures and humidity. The management is evaluating the risk factors for dust explosions under these environmental conditions. How do heat and humidity affect the risk of a dust explosion in this scenario?",
+    "options": [
+      "High temperatures reduce the risk of a dust explosion by decreasing the moisture content in dust.",
+      "High humidity increases the risk of a dust explosion by making dust particles stick together.",
+      "High temperatures increase the risk of a dust explosion as hot surfaces may ignite the dust.",
+      "High humidity reduces the risk of a dust explosion as it prevents dust clouds from forming readily."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "High humidity reduces the risk of a dust explosion as it prevents dust clouds from forming readily.",
+    "element": 4,
+    "part": "4.3",
+    "sourceQuestion": 458,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q458",
+    "question": "Why is a manual or automatic Roll Call in an emergency situation or drill important?",
+    "options": [
+      "Only to see who is not on site, if an incident occurs, so we don’t have to worry about them.",
+      "To determine if some personnel or contractors are absent, when they should be onsite working.",
+      "It is good to know who is currently on site so they can help in an incident.",
+      "To determine whether everyone registered onsite is accounted for and have assembled at the muster point, and to determine who is unaccountable or missing."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "To determine whether everyone registered onsite is accounted for and have assembled at the muster point, and to determine who is unaccountable or missing.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 459,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q459",
+    "question": "The response plan to an incident which will be developed by external agencies, in order to provide a coordinated response to an incident.",
+    "options": [
+      "On-site emergency plan",
+      "Off-site emergency plan",
+      "On-site or Off-site emergency plan",
+      "On-site and Off-site emergency plan"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Off-site emergency plan",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 460,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q460",
+    "question": "PEEP is stands for?",
+    "options": [
+      "People Evacuation Plans",
+      "Public Emergency Evacuation Plans",
+      "Personal Emergency Evacuation Plans",
+      "Plant Emergency Evacuation Plans"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Personal Emergency Evacuation Plans",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 461,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q461",
+    "question": "To manage an organization's reputation during emergencies, there should be a nominated trained person to liaise with",
+    "options": [
+      "Plant Workers",
+      "Media Reporter",
+      "Site Visitor",
+      "Corporate Managers"
+    ],
+    "correctAnswer": null,
+    "correctOptionText": null,
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 462,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": false
+  },
+  {
+    "id": "MR-E4-Q462",
+    "question": "An internal plan detailing the site’s emergency response; it may include the need to contact the emergency services or regulators externally but this is an internal plan as it is delivered by site workers.",
+    "options": [
+      "On-site emergency plan",
+      "Off-site emergency plan",
+      "On-site or Off-site emergency plan",
+      "On-site and Off-site emergency plan"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "On-site emergency plan",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 463,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q463",
+    "question": "Maintenance of bunds primarily contributes to",
+    "options": [
+      "Operational excellence",
+      "Change management",
+      "Emergency preparedness",
+      "Inventory management"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Emergency preparedness",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 464,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q464",
+    "question": "Development of an emergency plan should consider areas that are:",
+    "options": [
+      "On-site only.",
+      "Either on-site or off-site.",
+      "Off-site only.",
+      "On-site and off-site."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "On-site and off-site.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 465,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q465",
+    "question": "For which category of worker is a Personal Emergency Plan most appropriate?",
+    "options": [
+      "Plant workers",
+      "Vulnerable workers",
+      "Contract workers",
+      "Site workers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Vulnerable workers",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 466,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q466",
+    "question": "During an actual emergency major incident, the primary plant audible warning system (e.g. siren) was activated, but management subsequently issued an instruction to switch it off shortly after the event. Switching the primary plant audible warning system (e.g. siren) off in this situation was effectively:",
+    "options": [
+      "A decision not to annoy neighboring residents and business with nuisance alarms.",
+      "A necessity generated from the local authority and environment agency to prevent noise pollution.",
+      "Deviation from the Standard Operating Procedure (SOP)",
+      "An opportunity to test the secondary or back-up audible warning system."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Deviation from the Standard Operating Procedure (SOP)",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 467,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q467",
+    "question": "A process uses workers to manually read out the names of workers or visitors to site and to ask if they are present at the muster point. In the event that a person is identified as missing, this can be highlighted and investigated.",
+    "options": [
+      "Manual Roll Call Process",
+      "Automatic Roll Call Process",
+      "Outgoing Call Process",
+      "Incoming Call Process"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Manual Roll Call Process",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 468,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q468",
+    "question": "The level of off-site and external involvement will largely be dictated by legislation, but it is beneficial to engage with external parties who may be involved in a real incident wherever possible. Examples include:",
+    "options": [
+      "regulators;",
+      "local authorities and councils;",
+      "water companies and authorities;",
+      "utility companies;",
+      "emergency services, including the police and fire service.",
+      "All of the other answers"
+    ],
+    "correctAnswer": "F",
+    "correctOptionText": "All of the other answers",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 469,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q469",
+    "question": "The most effective way to familiarize people with their roles and responsibilities when faced an emergency is a",
+    "options": [
+      "Presentation.",
+      "Workshop.",
+      "Role play exercise.",
+      "Practical drill."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Practical drill.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 470,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q470",
+    "question": "COMAH Regulations is stands for",
+    "options": [
+      "Control of Minor Acceptable Hazards",
+      "Control of Major Acceptable Hazards",
+      "Control of Major Accident Hazards",
+      "Control of Minor Accident Hazards"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Control of Major Accident Hazards",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 471,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q471",
+    "question": "Who needs the experience of leading and managing a team and the authority to do so under considerable pressure?",
+    "options": [
+      "Response team members",
+      "Incident commanders",
+      "Fire Wardens",
+      "Medics and paramedics"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Incident commanders",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 472,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q472",
+    "question": "A process similar to reading the school register during which every person registered on site is checked to ensure that they have assembled at the muster point.",
+    "options": [
+      "Incoming Call Process",
+      "Outgoing Call Process",
+      "Roll Call Process",
+      "On Call Process"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Roll Call Process",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 473,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q473",
+    "question": "The type of emergencies that should be considered in the emergency plan depends very much on the hazard profile of the organization and the types of foreseeable event that could occur. Examples may include:",
+    "options": [
+      "first aid",
+      "medical incident (an event requiring more than first aid, for installations without ready access to the emergency services)",
+      "fire or explosion",
+      "loss of containment (chemical spillage, toxic gas release);",
+      "bomb threat or terrorism",
+      "All the other answers"
+    ],
+    "correctAnswer": "F",
+    "correctOptionText": "All the other answers",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 474,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q474",
+    "question": "You are investigating an incident where several workers were killed by a fire and explosion. The incident was initiated by a worker cutting into the wrong pipeline where flammable hydrocarbon gas had not been isolated prior to work commencing. The gas release was ignited by sparks generated from the cutting process. What is the most significant cause of this accident?",
+    "options": [
+      "Plant and process design.",
+      "Lack of deluge system.",
+      "Failure to control ignition sources.",
+      "Failure to control work."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Failure to control work.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 475,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q475",
+    "question": "A process operates using a computerized system, such as a swipe card or key fob; each worker swipes as they enter the site and on leaving and that establishes a record of those present at any time. In an emergency, there may be an additional swipe point at the assembly point which allows people to indicate that they are safe and so a summary can be produced showing those not accounted for.",
+    "options": [
+      "Manual Roll Call Process",
+      "Automatic Roll Call Process",
+      "Outgoing Call Process",
+      "Incoming Call Process"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Automatic Roll Call Process",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 476,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q476",
+    "question": "Sometimes a “tabletop exercise” is used to simulate an emergency What are the main benefits of such exercises.",
+    "options": [
+      "Examines a process safety management system, identifies problems and provides solutions.",
+      "Analyses unsafe working conditions and behaviors and implements corrective actions.",
+      "Identifies hazards, considers those affected, evaluates risk and implements suitable controls.",
+      "Validates plans, develops staff competency by practicing roles and tests procedures."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Validates plans, develops staff competency by practicing roles and tests procedures.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 477,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q477",
+    "question": "What is the main benefit of conducting a table-top exercise, when simulating an emergency?",
+    "options": [
+      "Validates emergency plans and requirements, develops personnel’s competency by practicing roles and responsibilities, and testing procedures in an accelerated time frame.",
+      "To identify and rectify unsafe working practices and conditions in a potential incident, challenge incorrect behaviors, and apply corrective actions and recommendations.",
+      "Critique the Process Safety Management (PSM) system, identify and evaluate weaknesses and provide solutions for improvement.",
+      "To conduct hazardous identification, understand who is affected, conduct a risk assessment or analysis and employ suitable controls and safeguards."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Validates emergency plans and requirements, develops personnel’s competency by practicing roles and responsibilities, and testing procedures in an accelerated time frame.",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 478,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q478",
+    "question": "A classroom-based scenario presented as a theoretical incident that the groups respond to in their team roles. They run through the incident in an accelerated timeframe, stating the information they would need, actions they would take and react in turn to information provided by the trainer.",
+    "options": [
+      "Tabletop exercise",
+      "Practical drills and exercises",
+      "Response team drill",
+      "Fire or emergency evacuation drill"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Tabletop exercise",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 479,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q479",
+    "question": "Emergency plans with monitoring & auditing process falls under?",
+    "options": [
+      "ALARP",
+      "ETA",
+      "HAZOP",
+      "MAPP"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "MAPP",
+    "element": 4,
+    "part": "4.4",
+    "sourceQuestion": 480,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

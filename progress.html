@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="en" data-theme="light"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Progress · PSM Prep</title><link rel="stylesheet" href="css/style.css?v=7.0.0"><link rel="stylesheet" href="css/progress.css?v=7.0.0"><link rel="stylesheet" href="css/auth.css?v=7.0.0"></head><body><div id="authLoading" class="auth-loading">Checking account…</div><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a>
+      <nav class="sidebar-nav"><a class="" href="index.html"><span>⌂</span>Dashboard</a><a class="" href="practice.html"><span>◉</span>Practice</a><a class="" href="exam.html"><span>✎</span>Mock Exams</a><a class="" href="book.html"><span>▤</span>Book Center</a><a class="" href="acronyms.html"><span>Aa</span>Acronyms</a><a class="active" href="progress.html"><span>▥</span>Progress</a><a class="" href="search.html"><span>⌕</span>Search</a></nav>
+      <div class="sidebar-bottom">
+        <div class="account-area" data-account-area="desktop">
+          <div class="account-name" data-user-name>Account</div>
+          <div class="account-actions">
+            <a href="profile.html" aria-label="Open profile">Profile</a>
+            <button type="button" data-logout aria-label="Log out">Logout</button>
+          </div>
+        </div>
+        <div class="sidebar-card"><small>Official content</small><b>356 Questions</b><br><small>8 Mock Exams · 293 Questions</small></div>
+        <button class="icon-button" id="themeToggle" aria-label="Toggle theme">◐</button>
+      </div>
+    </aside><div class="main-shell"><header class="mobile-topbar"><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a><div class="account-area account-area-mobile" data-account-area="mobile">
+        <div class="account-name" data-user-name>Account</div>
+        <div class="account-actions">
+          <a href="profile.html" aria-label="Open profile">Profile</a>
+          <button type="button" data-logout aria-label="Log out">Logout</button>
+        </div>
+      </div><button class="icon-button" id="themeToggle">◐</button></header><main class="container"><section class="page-intro"><span class="eyebrow">LEARNING ANALYTICS</span><h1>Understand your progress</h1><p>Accuracy, mastery, weak areas, revision priorities, and achievements.</p></section>
+<section class="stats-grid"><article><span>Accuracy</span><b id="accuracyStat">0%</b></article><article><span>Unique Solved</span><b id="solvedStat">0</b></article><article><span>Correct Attempts</span><b id="correctStat">0</b></article><article><span>Wrong Attempts</span><b id="wrongStat">0</b></article><article><span>Mastered</span><b id="masteredStat">0</b></article><article><span>Current Streak</span><b id="streakStat">0 days</b></article></section>
+<section class="progress-layout"><article class="panel"><h2>Performance by Element</h2><div id="elementStats"></div></article><article class="panel"><h2>Weak Areas</h2><div id="weakAreas"></div></article></section>
+<section class="action-grid"><a class="panel action-panel" href="practice.html?mode=mistakes"><span>Kill Mistakes</span><b id="mistakeCount">0</b><small>questions awaiting review</small></a><a class="panel action-panel" href="practice.html?mode=favorites"><span>Favorites</span><b id="favoriteCount">0</b><small>saved questions</small></a><a class="panel action-panel" href="practice.html?mode=unanswered"><span>Unanswered</span><b>Start</b><small>continue through new content</small></a></section>
+<section class="progress-layout"><article class="panel"><h2>Recent Activity</h2><div id="historyList" class="history-list"></div></article><article class="panel"><h2>Last Mock Exam</h2><div id="lastExam"></div><h2>Achievements</h2><div id="achievementList" class="achievement-list"></div></article></section></main><footer>Prepared by Mahmood Eisa · PSM Prep v3.2.0</footer><nav class="bottom-nav"><a href="index.html"><b>⌂</b>Home</a><a href="practice.html"><b>◉</b>Practice</a><a href="exam.html"><b>✎</b>Exam</a><a href="progress.html"><b>▥</b>Progress</a><a href="search.html"><b>⌕</b>Search</a></nav></div></div><script src="js/storage.js?v=7.0.0"></script><script src="js/app.js?v=7.0.0"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/supabase-config.js?v=7.0.0"></script>
+<script src="js/auth.js?v=7.0.0"></script>
+<script src="js/cloud-progress.js?v=8.0.0"></script>
+<script src="js/progress.js?v=8.0.0"></script>
+<script src="js/supabase-tracker.js?v=7.0.0"></script>
+</body></html>

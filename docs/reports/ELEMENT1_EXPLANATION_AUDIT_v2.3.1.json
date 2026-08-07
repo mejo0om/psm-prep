@@ -1,0 +1,282 @@
+{
+  "release": "PSM Prep v2.3.1 - Element 1 Official Explanations",
+  "source": "Supplied NEBOSH HSE Process Safety Management course book, Edition 1 Version 1",
+  "element": 1,
+  "questionsReviewed": 59,
+  "officialExplanationsAdded": 59,
+  "optionExplanationsAdded": 0,
+  "policy": "No explanations of wrong options were generated. Each explanation summarizes the concept or list supported by the book.",
+  "sourceFidelityCorrections": [
+    {
+      "id": "E1-Q006",
+      "reason": "Aligned answer wording with the book's allocation of resource responsibility.",
+      "before": {
+        "question": "In Process Safety Responsibilities allocating resources is the responsibility of?",
+        "options": [
+          "Safety professionals",
+          "Engineers",
+          "Managers",
+          "Customers / Workers"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "Managers"
+      },
+      "after": {
+        "question": "In Process Safety Responsibilities allocating resources is the responsibility of?",
+        "options": [
+          "Safety professionals",
+          "Engineers",
+          "Organisational leadership / senior management",
+          "Customers / workers"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "Organisational leadership / senior management"
+      }
+    },
+    {
+      "id": "E1-Q007",
+      "reason": "Original all-of-the-above answer combined statements the book does not present as reasons for accountability.",
+      "before": {
+        "question": "In PSM the reason to holding all employees accountable is to?",
+        "options": [
+          "Encourage engagement",
+          "Look to root causes",
+          "To understand high potential consequences",
+          "All of the above"
+        ],
+        "correctAnswer": "D",
+        "correctOptionText": "All of the above"
+      },
+      "after": {
+        "question": "In a properly resourced and competent workforce, holding people accountable for process-safety responsibilities also encourages:",
+        "options": [
+          "Engagement",
+          "Blame of individuals",
+          "Avoidance of root-cause analysis",
+          "Removal of reporting systems"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "Engagement"
+      }
+    },
+    {
+      "id": "E1-Q008",
+      "reason": "Replaced vague wording with the PSLG wording used in the book.",
+      "before": {
+        "question": "The provision of appropriate resources in PSM is to ensure?",
+        "options": [
+          "Highly standardized organization",
+          "To keep customers happy",
+          "BOTH 1 & 2",
+          "None of the above"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "Highly standardized organization"
+      },
+      "after": {
+        "question": "The provision of appropriate resources in PSM is to ensure?",
+        "options": [
+          "A high standard of process-safety management throughout the organisation",
+          "Customer satisfaction only",
+          "Both A and B",
+          "None of the above"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "A high standard of process-safety management throughout the organisation"
+      }
+    },
+    {
+      "id": "E1-Q010",
+      "reason": "Replaced unsupported phrase Process Success with the book-supported outcome.",
+      "before": {
+        "question": "Following leading indicators ensures?",
+        "options": [
+          "Company Success",
+          "Process Success",
+          "Process Failure",
+          "None of the above"
+        ],
+        "correctAnswer": "B",
+        "correctOptionText": "Process Success"
+      },
+      "after": {
+        "question": "Following leading indicators ensures?",
+        "options": [
+          "Customer satisfaction",
+          "Operations running as intended with robust controls",
+          "Process failure",
+          "No need for review"
+        ],
+        "correctAnswer": "B",
+        "correctOptionText": "Operations running as intended with robust controls"
+      }
+    },
+    {
+      "id": "E1-Q011",
+      "reason": "Aligned with the explicit continuous-improvement explanation in section 1.2.",
+      "before": {
+        "question": "Why might process safety be considered a continuous improvement?",
+        "options": [
+          "No fatal explosions",
+          "No legal violations",
+          "Employees are safe",
+          "Plant, environment are safe"
+        ],
+        "correctAnswer": "D",
+        "correctOptionText": "Plant, environment are safe"
+      },
+      "after": {
+        "question": "Why is process safety considered a continual improvement process?",
+        "options": [
+          "Because no fatal explosion has occurred",
+          "Because legal compliance never changes",
+          "Because personal-safety performance is sufficient",
+          "Because organisations develop, plants change and further improvement remains possible"
+        ],
+        "correctAnswer": "D",
+        "correctOptionText": "Because organisations develop, plants change and further improvement remains possible"
+      }
+    },
+    {
+      "id": "E1-Q035",
+      "reason": "Removed ambiguity because the original also offered chemical industries, which the book also identifies as high hazard.",
+      "before": {
+        "question": "High-hazard process industries include:",
+        "options": [
+          "Oil and Gas sector",
+          "Polymer Industries",
+          "Textile and Gas Industries",
+          "Chemical Industries"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "Oil and Gas sector"
+      },
+      "after": {
+        "question": "Which of the following is explicitly identified in the book as a high-hazard process-industry sector?",
+        "options": [
+          "Oil and gas",
+          "Retail",
+          "Office administration",
+          "Hospitality"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "Oil and gas"
+      }
+    },
+    {
+      "id": "E1-Q042",
+      "reason": "Corrected the answer to match the book phrase resourcing and the process operations.",
+      "before": {
+        "question": "Leaders not only need to reinforce personal safety such as wearing PPE's, but also needs to discuss and question the more complex issues such as resourcing and the ------------.",
+        "options": [
+          "Process operations",
+          "Process safety",
+          "Training of the operators",
+          "Management skills"
+        ],
+        "correctAnswer": "B",
+        "correctOptionText": "Process safety"
+      },
+      "after": {
+        "question": "Leaders not only need to reinforce personal safety such as wearing PPE's, but also needs to discuss and question the more complex issues such as resourcing and the ------------.",
+        "options": [
+          "Process operations",
+          "Process safety",
+          "Training of the operators",
+          "Management skills"
+        ],
+        "correctAnswer": "A",
+        "correctOptionText": "Process operations"
+      }
+    },
+    {
+      "id": "E1-Q050",
+      "reason": "Aligned spelling with the organisation's official name as used in the book.",
+      "before": {
+        "question": "ILO stands for:",
+        "options": [
+          "International Laws for Operations",
+          "Internal Laws for Operations",
+          "International Labor Organization",
+          "International Laws for overseas"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "International Labor Organization"
+      },
+      "after": {
+        "question": "ILO stands for:",
+        "options": [
+          "International Laws for Operations",
+          "Internal Laws for Operations",
+          "International Labour Organization",
+          "International Laws for Overseas"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "International Labour Organization"
+      }
+    },
+    {
+      "id": "E1-Q054",
+      "reason": "Corrected the incident year from 1947 to 1974.",
+      "before": {
+        "question": "The Flixborough disaster in UK in 1947 highlighted the need for effective ------------ all too well.",
+        "options": [
+          "SOP",
+          "HAZOP",
+          "MOC",
+          "P&ID's"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "MOC"
+      },
+      "after": {
+        "question": "The Flixborough disaster in the UK in 1974 highlighted the need for effective:",
+        "options": [
+          "SOP",
+          "HAZOP",
+          "MOC",
+          "P&ID's"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "MOC"
+      }
+    },
+    {
+      "id": "E1-Q058",
+      "reason": "Corrected PSC to the meaning used in the book; Process Safety Centre is not the book's expansion of PSC.",
+      "before": {
+        "question": "PSC is abbreviated for:",
+        "options": [
+          "Pakistan Safety Compliance",
+          "Proposed Safety Conduct",
+          "Process Safety Centre",
+          "Process Safety Conduct"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "Process Safety Centre"
+      },
+      "after": {
+        "question": "PSC is abbreviated for:",
+        "options": [
+          "Pakistan Safety Compliance",
+          "Proposed Safety Conduct",
+          "Process Safety Competence",
+          "Process Safety Conduct"
+        ],
+        "correctAnswer": "C",
+        "correctOptionText": "Process Safety Competence"
+      }
+    }
+  ],
+  "learnerUiChanges": [
+    "Official explanations display when present",
+    "Internal evidence and verification statuses hidden",
+    "Response-time field removed from answer feedback"
+  ],
+  "pending": [
+    "Element 2",
+    "Element 3",
+    "Element 4",
+    "Official Mock Exam 1"
+  ]
+}

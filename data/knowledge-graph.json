@@ -1,0 +1,3628 @@
+{
+  "meta": {
+    "schemaVersion": "3.0.0",
+    "generatedFrom": [
+      "PSM Prep v2.3.1 databases",
+      "NEBOSH PSM Master Knowledge Base Phase 1",
+      "Official NEBOSH HSE Process Safety Management Book"
+    ],
+    "singleSourceOfTruth": "concepts.json",
+    "authoritativeSource": "Official NEBOSH HSE Process Safety Management Book, Edition 1 Version 1"
+  },
+  "nodes": [
+    {
+      "id": "C0001",
+      "label": "Abnormal Operation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0002",
+      "label": "Accountable",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0003",
+      "label": "Alarm",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0004",
+      "label": "ALARP",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0005",
+      "label": "Assessment",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0006",
+      "label": "Asset",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0007",
+      "label": "Asset Integrity",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0008",
+      "label": "Asset Management and Maintenance Strategies",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0009",
+      "label": "ATEX",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0010",
+      "label": "Audit",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0011",
+      "label": "Auto Ignition",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0012",
+      "label": "Availability",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0013",
+      "label": "Benchmarking",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0014",
+      "label": "BLEVE",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0015",
+      "label": "Board",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0016",
+      "label": "Bonding",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0017",
+      "label": "Bowtie",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0018",
+      "label": "Bowtie Analysis",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0019",
+      "label": "Breakdown",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0020",
+      "label": "Bulk Storage",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0021",
+      "label": "Bulk Storage Operations",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0022",
+      "label": "Bund",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0023",
+      "label": "Catastrophic",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0024",
+      "label": "Change",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0025",
+      "label": "Chemical",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0026",
+      "label": "Classification",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0027",
+      "label": "Combustible Dust",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0028",
+      "label": "Commissioning",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0029",
+      "label": "Communication",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0030",
+      "label": "Competence",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0031",
+      "label": "Confined Space",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0032",
+      "label": "Consultation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0033",
+      "label": "Contract Management",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0034",
+      "label": "Contractor",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0035",
+      "label": "Contractor Management",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0036",
+      "label": "Cooling Water",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0037",
+      "label": "Corporate Amnesia",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0038",
+      "label": "Corrosive",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0039",
+      "label": "Dangerous Substance",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0040",
+      "label": "Dangerous Substances",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0041",
+      "label": "Decommissioning",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0042",
+      "label": "Decomposition",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0043",
+      "label": "Deluge",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0044",
+      "label": "Detection",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0045",
+      "label": "Drill",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0046",
+      "label": "Dust Cloud",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0047",
+      "label": "Dust Explosion",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0048",
+      "label": "Dust Explosions",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0049",
+      "label": "Dust Layer",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0050",
+      "label": "Earthing",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0051",
+      "label": "Electrical",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0052",
+      "label": "Electrical Safety",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0053",
+      "label": "Electricity",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0054",
+      "label": "Electricity and Static Electricity",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0055",
+      "label": "Electricity/static Electricity",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0056",
+      "label": "Element 2 Syllabus",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0057",
+      "label": "Element 3 Syllabus",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0058",
+      "label": "Element 4 Syllabus",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0059",
+      "label": "Emergency",
+      "nodeType": "Emergency",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0060",
+      "label": "Emergency Plan",
+      "nodeType": "Emergency",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0061",
+      "label": "Emergency Preparedness",
+      "nodeType": "Emergency",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0062",
+      "label": "Establishing A Process Safety Management System",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0063",
+      "label": "Evacuation",
+      "nodeType": "Emergency",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0064",
+      "label": "Event Tree",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0065",
+      "label": "Event Tree Analysis",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0066",
+      "label": "Exothermic",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0067",
+      "label": "Experience",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0068",
+      "label": "Explosion",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0069",
+      "label": "Explosion Control",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0070",
+      "label": "Explosion Pentagon",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0071",
+      "label": "Failure Modes and Effects Analysis",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0072",
+      "label": "Fault Tree",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0073",
+      "label": "Fault Tree Analysis",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0074",
+      "label": "Fire and Explosion Control",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0075",
+      "label": "Fire Hazards",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0076",
+      "label": "Fire Protection",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0077",
+      "label": "Fire Tetrahedron",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0078",
+      "label": "Fire Triangle",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0079",
+      "label": "Fire Triangle/tetrahedron",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0080",
+      "label": "Firewater",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0081",
+      "label": "Flammable",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0082",
+      "label": "Flash Point",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0083",
+      "label": "Floating Roof",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0084",
+      "label": "FMEA",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0085",
+      "label": "Guide Words",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0086",
+      "label": "Handover",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0087",
+      "label": "Hazardous Area",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0088",
+      "label": "Hazid",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0089",
+      "label": "HAZOP",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0090",
+      "label": "Hot Work",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0091",
+      "label": "Housekeeping",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0092",
+      "label": "Immediate Cause",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0093",
+      "label": "Incident",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0094",
+      "label": "Incident Command",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0095",
+      "label": "Incompatibility",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0096",
+      "label": "Independent Protection Layer",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0097",
+      "label": "Indicator",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0098",
+      "label": "Inspection",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0099",
+      "label": "Instrument Air",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0100",
+      "label": "Integrity",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0101",
+      "label": "Investigation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0102",
+      "label": "Involvement",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0103",
+      "label": "Isolation",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0104",
+      "label": "Knowledge",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0105",
+      "label": "Lagging Indicator",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0106",
+      "label": "Leadership",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0107",
+      "label": "Leading Indicator",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0108",
+      "label": "Learning",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0109",
+      "label": "LEL",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0110",
+      "label": "Lessons",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0111",
+      "label": "Loading",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0112",
+      "label": "Lockout",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0113",
+      "label": "Logbook",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0114",
+      "label": "LOPA",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0115",
+      "label": "Loss of Containment",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0116",
+      "label": "Maintenance",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0117",
+      "label": "Major Accident",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0118",
+      "label": "Major Incident",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0119",
+      "label": "Management of Change",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0120",
+      "label": "Management System",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0121",
+      "label": "MOC",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0122",
+      "label": "Modification",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0123",
+      "label": "Nitrogen",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0124",
+      "label": "Normal Operation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0125",
+      "label": "Objectives",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0126",
+      "label": "Operating Procedure",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0127",
+      "label": "Operating Procedures",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0128",
+      "label": "Organisational Learning",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0129",
+      "label": "Overfill",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0130",
+      "label": "Participation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0131",
+      "label": "Passive Fire Protection",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0132",
+      "label": "Pdca",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0133",
+      "label": "Performance Indicator",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0134",
+      "label": "Performance Standard",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0135",
+      "label": "Permit to Work",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0136",
+      "label": "Permit-to-work",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0137",
+      "label": "Permit-to-work System",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0138",
+      "label": "Personal Safety",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0139",
+      "label": "Pha",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0140",
+      "label": "Pipeline",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0141",
+      "label": "Plan Do Check Act",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0142",
+      "label": "Policy",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0143",
+      "label": "Polymerisation",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0144",
+      "label": "Predictive",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0145",
+      "label": "Prequalification",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0146",
+      "label": "Preventive",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0147",
+      "label": "Proactive Monitoring",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0148",
+      "label": "Procedure",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0149",
+      "label": "Process Safety",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0150",
+      "label": "Process Safety Leadership",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0151",
+      "label": "Process Safety Management Meaning",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0152",
+      "label": "Process Safety Management System",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0153",
+      "label": "Psms",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0154",
+      "label": "PTW",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0155",
+      "label": "Reaction",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0156",
+      "label": "Reaction Hazards",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0157",
+      "label": "Reactive Monitoring",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0158",
+      "label": "Reliability",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0159",
+      "label": "Resources",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0160",
+      "label": "Response",
+      "nodeType": "Emergency",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0161",
+      "label": "Risk Assessment",
+      "nodeType": "Technique",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0162",
+      "label": "Risk Management Techniques Used Within The Process Industries",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0163",
+      "label": "Risk Matrix",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0164",
+      "label": "Role, Purpose and Features of A Permit-to-work System",
+      "nodeType": "Control Measure",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0165",
+      "label": "Root Cause",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0166",
+      "label": "Runaway",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0167",
+      "label": "Safe Operating Envelope",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0168",
+      "label": "Safe Shift Handover",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0169",
+      "label": "Safe Start-up and Shut-down",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0170",
+      "label": "Safety Critical",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0171",
+      "label": "Safety Critical Equipment",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0172",
+      "label": "Safety Critical Performance Standards",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0173",
+      "label": "Safety Instrumented System",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0174",
+      "label": "Safety-critical Performance Standards",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0175",
+      "label": "Sce",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0176",
+      "label": "Sds",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0177",
+      "label": "Selection",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0178",
+      "label": "Shift Change",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0179",
+      "label": "Shift Handover",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0180",
+      "label": "Shut-down",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0181",
+      "label": "Shutdown",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0182",
+      "label": "Skills",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0183",
+      "label": "Sop",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0184",
+      "label": "Start-up",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0185",
+      "label": "Start-up and Shut-down",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0186",
+      "label": "Startup",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0187",
+      "label": "Static",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0188",
+      "label": "Steam",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0189",
+      "label": "Suppression",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0190",
+      "label": "Survivability",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0191",
+      "label": "Tank",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0192",
+      "label": "Targets",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0193",
+      "label": "Temporary Change",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0194",
+      "label": "Toxicity",
+      "nodeType": "Hazard",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0195",
+      "label": "Training",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0196",
+      "label": "UEL",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0197",
+      "label": "Unloading",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0198",
+      "label": "Ups",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0199",
+      "label": "Utilities",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0200",
+      "label": "Utility",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0201",
+      "label": "Visibility",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "C0202",
+      "label": "What-if Analysis",
+      "nodeType": "Technique",
+      "verificationStatus": "Pending exact reference"
+    },
+    {
+      "id": "C0203",
+      "label": "Worker Engagement",
+      "nodeType": "Core Concept",
+      "verificationStatus": "Verified reference"
+    }
+  ],
+  "edges": [
+    {
+      "id": "R00001",
+      "source": "C0030",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00002",
+      "source": "C0030",
+      "target": "C0106",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00003",
+      "source": "C0030",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00004",
+      "source": "C0128",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00005",
+      "source": "C0061",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00006",
+      "source": "C0151",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00007",
+      "source": "C0151",
+      "target": "C0138",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00008",
+      "source": "C0164",
+      "target": "C0136",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00009",
+      "source": "C0162",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00010",
+      "source": "C0162",
+      "target": "C0018",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00011",
+      "source": "C0062",
+      "target": "C0007",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00012",
+      "source": "C0062",
+      "target": "C0171",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00013",
+      "source": "C0030",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00014",
+      "source": "C0030",
+      "target": "C0035",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00015",
+      "source": "C0008",
+      "target": "C0007",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00016",
+      "source": "C0062",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00017",
+      "source": "C0062",
+      "target": "C0152",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00018",
+      "source": "C0168",
+      "target": "C0106",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00019",
+      "source": "C0168",
+      "target": "C0030",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00020",
+      "source": "C0168",
+      "target": "C0179",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00021",
+      "source": "C0168",
+      "target": "C0171",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00022",
+      "source": "C0168",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00023",
+      "source": "C0127",
+      "target": "C0173",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00024",
+      "source": "C0127",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00025",
+      "source": "C0127",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00026",
+      "source": "C0127",
+      "target": "C0167",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00027",
+      "source": "C0169",
+      "target": "C0185",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00028",
+      "source": "C0169",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00029",
+      "source": "C0172",
+      "target": "C0171",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00030",
+      "source": "C0172",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00031",
+      "source": "C0199",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00032",
+      "source": "C0172",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00033",
+      "source": "C0074",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00034",
+      "source": "C0074",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00035",
+      "source": "C0055",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00036",
+      "source": "C0021",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00037",
+      "source": "C0199",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00038",
+      "source": "C0055",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00039",
+      "source": "C0075",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00040",
+      "source": "C0075",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00041",
+      "source": "C0074",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00042",
+      "source": "C0061",
+      "target": "C0030",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00043",
+      "source": "C0075",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00044",
+      "source": "C0075",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00045",
+      "source": "C0127",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00046",
+      "source": "C0021",
+      "target": "C0171",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00047",
+      "source": "C0021",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00048",
+      "source": "C0021",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00049",
+      "source": "C0021",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00050",
+      "source": "C0074",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00051",
+      "source": "C0074",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00052",
+      "source": "C0074",
+      "target": "C0047",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00053",
+      "source": "C0128",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00054",
+      "source": "C0128",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00055",
+      "source": "C0128",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00056",
+      "source": "C0035",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00057",
+      "source": "C0119",
+      "target": "C0030",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00058",
+      "source": "C0119",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00059",
+      "source": "C0119",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00060",
+      "source": "C0119",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00061",
+      "source": "C0128",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00062",
+      "source": "C0150",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00063",
+      "source": "C0150",
+      "target": "C0106",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00064",
+      "source": "C0164",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00065",
+      "source": "C0035",
+      "target": "C0007",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00066",
+      "source": "C0162",
+      "target": "C0089",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00067",
+      "source": "C0062",
+      "target": "C0185",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00068",
+      "source": "C0062",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00069",
+      "source": "C0062",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00070",
+      "source": "C0127",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00071",
+      "source": "C0055",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00072",
+      "source": "C0048",
+      "target": "C0161",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00073",
+      "source": "C0048",
+      "target": "C0199",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00074",
+      "source": "C0048",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00075",
+      "source": "C0048",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00076",
+      "source": "C0048",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00077",
+      "source": "C0048",
+      "target": "C0047",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00078",
+      "source": "C0021",
+      "target": "C0071",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00079",
+      "source": "C0156",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00080",
+      "source": "C0008",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00081",
+      "source": "C0008",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00082",
+      "source": "C0156",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00083",
+      "source": "C0156",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00084",
+      "source": "C0168",
+      "target": "C0136",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00085",
+      "source": "C0061",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00086",
+      "source": "C0061",
+      "target": "C0047",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00087",
+      "source": "C0203",
+      "target": "C0128",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00088",
+      "source": "C0203",
+      "target": "C0035",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00089",
+      "source": "C0128",
+      "target": "C0119",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00090",
+      "source": "C0035",
+      "target": "C0136",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00091",
+      "source": "C0162",
+      "target": "C0035",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00092",
+      "source": "C0162",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00093",
+      "source": "C0127",
+      "target": "C0185",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00094",
+      "source": "C0008",
+      "target": "C0167",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00095",
+      "source": "C0035",
+      "target": "C0179",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00096",
+      "source": "C0035",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00097",
+      "source": "C0199",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00098",
+      "source": "C0199",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00099",
+      "source": "C0021",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00100",
+      "source": "C0162",
+      "target": "C0071",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00101",
+      "source": "C0061",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00102",
+      "source": "C0075",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00103",
+      "source": "C0075",
+      "target": "C0047",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00104",
+      "source": "C0062",
+      "target": "C0068",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00105",
+      "source": "C0061",
+      "target": "C0020",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00106",
+      "source": "C0075",
+      "target": "C0149",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00107",
+      "source": "C0030",
+      "target": "C0119",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00108",
+      "source": "C0030",
+      "target": "C0171",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00109",
+      "source": "C0030",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00110",
+      "source": "C0030",
+      "target": "C0152",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00111",
+      "source": "C0030",
+      "target": "C0007",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00112",
+      "source": "C0035",
+      "target": "C0088",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00113",
+      "source": "C0035",
+      "target": "C0065",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00114",
+      "source": "C0035",
+      "target": "C0071",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00115",
+      "source": "C0035",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00116",
+      "source": "C0008",
+      "target": "C0185",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00117",
+      "source": "C0021",
+      "target": "C0007",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00118",
+      "source": "C0061",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00119",
+      "source": "C0061",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00120",
+      "source": "C0151",
+      "target": "C0040",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00121",
+      "source": "C0151",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00122",
+      "source": "C0150",
+      "target": "C0138",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00123",
+      "source": "C0035",
+      "target": "C0127",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00124",
+      "source": "C0164",
+      "target": "C0052",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00125",
+      "source": "C0164",
+      "target": "C0079",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00126",
+      "source": "C0008",
+      "target": "C0127",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00127",
+      "source": "C0074",
+      "target": "C0061",
+      "relationship": "Parent",
+      "confidence": 0.9
+    },
+    {
+      "id": "R00128",
+      "source": "C0030",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00129",
+      "source": "C0030",
+      "target": "C0106",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00130",
+      "source": "C0030",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00131",
+      "source": "C0149",
+      "target": "C0106",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00132",
+      "source": "C0149",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00133",
+      "source": "C0106",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00134",
+      "source": "C0128",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00135",
+      "source": "C0061",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00136",
+      "source": "C0151",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00137",
+      "source": "C0151",
+      "target": "C0138",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00138",
+      "source": "C0149",
+      "target": "C0138",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00139",
+      "source": "C0164",
+      "target": "C0136",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00140",
+      "source": "C0162",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00141",
+      "source": "C0162",
+      "target": "C0018",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00142",
+      "source": "C0161",
+      "target": "C0018",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00143",
+      "source": "C0062",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00144",
+      "source": "C0062",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00145",
+      "source": "C0007",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00146",
+      "source": "C0030",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00147",
+      "source": "C0030",
+      "target": "C0035",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00148",
+      "source": "C0149",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00149",
+      "source": "C0149",
+      "target": "C0035",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00150",
+      "source": "C0161",
+      "target": "C0035",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00151",
+      "source": "C0008",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00152",
+      "source": "C0062",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00153",
+      "source": "C0062",
+      "target": "C0152",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00154",
+      "source": "C0149",
+      "target": "C0152",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00155",
+      "source": "C0168",
+      "target": "C0106",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00156",
+      "source": "C0168",
+      "target": "C0030",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00157",
+      "source": "C0168",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00158",
+      "source": "C0168",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00159",
+      "source": "C0106",
+      "target": "C0030",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00160",
+      "source": "C0106",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00161",
+      "source": "C0106",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00162",
+      "source": "C0030",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00163",
+      "source": "C0030",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00164",
+      "source": "C0179",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00165",
+      "source": "C0127",
+      "target": "C0173",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00166",
+      "source": "C0127",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00167",
+      "source": "C0127",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00168",
+      "source": "C0173",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00169",
+      "source": "C0173",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00170",
+      "source": "C0020",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00171",
+      "source": "C0127",
+      "target": "C0167",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00172",
+      "source": "C0169",
+      "target": "C0185",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00173",
+      "source": "C0169",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00174",
+      "source": "C0185",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00175",
+      "source": "C0172",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00176",
+      "source": "C0172",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00177",
+      "source": "C0171",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00178",
+      "source": "C0199",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00179",
+      "source": "C0172",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00180",
+      "source": "C0149",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00181",
+      "source": "C0074",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00182",
+      "source": "C0074",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00183",
+      "source": "C0040",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00184",
+      "source": "C0055",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00185",
+      "source": "C0021",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00186",
+      "source": "C0199",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00187",
+      "source": "C0055",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00188",
+      "source": "C0075",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00189",
+      "source": "C0075",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00190",
+      "source": "C0074",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00191",
+      "source": "C0079",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00192",
+      "source": "C0061",
+      "target": "C0030",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00193",
+      "source": "C0075",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00194",
+      "source": "C0075",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00195",
+      "source": "C0040",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00196",
+      "source": "C0040",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00197",
+      "source": "C0020",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00198",
+      "source": "C0127",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00199",
+      "source": "C0021",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00200",
+      "source": "C0021",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00201",
+      "source": "C0021",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00202",
+      "source": "C0171",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00203",
+      "source": "C0171",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00204",
+      "source": "C0171",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00205",
+      "source": "C0020",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00206",
+      "source": "C0074",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00207",
+      "source": "C0074",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00208",
+      "source": "C0074",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00209",
+      "source": "C0052",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00210",
+      "source": "C0052",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00211",
+      "source": "C0040",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00212",
+      "source": "C0128",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00213",
+      "source": "C0128",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00214",
+      "source": "C0128",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00215",
+      "source": "C0079",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00216",
+      "source": "C0035",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00217",
+      "source": "C0119",
+      "target": "C0030",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00218",
+      "source": "C0119",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00219",
+      "source": "C0119",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00220",
+      "source": "C0119",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00221",
+      "source": "C0030",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00222",
+      "source": "C0030",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00223",
+      "source": "C0161",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00224",
+      "source": "C0161",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00225",
+      "source": "C0128",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00226",
+      "source": "C0150",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00227",
+      "source": "C0150",
+      "target": "C0106",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00228",
+      "source": "C0164",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00229",
+      "source": "C0035",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00230",
+      "source": "C0161",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00231",
+      "source": "C0162",
+      "target": "C0089",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00232",
+      "source": "C0161",
+      "target": "C0089",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00233",
+      "source": "C0062",
+      "target": "C0185",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00234",
+      "source": "C0062",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00235",
+      "source": "C0062",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00236",
+      "source": "C0149",
+      "target": "C0185",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00237",
+      "source": "C0149",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00238",
+      "source": "C0185",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00239",
+      "source": "C0168",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00240",
+      "source": "C0179",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00241",
+      "source": "C0127",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00242",
+      "source": "C0167",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00243",
+      "source": "C0167",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00244",
+      "source": "C0055",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00245",
+      "source": "C0052",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00246",
+      "source": "C0048",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00247",
+      "source": "C0048",
+      "target": "C0199",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00248",
+      "source": "C0048",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00249",
+      "source": "C0048",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00250",
+      "source": "C0161",
+      "target": "C0199",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00251",
+      "source": "C0161",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00252",
+      "source": "C0161",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00253",
+      "source": "C0199",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00254",
+      "source": "C0021",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00255",
+      "source": "C0156",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00256",
+      "source": "C0048",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00257",
+      "source": "C0048",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00258",
+      "source": "C0079",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00259",
+      "source": "C0068",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00260",
+      "source": "C0008",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00261",
+      "source": "C0008",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00262",
+      "source": "C0156",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00263",
+      "source": "C0156",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00264",
+      "source": "C0168",
+      "target": "C0136",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00265",
+      "source": "C0136",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00266",
+      "source": "C0061",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00267",
+      "source": "C0061",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00268",
+      "source": "C0203",
+      "target": "C0128",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00269",
+      "source": "C0203",
+      "target": "C0035",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00270",
+      "source": "C0128",
+      "target": "C0119",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00271",
+      "source": "C0136",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00272",
+      "source": "C0035",
+      "target": "C0136",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00273",
+      "source": "C0162",
+      "target": "C0035",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00274",
+      "source": "C0162",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00275",
+      "source": "C0035",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00276",
+      "source": "C0127",
+      "target": "C0185",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00277",
+      "source": "C0008",
+      "target": "C0167",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00278",
+      "source": "C0035",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00279",
+      "source": "C0035",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00280",
+      "source": "C0007",
+      "target": "C0179",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00281",
+      "source": "C0007",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00282",
+      "source": "C0179",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00283",
+      "source": "C0199",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00284",
+      "source": "C0199",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00285",
+      "source": "C0052",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00286",
+      "source": "C0021",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00287",
+      "source": "C0052",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00288",
+      "source": "C0162",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00289",
+      "source": "C0061",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00290",
+      "source": "C0075",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00291",
+      "source": "C0075",
+      "target": "C0047",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00292",
+      "source": "C0062",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00293",
+      "source": "C0149",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00294",
+      "source": "C0152",
+      "target": "C0068",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00295",
+      "source": "C0061",
+      "target": "C0020",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00296",
+      "source": "C0075",
+      "target": "C0149",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00297",
+      "source": "C0149",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00298",
+      "source": "C0030",
+      "target": "C0119",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00299",
+      "source": "C0149",
+      "target": "C0119",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00300",
+      "source": "C0106",
+      "target": "C0119",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00301",
+      "source": "C0119",
+      "target": "C0171",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00302",
+      "source": "C0030",
+      "target": "C0152",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00303",
+      "source": "C0030",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00304",
+      "source": "C0152",
+      "target": "C0161",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00305",
+      "source": "C0152",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00306",
+      "source": "C0035",
+      "target": "C0088",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00307",
+      "source": "C0035",
+      "target": "C0065",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00308",
+      "source": "C0035",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00309",
+      "source": "C0161",
+      "target": "C0088",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00310",
+      "source": "C0161",
+      "target": "C0065",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00311",
+      "source": "C0161",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00312",
+      "source": "C0088",
+      "target": "C0065",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00313",
+      "source": "C0088",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00314",
+      "source": "C0065",
+      "target": "C0071",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00315",
+      "source": "C0035",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00316",
+      "source": "C0179",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00317",
+      "source": "C0008",
+      "target": "C0185",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00318",
+      "source": "C0021",
+      "target": "C0007",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00319",
+      "source": "C0061",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00320",
+      "source": "C0061",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00321",
+      "source": "C0151",
+      "target": "C0040",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00322",
+      "source": "C0151",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00323",
+      "source": "C0040",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00324",
+      "source": "C0150",
+      "target": "C0138",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00325",
+      "source": "C0138",
+      "target": "C0106",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00326",
+      "source": "C0035",
+      "target": "C0127",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00327",
+      "source": "C0164",
+      "target": "C0052",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00328",
+      "source": "C0164",
+      "target": "C0079",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00329",
+      "source": "C0008",
+      "target": "C0127",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00330",
+      "source": "C0074",
+      "target": "C0061",
+      "relationship": "Related To",
+      "confidence": 0.75
+    },
+    {
+      "id": "R00331",
+      "source": "C0147",
+      "target": "C0157",
+      "relationship": "Compared With",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00332",
+      "source": "C0202",
+      "target": "C0089",
+      "relationship": "Compared With",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00333",
+      "source": "C0089",
+      "target": "C0085",
+      "relationship": "Uses",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00334",
+      "source": "C0073",
+      "target": "C0065",
+      "relationship": "Compared With",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00335",
+      "source": "C0114",
+      "target": "C0096",
+      "relationship": "Uses",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00336",
+      "source": "C0078",
+      "target": "C0077",
+      "relationship": "Compared With",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00337",
+      "source": "C0047",
+      "target": "C0070",
+      "relationship": "Related To",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00338",
+      "source": "C0119",
+      "target": "C0161",
+      "relationship": "Requires",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00339",
+      "source": "C0136",
+      "target": "C0103",
+      "relationship": "Requires",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00340",
+      "source": "C0115",
+      "target": "C0068",
+      "relationship": "Hazard",
+      "confidence": 0.95
+    },
+    {
+      "id": "R00341",
+      "source": "C0165",
+      "target": "C0092",
+      "relationship": "Compared With",
+      "confidence": 0.95
+    }
+  ],
+  "stats": {
+    "concepts": 203,
+    "relationships": 341,
+    "questions": 556,
+    "techniques": 11,
+    "hazards": 23
+  }
+}

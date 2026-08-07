@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "schemaVersion": "3.0.0",
+    "generatedFrom": [
+      "PSM Prep v2.3.1 databases",
+      "NEBOSH PSM Master Knowledge Base Phase 1",
+      "Official NEBOSH HSE Process Safety Management Book"
+    ],
+    "singleSourceOfTruth": "concepts.json",
+    "authoritativeSource": "Official NEBOSH HSE Process Safety Management Book, Edition 1 Version 1"
+  },
+  "items": [
+    {
+      "id": "CT_CORE",
+      "name": "Core Concept",
+      "description": "Foundational process-safety knowledge"
+    },
+    {
+      "id": "CT_HAZARD",
+      "name": "Hazard",
+      "description": "A source or situation with major-accident potential"
+    },
+    {
+      "id": "CT_TECHNIQUE",
+      "name": "Technique",
+      "description": "A structured analysis or risk-management method"
+    },
+    {
+      "id": "CT_CONTROL",
+      "name": "Control Measure",
+      "description": "A preventive, protective or mitigating measure"
+    },
+    {
+      "id": "CT_EMERGENCY",
+      "name": "Emergency",
+      "description": "Emergency preparedness or response knowledge"
+    }
+  ]
+}

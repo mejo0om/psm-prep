@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E2-Q162",
+    "question": "Which of the following is an example of planned preventive maintenance?",
+    "options": [
+      "Daily visual inspections of process plant.",
+      "Greasing of pump bearings.",
+      "Regular sampling of product.",
+      "Testing of stack emissions."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Greasing of pump bearings.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 162,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q163",
+    "question": "A proactive maintenance strategy is:",
+    "options": [
+      "Condition Monitoring.",
+      "Breakdown Maintenance.",
+      "Inherent Safe Design.",
+      "Redundancy."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Condition Monitoring.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 163,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q164",
+    "question": "Asset management includes consideration of integrity standards, such as maintainability and ease of inspection at",
+    "options": [
+      "Operating stage",
+      "Design stage",
+      "Modification stage",
+      "Construction stage"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Design stage",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 164,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q165",
+    "question": "Tank level gauges can be made more reliable through",
+    "options": [
+      "Testing and maintenance.",
+      "Information and instruction.",
+      "Auditing and reporting.",
+      "Assessment and controls."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Testing and maintenance.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 165,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q166",
+    "question": "Flammable liquids pumped between vessels, piping and tankers. Which of the following measures is most effective in preventing a liquid release",
+    "options": [
+      "Maintaining plant integrity",
+      "Vapor detection system",
+      "Emergency pump shut down",
+      "Storage tank bund"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Maintaining plant integrity",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 166,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q167",
+    "question": "Inspection, aging, life extension and obsolescence are all things that need to be considered as part of a plant’s.",
+    "options": [
+      "Start-up process",
+      "Shutdown process",
+      "Operational procedures",
+      "Maintenance strategy"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Maintenance strategy",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 167,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q168",
+    "question": "A vessel is being pressure tested. The vessel is sealed off and water is pumped in. The water pressure slowly increased to 150% of designed operational pressure and vessel is monitored to see if any leaks are visible. What type of pressure testing does this describe?",
+    "options": [
+      "Hydrodynamic",
+      "Hydraulic",
+      "Hydrostatic",
+      "Hydropneumatics"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Hydrostatic",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 168,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q169",
+    "question": "---------------- is highly effective and relies on the operator repairing or replacing plant and equipment that has failed while in use.",
+    "options": [
+      "Condition monitoring",
+      "Planned Maintenance",
+      "Breakdown Maintenance",
+      "Preventive Maintenance"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Breakdown Maintenance",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 169,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q170",
+    "question": "Risk based thinking is now a days applied to -----------------, essentially calculating the legal, human and financial cost to the company if it fails.",
+    "options": [
+      "Plant design",
+      "Reactor design",
+      "Calibration of instrument",
+      "SOP’s"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Calibration of instrument",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 170,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q171",
+    "question": "Which of the following is not an example of conditional monitoring?",
+    "options": [
+      "Thermal imaging to identify and detect overheating hotspots on equipment.",
+      "Routine and regular sampling of products.",
+      "Vibration monitoring on rotating shafts.",
+      "Audible/noise monitoring of motors to determine if bearings are wearing out."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Routine and regular sampling of products.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 171,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q172",
+    "question": "A section of a chemical plant requires invasive inspection and maintenance and requires isolation. What is the highest standard of isolation that you can achieve?",
+    "options": [
+      "Single block and bleed.",
+      "Single valve isolation.",
+      "Double block and bleed",
+      "Double valve isolation."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Double block and bleed",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 172,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q173",
+    "question": "A pump developed a small leak, releasing gas over time. This seemingly minor issue eventually led to a major loss of containment with significant consequences. To prevent similar incidents in the future, what is the most appropriate recommendation to implement?",
+    "options": [
+      "Condition monitoring",
+      "Quantitative risk assessment",
+      "Qualitative risk assessment",
+      "Gas detection system"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Condition monitoring",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 173,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q174",
+    "question": "What is the primary reason pressure testing with water is safer than with air, especially at high pressure?",
+    "options": [
+      "Because if there is a leak, water will just jet out and pool where air will cause a significant noise (e.g. whistle) and may deafen someone (e.g. cause hearing loss) in the vicinity.",
+      "Because temperature controlling water in the pressure test is easier than using air.",
+      "Because air is significantly more compressible and can contain significantly more energy when pressurized than water.",
+      "Because water is more accessible, easily obtainable and cheaper than pressurized air."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Because air is significantly more compressible and can contain significantly more energy when pressurized than water.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 174,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q175",
+    "question": "As a manager of a chemical manufacturing site, you have noted that operators are not relaying safety critical information from one shift to the next-i.e. at shift handover. Which of the following is most likely to ensure that safety critical information, including details of maintenance activities from the previous shift is communicated to the next shift?",
+    "options": [
+      "Send a reminder to all staff/operators highlighting the importance of process safety and it is essential to handover all safety critical information between incoming and outgoing shifts.",
+      "Allocate 15-20 minutes of paid time for members of both shifts to discuss safety critical activities at shift handover including those that have taken place or ongoing from the previous shift, as well as recording it in the shift handover logbook.",
+      "The previous outgoing shift leaves notes in the shift handover logbook for the next shift, detailing any maintenance work that is needed or ongoing in the process area.",
+      "Develop and implement an effective competence management system, based on shift leader’s roles and responsibilities."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Allocate 15-20 minutes of paid time for members of both shifts to discuss safety critical activities at shift handover including those that have taken place or ongoing from the previous shift, as well as recording it in the shift handover logbook.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 175,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q176",
+    "question": "Which of the following is most likely to help you develop a safe system of work SSOW?",
+    "options": [
+      "Casual analysis",
+      "Task analysis",
+      "Statistical analysis",
+      "Data analysis"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Task analysis",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 176,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q177",
+    "question": "PTW is usually required in preparation for an activity with",
+    "options": [
+      "Low risk",
+      "No risk",
+      "High risk",
+      "Any risk"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "High risk",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 177,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q178",
+    "question": "What would be discussed between a permit issuer and a contract worker before start of a hot work permit?",
+    "options": [
+      "Location of rest facilities.",
+      "How to apply first aid to burns.",
+      "Operation of fire extinguishers.",
+      "Simultaneous operations."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Simultaneous operations.",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 178,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q179",
+    "question": "The isolation of energy sources, or equipment as part of a permit-to- work is known as",
+    "options": [
+      "Lock out, tag on.",
+      "Lock on, tag off.",
+      "Lock out, tag out.",
+      "Lock on, tag on."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Lock out, tag out.",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 179,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q180",
+    "question": "Hot work permits are typically used where work could include",
+    "options": [
+      "Generation of arcs, sparks or flames.",
+      "High voltage (hv) electricity cables.",
+      "Emergency and rescue procedures.",
+      "Isolation of hot rotating machinery."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Generation of arcs, sparks or flames.",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 180,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q181",
+    "question": "According to the key features of permit to work any isolation needed such as electrical, mechanical, or chemical lines are detailed and recorded and should follow the ----------- process that physically prevents the re-energization of the system.",
+    "options": [
+      "Calibration process",
+      "LOTO process (Lock out, Tag out)",
+      "Accountability process",
+      "Evaluation process"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "LOTO process (Lock out, Tag out)",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 181,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q182",
+    "question": "With reference to the types of permit Drilling, cutting metal and use of metal equipment are included in:",
+    "options": [
+      "Hot work permit",
+      "Electrical permit",
+      "Cold work permit",
+      "Isolation permit"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Cold work permit",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 182,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q183",
+    "question": "Permit-to-Work (PTW) is not required when the activities",
+    "options": [
+      "Away from Process areas",
+      "don’t required isolation",
+      "do not fall in confined spaces",
+      "All of the other answers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 183,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q184",
+    "question": "Two separate work permits had been issued for the maintenance work on a pump. One was for repair of the pump and one was for removal and servicing of the pressure relief valve on the discharge side of the pump. The pump repair had been completed but the servicing of the pressure relief valve had not been completed by the end of the shift. In place of the pressure relief valve a 'blank' had been loosely installed. During shift handover, the maintenance work and return to service of the pump was discussed, but no mention was made of the servicing work being carried out on its pressure relief valve. The pump was then started, allowing flammable liquids to leak from the 'blank'. This vapour cloud ignited, causing a fire. Which of the following actions during shift handover would have been most effective in preventing this accident?",
+    "options": [
+      "Verbal communication in a quiet place between incoming and outgoing workers",
+      "Confirmation of permits signed off as completed",
+      "Discussion of the recorded process checks undertaken by the outgoing workers",
+      "A physical demonstration of the plant state between incoming and outgoing workers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A physical demonstration of the plant state between incoming and outgoing workers",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 184,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q185",
+    "question": "An organisation initially launch an initiative regarding the use of PPE. What is the First action To do.",
+    "options": [
+      "Put all workers in PPE training course.",
+      "Allow workers to supply their own PPE",
+      "lead workers of a briefing",
+      "Challenging the non compliance of wearing PPE."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "lead workers of a briefing",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 185,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q186",
+    "question": "Maintenance work is planned on Plant",
+    "options": [
+      "Display a warning sign between plants A and B",
+      "Display a single permit-to-work in plant A only.",
+      "Display a single permit-to-work in plant B only.",
+      "Display a duplicate permit-to-work in plants A and B"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Display a duplicate permit-to-work in plants A and B",
+    "element": 2,
+    "part": "2.4",
+    "sourceQuestion": 186,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q187",
+    "question": "Two separate PTW had been issued, one for pump maintenance and the other for its PRV removal with installing loosely ‘blank’ . The pump repair had been completed but the PRV had not been completed by end of shift. During shift handover, the pump maintenance was discussed, but nothing mentioned on its PRV. The pump was then started, allowing flammable liquids to leak from the ‘blank’ causing a fire. Which of the following actions during shift handover would have been most effective in preventing this accident?",
+    "options": [
+      "Verbal communication in a quiet place between incoming and outgoing workers.",
+      "Confirmation of permits signed off as completed.",
+      "Discussion of the recorded process checks undertaken by the outgoing workers.",
+      "A physical demonstration of the plant state between incoming and outgoing workers."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A physical demonstration of the plant state between incoming and outgoing workers.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 187,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q188",
+    "question": "Shift handover is important because:",
+    "options": [
+      "The expected production rate needs to be understood by incoming staff.",
+      "Process related accidents have occurred due to a failure of communication at shift handover.",
+      "Staff need to know about any management audits or inspections that are being undertaken.",
+      "A verbal report is the most effective way for communicating to incoming shifts any issues affecting a plant."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Process related accidents have occurred due to a failure of communication at shift handover.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 188,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q189",
+    "question": "Workers carrying out shift handovers require technical knowledge and expertise. What other skill area is essential for these workers?",
+    "options": [
+      "Communications",
+      "Negotiation",
+      "Supervision",
+      "Motivation"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Communications",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 189,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q190",
+    "question": "Shift handovers must have the right level of technical knowledge and expertise and should also ----------------------.",
+    "options": [
+      "Communicate effectively",
+      "Higher degree",
+      "Hazards information",
+      "Be punctual"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Communicate effectively",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 190,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q191",
+    "question": "A preferred method of conducting a shift handover is:",
+    "options": [
+      "Face to face using verbal and written communication.",
+      "By telephone using verbal communication.",
+      "Via a logbook using written communication.",
+      "By radio using verbal communication."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Face to face using verbal and written communication.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 191,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q192",
+    "question": "An incident similar to Piper Alpha (UK, Offshore, 1987), where two (2) separate work permits were issued for the maintenance work on a pump. One was for the repair of the pump and the other was for the removal and servicing of the Pressure Relief Valve (PRV) on the discharge side of the pump. The pump repair had been completed but the servicing of the PRV had not been completed by the end of the shift. In place of the PSV, a blank end flange had been loosely installed. During shift handover, the maintenance work and return to service of the pump was discussed, but no mention was made of the servicing work being carried out on the PRV. The pump was started allowing flammable liquids to leak from the loosely fitted blank end flange. The vapor cloud ignited causing a large fire. Which of the following actions during shift handover would have been most effective in preventing this accident described above?",
+    "options": [
+      "Verbal communication in a quiet place between incoming and outgoing shift workers.",
+      "Confirmation of the permits signed off as completed.",
+      "Discussion of the recorded process checks undertaken by the outgoing workers",
+      "A physical demonstration of the plant’s state between incoming and outgoing shift workers."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A physical demonstration of the plant’s state between incoming and outgoing shift workers.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 192,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q193",
+    "question": "Which of the following would be the highest priority to discuss in shift handover",
+    "options": [
+      "A safe operating envelope parameter in alarm.",
+      "Emergency shutdown systems (ESD) systems on bypass.",
+      "Plant logbook signed by outgoing operator.",
+      "Communication radio in good working order."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Emergency shutdown systems (ESD) systems on bypass.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 193,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q194",
+    "question": "Shift handover between an incoming and outgoing operator should be conducted safely with ....?",
+    "options": [
+      "At least one participant taking sole responsibility.",
+      "None of the participants taking responsibility.",
+      "Both participants taking joint responsibility.",
+      "An operations supervisor taking sole responsibility."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both participants taking joint responsibility.",
+    "element": 2,
+    "part": "2.5",
+    "sourceQuestion": 194,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q195",
+    "question": "Which of the following is the most important consideration when selecting contractors?",
+    "options": [
+      "Proving that they have no previous or pending enforcement actions",
+      "Providing method statements, risk assessments and safety policies",
+      "Evidence of previous safe working and understanding their impact on others",
+      "Membership of a professional body and adequate insurance cover for the work"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Evidence of previous safe working and understanding their impact on others",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 195,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q196",
+    "question": "Which of the following is a significant process safety risk from the increased use of contractors?",
+    "options": [
+      "Detailed knowledge of equipment and processes may be lost when contractors change.",
+      "Contractors are unfamiliar with the site and are more likely to have incidents.",
+      "Selection of contractors uses resources that could be used to improve process safety.",
+      "Contractors are not always available when needed and can be unreliable."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Detailed knowledge of equipment and processes may be lost when contractors change.",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 196,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q197",
+    "question": "Documents such as risk assessments, previous work history, qualifications, licenses, method statements and safety policy determine contractor:",
+    "options": [
+      "Performance.",
+      "Tendering.",
+      "Selection.",
+      "Monitoring"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Selection.",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 197,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q198",
+    "question": "What is normally included in the periodic review of the safety performance of contractors working on site?",
+    "options": [
+      "A request for method statements, risk assessments and official licenses",
+      "Scrutiny of contractor health and safety policy and previous prosecutions",
+      "Analysis of contractor training records, qualifications and past experience",
+      "Inspections to check compliance and accident data review meetings"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Inspections to check compliance and accident data review meetings",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 198,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q199",
+    "question": "Topics of discussion between a contractor and permit issuer within a cold work permit would include.",
+    "options": [
+      "Supervision of the task and fire watchers required.",
+      "Duration of the task and gas testing requirements.",
+      "Location of the task and cancellation requirements.",
+      "Suspension of the task and fire blankets required."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Location of the task and cancellation requirements.",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 199,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q200",
+    "question": "With reference to permit-to-work system (PTW), which is not appropriate:\"",
+    "options": [
+      "It is essential that the permit issuer considers the potential impact of the works on adjacent plant or equipment, or the possibility that other plant could affect the safe operation of the permit.",
+      "The permit-to-work process is intended to protect contractors and workers alike - both should be issued with permits where appropriate.",
+      "Permits can be issued by the contractors and not necessarily by the organization themselves.",
+      "If the activities are not on live process plant, do not require isolation or disconnection, and do not fall under the other permit activity definitions (i.e., not hot work or confined space) then this will not usually be carried out under permit-to-work."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Permits can be issued by the contractors and not necessarily by the organization themselves.",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 200,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q201",
+    "question": "What should not be included in the induction training for contractors",
+    "options": [
+      "Emergency plan",
+      "Incident & near miss Reporting",
+      "The use of PPE",
+      "Details of other contractors."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Details of other contractors.",
+    "element": 2,
+    "part": "2.6",
+    "sourceQuestion": 201,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

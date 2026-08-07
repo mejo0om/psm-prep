@@ -1,0 +1,2815 @@
+[
+  {
+    "key": "acr_nebosh",
+    "acronym": "NEBOSH",
+    "fullName": "National Examination Board in Occupational Safety and Health",
+    "officialDescription": "The awarding body for this qualification. The course book follows the NEBOSH syllabus for process safety management.",
+    "element": 1,
+    "section": "Introduction",
+    "bookPage": 1,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "national examination board in occupational safety and health"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hse",
+    "acronym": "HSE",
+    "fullName": "Health and Safety Executive",
+    "officialDescription": "The UK Health and Safety Executive, whose guidance, investigations and case studies are used throughout the course book.",
+    "element": 1,
+    "section": "Introduction",
+    "bookPage": 1,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "health and safety executive"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_psm",
+    "acronym": "PSM",
+    "fullName": "Process Safety Management",
+    "officialDescription": "A blend of engineering and management skills focused on preventing catastrophic accidents and near misses, especially structural collapse, explosions, fires and toxic releases associated with loss of containment of energy or dangerous substances.",
+    "element": 1,
+    "section": "1.1",
+    "bookPage": 4,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "management system",
+      "process safety management"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Management system",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ppe",
+    "acronym": "PPE",
+    "fullName": "Personal Protective Equipment",
+    "officialDescription": "Equipment worn by individuals to reduce exposure to personal safety hazards; it is a supporting control rather than the main focus of process safety.",
+    "element": 1,
+    "section": "1.1",
+    "bookPage": 4,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "personal safety",
+      "personal protective equipment"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Personal safety",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pslg",
+    "acronym": "PSLG",
+    "fullName": "Process Safety Leadership Group",
+    "officialDescription": "A group established in 2007 to work with regulators and develop guidance on the management and leadership actions needed for process safety.",
+    "element": 1,
+    "section": "1.2",
+    "bookPage": 5,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "process safety leadership group"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lpg",
+    "acronym": "LPG",
+    "fullName": "Liquefied Petroleum Gas",
+    "officialDescription": "A flammable liquefied gas. In the Piper Alpha example, release of LPG was the immediate cause, while failures in permit-to-work, isolation and design were among the root causes.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 10,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "substance",
+      "liquefied petroleum gas"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Substance",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_csb",
+    "acronym": "CSB",
+    "fullName": "Chemical Safety Board",
+    "officialDescription": "The US Chemical Safety Board, an independent body that investigates major chemical incidents and publishes lessons for industry.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 12,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "chemical safety board"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_osha",
+    "acronym": "OSHA",
+    "fullName": "Occupational Safety and Health Administration",
+    "officialDescription": "The US Occupational Safety and Health Administration, a regulator and source of process-safety requirements and guidance.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 13,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "occupational safety and health administration"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ilo",
+    "acronym": "ILO",
+    "fullName": "International Labour Organisation",
+    "officialDescription": "The International Labour Organisation, a source of international occupational safety and health guidance.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 13,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "international labour organisation"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sds",
+    "acronym": "SDS",
+    "fullName": "Safety Data Sheet",
+    "officialDescription": "A documented source of chemical hazard and safety information used to support organisational learning, change review and safe handling of dangerous substances.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 13,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "hazard information",
+      "safety data sheet"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Hazard information",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_msds",
+    "acronym": "MSDS",
+    "fullName": "Material Safety Data Sheet",
+    "officialDescription": "An older term for a safety data sheet containing information on a substance’s hazards and safe use.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 101,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "hazard information",
+      "material safety data sheet"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Hazard information",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sop",
+    "acronym": "SOP",
+    "fullName": "Safe Operating Procedure",
+    "officialDescription": "The book uses SOP for a written safe operating procedure that defines the process, operating limits, controls, hazards, precautions and required actions for normal and abnormal operation.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 59,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "procedure",
+      "standard operating procedure"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Procedure",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_moc",
+    "acronym": "MOC",
+    "fullName": "Management of Change",
+    "officialDescription": "A formal arrangement for assessing and controlling the process-safety implications of changes to plant, process conditions, procedures, staffing or organisation before they are implemented.",
+    "element": 1,
+    "section": "1.4",
+    "bookPage": 14,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "management process",
+      "management of change"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Management process",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_psc",
+    "acronym": "PSC",
+    "fullName": "Process Safety Competence",
+    "officialDescription": "The minimum process-safety competence requirements identified for a facility, including the knowledge, skills and experience needed in key roles and for abnormal or emergency situations.",
+    "element": 1,
+    "section": "1.6",
+    "bookPage": 19,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "competence",
+      "process safety competence"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Competence",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sms",
+    "acronym": "SMS",
+    "fullName": "Safety Management System",
+    "officialDescription": "A structured system of policies, responsibilities, procedures, monitoring and review used to manage safety.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 24,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "management system",
+      "safety management system"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Management system",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_psms",
+    "acronym": "PSMS",
+    "fullName": "Process Safety Management System",
+    "officialDescription": "The process-safety-specific elements of a management system used to control major hazards, including leadership, hazard analysis, risk management, asset integrity, emergency planning, audit and review.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 24,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "management system",
+      "process safety management system"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Management system",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pdca",
+    "acronym": "PDCA",
+    "fullName": "Plan-Do-Check-Act",
+    "officialDescription": "A continual-improvement cycle: plan the arrangements, implement them, check performance, and act on findings.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 26,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "management cycle",
+      "plan-do-check-act"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Management cycle",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_alarp",
+    "acronym": "ALARP",
+    "fullName": "As Low As Reasonably Practicable",
+    "officialDescription": "A principle requiring further risk reduction unless the time, trouble and cost of additional controls would be grossly disproportionate to the risk reduction achieved.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 27,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk principle",
+      "as low as reasonably practicable"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk principle",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_mapp",
+    "acronym": "MAPP",
+    "fullName": "Major Accident Prevention Policy",
+    "officialDescription": "A senior-management policy stating the organisation’s commitment and arrangements for preventing major accidents.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 27,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "policy",
+      "major accident prevention policy"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Policy",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_comah",
+    "acronym": "COMAH",
+    "fullName": "Control of Major Accident Hazards",
+    "officialDescription": "The UK regulatory framework for controlling major-accident hazards involving dangerous substances.",
+    "element": 1,
+    "section": "1.6",
+    "bookPage": 21,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "regulation",
+      "control of major accident hazards"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Regulation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sq",
+    "acronym": "SQ",
+    "fullName": "Semi-Quantitative",
+    "officialDescription": "A risk-assessment approach in which frequency and severity are approximately quantified within ranges, providing more structure than a purely qualitative judgement.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 35,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk assessment",
+      "semi-quantitative"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk assessment",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_qra",
+    "acronym": "QRA",
+    "fullName": "Quantified Risk Assessment",
+    "officialDescription": "A risk-assessment approach in which known data are used to quantify the frequency and consequences of hazardous events.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 35,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk assessment",
+      "quantified risk assessment"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk assessment",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ra",
+    "acronym": "RA",
+    "fullName": "Risk Assessment",
+    "officialDescription": "A systematic process for identifying hazards, evaluating risk and deciding whether existing controls are adequate or further action is needed.",
+    "element": 2,
+    "section": "2.6",
+    "bookPage": 54,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk assessment"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk assessment",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lod",
+    "acronym": "LOD",
+    "fullName": "Lines of Defence",
+    "officialDescription": "Preventive or mitigating barriers placed between an initiating event and its consequences. The book also calls these layers of protection (LOP).",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 36,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk control",
+      "lines of defence"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk control",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hazop",
+    "acronym": "HAZOP",
+    "fullName": "Hazard and Operability Study",
+    "officialDescription": "A structured team technique that uses guide words to identify deviations from design intent, then considers causes, consequences and existing safeguards.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 38,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk technique",
+      "hazard and operability study"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "HAZID",
+        "type": "common-confusion",
+        "note": "HAZOP is cause-driven and bottom-up; HAZID is consequence-driven and top-down."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk technique",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": {
+      "value": "Proactive",
+      "knowledgeLevel": "Derived from Book",
+      "basis": "Used before an incident to identify or analyse hazards and possible outcomes."
+    },
+    "relatedAcronyms": [
+      "HAZID"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_p_id",
+    "acronym": "P&ID",
+    "fullName": "Piping and Instrumentation Diagram",
+    "officialDescription": "A detailed diagram of process equipment, piping, instruments and control functions used by a HAZOP team to examine sections of a process systematically.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 38,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "diagram",
+      "piping and instrumentation diagram"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Diagram",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hazid",
+    "acronym": "HAZID",
+    "fullName": "Hazard Identification",
+    "officialDescription": "A structured process for identifying credible hazards and major-accident scenarios, commonly at an early project stage.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 39,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk technique",
+      "hazard identification"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "HAZOP",
+        "type": "common-confusion",
+        "note": "HAZID is consequence-driven and top-down; HAZOP is cause-driven and bottom-up."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk technique",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": {
+      "value": "Proactive",
+      "knowledgeLevel": "Derived from Book",
+      "basis": "Used before an incident to identify or analyse hazards and possible outcomes."
+    },
+    "relatedAcronyms": [
+      "HAZOP"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_fmea",
+    "acronym": "FMEA",
+    "fullName": "Failure Mode and Effects Analysis",
+    "officialDescription": "A bottom-up technique that identifies possible component failure modes, considers their effects and uses ranking to prioritise action.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 39,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk technique",
+      "failure mode and effects analysis"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk technique",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": {
+      "value": "Proactive",
+      "knowledgeLevel": "Derived from Book",
+      "basis": "Used before an incident to identify or analyse hazards and possible outcomes."
+    },
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_rpn",
+    "acronym": "RPN",
+    "fullName": "Risk Priority Number",
+    "officialDescription": "The ranking value used in FMEA by combining scores such as severity, occurrence and detectability to help prioritise failure modes.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 39,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk ranking",
+      "risk priority number"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk ranking",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_eta",
+    "acronym": "ETA",
+    "fullName": "Event Tree Analysis",
+    "officialDescription": "A forward-looking technique that starts with an initiating event and follows the success or failure of safeguards to identify possible outcomes.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 40,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk technique",
+      "event tree analysis"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk technique",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": {
+      "value": "Proactive",
+      "knowledgeLevel": "Derived from Book",
+      "basis": "Used before an incident to identify or analyse hazards and possible outcomes."
+    },
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_loto",
+    "acronym": "LOTO",
+    "fullName": "Lock Out, Tag Out",
+    "officialDescription": "A controlled isolation method using locks and tags to prevent equipment or energy sources being restored while work is in progress.",
+    "element": 2,
+    "section": "2.4",
+    "bookPage": 47,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "isolation",
+      "lock out, tag out"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Isolation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hv",
+    "acronym": "HV",
+    "fullName": "High Voltage",
+    "officialDescription": "Electrical voltage high enough to require specialist controls, competent persons and strict isolation arrangements.",
+    "element": 2,
+    "section": "2.4",
+    "bookPage": 48,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "electrical safety",
+      "high voltage"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Electrical safety",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pha",
+    "acronym": "PHA",
+    "fullName": "Process Hazard Analysis",
+    "officialDescription": "A systematic assessment of process hazards used to identify scenarios, safeguards and recommendations for risk reduction.",
+    "element": 2,
+    "section": "2.6",
+    "bookPage": 53,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "risk technique",
+      "process hazard analysis"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Risk technique",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": {
+      "value": "Proactive",
+      "knowledgeLevel": "Derived from Book",
+      "basis": "Used before an incident to identify or analyse hazards and possible outcomes."
+    },
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ndt",
+    "acronym": "NDT",
+    "fullName": "Non-Destructive Testing",
+    "officialDescription": "Inspection techniques that examine material or equipment condition without damaging the item being tested.",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 39,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "inspection",
+      "non-destructive testing"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Inspection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_prv",
+    "acronym": "PRV",
+    "fullName": "Pressure Relief Valve",
+    "officialDescription": "A pressure-relief device that opens to prevent equipment pressure exceeding a safe limit and protects against overpressure.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 58,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "pressure protection",
+      "pressure relief valve"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "PSV",
+        "type": "similar-term",
+        "note": "The book discusses both terms in pressure-relief protection; context must be checked."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Pressure protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "PSV"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_psv",
+    "acronym": "PSV",
+    "fullName": "Pressure Safety Valve",
+    "officialDescription": "A safety valve that automatically opens at a set pressure to protect process equipment from overpressure.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 58,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "pressure protection",
+      "pressure safety valve"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "PRV",
+        "type": "similar-term",
+        "note": "The book discusses both terms in pressure-relief protection; context must be checked."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Pressure protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "PRV"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sis",
+    "acronym": "SIS",
+    "fullName": "Safety Instrumented System",
+    "officialDescription": "An independent instrumented protection system that detects specified dangerous conditions and takes the process to a safe state.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 59,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "instrumented protection",
+      "safety instrumented system"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Instrumented protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pid",
+    "acronym": "PID",
+    "fullName": "Proportional-Integral-Derivative",
+    "officialDescription": "A control algorithm that combines proportional, integral and derivative actions to keep a process variable near its set point.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 59,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "process control",
+      "proportional-integral-derivative"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Process control",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hf",
+    "acronym": "HF",
+    "fullName": "Human Factors",
+    "officialDescription": "The influence of people, tasks, equipment, organisation and environment on reliable and safe performance.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 60,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "human factors"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Human factors",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_hro",
+    "acronym": "HRO",
+    "fullName": "High Reliability Organisation",
+    "officialDescription": "An organisation that maintains reliable performance in hazardous operations through vigilance, learning, competence and sensitivity to weak signals.",
+    "element": 3,
+    "section": "3.1",
+    "bookPage": 60,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation model",
+      "high reliability organisation"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation model",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_soe",
+    "acronym": "SOE",
+    "fullName": "Safe Operating Envelope",
+    "officialDescription": "The defined limits and conditions within which a process can be operated safely; operation outside them requires prompt control or shutdown action.",
+    "element": 3,
+    "section": "3.2",
+    "bookPage": 66,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "operating limits",
+      "safe operating envelope"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Operating limits",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sce",
+    "acronym": "SCE",
+    "fullName": "Safety-Critical Element",
+    "officialDescription": "A part of an installation, plant or system whose failure could cause or contribute substantially to a major accident, or whose purpose is to prevent or limit its effect.",
+    "element": 3,
+    "section": "3.2",
+    "bookPage": 65,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "safety-critical system",
+      "safety-critical element"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Safety-critical system",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ps",
+    "acronym": "PS",
+    "fullName": "Performance Standard",
+    "officialDescription": "An agreed measurable standard against which the actual performance of a safety-critical system or item of equipment is assessed and judged.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 69,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "performance standard"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Performance standard",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_farsi",
+    "acronym": "FARSI",
+    "fullName": "Functionality, Availability, Reliability, Survivability and Interdependency",
+    "officialDescription": "A model used to set performance standards for safety-critical elements by defining what they must do and how their availability, reliability, survivability and interdependencies will be assured.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 69,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "performance model",
+      "functionality, availability, reliability, survivability and interdependency"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Performance model",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_rosov",
+    "acronym": "ROSOV",
+    "fullName": "Remotely Operated Shut-Off Valve",
+    "officialDescription": "A remotely operated isolation valve used to stop or limit a hazardous release without requiring personnel to approach the danger area.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 69,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "isolation",
+      "remotely operated shut-off valve"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Isolation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ups",
+    "acronym": "UPS",
+    "fullName": "Uninterruptible Power Supply",
+    "officialDescription": "A backup electrical supply that maintains power to critical control, detection or shutdown systems when the normal supply fails.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 70,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "electrical supply",
+      "uninterruptible power supply"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Electrical supply",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pfd",
+    "acronym": "PFD",
+    "fullName": "Process Flow Diagram",
+    "officialDescription": "A diagram showing the main process flow and key equipment. The same abbreviation is also used later in the book for probability of failure on demand in reliability discussions.",
+    "element": 1,
+    "section": "1.3",
+    "bookPage": 13,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "reliability",
+      "probability of failure on demand"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "PFD",
+        "note": "The same abbreviation has two meanings in the course book. Use the surrounding topic to distinguish the process diagram from the reliability measure."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Reliability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    },
+    "meanings": [
+      {
+        "fullName": "Process Flow Diagram",
+        "element": 1,
+        "section": "1.3",
+        "bookPage": 13
+      },
+      {
+        "fullName": "Probability of Failure on Demand",
+        "element": 3,
+        "section": "3.3",
+        "bookPage": 70
+      }
+    ]
+  },
+  {
+    "key": "acr_mtbf",
+    "acronym": "MTBF",
+    "fullName": "Mean Time Between Failure",
+    "officialDescription": "A reliability measure representing the average operating time between failures of repairable equipment.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 70,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "reliability",
+      "mean time between failure"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Reliability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sil",
+    "acronym": "SIL",
+    "fullName": "Safety Integrity Level",
+    "officialDescription": "A target level of risk reduction and reliability assigned to a safety instrumented function.",
+    "element": 3,
+    "section": "3.3",
+    "bookPage": 70,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "functional safety",
+      "safety integrity level"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Functional safety",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ac",
+    "acronym": "AC",
+    "fullName": "Alternating Current",
+    "officialDescription": "Electrical current that changes direction periodically and is widely used for power distribution and equipment.",
+    "element": 3,
+    "section": "3.5",
+    "bookPage": 78,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "electricity",
+      "alternating current"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Electricity",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_dc",
+    "acronym": "DC",
+    "fullName": "Direct Current",
+    "officialDescription": "Electrical current flowing in one direction, commonly used in batteries, control circuits and some emergency systems.",
+    "element": 3,
+    "section": "3.5",
+    "bookPage": 78,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "electricity",
+      "direct current"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Electricity",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_esd",
+    "acronym": "ESD",
+    "fullName": "Emergency Shut-Down",
+    "officialDescription": "A system designed to rapidly place the process in a safer condition when a serious abnormal or emergency condition is detected.",
+    "element": 3,
+    "section": "3.5",
+    "bookPage": 82,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "emergency system",
+      "emergency shut-down"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Emergency system",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_stp",
+    "acronym": "STP",
+    "fullName": "Standard Temperature and Pressure",
+    "officialDescription": "A defined reference condition of temperature and pressure used when comparing gas or process quantities.",
+    "element": 3,
+    "section": "3.6",
+    "bookPage": 84,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "process conditions",
+      "standard temperature and pressure"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Process conditions",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_azdn",
+    "acronym": "AZDN",
+    "fullName": "Azodiisobutyronitrile",
+    "officialDescription": "A reactive azo compound used in the course book to illustrate decomposition and runaway-reaction hazards.",
+    "element": 3,
+    "section": "3.7",
+    "bookPage": 85,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "chemical",
+      "azodiisobutyronitrile"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Chemical",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_sps",
+    "acronym": "SPS",
+    "fullName": "Sodium Persulphate",
+    "officialDescription": "An oxidising chemical used in the course book as an example of a substance capable of hazardous decomposition or reaction.",
+    "element": 3,
+    "section": "3.7",
+    "bookPage": 85,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "chemical",
+      "sodium persulphate"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Chemical",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ghs",
+    "acronym": "GHS",
+    "fullName": "Globally Harmonised System of Classification",
+    "officialDescription": "An international system for consistent classification, labelling and communication of chemical hazards.",
+    "element": 3,
+    "section": "3.6",
+    "bookPage": 86,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "hazard classification",
+      "globally harmonised system of classification"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Hazard classification",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lng",
+    "acronym": "LNG",
+    "fullName": "Liquefied Natural Gas",
+    "officialDescription": "Natural gas cooled to a liquid for storage or transport; releases can create very cold, flammable vapour clouds.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 92,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "substance",
+      "liquefied natural gas"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Substance",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lah",
+    "acronym": "LAH",
+    "fullName": "Level Alarm High",
+    "officialDescription": "A high-level alarm that warns operators when liquid level rises above the normal operating range.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 97,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "level protection",
+      "level alarm high"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Level protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lahh",
+    "acronym": "LAHH",
+    "fullName": "Level Alarm High-High",
+    "officialDescription": "A separate high-high level alarm or trip providing an additional layer of protection against overfilling.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 97,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "level protection",
+      "level alarm high-high"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Level protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_loc",
+    "acronym": "LOC",
+    "fullName": "Loss of Containment",
+    "officialDescription": "An unintended release of a dangerous substance or energy from the equipment or system intended to contain it; preventing such releases is central to process safety.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 97,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "process incident",
+      "loss of containment"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Process incident",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_efrt",
+    "acronym": "EFRT",
+    "fullName": "External Floating Roof Tank",
+    "officialDescription": "A storage tank with a roof floating directly on the liquid surface to reduce vapour space and emissions.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 98,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "storage tank",
+      "external floating roof tank"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Storage tank",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ifrt",
+    "acronym": "IFRT",
+    "fullName": "Internal Floating Roof Tank",
+    "officialDescription": "A fixed-roof storage tank containing an internal floating roof that reduces vapour generation and losses.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 98,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "storage tank",
+      "internal floating roof tank"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Storage tank",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pv",
+    "acronym": "PV",
+    "fullName": "Pressure-Vacuum Vent",
+    "officialDescription": "A breather vent used on bulk storage tanks to prevent damaging excessive internal pressure or vacuum while limiting uncontrolled vapour release.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 98,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "tank protection",
+      "pressure-vacuum"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Tank protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_ufl",
+    "acronym": "UFL",
+    "fullName": "Upper Flammable Limit",
+    "officialDescription": "The highest concentration of a flammable gas or vapour in air at which flame propagation can occur.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 107,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "flammability",
+      "upper flammable limit"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "UEL",
+        "type": "equivalent-context",
+        "note": "The book presents UFL and UEL as upper-limit terminology."
+      },
+      {
+        "with": "LFL",
+        "type": "opposite-limit",
+        "note": "Upper versus lower limit."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Flammability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "UEL",
+      "LFL"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_uel",
+    "acronym": "UEL",
+    "fullName": "Upper Explosive Limit",
+    "officialDescription": "Another term for the upper concentration limit above which a fuel-air mixture is too rich to explode.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 107,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "flammability",
+      "upper explosive limit"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "UFL",
+        "type": "equivalent-context",
+        "note": "The book presents UEL and UFL as upper-limit terminology."
+      },
+      {
+        "with": "LEL",
+        "type": "opposite-limit",
+        "note": "Upper versus lower limit."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Flammability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "UFL",
+      "LEL"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lfl",
+    "acronym": "LFL",
+    "fullName": "Lower Flammable Limit",
+    "officialDescription": "The lowest concentration of a flammable gas or vapour in air at which flame propagation can occur.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 107,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "flammability",
+      "lower flammable limit"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "LEL",
+        "type": "equivalent-context",
+        "note": "The book presents LFL and LEL together."
+      },
+      {
+        "with": "UFL",
+        "type": "opposite-limit",
+        "note": "Lower versus upper limit."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Flammability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "LEL",
+      "UFL"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_lel",
+    "acronym": "LEL",
+    "fullName": "Lower Explosive Limit",
+    "officialDescription": "Another term for the lower concentration limit below which a fuel-air mixture is too lean to explode.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 107,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "flammability",
+      "lower explosive limit"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "LFL",
+        "type": "equivalent-context",
+        "note": "The book presents LEL and LFL together for lower flammability/explosibility limits."
+      },
+      {
+        "with": "UEL",
+        "type": "opposite-limit",
+        "note": "Lower versus upper limit."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Flammability",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "LFL",
+      "UEL"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_bleve",
+    "acronym": "BLEVE",
+    "fullName": "Boiling Liquid Expanding Vapour Explosion",
+    "officialDescription": "A violent vessel failure caused when a pressurised liquid above its normal boiling point is suddenly released and rapidly expands as vapour.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 110,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "explosion",
+      "boiling liquid expanding vapour explosion"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Explosion",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_vce",
+    "acronym": "VCE",
+    "fullName": "Vapour Cloud Explosion",
+    "officialDescription": "An explosion following ignition of a flammable vapour cloud, with severity influenced by congestion, confinement and cloud conditions.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 110,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "explosion",
+      "vapour cloud explosion"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Explosion",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_cvce",
+    "acronym": "CVCE",
+    "fullName": "Confined Vapour Cloud Explosion",
+    "officialDescription": "A vapour-cloud explosion occurring in a confined or congested space where pressure effects can be intensified.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 110,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "explosion",
+      "confined vapour cloud explosion"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Explosion",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_uvce",
+    "acronym": "UVCE",
+    "fullName": "Unconfined Vapour Cloud Explosion",
+    "officialDescription": "A vapour-cloud explosion occurring in an open or largely unconfined area.",
+    "element": 4,
+    "section": "4.1",
+    "bookPage": 110,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "explosion",
+      "unconfined vapour cloud explosion"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Explosion",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_pfp",
+    "acronym": "PFP",
+    "fullName": "Passive Fire Protection",
+    "officialDescription": "Built-in protection that limits fire spread or protects structures and equipment without needing detection or activation, for example fire-resistant construction or fireproofing.",
+    "element": 4,
+    "section": "4.2",
+    "bookPage": 111,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "fire protection",
+      "passive fire protection"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "AFP",
+        "type": "comparison",
+        "note": "Passive protection operates without activation; active protection detects and activates."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Fire protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "AFP"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_afp",
+    "acronym": "AFP",
+    "fullName": "Active Fire Protection",
+    "officialDescription": "A fire-protection system that detects fire and activates to mitigate or extinguish it; it may be fixed or portable, and automatic or manually operated.",
+    "element": 4,
+    "section": "4.2",
+    "bookPage": 112,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "fire protection",
+      "active fire protection"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [
+      {
+        "with": "PFP",
+        "type": "comparison",
+        "note": "Active protection detects and activates; passive protection does not require activation."
+      }
+    ],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Fire protection",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [
+      "PFP"
+    ],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_mie",
+    "acronym": "MIE",
+    "fullName": "Minimum Ignition Energy",
+    "officialDescription": "The smallest amount of ignition energy capable of igniting a specified flammable mixture under defined conditions.",
+    "element": 4,
+    "section": "4.3",
+    "bookPage": 116,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "ignition",
+      "minimum ignition energy"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Ignition",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "key": "acr_eemua",
+    "acronym": "EEMUA",
+    "fullName": "Engineering Equipment and Materials Users Association",
+    "officialDescription": "An engineering users’ association that publishes industry guidance and good practice for plant, equipment and materials.",
+    "element": 3,
+    "section": "3.2",
+    "bookPage": 67,
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "organisation",
+      "engineering equipment and materials users association"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "category": "Organisation",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Full name, explanation, section and first book-page reference reviewed against the supplied official course book."
+    }
+  },
+  {
+    "acronym": "HSG65",
+    "fullName": "Managing for Health and Safety (HSG65)",
+    "officialDescription": "HSE guidance used in the book as an example of a personal-safety management-system framework for comparison with process-safety management arrangements.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 24,
+    "category": "Guidance",
+    "key": "acr_hsg65",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "managing for health and safety (hsg65)",
+      "guidance"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  },
+  {
+    "acronym": "OHSAS 18001",
+    "fullName": "Occupational Health and Safety Assessment Series 18001",
+    "officialDescription": "An occupational health and safety management-system framework used in the book to show where process-safety management elements fit within a typical safety management system.",
+    "element": 2,
+    "section": "2.1",
+    "bookPage": 24,
+    "category": "Management standard",
+    "key": "acr_ohsas_18001",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "occupational health and safety assessment series 18001",
+      "management standard"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  },
+  {
+    "acronym": "ATEX",
+    "fullName": "ATEX Directives",
+    "officialDescription": "The common name for two European Union directives controlling explosive atmospheres: one covering equipment and protective systems, and one covering worker safety in potentially explosive atmospheres.",
+    "element": 2,
+    "section": "2.3",
+    "bookPage": 43,
+    "category": "Regulatory framework",
+    "key": "acr_atex",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "atex directives",
+      "regulatory framework"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  },
+  {
+    "acronym": "LOP",
+    "fullName": "Layers of Protection",
+    "officialDescription": "Preventive and mitigating barriers arranged in layers so that an initiating event does not directly result in a release or harm. The book uses LOP alongside lines of defence (LOD).",
+    "element": 2,
+    "section": "2.2",
+    "bookPage": 36,
+    "category": "Risk control concept",
+    "key": "acr_lop",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "layers of protection",
+      "risk control concept"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  },
+  {
+    "acronym": "LEV",
+    "fullName": "Local Exhaust Ventilation",
+    "officialDescription": "A local extraction control referenced in the maintenance section as equipment for which inspections and test records may be legally required.",
+    "element": 2,
+    "section": "2.3",
+    "bookPage": 45,
+    "category": "Engineering control",
+    "key": "acr_lev",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "local exhaust ventilation",
+      "engineering control"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  },
+  {
+    "acronym": "FRT",
+    "fullName": "Floating Roof Tank",
+    "officialDescription": "A bulk-storage tank with a roof that floats on the liquid surface. The book discusses internal and external floating-roof variants, roof landing and rim-fire hazards.",
+    "element": 3,
+    "section": "3.8",
+    "bookPage": 98,
+    "category": "Storage equipment",
+    "key": "acr_frt",
+    "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1",
+    "knowledgeLevel": "Book-based explanation",
+    "keywords": [
+      "floating roof tank",
+      "storage equipment"
+    ],
+    "relatedQuestions": [],
+    "commonConfusions": [],
+    "difficulty": "",
+    "examFrequency": "",
+    "purpose": "",
+    "method": "",
+    "type": "",
+    "usedDuring": "",
+    "approach": null,
+    "relatedAcronyms": [],
+    "verification": {
+      "status": "Verified",
+      "fullNameVerified": true,
+      "descriptionVerified": true,
+      "pageVerified": true,
+      "notes": "Added after a second review of the supplied official course book."
+    }
+  }
+]

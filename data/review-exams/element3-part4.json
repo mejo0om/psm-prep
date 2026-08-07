@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E3-Q282",
+    "question": "In hazards of electricity, burning at a point of contact and death from ventricular fibrillation happen at ------- Mill amperes of the current:",
+    "options": [
+      "2000 and above",
+      "25-80",
+      "10-25",
+      "80-2000"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "80-2000",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 282,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q283",
+    "question": "What is the most important consideration out of the following, for back-up or standby generators?",
+    "options": [
+      "Cost effective to purchase and run.",
+      "Spare parts are plentiful and easily accessible.",
+      "Properly maintained, tested and adequate fuel supply to keep them operational.",
+      "They are aesthetically pleasing (i.e. are not an eye-sore)."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Properly maintained, tested and adequate fuel supply to keep them operational.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 283,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q284",
+    "question": "Loss of consciousness from heart or respiratory failure when the current in Milliamps is at the level?",
+    "options": [
+      "2-10",
+      "10-25",
+      "25-60",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "25-60",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 284,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q285",
+    "question": "In DC circuit, current flows from the",
+    "options": [
+      "Negative to positive terminal in the same direction as electrons",
+      "Positive to negative terminal in the opposite direction as electrons",
+      "Positive to negative terminal in the same direction as electrons",
+      "Negative to positive terminal in the opposite direction as electrons"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Positive to negative terminal in the opposite direction as electrons",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 285,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q286",
+    "question": "What is the highest risk associated with the path of electrical current through the human body (i.e. electrocution)?",
+    "options": [
+      "Cardiac arrhythmia (the heart does not beat properly, and blood is lost to the brain and vital organs).",
+      "Localized surface burns.",
+      "Deep tissue burns.",
+      "Loss of consciousness."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Cardiac arrhythmia (the heart does not beat properly, and blood is lost to the brain and vital organs).",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 286,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q287",
+    "question": "A technician applies flow of hydrocarbon fluid to a vessel during certain process operation. What electrostatic method of charge creation is potential in this process?",
+    "options": [
+      "Pyroelectric effect",
+      "Piezoelectric effect",
+      "Inducing a charge",
+      "Tribocharging"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Tribocharging",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 287,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q288",
+    "question": "Voltage, current and resistance are related as:",
+    "options": [
+      "V=IR",
+      "V=I/R",
+      "V=I^2R",
+      "V=I/R^2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "V=IR",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 288,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q289",
+    "question": "AC and DC differ mainly in terms of:",
+    "options": [
+      "Voltage",
+      "Intensity",
+      "Paths & Direction",
+      "Availability"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Paths & Direction",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 289,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q290",
+    "question": "What is the best way to control electrostatic build-up and spark discharge?",
+    "options": [
+      "Reducing the speed of materials being transported.",
+      "Wear synthetic clothing whilst operating the process.",
+      "Electrical discontinuity.",
+      "Bonding, grounding and earthing."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Bonding, grounding and earthing.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 290,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q291",
+    "question": "Ability of Flow af electricity for a material defined by",
+    "options": [
+      "Current intensity",
+      "Material Resistance",
+      "Current Voltage",
+      "Current Frequency"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Material Resistance",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 291,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q292",
+    "question": "According to Assessment and understanding of potential chemical hazards present, the information for hazardous nature of the substance to be stored is obtained from:",
+    "options": [
+      "Manufacturers, SDS , Suppliers",
+      "Manufacturers, SDS, MSDS",
+      "Safety manuals",
+      "Suppliers/manufacturers, SDS, MSDS"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Suppliers/manufacturers, SDS, MSDS",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 292,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q293",
+    "question": "Explosives substances have -------------- ignition energy.",
+    "options": [
+      "High",
+      "Low",
+      "Moderate",
+      "Exceptionally beyond limit"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Low",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 293,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q294",
+    "question": "What is the most accurate description of “flashpoint”?",
+    "options": [
+      "Highest temperature at which ignition can occur, when there is sufficient vapor released above a flammable liquid surface.",
+      "Lowest temperature at which ignition can occur, when there is sufficient vapor released above a flammable liquid surface.",
+      "Lowest temperature at which ignition can occur with a gas at standard pressure and humidity.",
+      "Lowest temperature at which ignition can occur with a vapor at standard pressure and humidity."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Lowest temperature at which ignition can occur, when there is sufficient vapor released above a flammable liquid surface.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 294,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q295",
+    "question": "When can a flammable liquid below its flash point temperature potentially ignite?",
+    "options": [
+      "When it is released under pressure and forms a mist (small droplets in air).",
+      "When it is released and forms a pool.",
+      "When it is transferred from one tank to another, usually over long distances.",
+      "When it is stored in tanks where the flammable liquid has a large surface are."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "When it is released under pressure and forms a mist (small droplets in air).",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 295,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q296",
+    "question": "Which of the following statements best explains how the form of gases affects their risk potential in industrial settings?",
+    "options": [
+      "The solid state of gases prevents them from mixing with air, thus reducing the risk of fire or explosions.",
+      "Gases do not present health hazards as they are usually inert and stable under normal conditions.",
+      "Flammable gases or vapors can form explosive mixtures with air, even at low concentrations, increasing the risk of fire or explosions.",
+      "Gases are primarily hazardous due to their radioactive properties which pose a significant environmental threat."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Flammable gases or vapors can form explosive mixtures with air, even at low concentrations, increasing the risk of fire or explosions.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 296,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q297",
+    "question": "How does the form of liquids affect their risk potential in terms of environmental impact?",
+    "options": [
+      "Liquids, being non-volatile, pose no risk to the environment.",
+      "The viscosity of liquids determines their flammability but not their environmental impact.",
+      "Liquid spills can lead to ground and water contamination, posing significant environmental risks.",
+      "Only the color of the liquid determines its risk potential to the environment."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Liquid spills can lead to ground and water contamination, posing significant environmental risks.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 297,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q298",
+    "question": "How does the form of solid materials affect their risk potential concerning fire hazards?",
+    "options": [
+      "Solid materials are generally non-flammable and pose no fire risk.",
+      "The particle size of solid materials, such as in powders, can significantly increase their flammability and explosion risk.",
+      "Solids are only hazardous when wet, as they cannot ignite in dry conditions.",
+      "The color of the solid material is the primary factor determining its fire risk."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "The particle size of solid materials, such as in powders, can significantly increase their flammability and explosion risk.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 298,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q299",
+    "question": "Which of the following best describes why explosive substances are particularly hazardous?",
+    "options": [
+      "Explosive substances require high temperatures to ignite.",
+      "Explosive substances are inert and do not react with air.",
+      "Explosive substances can detonate easily due to very low minimum ignition energies.",
+      "Explosive substances can only explode in vacuum environments."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Explosive substances can detonate easily due to very low minimum ignition energies.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 299,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q300",
+    "question": "What makes oxidising substances particularly hazardous in chemical reactions?",
+    "options": [
+      "They stabilize other reactive substances, reducing the overall reaction rate.",
+      "They release large amounts of heat when reacting, but do not support combustion.",
+      "They can cause other materials to ignite or explode by providing a source of oxygen.",
+      "They are generally inert and do not react with other chemicals."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "They can cause other materials to ignite or explode by providing a source of oxygen.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 300,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q301",
+    "question": "What is the primary factor that classifies a liquid as flammable?",
+    "options": [
+      "The color of the liquid.",
+      "The boiling point of the liquid.",
+      "The temperature at which it emits enough vapors to ignite (flashpoint).",
+      "The viscosity of the liquid."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "The temperature at which it emits enough vapors to ignite (flashpoint).",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 301,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q302",
+    "question": "Why is it important to know the flashpoint of a liquid when storing it in a warehouse?",
+    "options": [
+      "To determine the color and appearance of the liquid for labeling purposes.",
+      "To assess the correct storage temperature that will prevent the liquid from freezing.",
+      "To establish safety measures needed to prevent accidental ignition of vapors.",
+      "To calculate the viscosity of the liquid for handling purposes."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "To establish safety measures needed to prevent accidental ignition of vapors.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 302,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q303",
+    "question": "What characterizes a liquid as highly flammable?",
+    "options": [
+      "A high boiling point and low vapor pressure.",
+      "A flashpoint below room temperature.",
+      "High viscosity and opaque color.",
+      "Stability when exposed to high pressures."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A flashpoint below room temperature.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 303,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q304",
+    "question": "What is the significance of the flashpoint in evaluating the flammability of a substance?",
+    "options": [
+      "It indicates the highest temperature at which a substance can safely be stored without special equipment.",
+      "It is the temperature at which a substance will continue to burn without an external source of ignition.",
+      "It is the lowest temperature at which a substance's vapors will ignite momentarily when exposed to an ignition source.",
+      "It measures the temperature at which a substance completely vaporizes. under closed proximity?"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "It is the lowest temperature at which a substance's vapors will ignite momentarily when exposed to an ignition source.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 304,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q305",
+    "question": "A -------- Is a medium that changes the pathway of the reaction so that particles are forced under closed proximity?",
+    "options": [
+      "Reagent",
+      "Catalyst",
+      "Binder",
+      "Ionic liquid"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Catalyst",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 305,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q306",
+    "question": "A thermal runaway reaction can be controlled by emergency:",
+    "options": [
+      "Alarms.",
+      "Evacuation.",
+      "Stops.",
+      "Cooling."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Cooling.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 306,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q307",
+    "question": "When an exothermic reaction goes out of control then this known as:",
+    "options": [
+      "Explosion",
+      "Forced reaction",
+      "Uncontrolled reaction",
+      "Thermal runaway reaction"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Thermal runaway reaction",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 307,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q308",
+    "question": "---------- describes the property of the substance to readily accept the electrons from another substance:",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Oxidation",
+      "Condensation"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Oxidation",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 308,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q309",
+    "question": "A consequences of a thermal runway reaction is catastrophic plant failure through",
+    "options": [
+      "Overrunning.",
+      "Over-pressure.",
+      "Overloading.",
+      "Overriding."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Over-pressure.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 309,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q310",
+    "question": "An endothermic reaction is one that",
+    "options": [
+      "Absorbs energy from its surroundings with a corresponding temperature decrease",
+      "Release energy with a corresponding temperature increase",
+      "Release energy with a corresponding temperature decrease",
+      "Absorbs energy from its surroundings with a corresponding temperature increase"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Absorbs energy from its surroundings with a corresponding temperature decrease",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 310,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q311",
+    "question": "Endothermic reaction results In",
+    "options": [
+      "High temperature release",
+      "Low temperature release",
+      "Heat take in",
+      "Energy give off"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Heat take in",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 311,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q312",
+    "question": "Speed of chemical reaction can be doubled by",
+    "options": [
+      "Pressure",
+      "Catalyst",
+      "Temperature",
+      "Vacuum"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Temperature",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 312,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q313",
+    "question": "Factor accelerates the chemical reaction rate and is not affected during the reaction, so what is it?",
+    "options": [
+      "Catalyst",
+      "Temperature",
+      "Pressure",
+      "Cooling System"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Catalyst",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 313,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q314",
+    "question": "What is the main characteristic of an endothermic reaction?",
+    "options": [
+      "Reaction involves the absorption of heat from its surroundings.",
+      "Reaction absorbs and gives off heat in unequal quantities.",
+      "Reaction gives of and absorbs heat in equal quantities.",
+      "Reaction involves giving off heat (and potentially light) into its surroundings."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Reaction involves the absorption of heat from its surroundings.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 314,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q315",
+    "question": "A consequence of a runaway reaction is a catastrophic plant or process equipment failure due to:",
+    "options": [
+      "Over-pressurization.",
+      "Over-sizing.",
+      "Over-reacting.",
+      "Over-running."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Over-pressurization.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 315,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q316",
+    "question": "Which of the following is a mitigative measures that can be applied to protect against thermal runaway?",
+    "options": [
+      "Quenching of the reactor content.",
+      "Drowning of the reactor content.",
+      "Containment within the reactor.",
+      "Crash cooling."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Containment within the reactor.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 316,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q317",
+    "question": "An exothermic reaction is one that",
+    "options": [
+      "Releases energy with a corresponding temperature increase.",
+      "Absorbs energy from its surroundings with a corresponding temperature decrease.",
+      "Absorbs energy from its surroundings with a corresponding temperature increase",
+      "Releases energy with a corresponding temperature decrease"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Releases energy with a corresponding temperature increase.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 317,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q318",
+    "question": "Which one is not one of the thermal runaway reaction causes?",
+    "options": [
+      "Incorrect use of catalysts",
+      "Poor/failed temperature control",
+      "Poor/failed mixing",
+      "Efficient heat dissipation"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Efficient heat dissipation",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 318,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q319",
+    "question": "Which one is not one of the thermal runaway reaction consequences?",
+    "options": [
+      "Venting or dumping of product and materials",
+      "Loss of production and probably damage to equipment",
+      "Unintended chemical reactions, such as decomposition or other runaway reactions",
+      "Increased efficiency of the production process"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Increased efficiency of the production process",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 319,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q320",
+    "question": "Which one is not one of the thermal runaway reaction protective measures?",
+    "options": [
+      "Containment within the reactor",
+      "Increasing reaction catalyst",
+      "Crash cooling",
+      "Drowning and quenching of reactor"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Increasing reaction catalyst",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 320,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q321",
+    "question": "Gasoline vessel being filled until overflow occurred, gasoline covered the ground around the tank and vapor cloud formed and travelled to considerable far distance then caught an ignition source which cause fatalities and several plant damages, what would have prevented this from happening?",
+    "options": [
+      "Hazardous area classification with selection of ATEX certified equipment for the suitable areas.",
+      "Something related to well-trained firefighting teams with suitable equipment.",
+      "Something related to SOP for calculations of filling level accurately.",
+      "Level control and high independent switch and automatic valve which controls the operation."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Level control and high independent switch and automatic valve which controls the operation.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 321,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

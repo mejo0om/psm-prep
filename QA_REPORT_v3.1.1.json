@@ -1,0 +1,103 @@
+{
+  "project": "PSM Prep v3.1.1 Production",
+  "generatedUtc": "2026-08-03T16:32:49.906954+00:00",
+  "sources": {
+    "project": "PSM-Prep-v3.0.1-Fixed(1).zip",
+    "book": "PSM Book(7).pdf",
+    "masterWorkbook": "NEBOSH_PSM_Master_Knowledge_Base_Phase1(2).xlsx"
+  },
+  "summary": {
+    "questions": 556,
+    "practiceQuestions": 356,
+    "examQuestions": 200
+  },
+  "answerAudit": {
+    "correctAnswerFieldsPresent": 556,
+    "missingCorrectAnswerFields": [],
+    "invalidCorrectAnswerOptionLinks": [],
+    "repairedRecords": [
+      {
+        "id": "EX4-Q009",
+        "source": "EX1-Q006"
+      },
+      {
+        "id": "EX4-Q016",
+        "source": "EX1-Q021"
+      },
+      {
+        "id": "EX4-Q023",
+        "source": "EX1-Q022"
+      },
+      {
+        "id": "EX4-Q027",
+        "source": "E4-Q285"
+      },
+      {
+        "id": "EX4-Q035",
+        "source": "EX1-Q038"
+      },
+      {
+        "id": "EX4-Q039",
+        "source": "EX2-Q039"
+      },
+      {
+        "id": "EX5-Q009",
+        "source": "E2-Q120"
+      },
+      {
+        "id": "EX5-Q012",
+        "source": "E3-Q186"
+      },
+      {
+        "id": "EX5-Q017",
+        "source": "E3-Q185"
+      },
+      {
+        "id": "EX5-Q021",
+        "source": "E4-Q256"
+      },
+      {
+        "id": "EX5-Q025",
+        "source": "E1-Q041"
+      },
+      {
+        "id": "EX5-Q034",
+        "source": "E3-Q219"
+      },
+      {
+        "id": "EX5-Q038",
+        "source": "E4-Q352"
+      },
+      {
+        "id": "EX4-Q005",
+        "source": "official-course-terminology"
+      },
+      {
+        "id": "EX4-Q006",
+        "source": "official-course-terminology"
+      },
+      {
+        "id": "EX4-Q031",
+        "source": "official-course-terminology"
+      }
+    ]
+  },
+  "duplicateQuestionIds": [],
+  "missingAuthoritativeFields": {
+    "officialExplanation": 116,
+    "officialReference": 0
+  },
+  "examCounts": {
+    "exam1": 40,
+    "exam2": 40,
+    "exam3": 40,
+    "exam4": 40,
+    "exam5": 40
+  },
+  "status": "STRUCTURALLY_READY; OFFICIAL EXPLANATION GAPS PRESERVED FROM SOURCE",
+  "notes": [
+    "All 556 question records contain a Correct Answer field in the supplied Excel workbook.",
+    "Sixteen previously broken answer-to-option links were restored without replacing existing official explanations.",
+    "Blank official explanations remain blank and are not fabricated."
+  ]
+}

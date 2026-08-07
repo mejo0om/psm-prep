@@ -1,0 +1,768 @@
+[
+  {
+    "id": "MR-E2-Q082",
+    "question": "The key elements of a process safety management system follow the Plan Do Check Act model. 'policy' aligns with which part of the model?",
+    "options": [
+      "Plan",
+      "Do",
+      "Check",
+      "Act"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Plan",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 81,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q083",
+    "question": "Safety objectives means in PSM?",
+    "options": [
+      "Targets",
+      "Aims",
+      "Mission",
+      "Policy"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Aims",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 82,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q084",
+    "question": "PDCA is a key element of ….?",
+    "options": [
+      "HAZOP",
+      "HAZID",
+      "Process safety management system (PSMS)",
+      "None of the other answers"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Process safety management system (PSMS)",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 83,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q085",
+    "question": "All different models of safety management systems follow the same ------- cycle.",
+    "options": [
+      "SMS",
+      "MAPP",
+      "PDCA",
+      "MOC"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "PDCA",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 84,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q086",
+    "question": "Implementation and operations of key elements of a PSM system aligns with which part of the model?",
+    "options": [
+      "Plan.",
+      "Do.",
+      "Check.",
+      "Act."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Do.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 85,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q087",
+    "question": "Management review & ensuring continual improvement is falls under?",
+    "options": [
+      "Act",
+      "Check",
+      "Do",
+      "Plan"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Act",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 86,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q088",
+    "question": "Setting Process Safety Objectives need to follow?",
+    "options": [
+      "PDCA.",
+      "Company Policies.",
+      "Establish overall objectives first.",
+      "None of other answers."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Company Policies.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 87,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q089",
+    "question": "Which of the following is the best indicator of the state of process safety on a plant?",
+    "options": [
+      "The number of lost time injuries",
+      "The number of hours since last injury",
+      "The number of loss of containment incidents",
+      "The rate of sickness absence"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "The number of loss of containment incidents",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 88,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q090",
+    "question": "Process Safety Indicators can be divided into two indicators:",
+    "options": [
+      "Determined and analyzed.",
+      "Fixed and processed.",
+      "Leading and lagging.",
+      "Controlled and Un-controlled."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Leading and lagging.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 89,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q091",
+    "question": "Having process safety objectives that have been identified and are being monitored brings with it many benefits. The most important benefit, when it conies to preventing a major incident is:",
+    "options": [
+      "Robust control measures",
+      "Enjoyable team building",
+      "Sound recruitment policy",
+      "worker satisfaction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Robust control measures",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 90,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q092",
+    "question": "Which of the following is a lagging indicator?",
+    "options": [
+      "Percentage of safety critical equipment successful tests",
+      "Number of safety critical equipment tests",
+      "Percentage of safety critical equipment failures",
+      "Number of safety critical equipment inspections"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Percentage of safety critical equipment failures",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 91,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q093",
+    "question": "Which is not a Potential lagging indicator:",
+    "options": [
+      "Number of unexpected loss-of-containment incidents due to failure of flexi hoses, couplings, pumps, and valves",
+      "Number of loss-of-containments due to blockages in tank vents.",
+      "Number of fires or explosions that result from a static electric ignition.",
+      "Percentage of safety critical plant/equipment that performs within specification when inspected."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Percentage of safety critical plant/equipment that performs within specification when inspected.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 92,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q094",
+    "question": "Which is not a Potential Leading Indicators?",
+    "options": [
+      "Percentage of maintenance actions identified that are completed to the specified timescale.",
+      "Percentage of fault trending carried out to schedule.",
+      "Percentage of safety critical plant and equipment inspections completed to schedule.",
+      "Percentage of safety critical plant/equipment that performs within specification when inspected.",
+      "Number of fires or explosions caused by a source of ignition from faulty or damaged hazardous area electrical installations."
+    ],
+    "correctAnswer": "E",
+    "correctOptionText": "Number of fires or explosions caused by a source of ignition from faulty or damaged hazardous area electrical installations.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 93,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q095",
+    "question": "Inspecting a workplace where contract workers are carrying out work is",
+    "options": [
+      "Actively monitoring.",
+      "Reactively monitoring.",
+      "Condition monitoring.",
+      "Performance monitoring."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Actively monitoring.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 94,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q096",
+    "question": "Following leading indicators ensures?",
+    "options": [
+      "Company Success",
+      "Process Success",
+      "Process Failure",
+      "None of the other answers"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Company Success",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 95,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q097",
+    "question": "Effective process safety management will help an organization meet the -------- obligation.",
+    "options": [
+      "Moral",
+      "Financial",
+      "Legal",
+      "Ethical"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Legal",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 96,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q098",
+    "question": "Emergency plans with monitoring & auditing process falls under?",
+    "options": [
+      "ALARP",
+      "ETA",
+      "HAZOP",
+      "MAPP"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "MAPP",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 97,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q099",
+    "question": "Process safety performance indicators should contain a mix of both leading and lagging indicators. An example of a leading indicator is the number of?",
+    "options": [
+      "Equipment inspections.",
+      "Overpressure incidents.",
+      "Lost time injuries.",
+      "Loss of containments."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Equipment inspections.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 98,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q100",
+    "question": "Reported near misses of a plant which is operated outside of intended operational envelope is considered an example of",
+    "options": [
+      "Leading Indicators",
+      "Process Indicators",
+      "Lagging indicator",
+      "None of the other answers"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Lagging indicator",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 99,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q101",
+    "question": "Determine what can go wrong in the process and identify risk controls is an important step for development & implementation of?",
+    "options": [
+      "Leading Indicators",
+      "Process Safety Indicators",
+      "Lagging Indicators",
+      "None of the other answers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Process Safety Indicators",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 100,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q102",
+    "question": "There are clear legal, -------- and financial reasons for developing a process safety management system.",
+    "options": [
+      "Moral",
+      "Lethal",
+      "Ethical",
+      "Motivational"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Moral",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 101,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q103",
+    "question": "You are trying to convince your Board to adopt a SMS. You are using the argument that a SMS can help you avoid deaths and injuries. What type of this argument?",
+    "options": [
+      "Morale",
+      "Medical",
+      "Municipal",
+      "Moral"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Moral",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 102,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q104",
+    "question": "MAPP stands for",
+    "options": [
+      "Man against performance procedure",
+      "Major accident prevention policy",
+      "All the above.",
+      "None of the other answers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Major accident prevention policy",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 103,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q105",
+    "question": "Systematic, objective, critical evaluation of how well an organization's management system is performing by examining evidence is called",
+    "options": [
+      "Inspection",
+      "Risk Assessment",
+      "Monitoring",
+      "Auditing"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Auditing",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 104,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q106",
+    "question": "In high hazard processes an operator may have to produce a document known as ‘-----------‘to apply for the license to operate.",
+    "options": [
+      "Permit",
+      "Safety Case",
+      "Signed document.",
+      "Consent form"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Safety Case",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 105,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q107",
+    "question": "In overviewing of the six steps to setting performance indicators, deciding on the scope of the measurement system and considering what can go wrong and where, comes at:",
+    "options": [
+      "Step 1",
+      "Step 2",
+      "Step 3",
+      "Step 4",
+      "Step 5",
+      "Step 6"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Step 2",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 106,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q108",
+    "question": "In overviewing of the six steps to setting performance indicators, Identify the risk control systems in place to prevent major accidents. Decide on the outcomes for each and set a lagging indicator:",
+    "options": [
+      "Step 1",
+      "Step 2",
+      "Step 3",
+      "Step 4",
+      "Step 5",
+      "Step 6"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Step 3",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 107,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q109",
+    "question": "In PSMS Elements which one covers the normal operations, start-up and shut-down procedures, maintenance, cleaning and emergency situations:",
+    "options": [
+      "Hazard Analysis",
+      "Management of Change",
+      "Competence Management",
+      "Operation within designed intent"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Operation within designed intent",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 108,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q110",
+    "question": "Piper Alpha (UK, Offshore, 1987), was caused by:",
+    "options": [
+      "Design and Engineering Flaw",
+      "Lack of Safety rules",
+      "Lack of Audits",
+      "Un-controllable measures"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Design and Engineering Flaw",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 109,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q111",
+    "question": "Which statement is not related to \"Desired safety outcomes\" in PSM:",
+    "options": [
+      "No unexpected loss of containment due to failure of flexi hoses, couplings, pumps, valves, flanges, fixed.",
+      "No unexpected loss of containment due to blockages in tank vents.",
+      "No fires or explosions due to static electric ignition.",
+      "No fires or explosions caused by a source of ignition from faulty or damaged hazardous area electrical.",
+      "None of other answers."
+    ],
+    "correctAnswer": "E",
+    "correctOptionText": "None of other answers.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 110,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q112",
+    "question": "The main purpose of the andit is:",
+    "options": [
+      "Benchmarking against other organization’s performance.",
+      "identify area of improvement that can enhance the organization’s performance",
+      "Comparing the organisation with other similar organizations.",
+      "Ensuring complete transparency to external stakeholders."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "identify area of improvement that can enhance the organization’s performance",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 111,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q113",
+    "question": "Health and Safety policy in an organization is :",
+    "options": [
+      "Clear demonstration of the aim of an organization toward health and safety.",
+      "Vision of the management on how managing workplace safety",
+      "Risk assessment statement",
+      "A formal statement of commitment to ensuring the health and safety."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A formal statement of commitment to ensuring the health and safety.",
+    "element": 2,
+    "part": "2.1",
+    "sourceQuestion": 112,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q114",
+    "question": "What is the purpose of Risk Assessment?",
+    "options": [
+      "Workplace safety",
+      "Risk reduction",
+      "Both Workplace safety & Risk reduction",
+      "Legal compliance"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both Workplace safety & Risk reduction",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 113,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q115",
+    "question": "It's very common practice to segregate an accommodation block from process plant. Which type of risk control is this an example of?",
+    "options": [
+      "Elimination",
+      "Engineering control",
+      "Administrative control",
+      "Substitution"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Engineering control",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 114,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q116",
+    "question": "Quantitative risk assessment differs from qualitative risk assessment because it is more:",
+    "options": [
+      "Adaptive.",
+      "Objective.",
+      "Subjective.",
+      "Detective."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Objective.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 115,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q117",
+    "question": "Recording the significant findings\" is the -------step of Risk Assessment.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "4",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 116,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q118",
+    "question": "---------------- Risk assessment may be used to determine the downtime for any component and set the design target for it.",
+    "options": [
+      "FARSI",
+      "Qualitative",
+      "Quantitative",
+      "Semi-Quantitative"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Quantitative",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 117,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q119",
+    "question": "According to the methods to access the level of risks the process in which full quantification occurs by the use of known data comes under:",
+    "options": [
+      "Qualitative risk assessment",
+      "Semi- quantitative risk assessment",
+      "Quantified risk assessment",
+      "Subjectively risk assessment"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Quantified risk assessment",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 118,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q120",
+    "question": "LOD (Lines of Defense) or LOP (Layers of Protection) comes under:",
+    "options": [
+      "FMEA",
+      "HAZID",
+      "Bow Tie Model",
+      "HAZOP"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Bow Tie Model",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 119,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q121",
+    "question": "Which statement is not correct related to Bow Tie Model:",
+    "options": [
+      "can be identified that can be placed between the initiator (the triggering event) to either prevent it from happening or to mitigate the outcome.",
+      "These can be termed, ‘lines of defense’ (LOD) or ‘layers of protection’ (LOP) and are exactly that – actions which, if implemented, could prevent the initiating event from resulting in a release or harm, or mitigating the consequences should it occur.",
+      "When Bowtie drawn, each of the barriers can be labelled with a reference number to make recording of the barriers easier",
+      "Hazard realization does not require the assessor to act as a ‘prophet of doom’ and look at worst-case scenarios."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Hazard realization does not require the assessor to act as a ‘prophet of doom’ and look at worst-case scenarios.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 120,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

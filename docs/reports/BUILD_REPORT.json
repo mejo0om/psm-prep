@@ -1,0 +1,17 @@
+{
+  "build": "PSM Prep v2.2",
+  "officialExam1Questions": 40,
+  "generatedExamQuestions": 40,
+  "verifiedFiles": [
+    "exam.html",
+    "js/exam.js",
+    "js/practice.js",
+    "data/exams/exam1.json"
+  ],
+  "checks": {
+    "officialExamHas40": true,
+    "generateButtonExists": true,
+    "generateHandlerExists": true,
+    "flashResumeExists": true
+  }
+}

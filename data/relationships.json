@@ -1,0 +1,3424 @@
+{
+  "meta": {
+    "schemaVersion": "3.0.0",
+    "generatedFrom": [
+      "PSM Prep v2.3.1 databases",
+      "NEBOSH PSM Master Knowledge Base Phase 1",
+      "Official NEBOSH HSE Process Safety Management Book"
+    ],
+    "singleSourceOfTruth": "concepts.json",
+    "authoritativeSource": "Official NEBOSH HSE Process Safety Management Book, Edition 1 Version 1"
+  },
+  "items": [
+    {
+      "id": "R00001",
+      "source": "C0030",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00002",
+      "source": "C0030",
+      "target": "C0106",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00003",
+      "source": "C0030",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00004",
+      "source": "C0128",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00005",
+      "source": "C0061",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00006",
+      "source": "C0151",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00007",
+      "source": "C0151",
+      "target": "C0138",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00008",
+      "source": "C0164",
+      "target": "C0136",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00009",
+      "source": "C0162",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00010",
+      "source": "C0162",
+      "target": "C0018",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00011",
+      "source": "C0062",
+      "target": "C0007",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00012",
+      "source": "C0062",
+      "target": "C0171",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00013",
+      "source": "C0030",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00014",
+      "source": "C0030",
+      "target": "C0035",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00015",
+      "source": "C0008",
+      "target": "C0007",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00016",
+      "source": "C0062",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00017",
+      "source": "C0062",
+      "target": "C0152",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00018",
+      "source": "C0168",
+      "target": "C0106",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00019",
+      "source": "C0168",
+      "target": "C0030",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00020",
+      "source": "C0168",
+      "target": "C0179",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00021",
+      "source": "C0168",
+      "target": "C0171",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00022",
+      "source": "C0168",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00023",
+      "source": "C0127",
+      "target": "C0173",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00024",
+      "source": "C0127",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00025",
+      "source": "C0127",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00026",
+      "source": "C0127",
+      "target": "C0167",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00027",
+      "source": "C0169",
+      "target": "C0185",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00028",
+      "source": "C0169",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00029",
+      "source": "C0172",
+      "target": "C0171",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00030",
+      "source": "C0172",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00031",
+      "source": "C0199",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00032",
+      "source": "C0172",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00033",
+      "source": "C0074",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00034",
+      "source": "C0074",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00035",
+      "source": "C0055",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00036",
+      "source": "C0021",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00037",
+      "source": "C0199",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00038",
+      "source": "C0055",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00039",
+      "source": "C0075",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00040",
+      "source": "C0075",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00041",
+      "source": "C0074",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00042",
+      "source": "C0061",
+      "target": "C0030",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00043",
+      "source": "C0075",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00044",
+      "source": "C0075",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00045",
+      "source": "C0127",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00046",
+      "source": "C0021",
+      "target": "C0171",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00047",
+      "source": "C0021",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00048",
+      "source": "C0021",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00049",
+      "source": "C0021",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00050",
+      "source": "C0074",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00051",
+      "source": "C0074",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00052",
+      "source": "C0074",
+      "target": "C0047",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00053",
+      "source": "C0128",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00054",
+      "source": "C0128",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00055",
+      "source": "C0128",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00056",
+      "source": "C0035",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00057",
+      "source": "C0119",
+      "target": "C0030",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00058",
+      "source": "C0119",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00059",
+      "source": "C0119",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00060",
+      "source": "C0119",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00061",
+      "source": "C0128",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00062",
+      "source": "C0150",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00063",
+      "source": "C0150",
+      "target": "C0106",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00064",
+      "source": "C0164",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00065",
+      "source": "C0035",
+      "target": "C0007",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00066",
+      "source": "C0162",
+      "target": "C0089",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00067",
+      "source": "C0062",
+      "target": "C0185",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00068",
+      "source": "C0062",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00069",
+      "source": "C0062",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00070",
+      "source": "C0127",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00071",
+      "source": "C0055",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00072",
+      "source": "C0048",
+      "target": "C0161",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00073",
+      "source": "C0048",
+      "target": "C0199",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00074",
+      "source": "C0048",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00075",
+      "source": "C0048",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00076",
+      "source": "C0048",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00077",
+      "source": "C0048",
+      "target": "C0047",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00078",
+      "source": "C0021",
+      "target": "C0071",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00079",
+      "source": "C0156",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00080",
+      "source": "C0008",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00081",
+      "source": "C0008",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00082",
+      "source": "C0156",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00083",
+      "source": "C0156",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00084",
+      "source": "C0168",
+      "target": "C0136",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00085",
+      "source": "C0061",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00086",
+      "source": "C0061",
+      "target": "C0047",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00087",
+      "source": "C0203",
+      "target": "C0128",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00088",
+      "source": "C0203",
+      "target": "C0035",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00089",
+      "source": "C0128",
+      "target": "C0119",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00090",
+      "source": "C0035",
+      "target": "C0136",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00091",
+      "source": "C0162",
+      "target": "C0035",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00092",
+      "source": "C0162",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00093",
+      "source": "C0127",
+      "target": "C0185",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00094",
+      "source": "C0008",
+      "target": "C0167",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00095",
+      "source": "C0035",
+      "target": "C0179",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00096",
+      "source": "C0035",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00097",
+      "source": "C0199",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00098",
+      "source": "C0199",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00099",
+      "source": "C0021",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00100",
+      "source": "C0162",
+      "target": "C0071",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00101",
+      "source": "C0061",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00102",
+      "source": "C0075",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00103",
+      "source": "C0075",
+      "target": "C0047",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00104",
+      "source": "C0062",
+      "target": "C0068",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00105",
+      "source": "C0061",
+      "target": "C0020",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00106",
+      "source": "C0075",
+      "target": "C0149",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00107",
+      "source": "C0030",
+      "target": "C0119",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00108",
+      "source": "C0030",
+      "target": "C0171",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00109",
+      "source": "C0030",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00110",
+      "source": "C0030",
+      "target": "C0152",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00111",
+      "source": "C0030",
+      "target": "C0007",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00112",
+      "source": "C0035",
+      "target": "C0088",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00113",
+      "source": "C0035",
+      "target": "C0065",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00114",
+      "source": "C0035",
+      "target": "C0071",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00115",
+      "source": "C0035",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00116",
+      "source": "C0008",
+      "target": "C0185",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00117",
+      "source": "C0021",
+      "target": "C0007",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00118",
+      "source": "C0061",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00119",
+      "source": "C0061",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00120",
+      "source": "C0151",
+      "target": "C0040",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00121",
+      "source": "C0151",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00122",
+      "source": "C0150",
+      "target": "C0138",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00123",
+      "source": "C0035",
+      "target": "C0127",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00124",
+      "source": "C0164",
+      "target": "C0052",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00125",
+      "source": "C0164",
+      "target": "C0079",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00126",
+      "source": "C0008",
+      "target": "C0127",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00127",
+      "source": "C0074",
+      "target": "C0061",
+      "type": "Parent",
+      "bidirectional": false,
+      "confidence": 0.9,
+      "evidence": "Official book section mapping in question database",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00128",
+      "source": "C0030",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00129",
+      "source": "C0030",
+      "target": "C0106",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00130",
+      "source": "C0030",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00131",
+      "source": "C0149",
+      "target": "C0106",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00132",
+      "source": "C0149",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00133",
+      "source": "C0106",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00134",
+      "source": "C0128",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q002",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00135",
+      "source": "C0061",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q003",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00136",
+      "source": "C0151",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00137",
+      "source": "C0151",
+      "target": "C0138",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00138",
+      "source": "C0149",
+      "target": "C0138",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00139",
+      "source": "C0164",
+      "target": "C0136",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q005",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00140",
+      "source": "C0162",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00141",
+      "source": "C0162",
+      "target": "C0018",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00142",
+      "source": "C0161",
+      "target": "C0018",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00143",
+      "source": "C0062",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q007",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00144",
+      "source": "C0062",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q007",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00145",
+      "source": "C0007",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q007",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00146",
+      "source": "C0030",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q008",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00147",
+      "source": "C0030",
+      "target": "C0035",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q008",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00148",
+      "source": "C0149",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q008",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00149",
+      "source": "C0149",
+      "target": "C0035",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q008",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00150",
+      "source": "C0161",
+      "target": "C0035",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q008",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00151",
+      "source": "C0008",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q009",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00152",
+      "source": "C0062",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q011",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00153",
+      "source": "C0062",
+      "target": "C0152",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q011",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00154",
+      "source": "C0149",
+      "target": "C0152",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q011",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00155",
+      "source": "C0168",
+      "target": "C0106",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00156",
+      "source": "C0168",
+      "target": "C0030",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00157",
+      "source": "C0168",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00158",
+      "source": "C0168",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00159",
+      "source": "C0106",
+      "target": "C0030",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00160",
+      "source": "C0106",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00161",
+      "source": "C0106",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00162",
+      "source": "C0030",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00163",
+      "source": "C0030",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00164",
+      "source": "C0179",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00165",
+      "source": "C0127",
+      "target": "C0173",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00166",
+      "source": "C0127",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00167",
+      "source": "C0127",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00168",
+      "source": "C0173",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00169",
+      "source": "C0173",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00170",
+      "source": "C0020",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00171",
+      "source": "C0127",
+      "target": "C0167",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q016",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00172",
+      "source": "C0169",
+      "target": "C0185",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q017",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00173",
+      "source": "C0169",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q017",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00174",
+      "source": "C0185",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q017",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00175",
+      "source": "C0172",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00176",
+      "source": "C0172",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00177",
+      "source": "C0171",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00178",
+      "source": "C0199",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q019",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00179",
+      "source": "C0172",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00180",
+      "source": "C0149",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00181",
+      "source": "C0074",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00182",
+      "source": "C0074",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00183",
+      "source": "C0040",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00184",
+      "source": "C0055",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q022",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00185",
+      "source": "C0021",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q023",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00186",
+      "source": "C0199",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q024",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00187",
+      "source": "C0055",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q025",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00188",
+      "source": "C0075",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q028",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00189",
+      "source": "C0075",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q028",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00190",
+      "source": "C0074",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q029",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00191",
+      "source": "C0079",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q029",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00192",
+      "source": "C0061",
+      "target": "C0030",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q030",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00193",
+      "source": "C0075",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00194",
+      "source": "C0075",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00195",
+      "source": "C0040",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00196",
+      "source": "C0040",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00197",
+      "source": "C0020",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00198",
+      "source": "C0127",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q032",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00199",
+      "source": "C0021",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00200",
+      "source": "C0021",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00201",
+      "source": "C0021",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00202",
+      "source": "C0171",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00203",
+      "source": "C0171",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00204",
+      "source": "C0171",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00205",
+      "source": "C0020",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00206",
+      "source": "C0074",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q034",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00207",
+      "source": "C0074",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00208",
+      "source": "C0074",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00209",
+      "source": "C0052",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00210",
+      "source": "C0052",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00211",
+      "source": "C0040",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00212",
+      "source": "C0128",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q037",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00213",
+      "source": "C0128",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q037",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00214",
+      "source": "C0128",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q037",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00215",
+      "source": "C0079",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q037",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00216",
+      "source": "C0035",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q038",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00217",
+      "source": "C0119",
+      "target": "C0030",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00218",
+      "source": "C0119",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00219",
+      "source": "C0119",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00220",
+      "source": "C0119",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00221",
+      "source": "C0030",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00222",
+      "source": "C0030",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00223",
+      "source": "C0161",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00224",
+      "source": "C0161",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q039",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00225",
+      "source": "C0128",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX2-Q040",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00226",
+      "source": "C0150",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q002",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00227",
+      "source": "C0150",
+      "target": "C0106",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q002",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00228",
+      "source": "C0164",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q005",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00229",
+      "source": "C0035",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00230",
+      "source": "C0161",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00231",
+      "source": "C0162",
+      "target": "C0089",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q007",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00232",
+      "source": "C0161",
+      "target": "C0089",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q007",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00233",
+      "source": "C0062",
+      "target": "C0185",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00234",
+      "source": "C0062",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00235",
+      "source": "C0062",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00236",
+      "source": "C0149",
+      "target": "C0185",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00237",
+      "source": "C0149",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00238",
+      "source": "C0185",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00239",
+      "source": "C0168",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q012",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00240",
+      "source": "C0179",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q012",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00241",
+      "source": "C0127",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q016",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00242",
+      "source": "C0167",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q016",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00243",
+      "source": "C0167",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q016",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00244",
+      "source": "C0055",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00245",
+      "source": "C0052",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00246",
+      "source": "C0048",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00247",
+      "source": "C0048",
+      "target": "C0199",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00248",
+      "source": "C0048",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00249",
+      "source": "C0048",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00250",
+      "source": "C0161",
+      "target": "C0199",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00251",
+      "source": "C0161",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00252",
+      "source": "C0161",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00253",
+      "source": "C0199",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q021",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00254",
+      "source": "C0021",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q023",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00255",
+      "source": "C0156",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q024",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00256",
+      "source": "C0048",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q027",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00257",
+      "source": "C0048",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q027",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00258",
+      "source": "C0079",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q027",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00259",
+      "source": "C0068",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q027",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00260",
+      "source": "C0008",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q028",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00261",
+      "source": "C0008",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q028",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00262",
+      "source": "C0156",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00263",
+      "source": "C0156",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00264",
+      "source": "C0168",
+      "target": "C0136",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00265",
+      "source": "C0136",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q035",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00266",
+      "source": "C0061",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q036",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00267",
+      "source": "C0061",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX3-Q036",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00268",
+      "source": "C0203",
+      "target": "C0128",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00269",
+      "source": "C0203",
+      "target": "C0035",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q003",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00270",
+      "source": "C0128",
+      "target": "C0119",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00271",
+      "source": "C0136",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q010",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00272",
+      "source": "C0035",
+      "target": "C0136",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q012",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00273",
+      "source": "C0162",
+      "target": "C0035",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00274",
+      "source": "C0162",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00275",
+      "source": "C0035",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q014",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00276",
+      "source": "C0127",
+      "target": "C0185",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00277",
+      "source": "C0008",
+      "target": "C0167",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q017",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00278",
+      "source": "C0035",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00279",
+      "source": "C0035",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00280",
+      "source": "C0007",
+      "target": "C0179",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00281",
+      "source": "C0007",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00282",
+      "source": "C0179",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q018",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00283",
+      "source": "C0199",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00284",
+      "source": "C0199",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00285",
+      "source": "C0052",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q020",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00286",
+      "source": "C0021",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q022",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00287",
+      "source": "C0052",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q022",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00288",
+      "source": "C0162",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q023",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00289",
+      "source": "C0061",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q025",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00290",
+      "source": "C0075",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q030",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00291",
+      "source": "C0075",
+      "target": "C0047",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q030",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00292",
+      "source": "C0062",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00293",
+      "source": "C0149",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00294",
+      "source": "C0152",
+      "target": "C0068",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00295",
+      "source": "C0061",
+      "target": "C0020",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q033",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00296",
+      "source": "C0075",
+      "target": "C0149",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q038",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00297",
+      "source": "C0149",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX4-Q038",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00298",
+      "source": "C0030",
+      "target": "C0119",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00299",
+      "source": "C0149",
+      "target": "C0119",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00300",
+      "source": "C0106",
+      "target": "C0119",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00301",
+      "source": "C0119",
+      "target": "C0171",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q001",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00302",
+      "source": "C0030",
+      "target": "C0152",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00303",
+      "source": "C0030",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00304",
+      "source": "C0152",
+      "target": "C0161",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00305",
+      "source": "C0152",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q004",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00306",
+      "source": "C0035",
+      "target": "C0088",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00307",
+      "source": "C0035",
+      "target": "C0065",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00308",
+      "source": "C0035",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00309",
+      "source": "C0161",
+      "target": "C0088",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00310",
+      "source": "C0161",
+      "target": "C0065",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00311",
+      "source": "C0161",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00312",
+      "source": "C0088",
+      "target": "C0065",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00313",
+      "source": "C0088",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00314",
+      "source": "C0065",
+      "target": "C0071",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q006",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00315",
+      "source": "C0035",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q011",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00316",
+      "source": "C0179",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q011",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00317",
+      "source": "C0008",
+      "target": "C0185",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q015",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00318",
+      "source": "C0021",
+      "target": "C0007",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q016",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00319",
+      "source": "C0061",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q019",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00320",
+      "source": "C0061",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q023",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00321",
+      "source": "C0151",
+      "target": "C0040",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q024",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00322",
+      "source": "C0151",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q024",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00323",
+      "source": "C0040",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q024",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00324",
+      "source": "C0150",
+      "target": "C0138",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q026",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00325",
+      "source": "C0138",
+      "target": "C0106",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q026",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00326",
+      "source": "C0035",
+      "target": "C0127",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q027",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00327",
+      "source": "C0164",
+      "target": "C0052",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00328",
+      "source": "C0164",
+      "target": "C0079",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q031",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00329",
+      "source": "C0008",
+      "target": "C0127",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q032",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00330",
+      "source": "C0074",
+      "target": "C0061",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.75,
+      "evidence": "Co-mapped to question EX5-Q038",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00331",
+      "source": "C0147",
+      "target": "C0157",
+      "type": "Compared With",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00332",
+      "source": "C0202",
+      "target": "C0089",
+      "type": "Compared With",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00333",
+      "source": "C0089",
+      "target": "C0085",
+      "type": "Uses",
+      "bidirectional": false,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00334",
+      "source": "C0073",
+      "target": "C0065",
+      "type": "Compared With",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00335",
+      "source": "C0114",
+      "target": "C0096",
+      "type": "Uses",
+      "bidirectional": false,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00336",
+      "source": "C0078",
+      "target": "C0077",
+      "type": "Compared With",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00337",
+      "source": "C0047",
+      "target": "C0070",
+      "type": "Related To",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00338",
+      "source": "C0119",
+      "target": "C0161",
+      "type": "Requires",
+      "bidirectional": false,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00339",
+      "source": "C0136",
+      "target": "C0103",
+      "type": "Requires",
+      "bidirectional": false,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00340",
+      "source": "C0115",
+      "target": "C0068",
+      "type": "Hazard",
+      "bidirectional": false,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    },
+    {
+      "id": "R00341",
+      "source": "C0165",
+      "target": "C0092",
+      "type": "Compared With",
+      "bidirectional": true,
+      "confidence": 0.95,
+      "evidence": "Relationship stated or directly supported by the official course-book structure and terminology",
+      "verificationStatus": "Evidence-based"
+    }
+  ]
+}

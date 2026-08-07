@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E4-Q360",
+    "question": "Hot gases from fires naturally rise through voids and ducts. This behavior is known as",
+    "options": [
+      "Convection",
+      "Direct burning",
+      "Radiation",
+      "Conduction"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Convection",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 361,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q361",
+    "question": "The transfer of heat through solids is known as",
+    "options": [
+      "Convection.",
+      "Direct Burning.",
+      "Radiation.",
+      "Conduction."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Conduction.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 362,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q362",
+    "question": "The transfer of infrared rays from the hot object follows the phenomenon of:",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Burning"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Radiation",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 363,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q363",
+    "question": "A material that will readily catch fire if ignited by a heat source. The terms ‘combustible’ and ‘inflammable’ mean the same thing.",
+    "options": [
+      "Flammable",
+      "Toxic",
+      "Explosive",
+      "Caustic"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Flammable",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 364,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q364",
+    "question": "In order for a fire to start, there must be three elements present namely:",
+    "options": [
+      "Heat, fuel and oxygen",
+      "Heat , CH4 and nitrogen",
+      "Fuel, Chemicals and oxygen",
+      "Heat, fuel, air"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Heat, fuel and oxygen",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 365,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q365",
+    "question": "According to the concept of the fire triangle, which of the following actions would most effectively prevent a fire from starting?",
+    "options": [
+      "It is necessary to remove the three sides of the fire triangle together.",
+      "Only one side (element) of the fire triangle needs to be removed.",
+      "It is necessary to remove the sides of the fire triangle in a specific order.",
+      "It is necessary to remove two sides at least of the fire triangle."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Only one side (element) of the fire triangle needs to be removed.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 366,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q366",
+    "question": "What minimum percentage level of oxygen would be needed to complete a fire triangle along with Chain Reaction?",
+    "options": [
+      "20%",
+      "23.5%",
+      "16%",
+      "10%"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "16%",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 367,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q367",
+    "question": "Flammable liquid leaked from a storage vessel into the bund Liquid also began to leak through cracks in the bund and flow towards electrical pump used to empty the bund rainwater. Within minutes the entire bund was on fire, taking hours to extinguish. What is the best description of this type of fire?",
+    "options": [
+      "Jet fire.",
+      "Pool fire.",
+      "Flash fire.",
+      "Secondary fire."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pool fire.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 368,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q368",
+    "question": "What are the main requirements of a Vapor Cloud Explosion (VCE)?",
+    "options": [
+      "Flammable gas-air cloud within its flammable limits, ignited with congestion and/or confinement present.",
+      "Inert gas cloud within congestion and/or confinement.",
+      "Flammable gas mixed with air outside of its flammable limits.",
+      "Flammable liquid at a temperature below its flash point."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Flammable gas-air cloud within its flammable limits, ignited with congestion and/or confinement present.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 369,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q369",
+    "question": "One of the main requirements of a Pool Fire?",
+    "options": [
+      "Flammable liquid pool at a temperature above its flash point.",
+      "Flammable gas cloud within its flammable limits.",
+      "Flammable liquid in a cryogenic state.",
+      "Flammable liquid pool at a temperature below its flash point."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Flammable liquid pool at a temperature above its flash point.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 370,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q370",
+    "question": "Within minutes the entire bund was on fire, taking several hours to extinguish. What s the best description of this type of the fire.",
+    "options": [
+      "Jet fire",
+      "Pool fire",
+      "Flash fire",
+      "Secondary fire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pool fire",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 371,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q371",
+    "question": "An accident occurred at a gasoline distillation tower. The incident resulted in an overpressure situation, causing the pressure relief valve to activate and send excess product to the knockout drum. Due to an overflow in the knockout drum, a large hot vapor cloud was released from the stack. This vapor cloud then traveled some distance before finding an ignition source, resulting in a significant explosion. What type of explosion most likely occurred in this scenario?",
+    "options": [
+      "Unconfined Vapor Cloud Explosion (UCVE)",
+      "Confined Vapor Cloud Explosion (CVCE)",
+      "Boiling Liquid Expanding Vapor Explosion (BLEVE)",
+      "Fireball"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Unconfined Vapor Cloud Explosion (UCVE)",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 372,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q372",
+    "question": "The typical mechanism of external jet fire attack when the tank walls heat up is called?",
+    "options": [
+      "CVCE",
+      "UVCE",
+      "BELVE",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "BELVE",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 373,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q373",
+    "question": "What does BLEVE stand for?",
+    "options": [
+      "Below Liquid Expanding Vaporing Explosion.",
+      "Boiling Liquid Expanding Vapor Explosion.",
+      "Bottle Liquid Expanding Vapor Explosion.",
+      "Below Level Evaporating Vapor Explosion."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Boiling Liquid Expanding Vapor Explosion.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 374,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q374",
+    "question": "A tank containing liquefied petroleum gas (LPG) became engulfed in fire from a nearby warehouse. After a short time, the tank exploded causing damage over a large area. What is the most likely type of event that caused this damage?",
+    "options": [
+      "A boiling liquid expanding vapor explosion.",
+      "A jet fire.",
+      "A pool fire.",
+      "A confined vapor cloud explosion."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "A boiling liquid expanding vapor explosion.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 375,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q375",
+    "question": "A propane liquid pipeline under pressure develops a leak, the leak discharges and flashes off into a gas and ignites causing a turbulent diffusion flame with some significant momentum, what is the best description of this type of fire?",
+    "options": [
+      "Fire Ball.",
+      "Flash Fire",
+      "Jet Fire.",
+      "Pool Fire."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Jet Fire.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 376,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q376",
+    "question": "An LPG tank which is 50% full at the time is directly heated by an external fire. The LPG boils, which in turn increases the pressure that subsequently opens an integral Pressure Relief Valve (PRV). The LPG surface level reduces inside the tank and the external fire begins to heat the tank above the liquid level more and more. Eventually the LPG tank metal thins, weakens, and ruptures. What type of explosion is described herein?",
+    "options": [
+      "Unconfined vapor cloud explosion.",
+      "Bursting pressure vessel.",
+      "Boiling liquid expanding vapor explosion.",
+      "Confined vapor cloud explosion."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Boiling liquid expanding vapor explosion.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 377,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q377",
+    "question": "An external fire directly heats a vessel containing a flammable liquiD. The liquid begins to boil, increasing the pressure which opens PRV. The level inside the vessel lowers and the fire begins to heat the vessel above the liquid. The vessel metal thins, weakens and ruptures. What type of explosion does this describe?",
+    "options": [
+      "A confined vapor cloud explosion.",
+      "A secondary explosion.",
+      "A boiling liquid expanding vapor explosion.",
+      "An unconfined vapor cloud explosion."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "A boiling liquid expanding vapor explosion.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 378,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q378",
+    "question": "Following a tank overflow, a flammable vapor travelled away across road, contacted an ignition source, and exploded. What type of explosion?",
+    "options": [
+      "A confined vapor cloud explosion",
+      "A secondary explosion",
+      "A boiling liquid expanding vapor explosion",
+      "An unconfined vapor cloud explosion"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "An unconfined vapor cloud explosion",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 379,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q379",
+    "question": "A small down-hole tool, used in the offshore industry, is pressure tested with air or nitrogen gas to 700 bar. A fitting at the end of the tool fails and the pressurized gas inside is released. What are the main consequences of such event?",
+    "options": [
+      "Pressure wave.",
+      "Missile/ projectile.",
+      "Fragmentation",
+      "All of the other answers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 380,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q380",
+    "question": "In a chemical processing plant, a mixture of flammable gases leaked into a small, enclosed maintenance shed. The shed was not in use, and the doors and windows were closed, trapping the gas mixture inside. Over time, the concentration of the gas reached explosive levels. When a maintenance worker entered the shed and turned on a light switch, an explosion occurred. Based on the given scenario, what type of explosion has occurred, and what is the typical mechanism involved?",
+    "options": [
+      "Unconfined Vapor Cloud Explosion (UVCE) — Explosion occurs in open air, spreading over a wide area with lower overpressures.",
+      "Confined Vapor Cloud Explosion (CVCE) — Explosion occurs in an enclosed or semi-enclosed area, resulting in higher overpressures due to confinement.",
+      "Chemical Detonation — High-speed explosion that occurs through a supersonic exothermic front.",
+      "Thermal Runaway Reaction — Exothermic reaction accelerating out of control, causing a temperature rise and subsequent explosion."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Confined Vapor Cloud Explosion (CVCE) — Explosion occurs in an enclosed or semi-enclosed area, resulting in higher overpressures due to confinement.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 381,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q381",
+    "question": "At a fuel storage facility, a large volume of vapor was released from a ruptured pipeline during a transfer operation. The vapor formed a cloud that drifted across the facility grounds. Environmental conditions prevented the vapor from dispersing quickly. When the vapor cloud found an ignition source near an operating pump, a large-scale explosion ensued, affecting a wide area. What type of explosion occurred in this scenario, and what is the typical mechanism?",
+    "options": [
+      "Unconfined Vapor Cloud Explosion (UVCE) — Explosion occurs in open air, spreading over a wide area with lower overpressures compared to confined explosions.",
+      "Confined Vapor Cloud Explosion (CVCE) — Explosion takes place in a restricted environment, significantly increasing the blast force and damage within that confined space.",
+      "Chemical Detonation — Occurs with a very high-speed propagation of reaction zone, often leading to shock waves.",
+      "Thermal Runaway Reaction — A process in which an increase in temperature changes the conditions in a way that causes a further increase in temperature."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Unconfined Vapor Cloud Explosion (UVCE) — Explosion occurs in open air, spreading over a wide area with lower overpressures compared to confined explosions.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 382,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q382",
+    "question": "At an oil refinery, a large quantity of crude oil spilled from a ruptured storage tank. The oil formed a significant pool around the tank. Due to high ambient temperatures, the oil started to evaporate, forming a flammable vapor cloud. Eventually, this cloud found an ignition source, and a fire ensued, burning intensely at the surface of the oil pool and generating thick black smoke. What type of fire occurred in this scenario, and what is the typical mechanism involved?",
+    "options": [
+      "Jet Fire — A fire resulting from a high-pressure release of gas or liquid fuel that remains coherent and directional.",
+      "Pool Fire — A fire that burns over a horizontal pool of flammable liquid, primarily influenced by the wind direction and speed.",
+      "Flash Fire — A fire that spreads rapidly through a diffuse fuel, such as a cloud of dust or gas, without creating a significant blast wave.",
+      "Fireball — A fire that occurs when a large amount of flammable substance is suddenly released into the atmosphere and ignites, causing a spherical fire."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pool Fire — A fire that burns over a horizontal pool of flammable liquid, primarily influenced by the wind direction and speed.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 383,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q383",
+    "question": "In a gas processing facility, a high-pressure pipeline containing liquefied natural gas (LNG) developed a leak due to material fatigue. This resulted in a high-velocity jet of LNG escaping from the pipeline. When the LNG came into contact with an external heat source, it ignited, creating a fire that projected outward from the leak in a well-defined, narrow shape, resembling a blowtorch. Based on the description, what type of fire occurred, and what are the typical characteristics of this fire?",
+    "options": [
+      "Jet Fire — A fire that occurs from a high-pressure release of gas or liquid fuel, producing a long, narrow flame that can cause significant thermal radiation damage at a distance.",
+      "Pool Fire — A fire that involves a large, flat expanse of combustible liquid, burning in a more static and less directional manner.",
+      "Flash Fire — A rapid fire spread through an airborne concentration of combustible particles or gases, typically without significant directional force.",
+      "Fireball — Occurs when a significant volume of flammable gas mixes with air and ignites, leading to an explosive, spherical expansion of fire."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Jet Fire — A fire that occurs from a high-pressure release of gas or liquid fuel, producing a long, narrow flame that can cause significant thermal radiation damage at a distance.",
+    "element": 4,
+    "part": "4.1",
+    "sourceQuestion": 384,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q384",
+    "question": "Which is the preferred fire extinguishing media in a typical process control room:",
+    "options": [
+      "Chemical powder",
+      "Foam deluge",
+      "Carbon dioxide",
+      "Water deluge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Carbon dioxide",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 385,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q385",
+    "question": "What is the preferred fire extinguishing medium in a typical process plant server room which contains very expensive equipment and hold crucial information?",
+    "options": [
+      "Carbon dioxide.",
+      "Water deluge.",
+      "Chemical powder.",
+      "Foam deluge."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Carbon dioxide.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 386,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q386",
+    "question": "In fire-fighting typically -------- is used in domestic and office areas and also at some plants.",
+    "options": [
+      "O2",
+      "CO2",
+      "Argon",
+      "Nitrogen"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "CO2",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 387,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q387",
+    "question": "The appropriate type of fire extinguisher to use on metal fires is",
+    "options": [
+      "Water",
+      "Foam",
+      "Dry powder",
+      "CO2"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Dry powder",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 388,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q388",
+    "question": "Which type of fire extinguishing medium works by the mechanisms of suffocation and vapor suppression?",
+    "options": [
+      "Powder",
+      "Foam",
+      "Inert",
+      "Water"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Foam",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 389,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q389",
+    "question": "Radiation emitted by fire is detectable with?",
+    "options": [
+      "Line detectors",
+      "Spot detectors",
+      "Flame detectors",
+      "Heat detectors"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Flame detectors",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 390,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q390",
+    "question": "With regard to PSM, chemical warehouses should be managed and routinely inspected to ensure that:",
+    "options": [
+      "Production is not affected is stock runs low.",
+      "Incompatible materials are kept separated.",
+      "Material can be stockpiled ready for use.",
+      "Stock is not left outside where it could become contaminated."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Incompatible materials are kept separated.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 391,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q391",
+    "question": "Active & passive fire protection systems are derived from?",
+    "options": [
+      "ISO 45001: 2018",
+      "NFPA-USA",
+      "EN ISO 13702: 1999",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "EN ISO 13702: 1999",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 392,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q392",
+    "question": "Equipment, systems and methods, which, following initiation, may be used to control, mitigate and extinguish fires.",
+    "options": [
+      "Passive Fire Protection",
+      "Active Fire Protection",
+      "Wet Fire Protection",
+      "Dry Fire Protection"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Active Fire Protection",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 393,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q393",
+    "question": "For which of the following fire precautions are inert gases most suitable?",
+    "options": [
+      "Automatic fire detection",
+      "Fire prevention",
+      "Fire suppression",
+      "Passive fire protection"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Fire suppression",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 394,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q394",
+    "question": "Chemically inactive substances will not react or sustain a fire and so can be used to eliminate oxygen and so prevent the formation of an explosive atmosphere.",
+    "options": [
+      "Caustic substances",
+      "Flammable substances",
+      "highly reactive substances",
+      "Inert substances"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Inert substances",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 395,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q395",
+    "question": "Fire/smoke alarm systems, sprinkler and deluge systems, and fire extinguishers are examples of what type of fire protection system?",
+    "options": [
+      "Multi-Layers of Fire Protection.",
+      "Hybrid Fire Protection.",
+      "Passive Fire Protection.",
+      "Active Fire Protection"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Active Fire Protection",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 396,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q396",
+    "question": "PFP (Passive Fire Protection) is used to maintain:",
+    "options": [
+      "Integrity, perfection, insulation",
+      "Integrity, stability, insulation",
+      "Stability, Credibility, insulation",
+      "Reliance, stability, insulation"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Integrity, stability, insulation",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 397,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q397",
+    "question": "Passive Fire Protection (PFP) is used to maintain",
+    "options": [
+      "Process Safety",
+      "Personal safety",
+      "Integrity, stability, insulation",
+      "Building safety"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Integrity, stability, insulation",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 398,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q398",
+    "question": "Coating or cladding arrangement..., which, in the event of fire, will provide thermal protection to restrict the rate at which heat is transmitted to the object or area being protected.",
+    "options": [
+      "Passive Fire Protection",
+      "Active Fire Protection",
+      "Wet Fire Protection",
+      "Dry Fire Protection"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Passive Fire Protection",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 399,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q399",
+    "question": "Compartmentalize a building through the use of fire-resistance rated walls/floors, doors and gap filling measures into smaller sections to help slow or prevent the spread of fire and/or smoke from one room to the next, is what kind of fire protection?",
+    "options": [
+      "Smoke Detection System.",
+      "Backdraft Prevention System.",
+      "Active Fire Protection.",
+      "Passive Fire Protection."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Passive Fire Protection.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 400,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

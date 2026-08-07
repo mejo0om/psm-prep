@@ -1,0 +1,764 @@
+[
+  {
+    "id": "MR-E2-Q122",
+    "question": "A HAZOP is carried out on piping and instrumentation diagrams (P&ID’s) and breaks the process down in small sections known as:",
+    "options": [
+      "Parts",
+      "Nodes",
+      "Piping sections",
+      "Sub sections"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Nodes",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 121,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q123",
+    "question": "In Failure Mode Effect Analysis (FMEA), Severity*Occurrence*Detection =-------",
+    "options": [
+      "Recommended Actions",
+      "Detection Mode",
+      "Failure modes",
+      "RPN (Risk Priority Number)"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "RPN (Risk Priority Number)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 122,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q124",
+    "question": "Process organizations have in place a wide range of mitigatory measures designed to reduce the consequences of a major incident. Which risk management techniques is especially suited to access the effectiveness of these mitigation measures?",
+    "options": [
+      "Failure mode effects analysis (FMEA)",
+      "Event tree analysis (ETA)",
+      "Risk assessment (RA)",
+      "Hazard identification (HAZID)"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Event tree analysis (ETA)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 123,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q125",
+    "question": "A systematic approach used to identify deviations from the process design intent that may lead to undesirable events occurrence and/or operability problems:",
+    "options": [
+      "Hazard identification (HAZID) methodology",
+      "Safety integrity level (SIL) analysis",
+      "Quantitative risk analysis (QRA)",
+      "Hazard and operability (HAZOP) Methodology"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Hazard and operability (HAZOP) Methodology",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 124,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q126",
+    "question": "Your organization has numerous mitigation measures that will operate after an event, which are designed to reduce the consequences of a major incident. Which risk management technique is particularly suited to assess the effectiveness of these mitigation measures?",
+    "options": [
+      "Hazard Identification (HAZID).",
+      "Failure Mode and Effective Analysis (FMEA).",
+      "Event Tree Analysis (ETA).",
+      "Hazard and Operability Study (HAZOP)."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Event Tree Analysis (ETA).",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 125,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q127",
+    "question": "Which risk management technique is suited to assess the effectiveness of the mitigation measures?",
+    "options": [
+      "Failure Mode Effects Analysis (FMEA).",
+      "Event Tree Analysis (ETA).",
+      "Risk assessment (RA).",
+      "Hazard Identification (HAZID)."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Event Tree Analysis (ETA).",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 126,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q128",
+    "question": "------------------ is the risk management technique which is suited to assess the effectiveness of the preventing measures.",
+    "options": [
+      "Fault Tree Analysis (FTA).",
+      "Event Tree Analysis (ETA).",
+      "Risk assessment (RA).",
+      "Hazard Identification (HAZID)."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Fault Tree Analysis (FTA).",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 127,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q129",
+    "question": "When deciding on risk controls, there is a hierarchy of options available that are placed in order of preference, with the most effective considered first and the least effective last. Starting with the most effective on the left and the least effective on the right, which of the following is the correct hierarchy order of risk controls?",
+    "options": [
+      "Inherent Safety, Elimination, Substitution, Engineering Controls, Administration Controls.",
+      "Elimination, Substitution, Inherent Safety, Engineering Controls, Administration Controls",
+      "Inherent Safety, Elimination, Substitution, Administration Controls, Engineering Controls.",
+      "Inherent Safety, Substitution, Elimination, Engineering Controls, Administration Controls."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Inherent Safety, Elimination, Substitution, Engineering Controls, Administration Controls.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 128,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q130",
+    "question": "Segregate accommodation block from process plant is",
+    "options": [
+      "Elimination",
+      "Engineering control",
+      "Administrative control",
+      "Substitution"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Engineering control",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 130,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q131",
+    "question": "'Bowtie' is a risk management tool that identifies.",
+    "options": [
+      "Barriers to change.",
+      "Prevention barriers only.",
+      "Mitigation barriers only.",
+      "Prevention and mitigation barriers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Prevention and mitigation barriers",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 131,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q132",
+    "question": "Which of the following risk management tools identifies deviations from normal activity and applies guide words to process variables?",
+    "options": [
+      "A hazard identification study",
+      "An event tree analysis",
+      "A failure mode effects analysis",
+      "A hazard and operability study"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A hazard and operability study",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 132,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q133",
+    "question": "You are process safety lead during the design phase of a reactor. You are interested in identifying both hazards from the process and potential improvements in the operation of the reactor. What is The best technique to help you?",
+    "options": [
+      "Failure mode effect analysis",
+      "Hazard and operability study",
+      "Event tree analysis",
+      "What if analysis"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Hazard and operability study",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 133,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q134",
+    "question": "An investigation into a recent accident revealed that a drain isolation valve was left open due to human error. This resulted in uncontrolled release of hazardous material. To prevent similar incidents in the future, which process hazard analysis (PHA) technique would be most appropriate to analyze the accident and identify preventive measures?",
+    "options": [
+      "Event Tree Analysis (ETA)",
+      "Hazard and Operability Study (HAZOP)",
+      "Layers of Protection Analysis (LOPA)",
+      "Failure Mode and Effects Analysis (FMEA)"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Hazard and Operability Study (HAZOP)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 134,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q135",
+    "question": "An incident occurred during a power outage at a chemical plant. All valves were designed with a safe fail position, except one valve which was normally open. This normally open valve failed to close on loss of power, leading to a leak of flammable material and a subsequent explosion. To prevent similar incidents in the future, what Process Hazard Analysis (PHA) technique would be most appropriate to analyze the accident and identify preventive measures?",
+    "options": [
+      "Event Tree Analysis (ETA)",
+      "Hazard and Operability Study (HAZOP)",
+      "Failure Mode and Effects Analysis (FMEA)",
+      "Layers of Protection Analysis (LOPA)"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Hazard and Operability Study (HAZOP)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 135,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q136",
+    "question": "Identification of possible additional risk reduction is an important step in?",
+    "options": [
+      "Risk Assessment",
+      "HAZID",
+      "ALARP",
+      "Advance Risk Assessment"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Advance Risk Assessment",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 136,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q137",
+    "question": "Risk estimation & ranking of risks is the ---- step of Advanced Risk Assessment.",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Second",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 137,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q138",
+    "question": "What is most important & comprehensive risk assessment in PSM",
+    "options": [
+      "Semi-quantitative",
+      "Quantitative",
+      "Qualitative",
+      "All of the other answers"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Qualitative",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 138,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q139",
+    "question": "Hazard can be realized much deeper through",
+    "options": [
+      "HAZOP",
+      "HAZID",
+      "ETA",
+      "Swiss Cheese Model"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Swiss Cheese Model",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 139,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q140",
+    "question": "Hazard realization when drawn together is known as",
+    "options": [
+      "Event Tree Analysis (ETA)",
+      "Bow-tie diagram",
+      "Both Event Tree Analysis & Bow-tie diagram",
+      "None of the other answers"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both Event Tree Analysis & Bow-tie diagram",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 140,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q141",
+    "question": "Top-down study with brain storming process is used for",
+    "options": [
+      "HAZOP",
+      "PFDs",
+      "HAZID",
+      "ETA"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "HAZID",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 141,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q142",
+    "question": "In hierarchy of Risk control Elimination means",
+    "options": [
+      "Removal of Hazard",
+      "Minimization of Inventories",
+      "Both Removal of Hazard & Minimization of Inventories",
+      "None of the other answers"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both Removal of Hazard & Minimization of Inventories",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 142,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q143",
+    "question": "In one of the petrochemical plants, a loss of primary containment event occurred repeatedly, and on one occasion led to a limited explosion. Is it the decision of senior management here regarding the risk assessment that the method of assessing operational risks must be upgraded to use any appropriate approach?",
+    "options": [
+      "Dynamic",
+      "Qualitative",
+      "Quantitative",
+      "Semi- quantitative"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Quantitative",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 143,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q144",
+    "question": "The objective of the asset integrity management system in the operation phase is to operate the plant within design intent. Key deliverables here include:",
+    "options": [
+      "Ongoing risk assessment",
+      "Qualitative risk assessment",
+      "Quantitative risk assessment",
+      "Semi- quantitative risk assessment"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Ongoing risk assessment",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 144,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q145",
+    "question": "What does the abbreviation ALARP stand for in process safety?",
+    "options": [
+      "As Low As Reasonably Practicable.",
+      "As Low As Rationally Practicable.",
+      "As Low As Realistically Practicable.",
+      "As Low As Reasonably Practical."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "As Low As Reasonably Practicable.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 145,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q146",
+    "question": "The level of risk that can be further lowered only by an increment in resource expenditure (time, effort, and/or money) that is significantly disproportionate in relation to the resulting decrease of risk:",
+    "options": [
+      "Risk appetite",
+      "As low as reasonably practicable (ALARP)",
+      "Risk criteria",
+      "Risk tolerance"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "As low as reasonably practicable (ALARP)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 146,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q147",
+    "question": "The concept of risk being as low as reasonably practicable (ALARP) is best described as the risk is as low as it can be",
+    "options": [
+      "Using current technology and knowledge.",
+      "Without being disproportionately costly.",
+      "Taking account of the priorities of the organization.",
+      "Taking account of the resources of the organization."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Without being disproportionately costly.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 147,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q148",
+    "question": "Ongoing risk assessment, maintenance and inspection, monitoring of control measures, verification are the objectives which are included in the -------- phase of Asset Integrity throughout the lifecycle.",
+    "options": [
+      "Design Phase",
+      "Commissioning Phase",
+      "Operation Phase",
+      "Modifications Phase"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Operation Phase",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 148,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q149",
+    "question": "HAZOP is an advanced risk assessment first used by ---------- in 1960s.",
+    "options": [
+      "Nestle",
+      "Engro fertilizers",
+      "ICI",
+      "Uniliver"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "ICI",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 149,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q150",
+    "question": "The barrier modeling concept considers that actions or 'barriers' can be used to prevent hazards from resulting in losses, which could be anything from a fatality to a loss of containment or environmental release. If the process relies on one barrier, such as a high-level alarm, then if this falls, there is no other means of protection. If there are multiple barriers in place, as in the Swiss cheese model, then there will only be a failure if the defect occurs in:",
+    "options": [
+      "First layer",
+      "One layer",
+      "Each layer and these are all aligned at the same time.",
+      "Last layer"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Each layer and these are all aligned at the same time.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 150,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q151",
+    "question": "Which is the First Step of Hierarchy of risk controls?",
+    "options": [
+      "inherent safety,",
+      "Elimination (including minimized inventories).",
+      "Substitution",
+      "Engineering controls (including segregation and spacing of process plant)",
+      "Administrative controls (procedural/behavioral)."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "inherent safety,",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 151,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q152",
+    "question": "Which is not a Purpose and use of risk assessment?",
+    "options": [
+      "Risk assessments are essential in the management of safety in all workplaces.",
+      "Risk controls are then identified, which reduce the risk to an acceptable level.",
+      "It is a process that identifies hazards, evaluates risks by considering the likelihood of harm occurring and the potential severity of the event that could result.",
+      "It is used for getting new customer orders."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "It is used for getting new customer orders.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 152,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q153",
+    "question": "Which is not an example of Elimination and minimized inventories as per Hierarchy of Risk Control:",
+    "options": [
+      "It could be the purchase of a pre-mixed chemical rather than handling hazardous raw materials.",
+      "Reducing the quantity of hazardous materials stored on site through improved inventory management.",
+      "Hazardous processes can also be segregated from occupied areas, or storage vessels placed in separate places.",
+      "Agreement with suppliers to supply only the actual need on a daily basis for hazardous materials to ensure that large quantities of them are not stored."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Hazardous processes can also be segregated from occupied areas, or storage vessels placed in separate places.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 153,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q154",
+    "question": "As one works through the hazard realization then barriers can be identified that can be placed between the initiator (the triggering event) to either prevent it from happening or to mitigate the outcome. These can be termed and are exactly those actions which, If implemented, could prevent the initiating event from resulting in a release or harm, or mitigating the consequences should it occur. Choose the correct answer which completes the immediate statement.",
+    "options": [
+      "Guards",
+      "Protectors",
+      "Lines of Defense LOD or Layers of Protection (LOP)",
+      "Shields"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Lines of Defense LOD or Layers of Protection (LOP)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 154,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q155",
+    "question": "You are part of a process engineering team developing a design for a highly complex process which is believed to have high and intolerable risks associated with it. You will be leading a risk assessment. What level of risk assessment is appropriate for this process?",
+    "options": [
+      "Semi-Qualitative Risk Assessment",
+      "Quantitative Risk Assessment.",
+      "Qualitative Risk Assessment.",
+      "Semi-Quantitative Risk Assessment."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Quantitative Risk Assessment.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 155,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q156",
+    "question": "You are part of a process engineering team developing a process which is believed to have risks which are mainly in the ALARP region. You will be leading a risk assessment. Which level of risk assessment is appropriate for this process?",
+    "options": [
+      "Semi-Qualitative Risk Assessment",
+      "Quantitative Risk Assessment.",
+      "Fully Qualitative Risk Assessment.",
+      "Semi-Quantitative Risk Assessment."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Semi-Quantitative Risk Assessment.",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 156,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q157",
+    "question": "Event Tree Analysis ETA can be used for evaluating the",
+    "options": [
+      "Active controls",
+      "Passive controls",
+      "Pro-active or re-active controls",
+      "None of the other answers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "None of the other answers",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 157,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q158",
+    "question": "According to the document provided by the operator to apply for the license to operate, risks are controlled up to -------------------.",
+    "options": [
+      "Partial level",
+      "Satisfactory level",
+      "ALARP (as low as reasonably practical)",
+      "Facts and figures"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "ALARP (as low as reasonably practical)",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 158,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q159",
+    "question": "------------- is used to evaluate the mitigation measures that will operate after an event, including initiating event and protective measures.",
+    "options": [
+      "FMEA",
+      "HAZOP",
+      "HAZD",
+      "ETA",
+      "Bow Tie Model"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "ETA",
+    "element": 2,
+    "part": "2.2",
+    "sourceQuestion": 159,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q160",
+    "question": "Pressure, temperature, flow, level, pH and density are common",
+    "options": [
+      "Processes associated with safe operating envelopes.",
+      "Problems associated with safe operating envelopes.",
+      "Parameters associated with safe operating envelopes.",
+      "Procedures associated with safe operating envelopes."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Parameters associated with safe operating envelopes.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 160,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E2-Q161",
+    "question": "When designing any process plant, particularly where the process, the materials being used, the product being produced and the reactions taking place are hazardous, the design needs to be such as to prevent the operation being out of control. To do this, the designer aims to ensure that the process itself is controlled within certain limits, to prevent a hazardous situation developing. Typically, process limits am established by setting upper and lower levels for a range of parameters. The common process parameters are temperature, pressure and volume but, depending on the process, may also include properties such as pH, conductivity level flow (rates) composition, mixing (agitation), etc. What is the expression which commonly refers to the limits of operating conditions under which the process can take place safely?",
+    "options": [
+      "Safe operating range",
+      "Safe operating envelope.",
+      "Safe operating zone",
+      "Safe operating limits"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Safe operating envelope.",
+    "element": 2,
+    "part": "2.3",
+    "sourceQuestion": 161,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

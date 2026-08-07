@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MR-E1-Q081",
+    "question": "PSC is abbreviated for:",
+    "options": [
+      "Process Safety Competence",
+      "Proposed Safety Conduct",
+      "Process Safety Centre",
+      "Process Safety Conduct"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process Safety Competence",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 80,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

@@ -1,0 +1,764 @@
+[
+  {
+    "id": "MR-E1-Q001",
+    "question": "A blend of engineering and management skills focused on preventing catastrophic accidents and near misses, particularly structural collapse, explosions, fires and toxic releases associated with loss of containment of energy or dangerous substances such as chemicals and petroleum products",
+    "options": [
+      "Process Safety.",
+      "Operational Safety.",
+      "Personal Safety.",
+      "Occupational Safety."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process Safety.",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 1,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q002",
+    "question": "Structural collapse is an example of lack of",
+    "options": [
+      "Construction Safety",
+      "Process Safety",
+      "Personal Safety",
+      "Inherent Safety"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Process Safety",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 2,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q003",
+    "question": "Process Safety is the blend of ---------------- and management skills focused on preventing catastrophic and near misses.",
+    "options": [
+      "PPE's",
+      "Process plans",
+      "Engineering",
+      "Leadership"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Engineering",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 3,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q004",
+    "question": "Process safety differs from personal safety because it protects ……",
+    "options": [
+      "Public only and all industries",
+      "Public only and process industries",
+      "Workers only and all industries",
+      "Workers, Public and process industries"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Workers, Public and process industries",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 4,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q005",
+    "question": "Process safety mainly deals with:",
+    "options": [
+      "High frequency, high severity risks",
+      "Low frequency, high severity risks",
+      "Low frequency, low severity risks",
+      "High frequency, low severity risks"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Low frequency, high severity risks",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 5,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q006",
+    "question": "By comparison, occupational or personal safety mainly deals with:",
+    "options": [
+      "Low frequency, high severity risks.",
+      "Low frequency, low severity risks.",
+      "High frequency, high severity risks.",
+      "High frequency, low severity risks."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "High frequency, low severity risks.",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 6,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q007",
+    "question": "What is the main focus of process safety?",
+    "options": [
+      "Preventing major incidents with process machinery in large manufacturing Industries.",
+      "Preventing major incidents in food processing industries.",
+      "Preventing major incidents with flammable substances in large chemical industries.",
+      "Preventing major incidents within high hazardous industries."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Preventing major incidents within high hazardous industries.",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 7,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q008",
+    "question": "High-hazard process industries include:",
+    "options": [
+      "Oil and Gas sector",
+      "Polymer Industries",
+      "Textile and Gas Industries",
+      "Construction Sector"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Oil and Gas sector",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 8,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q009",
+    "question": "High-hazard process industries include:",
+    "options": [
+      "Construction sector",
+      "Polymer Industries",
+      "Textile and Gas Industries",
+      "Chemical Industries"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Chemical Industries",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 9,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q010",
+    "question": "Why might process safety be considered a continuous improvement?",
+    "options": [
+      "No fatal explosions",
+      "No legal violations",
+      "Employees are safe",
+      "Plant, environment are safe"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Plant, environment are safe",
+    "element": 1,
+    "part": "1.1",
+    "sourceQuestion": 10,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q011",
+    "question": "The health and safety policy (plan) should be a clear demonstration of the aims of the organization towards health and safety, together with the vision and commitment to achieve these goals. Select the most inappropriate option:",
+    "options": [
+      "It should also commit to complying with legislation and to continually improving the processes.",
+      "It should not come from board level.",
+      "This should include the processes for the identification of hazards and the reduction of risks.",
+      "The plan should then seek to deliver a reduction in risk while prioritizing the biggest issues.",
+      "At the same time, the plan should also identify potential breaches of, or changes in, legislation, and address."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "It should not come from board level.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 11,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q012",
+    "question": "Process safety needs to be adequately resourced, ensuring adequate resources are in place is the responsibility of the leadership of the organization. “Appropriate resources should be made available to ensure a high standard of process safety management throughout the organization and staff with process safety responsibilities should have or develop an appropriate level of competence.” These resources do not include:",
+    "options": [
+      "Legal-Rules, Acts, Legislation",
+      "Human - the right number of people with the right skills and experiences.",
+      "Financial - this may include capital expenditure and operational budgets to allow the plant to operate safely.",
+      "Physical - such as equipment, buildings, offices, rest facilities, etc."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Legal-Rules, Acts, Legislation",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 12,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q013",
+    "question": "Leaders not only need to reinforce personal safety such as wearing PPE’s, but also need to discuss and question the more complex issues such as resourcing and the -------------.",
+    "options": [
+      "Process operations",
+      "Process safety",
+      "Training of the operators",
+      "Management skills"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process operations",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 13,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q014",
+    "question": "Safety Leadership engagement should be a priority and can be represented by various ways. Select the most inappropriate options:",
+    "options": [
+      "Scheduling committee meetings for the full year, and then sticking to the dates, provides a clear demonstration by management that they are committed to the process.",
+      "Management should participate in the consultation process and not cancel meetings or fail to attend as that undermines the importance of the process.",
+      "Plant stand downs or ‘town hall’ meetings can also be a useful demonstration of their commitment to engage with the workers.",
+      "As a critical safety process, the arrangements for consulting and engaging should be audited like any other element of the safety management system."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "As a critical safety process, the arrangements for consulting and engaging should be audited like any other element of the safety management system.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 14,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q015",
+    "question": "According to the Guidance for Senior Leaders in High Hazard Industries Safe operation and --------------- in business cannot be separated.",
+    "options": [
+      "Good Leadership",
+      "Good Management skills",
+      "Sustainable Success",
+      "Trained Operators"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Sustainable Success",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 15,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q016",
+    "question": "The meaning of process safety objectives and targets is that effective organizations, serious about making safety improvements, will establish a clear set of objectives (overarching process safety aims) and targets (short term goals) that are cascaded to staff throughout the organization at all levels. Which is not a reason for establishing process safety objectives and targets.",
+    "options": [
+      "An organization can fulfill the legal requirement only.",
+      "There are sound reasons for establishing effective process safety objectives, targets, and indicators.",
+      "Effective process safety indicators identify safety critical controls and actions, and monitor these to ensure that operations are running as intended, controls are robust, and the site is therefore under control.",
+      "Once these safety indicators and targets have been established, the board should review progress on a regular basis."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "An organization can fulfill the legal requirement only.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 16,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q017",
+    "question": "What is the root cause of inadequate process safety resources, such as engineering support? Is it?",
+    "options": [
+      "Process safety participation.",
+      "Process safety culture.",
+      "Process safety leadership.",
+      "Process safety planning."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Process safety leadership.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 17,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q018",
+    "question": "Once safety indicators and targets have been established, the board should review progress on a regular basis (often (a)) and on a (b) basis, the performance against these targets should be published (such as in the annual report) in order to celebrate. success and highlight areas of opportunity:",
+    "options": [
+      "(a) every six months, (b) annual",
+      "(a) every three months, (b) annual",
+      "(a) every three months. (b) every six months",
+      "(a) every six months, (b) every six months"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "(a) every three months, (b) annual",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 18,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q019",
+    "question": "Board Level Commitment to Process Safety is often achieved by?",
+    "options": [
+      "Team Training",
+      "Meetings",
+      "Emails",
+      "Being visible."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Being visible.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 19,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q020",
+    "question": "According to PSLG appropriate resources include:",
+    "options": [
+      "Human, Financial, Physical",
+      "Human, Safety, machinery",
+      "Medical, Safety, Insurance",
+      "Human, Financial, Mental issues"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Human, Financial, Physical",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 20,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q021",
+    "question": "------------ are the key decision makers",
+    "options": [
+      "Management Teams",
+      "Engineers",
+      "Stakeholders",
+      "Leadership teams"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Leadership teams",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 21,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q022",
+    "question": "According to PSLG at least -------- board member should be fully conversant in process safety management in order to advise the board of the status of process safety risk management within the organization and of the process safety implications of the board decision.",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "One",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 22,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q023",
+    "question": "In the UK, the Process Safety Leadership Group (PSLG) report into the Buncefield disaster, the importance of leadership was acknowledged. This report states that at least how many board members should be fully conversant in process safety management in order to advise the board of the status of process safety risk management within the organization and of the process safety implications of board decisions?",
+    "options": [
+      "0 board members",
+      "1 board members",
+      "2 board members",
+      "3 board members"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "1 board members",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 23,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q024",
+    "question": "An organization could adopt ------------------ approach, assuming that no news is good news.",
+    "options": [
+      "Do and Die",
+      "Now and never",
+      "Safety is good",
+      "Wait and see"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Wait and see",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 24,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q025",
+    "question": "The Principles of Process Safety Leadership also place emphasis on board level visibility to promote process safety. Select the most INAPPROPRIATE option:",
+    "options": [
+      "Directors and senior managers do not play a key role in the promotion of process safety.",
+      "As such, their actions are noted by workers, and their visible leadership is essential in the development of a strong process safety culture.",
+      "Leaders need to reinforce personal safety, such as wearing PPE, but also need to discuss and question the effectiveness of process safety measures.",
+      "The actions taken at the leadership level establish the level of commitment to process safety, which, in turn, influences the entire organization's dedication to maintaining a safe working environment."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Directors and senior managers do not play a key role in the promotion of process safety.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 25,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q026",
+    "question": "---------- is important to give suitable high priority to process safety even though the standards and controls means that incidents should be rare and may be outside the experience of -----------",
+    "options": [
+      "Leadership , engineers",
+      "Management , engineers",
+      "Leadership, operators",
+      "Administration, staff"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Leadership, operators",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 26,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q027",
+    "question": "Which of the following is likely to be most helpful in developing a positive health and safety culture?",
+    "options": [
+      "Senior management creating workforce fear of disciplinary proceedings.",
+      "High level communication chains with diluted messages at lower levels.",
+      "Promotion of process safety leadership and board level visibility of site visits.",
+      "Management focus on productivity not unreasonable safety regulation."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Promotion of process safety leadership and board level visibility of site visits.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 27,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q028",
+    "question": "The root cause of insufficient process safety resources is inadequate …….",
+    "options": [
+      "Planning",
+      "Leadership",
+      "Design",
+      "Operation"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Leadership",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 28,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q029",
+    "question": "The reasons for holding to account all individuals with PSM responsibility. Select the inappropriate option:",
+    "options": [
+      "It is clear that if new plant is installed without due consideration to safety, then the potential for injuries and accidents increases.",
+      "Everyone with process safety responsibilities has a role to play and therefore should be held accountable.",
+      "In the context of an adequately resourced, competent workforce, holding people accountable also encourages a culture of responsibility and continuous improvement.",
+      "Management can have control over employees and can take disciplinary action against them."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Management can have control over employees and can take disciplinary action against them.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 29,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q030",
+    "question": "In Process safety, leaders need to be aware about?",
+    "options": [
+      "Legal requirements.",
+      "Value of competence.",
+      "Design, commissioning, operations & decommissioning.",
+      "None of the above."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Design, commissioning, operations & decommissioning.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 30,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q031",
+    "question": "To assure the organization’s competence to manage the hazards of its operations; the leaders have to:",
+    "options": [
+      "Provide resources and time for expertise-based hazard and risk analyses, effective training and comprehensive scenario-planning for potential accidents.",
+      "Ensure there are competent management, engineering, and operational workers at all levels.",
+      "Ensure continual development of process safety expertise and learning from new regulation and guidance.",
+      "All of the other answers."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 31,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q032",
+    "question": "----------- finds wider failings in the systems, management and leadership.",
+    "options": [
+      "Process Safety analysis",
+      "Root Cause analysis",
+      "Performance analysis",
+      "Top management analysis"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Root Cause analysis",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 32,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q033",
+    "question": "Directors and senior managers have a key role in the promotion of process safety. Which of the following best describes the promotion of processes safety by the leadership team?",
+    "options": [
+      "Establish a level of process safety commitment to reinforce the desired HSE culture, being visible, leading process safety initiatives and making resources available, challenging the organization to deliver continuous improvements in process safety.",
+      "Communicate to all staff that they all have process safety accountability in one form or another. and any near misses will result in disciplinary action to the individuals concerned.",
+      "Delegate the HSE representative and make them wholly accountable and responsible for PSM.",
+      "Reinforce personal safety such as wearing PPE, visit site often and discuss process safety problems."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Establish a level of process safety commitment to reinforce the desired HSE culture, being visible, leading process safety initiatives and making resources available, challenging the organization to deliver continuous improvements in process safety.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 33,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q034",
+    "question": "The need to define process safety responsibilities, select the inappropriate option:",
+    "options": [
+      "Directors do not have any role to play in process safety.",
+      "Top management will delegate (even though they will retain overall responsibility and accountability) to the appropriate individuals or teams.",
+      "So, other managers and workers will also have process safety critical roles and responsibilities as part of their job functions.",
+      "These should be clearly defined at all levels, from the board through to the maintenance workers who look after the equipment and systems."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Directors do not have any role to play in process safety.",
+    "element": 1,
+    "part": "1.2",
+    "sourceQuestion": 34,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q035",
+    "question": "An underlying circumstance that allowed the unsafe condition or act to exist (mainly organizational and management failings).",
+    "options": [
+      "Root Cause",
+      "Indirect Cause",
+      "Basic Cause",
+      "Immediate Cause"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Root Cause",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 35,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q036",
+    "question": "What is the main reason for sharing lessons learnt from major incidents with other organizations",
+    "options": [
+      "Accident investigations are more effective in determining immediate and root causes",
+      "Integration of quality environmental and health and safety management system",
+      "Operating procedures are standardized so that workers have a consistent approach",
+      "Potential benefits are much greater for the process safety industry as a whole"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Potential benefits are much greater for the process safety industry as a whole",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 36,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q037",
+    "question": "There has been a near miss incident where an experienced operator failed to respond to LAH on fuel tank, resulting in a LOC from the tank. Which of the following is the best way to learn lessons from all incidents and prevent reoccurrence?",
+    "options": [
+      "Discuss the incident with the operator to ensure his understanding for the incident significance and they must respond appropriately to alarm in future.",
+      "Investigate the incident and its root causes and ensure this is communicated to the wide audience.",
+      "Accept that on this occasion a mistake was made. Offer the operator refresher training to manage alarms effectively.",
+      "Suggest the organization to retrain the operator for a new role."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Investigate the incident and its root causes and ensure this is communicated to the wide audience.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 37,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q038",
+    "question": "Reasons for investigating accidents and incidents These reasons are to",
+    "options": [
+      "identify root causes and underlying causes of the incident.",
+      "prevent the incident from happening again (which could result in a more serious outcome next time).",
+      "allow risk assessments to be updated so that organizations learn from past experience.",
+      "All of the other answers."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 38,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q039",
+    "question": "Which is not a reason for investigating accidents and incidents:",
+    "options": [
+      "Identify root causes and underlying causes of the incident,",
+      "Prevent the incident from happening again (which could result in a more serious outcome next time).",
+      "Allow risk assessments to be updated so that organizations learn from past experience,",
+      "Auditing and inspection process becomes easier and no need to generate the Lessons Learning"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Auditing and inspection process becomes easier and no need to generate the Lessons Learning",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 39,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q040",
+    "question": "Which is not a reason for investigating accidents and incidents:",
+    "options": [
+      "Identify root causes and underlying causes of the incident,",
+      "Prevent the incident from happening again (which could result in a more serious outcome next time).",
+      "Allow risk assessments to be updated so that organizations learn from past experience.",
+      "To maintain the document and record for enforcement authority only,",
+      "To enable patterns and trends to be discovered."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "To maintain the document and record for enforcement authority only,",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 40,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

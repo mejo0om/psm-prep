@@ -1,0 +1,26 @@
+{
+  "version": "3.2.0",
+  "examCounts": {
+    "2": 40,
+    "3": 40,
+    "4": 40,
+    "5": 40,
+    "6": 38,
+    "8": 22,
+    "9": 33,
+    "1": 40
+  },
+  "totalExamQuestions": 293,
+  "contentComparison": {
+    "2": "Exact",
+    "3": "Exact",
+    "4": "Exact",
+    "5": "Exact",
+    "6": "Exact",
+    "8": "Exact",
+    "9": "Exact",
+    "1": "Preserved from v3.1.1 package"
+  },
+  "issues": [],
+  "passed": true
+}

@@ -1,0 +1,361 @@
+{
+  "1": [
+    {
+      "code": "1.1",
+      "topic": "Process safety management meaning",
+      "start": 4,
+      "end": 4,
+      "keywords": [
+        "process safety",
+        "personal safety",
+        "catastrophic",
+        "loss of containment",
+        "major incident"
+      ]
+    },
+    {
+      "code": "1.2",
+      "topic": "Process safety leadership",
+      "start": 5,
+      "end": 9,
+      "keywords": [
+        "leadership",
+        "board",
+        "visibility",
+        "resources",
+        "objectives",
+        "targets",
+        "accountable",
+        "benchmarking",
+        "indicator"
+      ]
+    },
+    {
+      "code": "1.3",
+      "topic": "Organisational learning",
+      "start": 10,
+      "end": 13,
+      "keywords": [
+        "investigation",
+        "incident",
+        "root cause",
+        "immediate cause",
+        "lessons",
+        "corporate amnesia",
+        "learning"
+      ]
+    },
+    {
+      "code": "1.4",
+      "topic": "Management of change",
+      "start": 14,
+      "end": 15,
+      "keywords": [
+        "management of change",
+        "moc",
+        "change",
+        "modification",
+        "temporary change"
+      ]
+    },
+    {
+      "code": "1.5",
+      "topic": "Worker engagement",
+      "start": 16,
+      "end": 17,
+      "keywords": [
+        "worker engagement",
+        "participation",
+        "consultation",
+        "communication",
+        "involvement"
+      ]
+    },
+    {
+      "code": "1.6",
+      "topic": "Competence",
+      "start": 18,
+      "end": 22,
+      "keywords": [
+        "competence",
+        "training",
+        "knowledge",
+        "skills",
+        "experience",
+        "assessment"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "code": "2.1",
+      "topic": "Establishing a process safety management system",
+      "start": 24,
+      "end": 32,
+      "keywords": [
+        "management system",
+        "psms",
+        "policy",
+        "audit",
+        "leading indicator",
+        "lagging indicator",
+        "performance indicator",
+        "plan do check act",
+        "pdca"
+      ]
+    },
+    {
+      "code": "2.2",
+      "topic": "Risk management techniques used within the process industries",
+      "start": 33,
+      "end": 42,
+      "keywords": [
+        "risk assessment",
+        "hazop",
+        "hazid",
+        "fmea",
+        "lopa",
+        "bowtie",
+        "fault tree",
+        "event tree",
+        "alarp",
+        "pha",
+        "risk matrix"
+      ]
+    },
+    {
+      "code": "2.3",
+      "topic": "Asset management and maintenance strategies",
+      "start": 43,
+      "end": 46,
+      "keywords": [
+        "maintenance",
+        "asset",
+        "inspection",
+        "reliability",
+        "preventive",
+        "predictive",
+        "breakdown",
+        "integrity"
+      ]
+    },
+    {
+      "code": "2.4",
+      "topic": "Permit-to-work system",
+      "start": 47,
+      "end": 49,
+      "keywords": [
+        "permit to work",
+        "permit-to-work",
+        "ptw",
+        "hot work",
+        "isolation",
+        "lockout",
+        "confined space"
+      ]
+    },
+    {
+      "code": "2.5",
+      "topic": "Safe shift handover",
+      "start": 50,
+      "end": 50,
+      "keywords": [
+        "shift handover",
+        "handover",
+        "logbook",
+        "shift change"
+      ]
+    },
+    {
+      "code": "2.6",
+      "topic": "Contractor management",
+      "start": 51,
+      "end": 56,
+      "keywords": [
+        "contractor",
+        "contract management",
+        "selection",
+        "prequalification"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "code": "3.1",
+      "topic": "Operating procedures",
+      "start": 58,
+      "end": 62,
+      "keywords": [
+        "operating procedure",
+        "procedure",
+        "sop",
+        "normal operation",
+        "abnormal operation"
+      ]
+    },
+    {
+      "code": "3.2",
+      "topic": "Safe start-up and shut-down",
+      "start": 63,
+      "end": 68,
+      "keywords": [
+        "start-up",
+        "startup",
+        "shut-down",
+        "shutdown",
+        "commissioning",
+        "decommissioning"
+      ]
+    },
+    {
+      "code": "3.3",
+      "topic": "Safety-critical performance standards",
+      "start": 69,
+      "end": 71,
+      "keywords": [
+        "safety critical",
+        "performance standard",
+        "sce",
+        "availability",
+        "reliability",
+        "survivability"
+      ]
+    },
+    {
+      "code": "3.4",
+      "topic": "Utilities",
+      "start": 72,
+      "end": 77,
+      "keywords": [
+        "utility",
+        "utilities",
+        "steam",
+        "cooling water",
+        "instrument air",
+        "nitrogen",
+        "ups"
+      ]
+    },
+    {
+      "code": "3.5",
+      "topic": "Electricity and static electricity",
+      "start": 78,
+      "end": 83,
+      "keywords": [
+        "electricity",
+        "static",
+        "earthing",
+        "bonding",
+        "electrical",
+        "hazardous area",
+        "atex"
+      ]
+    },
+    {
+      "code": "3.6",
+      "topic": "Dangerous substances",
+      "start": 84,
+      "end": 86,
+      "keywords": [
+        "dangerous substance",
+        "chemical",
+        "toxicity",
+        "corrosive",
+        "flammable",
+        "sds",
+        "classification"
+      ]
+    },
+    {
+      "code": "3.7",
+      "topic": "Reaction hazards",
+      "start": 87,
+      "end": 91,
+      "keywords": [
+        "reaction",
+        "runaway",
+        "exothermic",
+        "polymerisation",
+        "decomposition",
+        "incompatibility"
+      ]
+    },
+    {
+      "code": "3.8",
+      "topic": "Bulk storage operations",
+      "start": 92,
+      "end": 104,
+      "keywords": [
+        "bulk storage",
+        "tank",
+        "bund",
+        "loading",
+        "unloading",
+        "overfill",
+        "floating roof",
+        "pipeline"
+      ]
+    }
+  ],
+  "4": [
+    {
+      "code": "4.1",
+      "topic": "Fire hazards",
+      "start": 106,
+      "end": 110,
+      "keywords": [
+        "fire triangle",
+        "fire tetrahedron",
+        "flash point",
+        "auto ignition",
+        "lel",
+        "uel",
+        "flammable"
+      ]
+    },
+    {
+      "code": "4.2",
+      "topic": "Fire and explosion control",
+      "start": 111,
+      "end": 115,
+      "keywords": [
+        "fire protection",
+        "explosion control",
+        "detection",
+        "suppression",
+        "firewater",
+        "deluge",
+        "passive fire protection",
+        "bleve"
+      ]
+    },
+    {
+      "code": "4.3",
+      "topic": "Dust explosions",
+      "start": 116,
+      "end": 118,
+      "keywords": [
+        "dust explosion",
+        "combustible dust",
+        "dust cloud",
+        "dust layer",
+        "housekeeping"
+      ]
+    },
+    {
+      "code": "4.4",
+      "topic": "Emergency preparedness",
+      "start": 119,
+      "end": 124,
+      "keywords": [
+        "emergency",
+        "emergency plan",
+        "evacuation",
+        "alarm",
+        "response",
+        "drill",
+        "incident command"
+      ]
+    }
+  ]
+}

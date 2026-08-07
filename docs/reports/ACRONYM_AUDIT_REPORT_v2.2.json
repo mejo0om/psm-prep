@@ -1,0 +1,20 @@
+{
+  "release": "2.2",
+  "title": "Acronym Knowledge Release",
+  "officialAcronymRecords": 75,
+  "verifiedRecords": 75,
+  "partialRecords": 0,
+  "rejectedRecords": 1,
+  "uniqueKeys": true,
+  "dualMeaningRecords": [
+    "PFD"
+  ],
+  "proactiveDerived": [
+    "HAZOP",
+    "HAZID",
+    "FMEA",
+    "ETA",
+    "PHA"
+  ],
+  "source": "Official NEBOSH HSE Process Safety Management Course Book, Edition 1 Version 1"
+}

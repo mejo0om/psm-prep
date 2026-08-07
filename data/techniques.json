@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "schemaVersion": "3.0.0",
+    "generatedFrom": [
+      "PSM Prep v2.3.1 databases",
+      "NEBOSH PSM Master Knowledge Base Phase 1",
+      "Official NEBOSH HSE Process Safety Management Book"
+    ],
+    "singleSourceOfTruth": "concepts.json",
+    "authoritativeSource": "Official NEBOSH HSE Process Safety Management Book, Edition 1 Version 1"
+  },
+  "items": [
+    {
+      "id": "T0005",
+      "conceptId": "C0005",
+      "name": "Assessment",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 1,
+          "section": "1.6",
+          "pageStart": 18,
+          "pageEnd": 22,
+          "reference": "NEBOSH HSE Process Safety Management, Element 1, Section 1.6 - Competence, pages 18-22"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0018",
+      "conceptId": "C0018",
+      "name": "Bowtie Analysis",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 36,
+          "pageEnd": 36,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0064",
+      "conceptId": "C0064",
+      "name": "Event Tree",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 33,
+          "pageEnd": 42,
+          "reference": "NEBOSH HSE Process Safety Management, Element 2, Section 2.2 - Risk management techniques used within the process industries, pages 33-42"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0065",
+      "conceptId": "C0065",
+      "name": "Event Tree Analysis",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0071"
+      ],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 54,
+          "pageEnd": 54,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0071",
+      "conceptId": "C0071",
+      "name": "Failure Modes and Effects Analysis",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 95,
+          "pageEnd": 95,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95"
+        },
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 40,
+          "pageEnd": 40,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 40"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 54,
+          "pageEnd": 54,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0072",
+      "conceptId": "C0072",
+      "name": "Fault Tree",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 33,
+          "pageEnd": 42,
+          "reference": "NEBOSH HSE Process Safety Management, Element 2, Section 2.2 - Risk management techniques used within the process industries, pages 33-42"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0073",
+      "conceptId": "C0073",
+      "name": "Fault Tree Analysis",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0065"
+      ],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 33,
+          "pageEnd": 42,
+          "reference": "NEBOSH HSE Process Safety Management, Element 2, Section 2.2 - Risk management techniques used within the process industries, pages 33-42"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0089",
+      "conceptId": "C0089",
+      "name": "HAZOP",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0085"
+      ],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 38,
+          "pageEnd": 38,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0114",
+      "conceptId": "C0114",
+      "name": "LOPA",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0096"
+      ],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 33,
+          "pageEnd": 42,
+          "reference": "NEBOSH HSE Process Safety Management, Element 2, Section 2.2 - Risk management techniques used within the process industries, pages 33-42"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0161",
+      "conceptId": "C0161",
+      "name": "Risk Assessment",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0018",
+        "C0035",
+        "C0020",
+        "C0068",
+        "C0007",
+        "C0089",
+        "C0199",
+        "C0040",
+        "C0079",
+        "C0088",
+        "C0065",
+        "C0071"
+      ],
+      "officialReferences": [
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 36,
+          "pageEnd": 36,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36"
+        },
+        {
+          "element": 1,
+          "section": "1.6",
+          "pageStart": 21,
+          "pageEnd": 21,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 54,
+          "pageEnd": 54,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54"
+        },
+        {
+          "element": 1,
+          "section": "1.4",
+          "pageStart": 14,
+          "pageEnd": 14,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14"
+        },
+        {
+          "element": 2,
+          "section": "2.4",
+          "pageStart": 47,
+          "pageEnd": 47,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 51,
+          "pageEnd": 51,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 51"
+        },
+        {
+          "element": 2,
+          "section": "2.2",
+          "pageStart": 38,
+          "pageEnd": 38,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 52,
+          "pageEnd": 52,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 52"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "T0202",
+      "conceptId": "C0202",
+      "name": "What-if Analysis",
+      "category": "Process Risk Technique",
+      "purpose": null,
+      "inputs": [],
+      "outputs": [],
+      "relatedConceptIds": [
+        "C0089"
+      ],
+      "officialReferences": [
+        {
+          "element": null,
+          "section": null,
+          "pageStart": null,
+          "pageEnd": null,
+          "reference": "Pending exact book-location verification"
+        }
+      ],
+      "verificationStatus": "Pending exact reference"
+    }
+  ]
+}

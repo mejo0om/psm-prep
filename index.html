@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="PSM Prep professional learning platform"><title>Dashboard · PSM Prep</title><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/auth.css"></head>
+<body><div id="authLoading" class="auth-loading">Checking account…</div>
+<div class="app-shell">
+
+    <aside class="sidebar">
+      <a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a>
+      <nav class="sidebar-nav"><a class="active" href="index.html"><span>⌂</span>Dashboard</a><a class="" href="practice.html"><span>◉</span>Practice</a><a class="" href="exam.html"><span>✎</span>Mock Exams</a><a class="" href="book.html"><span>▤</span>Book Center</a><a class="" href="acronyms.html"><span>Aa</span>Acronyms</a><a class="" href="knowledge.html"><span>◈</span>Knowledge</a><a class="" href="progress.html"><span>▥</span>Progress</a><a class="" href="search.html"><span>⌕</span>Search</a></nav>
+      <div class="sidebar-bottom">
+        <div class="sidebar-card"><small>Official content</small><b>356 Questions</b><br><small>8 Mock Exams · 293 Questions</small></div>
+        <button class="icon-button" id="themeToggle" aria-label="Toggle theme">◐</button>
+      </div>
+    </aside>
+<div class="main-shell">
+<header class="mobile-topbar"><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a><button class="icon-button" id="themeToggle">◐</button></header>
+<main class="container">
+<section class="dashboard-hero">
+  <article class="welcome-card">
+    <span class="eyebrow" style="color:#fff">NEBOSH PROCESS SAFETY MANAGEMENT</span>
+    <h1>Welcome back, Mahmood.</h1>
+    <p>Continue your learning path, review weak topics, and build confidence with official question-bank content.</p>
+    <div class="hero-actions"><a class="button secondary" href="practice.html">Continue Learning</a><a class="button secondary" href="exam.html">Take Mock Exam</a></div>
+  </article>
+  <article class="goal-card">
+    <span class="eyebrow">DAILY GOAL</span>
+    <div class="goal-ring-wrap"><div class="ring" id="goalRing"></div><span class="ring-value" id="goalValue">0/20</span></div>
+    <p class="muted" style="text-align:center">Questions answered today</p>
+  </article>
+</section>
+
+<section class="metric-grid">
+ <article class="metric-card"><span>Overall Accuracy</span><b id="dashAccuracy">0%</b></article>
+ <article class="metric-card"><span>Unique Questions</span><b id="dashSolved">0</b></article>
+ <article class="metric-card"><span>Current Streak</span><b id="dashStreak">0</b></article>
+ <article class="metric-card"><span>Mastered</span><b id="dashMastered">0</b></article>
+</section>
+
+<section class="continue-card">
+ <div><span class="eyebrow">CONTINUE LEARNING</span><h2 id="continueTitle">Random Practice</h2><p class="muted" id="continueText">Resume with a mixed set from all four elements.</p></div>
+ <a class="button primary" id="continueLink" href="practice.html">Continue</a>
+</section>
+
+<section class="dashboard-grid">
+ <article class="chart-card"><div class="section-heading"><span class="eyebrow">WEEKLY ACTIVITY</span><h2>Study rhythm</h2></div><canvas id="weeklyChart" width="700" height="240"></canvas></article>
+ <article class="chart-card"><div class="section-heading"><span class="eyebrow">ELEMENT PERFORMANCE</span><h2>Accuracy</h2></div><canvas id="elementChart" width="480" height="240"></canvas></article>
+</section>
+
+<section class="dashboard-grid equal">
+ <article class="chart-card"><span class="eyebrow">SMART PRACTICE</span><h2>Recommended next step</h2><div class="smart-grid">
+  <a class="smart-card" href="practice.html?mode=mistakes"><b>Recent Mistakes</b><span>Review questions currently marked wrong.</span></a>
+  <a class="smart-card" href="practice.html?mode=weak"><b>Weak Topics</b><span>Practice topics with the lowest accuracy.</span></a>
+  <a class="smart-card" href="practice.html?mode=favorites"><b>Favorites</b><span>Revisit saved questions.</span></a>
+  <a class="smart-card" href="practice.html?mode=unanswered"><b>New Questions</b><span>Continue through unseen content.</span></a>
+ </div></article>
+ <article class="chart-card"><span class="eyebrow">LAST MOCK EXAM</span><div id="dashboardExam"><p class="muted">No exam completed yet.</p></div><span class="eyebrow">RECENT ACHIEVEMENTS</span><div id="dashboardAchievements" class="achievement-list"></div></article>
+</section>
+</main>
+<footer>Prepared by Mahmood Eisa · PSM Prep v3.2.0</footer>
+<nav class="bottom-nav"><a href="index.html"><b>⌂</b>Home</a><a href="practice.html"><b>◉</b>Practice</a><a href="exam.html"><b>✎</b>Exam</a><a href="progress.html"><b>▥</b>Progress</a><a href="search.html"><b>⌕</b>Search</a></nav>
+</div></div>
+<script src="js/storage.js"></script>
+<script src="js/app.js"></script>
+<script src="js/dashboard.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/supabase-config.js"></script>
+<script src="js/auth.js?v=4.0.0"></script>
+<script src="js/cloud-progress.js?v=4.0.0"></script>
+<script src="js/supabase-tracker.js"></script>
+</body></html>

@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E1-Q041",
+    "question": "Which is not a reason for and benefits of accident and incident investigation",
+    "options": [
+      "While hopefully major incidents and disasters are few and far between, the need to investigate and address the causes of the minor events should not be underestimated.",
+      "It is essential to focus not only on what actually happened, but on the potential.",
+      "It may not be necessary to carry out a thorough investigation into all incidents; indeed, some have little potential for serious harm (e.g., minor cuts and bruises may receive a low level of investigation) but ignoring the true potential of an incident can be a costly mistake.",
+      "Investigations obviously do not help to learn from the incidents."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Investigations obviously do not help to learn from the incidents.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 41,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q042",
+    "question": "The unsafe act or unsafe condition that leads directly to the consequences (caused harm, damage, etc.).",
+    "options": [
+      "Root Cause",
+      "Indirect Cause",
+      "Basic Cause",
+      "Immediate Cause"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Immediate Cause",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 42,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q043",
+    "question": "Included in the reasons for investigating accidents and incidents, one of them in which the demonstration to the workers and public is given, that there is a desire to improve and learn lessons, this will in turn improve ----------- in the organization.",
+    "options": [
+      "Morale",
+      "Safety",
+      "Healthy environment",
+      "Hatred"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Morale",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 43,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q044",
+    "question": "The point where the organizations fail to retain their memory of previous incidents is termed as:",
+    "options": [
+      "Corporate fault",
+      "Lapse",
+      "Corporate amnesia",
+      "Lack of management"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Corporate amnesia",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 44,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q045",
+    "question": "Organizations do not learn from previous accidents and same incident happen again due to ……",
+    "options": [
+      "Lack of Risk Assessment.",
+      "Lack of Incident Investigations.",
+      "Lack of Decision Making.",
+      "Corporate Amnesia."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Corporate Amnesia.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 45,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q046",
+    "question": "An accident report detailed that similar plants owned by the same organization in other international locations were built downwind of cities. This was as a result of previous incidents where smaller quantities of toxic gas has been released into the atmosphere. This chemical plant was built upwind of a city. This is primarily an example of a failure in.",
+    "options": [
+      "Operational control",
+      "Asset management",
+      "MOC",
+      "Organizational learning"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Organizational learning",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 46,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q047",
+    "question": "Avoidance of corporate amnesia means is to?",
+    "options": [
+      "Rely on individuals.",
+      "Learnt lessons.",
+      "Keep decisions & designs.",
+      "Learnt lessons, keep decisions & designs."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Learnt lessons, keep decisions & designs.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 47,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q048",
+    "question": "Benchmarking is used to identify good practice across similar:",
+    "options": [
+      "Committees.",
+      "Organizations.",
+      "Techniques.",
+      "Procedures."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Organizations.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 48,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q049",
+    "question": "An example of 'organizational learning' within process safety management is documented",
+    "options": [
+      "Management processes ensuring retention of process safety corporate knowledge",
+      "Systematic critical examination of safety management system",
+      "Records of a worker’s skills knowledge and behavior development",
+      "Statistical information for specific accident type within the oil and gas industry"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Management processes ensuring retention of process safety corporate knowledge",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 49,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q050",
+    "question": "An example of ‘organizational learning’ within process safety management is documented:",
+    "options": [
+      "Accident statistics and benchmarking with other organizations in your given industry.",
+      "Review and critique of the process safety management system.",
+      "Information concerning operator’s Competency including workers skills, knowledge, and behaviors.",
+      "Original design specifications. records of all subsequent plant modifications. management processes ensuring retention of process safety corporate knowledge."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Original design specifications. records of all subsequent plant modifications. management processes ensuring retention of process safety corporate knowledge.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 50,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q051",
+    "question": "What is used to identify good practice across similar organizations?",
+    "options": [
+      "Consultation",
+      "Benchmarking",
+      "Management Of Change",
+      "Safe Systems Of Work"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Benchmarking",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 51,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q052",
+    "question": "Leadership should not only actively and effectively monitor the safety performance; they should also seek to continually improve by --------------- against the other organizations.",
+    "options": [
+      "Standardizing",
+      "Comparing",
+      "Benchmarking",
+      "Consulting"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Benchmarking",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 52,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q053",
+    "question": "ILO stands for:",
+    "options": [
+      "International Laws for Operations",
+      "Internal Laws for Operations",
+      "International Labor Organization",
+      "International Laws for overseas."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "International Labor Organization",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 53,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q054",
+    "question": "Process safety management information is necessary for the safe operation and maintenance of process plants and should be …",
+    "options": [
+      "(PDCA) Plan, Do, Check, and Act.",
+      "(FARSI) Functionality, Availability, Reliability, Sustainability, and Interdependence",
+      "(DRCA) Documented, Reliable, Current, and Accessible.",
+      "(PSC) Process safety Competence"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "(DRCA) Documented, Reliable, Current, and Accessible.",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 54,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q055",
+    "question": "External information to the organization is available through the ---------------- data, national legislation and any applicable---------------- Union Directives.",
+    "options": [
+      "Safety data, American Union",
+      "Manufacturer’s data, Western Union",
+      "Manufacturer’s data, European Union",
+      "Process Flow data, European Union"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Manufacturer’s data, European Union",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 55,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q056",
+    "question": "SDS, PFD, SOP’s, PI&D’s are included in -----------",
+    "options": [
+      "Safety measures of organization",
+      "Operational Steps of organization",
+      "Process and safety management information.",
+      "Internal information to the organization"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Internal information to the organization",
+    "element": 1,
+    "part": "1.3",
+    "sourceQuestion": 56,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q057",
+    "question": "---------------- is the corner stone of process safety:",
+    "options": [
+      "Both permanent and temporary modifications.",
+      "SOP’s",
+      "PID’s",
+      "PFD’s"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Both permanent and temporary modifications.",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 57,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q058",
+    "question": "The Management of Change (MOC) should include procedures for:",
+    "options": [
+      "Both permanent and temporary modifications.",
+      "Only temporary modifications, as permanent modification will be covered elsewhere in the process safety management system.",
+      "Permanent modifications only, temporary modifications don’t need to be considered.",
+      "None of these answers."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Both permanent and temporary modifications.",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": null,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q059",
+    "question": "The Management of Change (MOC) should include procedures for:",
+    "options": [
+      "Hardware, software, and procedural changes",
+      "Hardware and procedural changes",
+      "Hardware and software changes",
+      "Software and procedural changes"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Hardware, software, and procedural changes",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 58,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q060",
+    "question": "The Flixborough disaster highlighted the need for effective ------------ all too well.",
+    "options": [
+      "SOP",
+      "HAZOP",
+      "MOC",
+      "PID’s"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "MOC",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 59,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q061",
+    "question": "PSSR is required the following factors to be considered?",
+    "options": [
+      "Barricading & signs",
+      "Lock out-tag out & isolation",
+      "MOC & All operational safety systems",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "MOC & All operational safety systems",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 60,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q062",
+    "question": "Why does the Management of Change (MOC) process require hazard identification and risk assessment to be completed?",
+    "options": [
+      "To ensure that the full implications of any change are understood before it is put into practice.",
+      "To ensure thar new hazards are not introduced.",
+      "To ensure that existing hazards are not unwittingly increased.",
+      "All of the other answers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 61,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q063",
+    "question": "In the text Chemical Process Safety: Learning from case histories such changes are described as “modifications made with good -----------.",
+    "options": [
+      "Safety",
+      "Morale",
+      "Intentions",
+      "Plans"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Intentions",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 62,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q064",
+    "question": "The site that you work on has a series of reactors in a line, one of which is found to be leaking. To keep production going, it is decided that a bypass pipe needs to be installed on the leaking reactor to keep production going. What is the most important thing you should do before installing the bypass pipe?",
+    "options": [
+      "Review implications of the proposed change",
+      "Consult the relevant international standard.",
+      "Develop a preventive maintenance program.",
+      "Use the correct grade of steel for the process."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Review implications of the proposed change",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 63,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q065",
+    "question": "Within a management of change (MOC) procedure, final approval for removal of a safety critical device should be given by:",
+    "options": [
+      "Senior manager",
+      "Senior / Lead operator",
+      "Chemical engineer",
+      "Process technician"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Senior manager",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 64,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q066",
+    "question": "A large chemical mix tank was fitted with a refrigeration system, designed to cool the reaction mixture during a process. However, the refrigeration system was not operational because the refrigerant had been removed and used in another part of the chemical plant. this mix tank was not used very often, but was now required to produce a new batch of product for a customer. On this occasion, the reaction became a thermal runaway and operators did not know how to stop it before the tank exploded. Removal of the refrigerant unit from process plant operation was mainly a failure to recognize the ……………",
+    "options": [
+      "Lack of competence.",
+      "Need for resources.",
+      "Implications of change.",
+      "Operating procedures."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Implications of change.",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 65,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q067",
+    "question": "Effective MOC should be result of?",
+    "options": [
+      "Individual Decision Making",
+      "Collective Decisions Making",
+      "Effective Consultation",
+      "Both collective decisions making & effective consultation"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Both collective decisions making & effective consultation",
+    "element": 1,
+    "part": "1.4",
+    "sourceQuestion": 66,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q068",
+    "question": "What is the two-way exchange of information between parties, in this case between employer and worker?",
+    "options": [
+      "Consultation",
+      "Benchmarking",
+      "Management Of Change",
+      "Safe Systems Of Work"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Consultation",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 67,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q069",
+    "question": "Limitations of Worker Engagement are the following EXCEPT?",
+    "options": [
+      "Not all matters being by true consultation",
+      "Consultation takes time because of RAPID DECISION MAKING",
+      "Non safety matters discussion",
+      "Well-structured consultation Process"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Well-structured consultation Process",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 68,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q070",
+    "question": "The best methods for effective consultation are….",
+    "options": [
+      "Individual phone calls.",
+      "Safety committees & discussion groups.",
+      "Safety circles, meetings & email with web-based forums.",
+      "Safety committees, discussion groups, safety circles, meetings and email with web-based forums."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Safety committees, discussion groups, safety circles, meetings and email with web-based forums.",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 69,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q071",
+    "question": "Which one is the benefit of Consultation?",
+    "options": [
+      "All matters are not being agreed.",
+      "Do not improve Safety Culture.",
+      "Clear demonstration of management commitment.",
+      "Workers do not feel more involved."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Clear demonstration of management commitment.",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 70,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q072",
+    "question": "Health and safety committee meetings mainly promote",
+    "options": [
+      "Compliance",
+      "Co-ordination",
+      "Consultation",
+      "Compartmentation"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Consultation",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 71,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q073",
+    "question": "In work engagement’s benefits and limitations------------- may not always be possible in case where rapid decision-making is needed:",
+    "options": [
+      "Documentation",
+      "Discussion",
+      "Permission",
+      "Consultation"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Consultation",
+    "element": 1,
+    "part": "1.5",
+    "sourceQuestion": 72,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q074",
+    "question": "What is the most important benefit of involving workers in risk assessment?",
+    "options": [
+      "To reduce resistance and conflict when risk assessments are introduced.",
+      "To make sure there is a balanced representation of workers and managers.",
+      "To enable employer and employees to comply fully with legal requirements.",
+      "To gather detailed practical knowledge about workplace hazards and risks."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "To gather detailed practical knowledge about workplace hazards and risks.",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 73,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q075",
+    "question": "Which of the following is the most direct evidence of worker competence?",
+    "options": [
+      "Consistently performing a work-related task correctly to the required standard.",
+      "Signing a document to confirm that a procedure was read and understood.",
+      "Completing an attendance form following a process safety toolbox talk.",
+      "Carrying out a work-related task without harming themselves or others."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Consistently performing a work-related task correctly to the required standard.",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 74,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q076",
+    "question": "Workers competently perform routine tasks on a process line. A new process shortly be introduced that requires many different skill sets. What is the best way to fill the skill gaps?",
+    "options": [
+      "A psychometric test.",
+      "A training need analysis.",
+      "An ability test.",
+      "An occupational personality questionnaire."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A training need analysis.",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 75,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q077",
+    "question": "The ability to undertake responsibilities and to perform activities to a recognized standard on a regular basis. It is a combination of practical and thinking skills, experience and knowledge.",
+    "options": [
+      "Consultation",
+      "Competence",
+      "Management Of Change",
+      "Benchmarking"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Competence",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 76,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q078",
+    "question": "Competence at work is often demonstrated through the application of skilled behavior based on sound knowledge gained through.",
+    "options": [
+      "Work experience",
+      "E-learning assessment",
+      "Site audits",
+      "Staff surveys"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Work experience",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 77,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q079",
+    "question": "Many organizations develop a ----------- as a starting point for developing individual competence and to provide a framework for career progression.",
+    "options": [
+      "SOP’s",
+      "Plan",
+      "Training matrix",
+      "Accountability procedure"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Training matrix",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 78,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E1-Q080",
+    "question": "Competence is the blend of:",
+    "options": [
+      "Consultation, status, knowledge",
+      "Knowledge, skill and experience",
+      "Qualification, skill and status",
+      "Social circle, experience, skill"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Knowledge, skill and experience",
+    "element": 1,
+    "part": "1.6",
+    "sourceQuestion": 79,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

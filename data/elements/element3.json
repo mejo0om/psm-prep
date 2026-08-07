@@ -1,0 +1,5396 @@
+[
+  {
+    "id": "E3-Q154",
+    "question": "Operating outside the SOE is:",
+    "options": [
+      "Unsafe",
+      "Safe",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Unsafe",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "1",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 58,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe operating envelope"
+    ],
+    "relatedAcronyms": [
+      "SOE"
+    ],
+    "keywords": [
+      "unsafe",
+      "outside",
+      "operating"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 58,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "E3-Q155",
+    "question": "In SOEs the ______ are highly important?",
+    "options": [
+      "Pressure safety valve",
+      "Pressure relief valve",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "2",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 55,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "Q5"
+    ],
+    "keywords": [
+      "soes",
+      "highly",
+      "______",
+      "important"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 55,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E3-Q156",
+    "question": "What is the purpose of SOPs?",
+    "options": [
+      "Auditing",
+      "Inspection",
+      "Operators training & information",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Operators training & information",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "3",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 125,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "sops",
+      "purpose",
+      "training",
+      "operators",
+      "information"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 125,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q157",
+    "question": "The system for connections and equipment that operates automatically the process controls, for example valves that maintain the process in SOE, is called?",
+    "options": [
+      "SOP",
+      "PFD",
+      "SIS - Safety Instrumented System",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "SIS - Safety Instrumented System",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "4",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 59,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating procedures",
+      "Safe operating envelope",
+      "Start-up and shut-down",
+      "Safety instrumented system"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "PID",
+      "SIS",
+      "SOE",
+      "TERMS"
+    ],
+    "keywords": [
+      "instrumented",
+      "connections",
+      "automatically",
+      "operates",
+      "maintain",
+      "valves"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 59,
+    "primaryConcept": "Operating procedures"
+  },
+  {
+    "id": "E3-Q158",
+    "question": "Who is involved in SOPs development?",
+    "options": [
+      "Design-Engineering Team",
+      "Stakeholders",
+      "Operators",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "5",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 59,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating Procedures"
+    ],
+    "keywords": [
+      "sops",
+      "development",
+      "involved"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 59,
+    "primaryConcept": "Operating Procedures"
+  },
+  {
+    "id": "E3-Q159",
+    "question": "One of the reasons to involve operators in developing SOPs is to:",
+    "options": [
+      "Create domination",
+      "Ensure operators' happiness",
+      "Create ownership",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Create ownership",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "6",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 60,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 60",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating Procedures"
+    ],
+    "relatedAcronyms": [
+      "HSE"
+    ],
+    "keywords": [
+      "ownership",
+      "create",
+      "involve",
+      "sops",
+      "developing",
+      "reasons"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 60",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 60,
+    "primaryConcept": "Operating Procedures"
+  },
+  {
+    "id": "E3-Q160",
+    "question": "Risk Based Inspection is a tool to keep ______ current and accurate.",
+    "options": [
+      "PFDs",
+      "SIS",
+      "SOPs",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "SOPs",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "7",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 61,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 61",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "keywords": [
+      "tool",
+      "accurate",
+      "sops",
+      "inspection",
+      "current",
+      "based"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 61",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 61,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E3-Q161",
+    "question": "Time pressure, workload, training, human fallibility are the factors that affect operators to follow?",
+    "options": [
+      "Work instructions",
+      "Safety rules",
+      "SOPs",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "SOPs",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "8",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 62,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 62",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating procedures"
+    ],
+    "relatedAcronyms": [
+      "SOP"
+    ],
+    "keywords": [
+      "fallibility",
+      "workload",
+      "factors",
+      "affect",
+      "follow",
+      "human"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 62",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 62,
+    "primaryConcept": "Operating procedures"
+  },
+  {
+    "id": "E3-Q162",
+    "question": "The type of unplanned shutdown with a hazardous situation is called:",
+    "options": [
+      "High Hazard",
+      "Advanced Risk",
+      "Emergency",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Emergency",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "9",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 65,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe operating envelope",
+      "Start-up and shut-down",
+      "Explosion",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "unplanned",
+      "shutdown",
+      "situation",
+      "hazardous",
+      "called",
+      "type"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 65,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "E3-Q163",
+    "question": "Partial or complete equipment malfunction is a type of event:",
+    "options": [
+      "Planned",
+      "Emergency",
+      "Unplanned",
+      "Staged",
+      "Delayed"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Unplanned",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "10",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 64,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down"
+    ],
+    "keywords": [
+      "malfunction",
+      "complete",
+      "unplanned",
+      "partial",
+      "event",
+      "type"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 64,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q164",
+    "question": "When an issue has been raised, but an assessment is made to control the situation until shut-down is allowed to proceed, is called?",
+    "options": [
+      "Planned",
+      "Emergency",
+      "Unplanned",
+      "Staged",
+      "Delayed"
+    ],
+    "correctAnswer": "E",
+    "correctOptionText": "Delayed",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "11",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 65,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe operating envelope",
+      "Start-up and shut-down",
+      "Explosion",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "proceed",
+      "raised",
+      "allowed",
+      "delayed",
+      "issue",
+      "situation"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 65,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "E3-Q165",
+    "question": "The absence of a plan can make the situation more dangerous in the case of:",
+    "options": [
+      "Planned shutdown",
+      "Unplanned shutdown",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Unplanned shutdown",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "12",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 90,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 90",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Explosion"
+    ],
+    "keywords": [
+      "absence",
+      "unplanned",
+      "shutdown",
+      "situation",
+      "dangerous",
+      "make"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 90",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 90,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q166",
+    "question": "All planned shutdowns are generally ______ to prevent impact on operations.",
+    "options": [
+      "Planned",
+      "Staged",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Staged",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "13",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 64,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "shutdowns",
+      "staged",
+      "generally",
+      "planned",
+      "impact",
+      "operations"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 64,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q167",
+    "question": "Why are both start-up and shutdown potentially dangerous processes?",
+    "options": [
+      "Untrained team",
+      "Poor commitment of top management",
+      "May not be able to plan for every contingency",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "May not be able to plan for every contingency",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "14",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.6",
+    "bookTopic": "Dangerous substances",
+    "bookPageStart": 86,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 86",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Dangerous substances",
+      "Reaction hazards",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "GHS"
+    ],
+    "keywords": [
+      "contingency",
+      "shutdown",
+      "dangerous",
+      "potentially",
+      "able",
+      "plan"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 86",
+    "section": "3.6",
+    "topic": "Dangerous substances",
+    "bookPage": 86,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q168",
+    "question": "A pre-start-up safety review requires the following factors to be considered:",
+    "options": [
+      "Barricading and signs",
+      "Lockout-tagout and isolation",
+      "MOC and all operational safety systems",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "MOC and all operational safety systems",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "15",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 65,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change",
+      "Start-up and shut-down",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "MOC"
+    ],
+    "keywords": [
+      "factors",
+      "considered",
+      "requires",
+      "review",
+      "operational",
+      "start"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 65,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E3-Q169",
+    "question": "Tightness testing is required for the plant's:",
+    "options": [
+      "Pre-shutdown review",
+      "Pre-start-up safety review",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pre-start-up safety review",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "16",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 65,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "tightness",
+      "testing",
+      "review",
+      "start",
+      "required",
+      "plant"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 65,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q170",
+    "question": "__________ are a great help to identify abnormal, hazardous and unsafe plant and process conditions?",
+    "options": [
+      "Gas testers",
+      "Inspections",
+      "Alarms",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Alarms",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "17",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 67,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 67",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "abnormal",
+      "great",
+      "__________",
+      "unsafe",
+      "help",
+      "alarms"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 67",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 67,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q171",
+    "question": "Responding to alarms is the responsibility of:",
+    "options": [
+      "Safety engineers",
+      "Maintenance engineers",
+      "Plant operators",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Plant operators",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "18",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 63,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 63",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "responding",
+      "responsibility",
+      "alarms",
+      "operators",
+      "plant"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 63",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 63,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q172",
+    "question": "Plant shutdown requires ensuring proper:",
+    "options": [
+      "Communications and training",
+      "Testing and checking of safety operational controls",
+      "Checking of blinds and physical connections",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "19",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 46,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset management and maintenance strategies"
+    ],
+    "keywords": [
+      "proper",
+      "shutdown",
+      "ensuring",
+      "requires",
+      "plant"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 46,
+    "primaryConcept": "Asset management and maintenance strategies"
+  },
+  {
+    "id": "E3-Q173",
+    "question": "The parts of an installation and such of its plant including computer systems is called?",
+    "options": [
+      "SIS",
+      "SCE",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "SCE",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "20",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "HAZOP",
+      "Failure modes and effects analysis"
+    ],
+    "relatedAcronyms": [
+      "FMEA",
+      "HAZOP",
+      "PHA",
+      "SCE"
+    ],
+    "keywords": [
+      "computer",
+      "installation",
+      "parts",
+      "called",
+      "including",
+      "systems"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "HAZOP"
+  },
+  {
+    "id": "E3-Q174",
+    "question": "What are the reasons for performance standards for critical systems and equipment?",
+    "options": [
+      "To ensure asset safety",
+      "To ensure SCE is performing as per design criteria and expectations",
+      "To assess SCE interdependencies and interactions",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "21",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "PS",
+      "TERMS"
+    ],
+    "keywords": [
+      "reasons",
+      "standards",
+      "performance",
+      "critical",
+      "systems",
+      "equipment"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "E3-Q175",
+    "question": "An agreed standard that is set against which actual performance is measured and judged is called?",
+    "options": [
+      "MOC",
+      "SCE",
+      "PS - Performance Standard",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "PS - Performance Standard",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "22",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Management of change",
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "KEY",
+      "MOC",
+      "PS",
+      "SCE",
+      "TERM",
+      "UK"
+    ],
+    "keywords": [
+      "standard",
+      "performance",
+      "judged",
+      "agreed",
+      "measured",
+      "actual"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E3-Q176",
+    "question": "PHA stands for?",
+    "options": [
+      "Process Hazard Analysis"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process Hazard Analysis",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "23A",
+    "sourcePage": "6",
+    "notes": "Direct-answer item; the source contains two questions numbered Q23.",
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 66,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 66",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe start-up and shut-down"
+    ],
+    "relatedAcronyms": [
+      "PHA"
+    ],
+    "keywords": [
+      "stands",
+      "analysis",
+      "hazard",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 66",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 66,
+    "primaryConcept": "Safe start-up and shut-down"
+  },
+  {
+    "id": "E3-Q177",
+    "question": "What is meant by \"Probability of failure on demand (PFD)\"?",
+    "options": [
+      "Chances in functional failure",
+      "Mean time between failure",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Chances in functional failure",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "23B",
+    "sourcePage": "6",
+    "notes": "The source contains two questions numbered Q23.",
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 70,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical performance standards"
+    ],
+    "relatedAcronyms": [
+      "PFD",
+      "SCE"
+    ],
+    "keywords": [
+      "meant",
+      "failure",
+      "chances",
+      "functional",
+      "demand",
+      "probability"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 70,
+    "primaryConcept": "Safety critical performance standards"
+  },
+  {
+    "id": "E3-Q178",
+    "question": "Average time between failures of a system is called:",
+    "options": [
+      "MTBF - Mean Time Between Failure",
+      "PFD",
+      "MOC",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "MTBF - Mean Time Between Failure",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "24",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "MTBF",
+      "SCE",
+      "TERMS"
+    ],
+    "keywords": [
+      "time",
+      "mtbf",
+      "average",
+      "mean",
+      "failures",
+      "called"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q179",
+    "question": "SIL stands for?",
+    "options": [
+      "Safety Integrity Level"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Safety Integrity Level",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "25",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety instrumented system",
+      "Safety critical equipment",
+      "Electrical safety",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "SIL",
+      "SIS"
+    ],
+    "keywords": [
+      "stands",
+      "integrity",
+      "level",
+      "safety"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Safety instrumented system"
+  },
+  {
+    "id": "E3-Q180",
+    "question": "There are four levels in the SIL system, 1 being the ______ and 4 the ______.",
+    "options": [
+      "Medium and smallest",
+      "Lowest and highest",
+      "Lesser and more",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Lowest and highest",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "26",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "SIL"
+    ],
+    "keywords": [
+      "______",
+      "lowest",
+      "highest",
+      "levels"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "E3-Q181",
+    "question": "SIS is made up of three connected parts:",
+    "options": [
+      "Sensors, logic solvers and final elements",
+      "Sensors, couplers and final elements",
+      "Sensors, couplers and valves",
+      "Sensors, logic solvers and valves"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Sensors, logic solvers and final elements",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "27",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety instrumented system",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "SIS"
+    ],
+    "keywords": [
+      "solvers",
+      "logic",
+      "sensors",
+      "connected",
+      "final",
+      "parts"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Safety instrumented system"
+  },
+  {
+    "id": "E3-Q182",
+    "question": "In terms of safety critical performance standards, what does the abbreviation FARSI stand for?",
+    "options": [
+      "Functionality, availability, resource, survivability, interdependency",
+      "Functionality, asset integrity, reliability, survivability, interdependency",
+      "Functionality, asset integrity, reliability, systemic, interdependency",
+      "Functionality, availability, reliability, survivability, interdependency"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Functionality, availability, reliability, survivability, interdependency",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "28",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 103,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "Q5"
+    ],
+    "keywords": [
+      "abbreviation",
+      "interdependency",
+      "survivability",
+      "functionality",
+      "stand",
+      "availability"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 103,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "E3-Q183",
+    "question": "One control adopted for safe start-up of a plant is:",
+    "options": [
+      "Closing all valves",
+      "Closing drain valves",
+      "Opening all valves",
+      "Opening drain valves"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Closing drain valves",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "29",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down"
+    ],
+    "keywords": [
+      "drain",
+      "closing",
+      "adopted",
+      "valves",
+      "start",
+      "safe"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q184",
+    "question": "Legionella bacteria grow at temperatures between:",
+    "options": [
+      "-10°C and -5°C",
+      "20°C and 55°C",
+      "60°C and 70°C",
+      "70°C and 100°C"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "20°C and 55°C",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "30",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 75,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities"
+    ],
+    "keywords": [
+      "grow",
+      "bacteria",
+      "legionella",
+      "temperatures"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 75,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q185",
+    "question": "What is saturated steam?",
+    "options": [
+      "Steam where all the water has been converted to steam",
+      "Steam where some liquid water is still retained in the steam",
+      "Steam under very high pressure",
+      "Steam with a temperature in excess of 100°C"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Steam where some liquid water is still retained in the steam",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "31",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities"
+    ],
+    "keywords": [
+      "steam",
+      "retained",
+      "saturated",
+      "water",
+      "liquid"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q186",
+    "question": "The severity of injury received as a result of contact with electricity is minimized by?",
+    "options": [
+      "High current and low body resistance",
+      "Low current and high voltage",
+      "Low current and high body resistance",
+      "High current and high voltage"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Low current and high body resistance",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "32",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 103,
+    "bookPageEnd": 83,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.5",
+      "pageStart": 78,
+      "pageEnd": 83,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "HSG244",
+      "UK"
+    ],
+    "keywords": [
+      "minimized",
+      "received",
+      "body",
+      "electricity",
+      "injury",
+      "resistance"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 103,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q187",
+    "question": "Chemical warehousing considerations include:",
+    "options": [
+      "Assessment and understanding of potential chemical hazards present",
+      "Siting, location and security of warehousing",
+      "Minimized inventories",
+      "Separation and segregation of dangerous goods",
+      "Control of ignition sources",
+      "All of the above"
+    ],
+    "correctAnswer": "F",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "33",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 100,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 100",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "considerations",
+      "warehousing",
+      "include",
+      "chemical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 100",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 100,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q188",
+    "question": "Protective measures commonly used to mitigate the consequences of a thermal runaway reaction are?",
+    "options": [
+      "Containment within a reactor designed to withstand maximum generated pressure",
+      "Crash cooling",
+      "Drowning and quenching of reactor contents",
+      "Emergency venting or dumping of reactants to scrubber systems, knock-out drums and flare stacks.",
+      "All of the above"
+    ],
+    "correctAnswer": "E",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "34",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 57,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 57",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Dangerous substances",
+      "Reaction hazards",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "mitigate",
+      "protective",
+      "commonly",
+      "runaway",
+      "thermal",
+      "measures"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 57",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 57,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E3-Q189",
+    "question": "Effective Process Safety Hazard Control includes:",
+    "options": [
+      "Operating procedures",
+      "Safe start-up and shutdown",
+      "Safety-critical performance standards",
+      "Utilities, electricity and static electricity",
+      "Dangerous substances, reaction hazards and bulk storage operations",
+      "All of the above"
+    ],
+    "correctAnswer": "F",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "35",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 99,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 99",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "ESD"
+    ],
+    "keywords": [
+      "includes",
+      "effective",
+      "hazard",
+      "control",
+      "safety",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 99",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 99,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E3-Q190",
+    "question": "How can the ignition source in a warehouse be controlled?",
+    "options": [
+      "Training",
+      "Safety signs",
+      "No use of mobile phones",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "No use of mobile phones",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "36",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "keywords": [
+      "phones",
+      "mobile",
+      "warehouse",
+      "controlled",
+      "source",
+      "ignition"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q191",
+    "question": "What could be the consequence of an untoward event in a warehouse?",
+    "options": [
+      "Spillage",
+      "Fire",
+      "Release",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "37",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 102,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 102",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage operations"
+    ],
+    "keywords": [
+      "untoward",
+      "warehouse",
+      "consequence",
+      "event"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 102",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 102,
+    "primaryConcept": "Bulk storage operations"
+  },
+  {
+    "id": "E3-Q192",
+    "question": "EFRT stands for?",
+    "options": [
+      "External Floating Roof Tank"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "External Floating Roof Tank",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "38",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity",
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "EFRT",
+      "IFRT"
+    ],
+    "keywords": [
+      "efrt",
+      "stands",
+      "floating",
+      "roof",
+      "external",
+      "tank"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E3-Q193",
+    "question": "To be safe from lightning strikes, ______ is used to keep the level of flammable vapours down.",
+    "options": [
+      "Steaming",
+      "Saturated steaming",
+      "Inerting",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Inerting",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "39",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "keywords": [
+      "strikes",
+      "lightning",
+      "inerting",
+      "vapours",
+      "______",
+      "safe"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q194",
+    "question": "To keep tanks safe from heat and cold, what must be used?",
+    "options": [
+      "Insulation",
+      "Trace heating",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "40",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "cold",
+      "tanks",
+      "heat",
+      "safe",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q195",
+    "question": "Bunding must be designed and constructed at least ______ of the total volume of tank?",
+    "options": [
+      "120%",
+      "130%",
+      "110%",
+      "105%"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "110%",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "41",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 100,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 100",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "bunding",
+      "constructed",
+      "total",
+      "volume",
+      "designed",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 100",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 100,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q196",
+    "question": "Because of ______, rain water can enter the tank and mix with the tank contents.",
+    "options": [
+      "Poor tank material",
+      "Poor welding",
+      "Rim failure",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Rim failure",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "42",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 99,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 99",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "rain",
+      "enter",
+      "tank",
+      "contents",
+      "______",
+      "water"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 99",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 99,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q197",
+    "question": "Possible root causes of ignition in the tank are:",
+    "options": [
+      "Lightning strike",
+      "Localized induced static charge",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "43",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 11,
+    "bookPageEnd": 83,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.5",
+      "pageStart": 78,
+      "pageEnd": 83,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "root",
+      "causes",
+      "possible",
+      "ignition",
+      "tank"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 11,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q198",
+    "question": "Roof of floating roof tank must be landed on its legs with minimum height ______?",
+    "options": [
+      "1.5-2 m",
+      "0.5-1 m",
+      "2.5-3 m",
+      "0.1-0.4 m"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "1.5-2 m",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "44",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity",
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "IFRT"
+    ],
+    "keywords": [
+      "roof",
+      "legs",
+      "landed",
+      "height",
+      "minimum",
+      "floating"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E3-Q199",
+    "question": "Best type of tank to avoid lightning strikes for flammable storage:",
+    "options": [
+      "Floating roof tanks",
+      "Spherical tanks",
+      "Cylindrical tanks",
+      "Dome roof tanks"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Floating roof tanks",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "45",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "strikes",
+      "lightning",
+      "floating",
+      "avoid",
+      "roof",
+      "best"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q200",
+    "question": "FRT contains the following key areas:",
+    "options": [
+      "Flexible connectors and valves from foam supply with limit chain and float check valve",
+      "Horizontal supply piping to continuous linear spreader nozzles",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "46",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 47,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Permit-to-work"
+    ],
+    "relatedAcronyms": [
+      "FRT"
+    ],
+    "keywords": [
+      "contains",
+      "areas",
+      "following"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 47,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "E3-Q201",
+    "question": "What is the best type of tank for highly flammable liquids with high vapour pressure and low flash point?",
+    "options": [
+      "Floating roof tanks",
+      "Spherical tanks",
+      "Cylindrical tanks",
+      "Dome roof tanks"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Floating roof tanks",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "47",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "EFRT"
+    ],
+    "keywords": [
+      "flash",
+      "floating",
+      "roof",
+      "highly",
+      "liquids",
+      "best"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q202",
+    "question": "Flammable material must be stored at a percentage of LEL less than the actual LEL of that material:",
+    "options": [
+      "15 percent",
+      "20 percent",
+      "25 percent",
+      "30 percent"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "25 percent",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "48",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 95,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "LEL"
+    ],
+    "keywords": [
+      "material",
+      "percent",
+      "actual",
+      "percentage",
+      "stored",
+      "flammable"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 95,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q203",
+    "question": "Safe distance between two flammable tanks is:",
+    "options": [
+      "2 m",
+      "3 m",
+      "4 m",
+      "15 m"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "3 m",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "49",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 96,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 96",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "keywords": [
+      "distance",
+      "tanks",
+      "safe",
+      "flammable"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 96",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 96,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q204",
+    "question": "The terrible effects of vacuum on a tank are called:",
+    "options": [
+      "Risk",
+      "Hazard",
+      "Both 1 & 2",
+      "Deformation and collapse"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Deformation and collapse",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "50",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 92,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Explosion"
+    ],
+    "keywords": [
+      "terrible",
+      "deformation",
+      "collapse",
+      "effects",
+      "vacuum",
+      "called"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 92,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q205",
+    "question": "For a small grinding activity, which permit is required?",
+    "options": [
+      "Cold work",
+      "Hot work",
+      "No permit",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Hot work",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "51",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 49,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 49",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Role",
+      "purpose and features of a permit-to-work system"
+    ],
+    "keywords": [
+      "grinding",
+      "small",
+      "activity",
+      "permit",
+      "required",
+      "work"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 49",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 49,
+    "primaryConcept": "Role"
+  },
+  {
+    "id": "E3-Q206",
+    "question": "The provision of a UPS may be achieved in how many ways?",
+    "options": [
+      "3",
+      "4",
+      "9",
+      "2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "3",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "52",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 82,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "UPS"
+    ],
+    "keywords": [
+      "ways",
+      "provision",
+      "achieved"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 82,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q207",
+    "question": "The provision of a UPS may be achieved in the following ways:",
+    "options": [
+      "Offline",
+      "Online",
+      "Line interactive",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "53",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 82,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "UPS"
+    ],
+    "keywords": [
+      "ways",
+      "provision",
+      "achieved",
+      "following"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 82,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q208",
+    "question": "Creep effect appears on materials due to:",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "High vacuum",
+      "High pressure"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "High temperature",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "54",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 93,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 93",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Failure modes and effects analysis",
+      "Bulk storage"
+    ],
+    "keywords": [
+      "appears",
+      "creep",
+      "effect",
+      "materials",
+      "temperature",
+      "high"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 93",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 93,
+    "primaryConcept": "Failure modes and effects analysis"
+  },
+  {
+    "id": "E3-Q209",
+    "question": "Function of a vacuum breaker:",
+    "options": [
+      "Release of vacuum",
+      "Release of pressure",
+      "Compensation of pressure",
+      "Avoid crash cooling"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Compensation of pressure",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "55",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 74,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 74",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "keywords": [
+      "compensation",
+      "breaker",
+      "vacuum",
+      "function",
+      "pressure"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 74",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 74,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q210",
+    "question": "The broader categories of stress can be presented with the below word in combination of STRESS and STRAIN?",
+    "options": [
+      "Fracture",
+      "Brittle",
+      "Ductile",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "56",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 94,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 94",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage operations"
+    ],
+    "relatedAcronyms": [
+      "STRAIN",
+      "STRESS"
+    ],
+    "keywords": [
+      "stress",
+      "broader",
+      "word",
+      "strain",
+      "presented",
+      "categories"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 94",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 94,
+    "primaryConcept": "Bulk storage operations"
+  },
+  {
+    "id": "E3-Q211",
+    "question": "The function of a catalyst is to:",
+    "options": [
+      "Make a chemical reaction faster",
+      "Change its properties",
+      "Lower the chemical reaction",
+      "No action"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Make a chemical reaction faster",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "57",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 89,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "keywords": [
+      "faster",
+      "catalyst",
+      "make",
+      "function",
+      "reaction",
+      "chemical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 89,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E3-Q212",
+    "question": "An endothermic reaction results in:",
+    "options": [
+      "High temperature release",
+      "Low temperature release",
+      "High heat take-in",
+      "Low heat take-in"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "High heat take-in",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "58",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "endothermic",
+      "results",
+      "reaction",
+      "heat",
+      "high"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E3-Q213",
+    "question": "The speed of a chemical reaction can be doubled by:",
+    "options": [
+      "Pressure",
+      "Catalyst",
+      "Temperature",
+      "Vacuum"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Temperature",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "59",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 89,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "keywords": [
+      "doubled",
+      "speed",
+      "reaction",
+      "temperature",
+      "chemical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 89",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 89,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E3-Q214",
+    "question": "Combustion of any fuel by burning in air is an example of:",
+    "options": [
+      "Exothermic reaction",
+      "Endothermic reaction",
+      "Both 1 & 2",
+      "All of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Exothermic reaction",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "60",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "burning",
+      "exothermic",
+      "combustion",
+      "fuel",
+      "reaction",
+      "example"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E3-Q215",
+    "question": "When two chemicals, such as ethanoic acid and sodium, are mixed and the temperature of the resulting solution falls, this is known as:",
+    "options": [
+      "Exothermic reaction",
+      "Endothermic reaction",
+      "Both 1 & 2",
+      "All of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Endothermic reaction",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "61",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "ethanoic",
+      "solution",
+      "sodium",
+      "endothermic",
+      "acid",
+      "mixed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E3-Q216",
+    "question": "The severity of injury received as a result of contact with electricity is minimized by:",
+    "options": [
+      "High current and low body resistance",
+      "Low current and high voltage",
+      "Low current and high body resistance",
+      "High current and high voltage"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Low current and high body resistance",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "62",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 103,
+    "bookPageEnd": 83,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.5",
+      "pageStart": 78,
+      "pageEnd": 83,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "HSG244",
+      "UK"
+    ],
+    "keywords": [
+      "minimized",
+      "received",
+      "body",
+      "electricity",
+      "injury",
+      "resistance"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 103,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q217",
+    "question": "One control adopted for safe start-up of a plant is:",
+    "options": [
+      "Closing all valves",
+      "Closing drain valves",
+      "Opening all valves",
+      "Opening drain valves"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Closing drain valves",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "63",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down"
+    ],
+    "keywords": [
+      "drain",
+      "closing",
+      "adopted",
+      "valves",
+      "start",
+      "safe"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q218",
+    "question": "In terms of safety-critical performance standards, what does FARSI stand for?",
+    "options": [
+      "Functionality, availability, resource, survivability, interdependency",
+      "Functionality, asset integrity, reliability, survivability and interdependency",
+      "Functionality, asset integrity, reliability, systemic, interdependency",
+      "Functionality, availability, reliability, survivability and interdependency"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Functionality, availability, reliability, survivability and interdependency",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "64",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 103,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "Q5"
+    ],
+    "keywords": [
+      "interdependency",
+      "survivability",
+      "functionality",
+      "stand",
+      "availability",
+      "farsi"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 103",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 103,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "E3-Q219",
+    "question": "According to the assessment and understanding of potential chemical hazards, information on the hazardous nature of a substance to be stored is obtained from:",
+    "options": [
+      "Manufacturers, SDS and suppliers",
+      "Manufacturers, SDS and MSDS",
+      "Safety manuals",
+      "Suppliers/manufacturers, SDS and MSDS"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Suppliers/manufacturers, SDS and MSDS",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "65",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 101,
+    "bookPageEnd": 86,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 101",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.6",
+      "pageStart": 84,
+      "pageEnd": 86,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage operations"
+    ],
+    "relatedAcronyms": [
+      "MSDS",
+      "SDS"
+    ],
+    "keywords": [
+      "msds",
+      "suppliers",
+      "obtained",
+      "manufacturers",
+      "nature",
+      "substance"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 101",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 101,
+    "primaryConcept": "Bulk storage operations"
+  },
+  {
+    "id": "E3-Q220",
+    "question": "For controlling lightning strikes, lightning conductors on EFRTs are attached at:",
+    "options": [
+      "The rim of the tank",
+      "The roof of the tank",
+      "The base of the tank",
+      "Both A & B"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Both A & B",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "66",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 115,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "keywords": [
+      "lightning",
+      "efrts",
+      "attached",
+      "conductors",
+      "controlling",
+      "strikes"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 115,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q221",
+    "question": "Tanks are normally fitted with ______ types of alarms.",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Two",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "67",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "normally",
+      "fitted",
+      "alarms",
+      "types",
+      "tanks",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q222",
+    "question": "When material is subjected to rapid and extreme temperature changes, causing different parts to expand by different amounts, this is known as:",
+    "options": [
+      "Stress",
+      "Brittle fracture",
+      "Thermal shock",
+      "Fatigue failure"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Thermal shock",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "68",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 95,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage operations"
+    ],
+    "keywords": [
+      "different",
+      "expand",
+      "subjected",
+      "extreme",
+      "amounts",
+      "shock"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 95",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 95,
+    "primaryConcept": "Bulk storage operations"
+  },
+  {
+    "id": "E3-Q223",
+    "question": "There are ______ types of tanks used to store liquids.",
+    "options": [
+      "Five",
+      "Three",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Eight",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "69",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 92,
+    "bookPageEnd": 104,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.8",
+      "pageStart": 92,
+      "pageEnd": 104,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "EXAMPLES"
+    ],
+    "keywords": [
+      "store",
+      "liquids",
+      "types",
+      "tanks",
+      "______",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 92,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q224",
+    "question": "A ______ is a medium that changes the pathway of a reaction so that particles are brought into closer proximity.",
+    "options": [
+      "Reagent",
+      "Catalyst",
+      "Binder",
+      "Ionic liquid"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Catalyst",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "70",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "keywords": [
+      "pathway",
+      "brought",
+      "medium",
+      "closer",
+      "proximity",
+      "particles"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E3-Q225",
+    "question": "When an exothermic reaction goes out of control, this is known as:",
+    "options": [
+      "Explosion",
+      "Forced reaction",
+      "Uncontrolled reaction",
+      "Thermal runaway reaction"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Thermal runaway reaction",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "71",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.7",
+    "bookTopic": "Reaction hazards",
+    "bookPageStart": 88,
+    "bookPageEnd": 91,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.7",
+      "pageStart": 87,
+      "pageEnd": 91,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Reaction hazards"
+    ],
+    "keywords": [
+      "reaction",
+      "goes",
+      "exothermic",
+      "runaway",
+      "thermal",
+      "known"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88",
+    "section": "3.7",
+    "topic": "Reaction hazards",
+    "bookPage": 88,
+    "primaryConcept": "Reaction hazards"
+  },
+  {
+    "id": "E3-Q226",
+    "question": "__________ describes the property of the substance to readily accept the electrons from another substance?",
+    "options": [
+      "Reduction",
+      "Expansion",
+      "Oxidation",
+      "Condensation"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Oxidation",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "72",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.6",
+    "bookTopic": "Dangerous substances",
+    "bookPageStart": 85,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 85",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "keywords": [
+      "substance",
+      "oxidation",
+      "accept",
+      "property",
+      "__________",
+      "electrons"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 85",
+    "section": "3.6",
+    "topic": "Dangerous substances",
+    "bookPage": 85,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "E3-Q227",
+    "question": "Explosive substances have ______ ignition energy.",
+    "options": [
+      "High",
+      "Low",
+      "Moderate",
+      "Exceptionally beyond limit"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Low",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "73",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.6",
+    "bookTopic": "Dangerous substances",
+    "bookPageStart": 85,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 85",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "keywords": [
+      "substances",
+      "energy",
+      "explosive",
+      "ignition",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.6 – Dangerous substances, p. 85",
+    "section": "3.6",
+    "topic": "Dangerous substances",
+    "bookPage": 85,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E3-Q228",
+    "question": "Generators installed to match the expected total load or partial required load of a plant are known as:",
+    "options": [
+      "Fixed",
+      "Portable",
+      "Standby",
+      "AC/DC"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Standby",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "74",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 83,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 83",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down"
+    ],
+    "relatedAcronyms": [
+      "UPS"
+    ],
+    "keywords": [
+      "load",
+      "standby",
+      "match",
+      "generators",
+      "expected",
+      "total"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 83",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 83,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q229",
+    "question": "The provision of UPS may be achieved in three ways—offline, online and line-interactive—depending on:",
+    "options": [
+      "Availability, cost and place",
+      "Availability, cost and requirement",
+      "Cost, type and functionality",
+      "Cost, requirements and functionality"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Cost, requirements and functionality",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "75",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 82,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "UPS"
+    ],
+    "keywords": [
+      "offline",
+      "interactive",
+      "online",
+      "functionality",
+      "cost",
+      "ways"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 82",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 82,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q230",
+    "question": "In the generation of electric discharges, ______ results from thin insulating films in contact with a conductor.",
+    "options": [
+      "Spark discharge",
+      "Corona",
+      "Propagating brush",
+      "Brush"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Propagating brush",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "76",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 81,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "keywords": [
+      "films",
+      "propagating",
+      "brush",
+      "electric",
+      "insulating",
+      "discharges"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 81,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q231",
+    "question": "__________ happens when solid material is poured into a container in the presence of charged air?",
+    "options": [
+      "Streaming current charge",
+      "Conical pile (Maurer)",
+      "Propagating brush",
+      "Brush"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Conical pile (Maurer)",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "77",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 81,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electricity/static electricity"
+    ],
+    "keywords": [
+      "pile",
+      "maurer",
+      "conical",
+      "poured",
+      "presence",
+      "container"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 81,
+    "primaryConcept": "Electricity/static electricity"
+  },
+  {
+    "id": "E3-Q232",
+    "question": "In hazards of electricity, burning at a point of contact and death from ventricular fibrillation happen at ______ milliamperes of the current?",
+    "options": [
+      "2000 and above",
+      "25-80",
+      "10-25",
+      "80-2000"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "80-2000",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "78",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 79,
+    "bookPageEnd": 83,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.5",
+      "pageStart": 78,
+      "pageEnd": 83,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Electrical safety"
+    ],
+    "keywords": [
+      "milliamperes",
+      "2000",
+      "ventricular",
+      "fibrillation",
+      "death",
+      "burning"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 79,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E3-Q233",
+    "question": "Voltage, current and resistance are related as:",
+    "options": [
+      "V = IR",
+      "V = I/R",
+      "V = I²R",
+      "V = I/R²"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "V = IR",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "79",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 78,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electricity/static electricity"
+    ],
+    "relatedAcronyms": [
+      "IR"
+    ],
+    "keywords": [
+      "related",
+      "resistance",
+      "voltage",
+      "current"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 78,
+    "primaryConcept": "Electricity/static electricity"
+  },
+  {
+    "id": "E3-Q234",
+    "question": "AC and DC differ mainly in terms of:",
+    "options": [
+      "Voltage",
+      "Intensity",
+      "Paths and direction",
+      "Availability"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Paths and direction",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "80",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 78,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "AC",
+      "DC"
+    ],
+    "keywords": [
+      "paths",
+      "differ",
+      "direction",
+      "mainly",
+      "terms"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 78,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E3-Q235",
+    "question": "Where valves and process controls are operated by air, it may be possible to replace the air with:",
+    "options": [
+      "Oxygen",
+      "CO2",
+      "Methane",
+      "Nitrogen"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Nitrogen",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "81",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 77,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "keywords": [
+      "replace",
+      "operated",
+      "nitrogen",
+      "valves",
+      "possible",
+      "controls"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 77,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q236",
+    "question": "For major industrial use and/or process plant, a typical mixture of gases is preferred that is?",
+    "options": [
+      "42% nitrogen, 40% oxygen, 10% CO2",
+      "52% argon, 40% nitrogen, 8% oxygen",
+      "52% nitrogen, 40% argon, 8% CO2",
+      "54% CO2, 40% oxygen, 10% argon"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "52% nitrogen, 40% argon, 8% CO2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "82",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 77,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "CO2"
+    ],
+    "keywords": [
+      "argon",
+      "industrial",
+      "preferred",
+      "mixture",
+      "nitrogen",
+      "typical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 77,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q237",
+    "question": "In cooling towers, growth of Legionella bacteria may cause which disease if it comes into contact with open air?",
+    "options": [
+      "Tuberculosis",
+      "Pneumonia",
+      "Hepatitis",
+      "Diarrhea"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pneumonia",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "83",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 75,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities"
+    ],
+    "keywords": [
+      "disease",
+      "pneumonia",
+      "towers",
+      "growth",
+      "bacteria",
+      "legionella"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 75,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q238",
+    "question": "The ideal growth temperature of Legionella bacteria is:",
+    "options": [
+      "20°C",
+      "55°C",
+      "37°C",
+      "35°C"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "37°C",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "84",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 75,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities"
+    ],
+    "keywords": [
+      "ideal",
+      "growth",
+      "bacteria",
+      "legionella",
+      "temperature"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 75",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 75,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q239",
+    "question": "______ may occur when water in a pipeline strikes a fixed object under high pressure, often during start-up or variable conditions.",
+    "options": [
+      "Vacuum",
+      "Water hammer",
+      "Purging",
+      "Pipe erosion"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Water hammer",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "85",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 73,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 73",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Utilities"
+    ],
+    "keywords": [
+      "water",
+      "variable",
+      "hammer",
+      "object",
+      "strikes",
+      "pipeline"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 73",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 73,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q240",
+    "question": "The steam that is created by reducing the operating pressure using a vacuum pump so the steam is effectively below 100°C is known as?",
+    "options": [
+      "Saturated steam",
+      "Unsaturated steam",
+      "Superheated steam",
+      "Vacuum steam"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Vacuum steam",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "86",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Fire triangle/tetrahedron"
+    ],
+    "keywords": [
+      "steam",
+      "vacuum",
+      "reducing",
+      "created",
+      "effectively",
+      "pump"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q241",
+    "question": "An SCE Safety-critical element that cannot survive an emergency, or at least function until the emergency is under control, will degrade the total ______ of the installation?",
+    "options": [
+      "Importance",
+      "Credibility",
+      "Safety",
+      "Durability"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Safety",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "87",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety instrumented system",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "SCE",
+      "SIS"
+    ],
+    "keywords": [
+      "degrade",
+      "survive",
+      "emergency",
+      "total",
+      "installation",
+      "function"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Safety instrumented system"
+  },
+  {
+    "id": "E3-Q242",
+    "question": "By using the ______ approach, it is possible to describe and check the performance standard for each SCE and the relationships, dependencies and interactions between SCEs.",
+    "options": [
+      "FARSI",
+      "HAZOP",
+      "HAZID",
+      "MOC"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "FARSI",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "88",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 71,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "SCE",
+      "SIL"
+    ],
+    "keywords": [
+      "relationships",
+      "dependencies",
+      "interactions",
+      "sces",
+      "farsi",
+      "check"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 71",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 71,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "E3-Q243",
+    "question": "______ is often expressed in terms of probability of failure on demand (PFD).",
+    "options": [
+      "Credibility",
+      "Security",
+      "Survivability",
+      "Reliability"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Reliability",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "89",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 70,
+    "bookPageEnd": 71,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.3",
+      "pageStart": 69,
+      "pageEnd": 71,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "PFD",
+      "SCE",
+      "TERM"
+    ],
+    "keywords": [
+      "expressed",
+      "demand",
+      "probability",
+      "reliability",
+      "terms",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 70,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E3-Q244",
+    "question": "______ risk assessment may be used to determine downtime for a component and set its design target.",
+    "options": [
+      "FARSI",
+      "Qualitative",
+      "Quantitative",
+      "Semi-quantitative"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Quantitative",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "90",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 70,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "PFD"
+    ],
+    "keywords": [
+      "downtime",
+      "target",
+      "component",
+      "quantitative",
+      "determine",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 70",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 70,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E3-Q245",
+    "question": "EEMUA recommends that no more than ______ alarms per hour should actuate requiring an operator response.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "6",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "91",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 67,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 67",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "EEMUA"
+    ],
+    "keywords": [
+      "actuate",
+      "eemua",
+      "hour",
+      "recommends",
+      "requiring",
+      "response"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 67",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 67,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E3-Q246",
+    "question": "The pre-start-up safety review is based on the ______ and is intended to identify design and other changes, including variations to maintenance and operational procedures.",
+    "options": [
+      "Process Hazard Analysis (PHA)",
+      "HAZOP",
+      "HAZID",
+      "SCEs"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process Hazard Analysis (PHA)",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "92",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 66,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 66",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Safety critical equipment",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "PHA",
+      "TERM"
+    ],
+    "keywords": [
+      "variations",
+      "intended",
+      "review",
+      "changes",
+      "based",
+      "operational"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 66",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 66,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q247",
+    "question": "Planned shutdown is sometimes referred to as ______ shutdown.",
+    "options": [
+      "Proposed",
+      "Approved",
+      "Turnaround",
+      "Staged"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Turnaround",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "93",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 64,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Utilities"
+    ],
+    "relatedAcronyms": [
+      "PHA"
+    ],
+    "keywords": [
+      "shutdown",
+      "turnaround",
+      "referred",
+      "planned",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 64,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "E3-Q248",
+    "question": "______ shutdown refers to a situation where an issue has been raised, such as a leaking valve, but assessment shows the situation can be controlled until an appropriate full or partial shutdown.",
+    "options": [
+      "Planned shutdown",
+      "Emergency shutdown",
+      "Delayed shutdown",
+      "Unplanned shutdown"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Delayed shutdown",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "94",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 65,
+    "bookPageEnd": 68,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.2",
+      "pageStart": 63,
+      "pageEnd": 68,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe operating envelope",
+      "Start-up and shut-down",
+      "Explosion",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "shutdown",
+      "situation",
+      "shows",
+      "raised",
+      "refers",
+      "delayed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 65",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 65,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "E3-Q249",
+    "question": "A ______ valve describes a relief device on a liquid-filled vessel that opens gradually in proportion to any increase in pressure over the preset pressure.",
+    "options": [
+      "Butterfly valve",
+      "Pressure relief valve (PRV)",
+      "Pressure safety valve (PSV)",
+      "Diaphragm valve"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pressure relief valve (PRV)",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "95",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 58,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating Procedures"
+    ],
+    "relatedAcronyms": [
+      "PRV"
+    ],
+    "keywords": [
+      "relief",
+      "valve",
+      "pressure",
+      "preset",
+      "gradually",
+      "proportion"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 58,
+    "primaryConcept": "Operating Procedures"
+  },
+  {
+    "id": "E3-Q250",
+    "question": "The ______ that define the safe operating envelope may be taken from manufacturers' specifications, operating experience and theoretical calculations.",
+    "options": [
+      "Safety limits",
+      "Operating schedule",
+      "Equipment design",
+      "Operating limits"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Operating limits",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "96",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 58,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "Element 3",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Safe operating envelope",
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "PRV",
+      "PSV"
+    ],
+    "keywords": [
+      "operating",
+      "define",
+      "specifications",
+      "theoretical",
+      "manufacturers",
+      "calculations"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 58,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "E3-Q251",
+    "question": "Checking plant integrity before start-up or after alteration as part of the MOC procedure is known as:",
+    "options": [
+      "Hazard analysis",
+      "Process analysis",
+      "Hydrostatic testing",
+      "MOC testing"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Hydrostatic testing",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "97",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 74,
+    "bookPageEnd": 62,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 74",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.1",
+      "pageStart": 58,
+      "pageEnd": 62,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change",
+      "Start-up and shut-down"
+    ],
+    "relatedAcronyms": [
+      "MOC"
+    ],
+    "keywords": [
+      "alteration",
+      "hydrostatic",
+      "checking",
+      "integrity",
+      "procedure",
+      "testing"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 74",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 74,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E3-Q252",
+    "question": "In pipeline freezing, using ______ in a blanket around a pipe can freeze the contents easily and cost-effectively.",
+    "options": [
+      "Liquid nitrogen",
+      "Liquid oxygen",
+      "Liquefied CO2",
+      "Liquefied helium"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Liquid nitrogen",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "98",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 77,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities"
+    ],
+    "keywords": [
+      "freeze",
+      "blanket",
+      "freezing",
+      "cost",
+      "easily",
+      "pipeline"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 77,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "E3-Q253",
+    "question": "In firefighting, ______ is typically used in domestic and office areas and also at some plants.",
+    "options": [
+      "O2",
+      "CO2",
+      "Argon",
+      "Nitrogen"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "CO2",
+    "element": 3,
+    "part": null,
+    "sourceQuestion": "99",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 77,
+    "bookPageEnd": 77,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 3,
+      "section": "3.4",
+      "pageStart": 72,
+      "pageEnd": 77,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "CO2"
+    ],
+    "keywords": [
+      "firefighting",
+      "domestic",
+      "office",
+      "typically",
+      "plants",
+      "areas"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 77,
+    "primaryConcept": "Utilities"
+  }
+]

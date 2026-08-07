@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E3-Q202",
+    "question": "Pressure, temperature, flow, level, pH and density are common",
+    "options": [
+      "Processes associated with safe operating envelopes.",
+      "Problems associated with safe operating envelopes.",
+      "Parameters associated with safe operating envelopes.",
+      "Procedures associated with safe operating envelopes."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Parameters associated with safe operating envelopes.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 202,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q203",
+    "question": "Standard operating procedures are:",
+    "options": [
+      "An assessment of hazards and evaluation of risk associated with an activity.",
+      "A breakdown of a process into nodes to identify deviations from normal activity.",
+      "A signed authority for a high-risk maintenance activity.",
+      "Detailed step by step written procedure documenting an activity."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Detailed step by step written procedure documenting an activity.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 203,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q204",
+    "question": "Steps in a specific Standard Operating Procedures (SOP) are being bypassed or missed by operators and the SOP has become ‘revised’ over time. You have been told that this is due to management failure. Which of the following management actions is most likely to improve process safety at site?",
+    "options": [
+      "Conduct a risk assessment and record all significant findings and actions.",
+      "Install cameras that monitor operators so that when they are caught deviating from the SOP, they can be verbally warned and formally disciplined.",
+      "Install cameras that monitor operators so that when they are caught deviating from the SOP, they can be verbally warned and formally disciplined.",
+      "Investigate, review and report SOP deviations and their causes, carry out programmed reviews of the SOP and oversight the actual practice. Review findings before deciding on further actions."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Investigate, review and report SOP deviations and their causes, carry out programmed reviews of the SOP and oversight the actual practice. Review findings before deciding on further actions.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 204,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q205",
+    "question": "You need to develop a set of Standard Operating Procedures (SOPs) to ensure the safe operation of a petroleum (gasoline) storage tank. There have been a number of incidents in the past where front-line operators have failed to follow the SOPs. Which one of the following is most likely to ensure that operators are aware of the SOP, understand their purpose and follow them?",
+    "options": [
+      "Send an email to all employees making clear that all SOPs will be complied with include a copy of the SOPs for ease of reference.",
+      "Involve the front-line operators when designing the SOPs, along with other stakeholders.",
+      "Design and display several posters that advertise that the SOPs are in place, that they must be followed and failure to do so will result in dismissal.",
+      "Train the front-line operators in the safe use of the gasoline storage tank, highlighting that any deviance from the SOPs will not be tolerated and will result in severe consequences."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Involve the front-line operators when designing the SOPs, along with other stakeholders.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 205,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q206",
+    "question": "During a major incident the primary plant audible warning system was activated, but management subsequently issued an instruction to switch it off shortly after. Switching the primary plant audible warning system off was primarily a ………",
+    "options": [
+      "Necessity to prevent noise pollution.",
+      "Decision to reduce nuisance alarms.",
+      "Chance to test back-up warning systems.",
+      "Deviation from SOP."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Deviation from SOP.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 206,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q207",
+    "question": "As a supervisor you have noticed that, despite clear organization guidelines, operators regula rly bypass the SOP. An independent review has suggested that this is due to management failure. Which of the following management actions is most likely to improve process safety on site.",
+    "options": [
+      "Reminder set to all staff highlighting the importance of process safety and that non- compliance will not be tolerated.",
+      "Conduct a HAZOP, recording all significant findings and actions.",
+      "Develop an effective competence management system, based on task analysis.",
+      "Conduct further investigation into the causes to verify the review findings before deciding on any further action"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Conduct further investigation into the causes to verify the review findings before deciding on any further action",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 207,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q208",
+    "question": "Alerting and informing when problems occur during process operation is the main function of",
+    "options": [
+      "An indicator.",
+      "A dial.",
+      "An alarm.",
+      "A gauge."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "An alarm.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 208,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q209",
+    "question": "A process line can be isolated by closing two-in-line valves and opening a drain between them. Which type of isolation does this describe?",
+    "options": [
+      "Single valves isolation",
+      "Double block and bleed",
+      "Control valve isolation",
+      "Single block and bleed"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Double block and bleed",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 209,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q210",
+    "question": "Which is not one of the purposes of standard operating procedures (SOPs)?",
+    "options": [
+      "Inform operator about the process safety hazards",
+      "Describe the control system",
+      "Describe standard operating conditions (including allowable range/excursions)",
+      "Provide legal advice on contract management"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Provide legal advice on contract management",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 210,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q211",
+    "question": "Which is the most inappropriate reason for Operator involvement in developing SOPs?",
+    "options": [
+      "Increasing acceptance and following of procedures",
+      "Creates a sense of ownership",
+      "Reduces the likelihood for errors occurring",
+      "To shift legal responsibility to operators in case of accidents"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "To shift legal responsibility to operators in case of accidents",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 211,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q212",
+    "question": "Who is not involved in developing SOPs?",
+    "options": [
+      "Operators",
+      "Maintenance team contractors",
+      "Design/engineering team",
+      "Perchausing department team"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Perchausing department team",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 212,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q213",
+    "question": "A large process vessel requires cleaning by a worker entering the vessel following effective isolation. The visibility within the vessel is limited even with temporary lighting. Internal scaffolding used when jetting the internal surfaces with extremely high-pressure jet. Which of the following should be considered FIRST to make the job safer?",
+    "options": [
+      "Substitute the jetting machine for a lower pressure machine still capable of removing solid material from the contaminated surface.",
+      "Use a permit-to-work system for this high-risk task to formally control workers carrying out the jetting activity.",
+      "Suitable guarding on the jetting equipment to prevent injuries from high pressure splashing and dislodged residues.",
+      "Provision of an automatic mechanical jetting machine instead of the requirement for vessel entry by a worker."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Provision of an automatic mechanical jetting machine instead of the requirement for vessel entry by a worker.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 213,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q214",
+    "question": "An operator is required to handle an unexpected deviation in a chemical reactor’s temperature during a batch process. According to standard operating procedures (SOPs), what should be the operator's first course of action?",
+    "options": [
+      "Immediately shut down the reactor without consulting any guidelines.",
+      "Consult the SOP for responding to unplanned deviations and 'abnormal operations' to determine the appropriate steps.",
+      "Adjust the reactor's temperature based on personal experience and intuition.",
+      "Ignore the deviation as minor fluctuations are often self-correcting."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Consult the SOP for responding to unplanned deviations and 'abnormal operations' to determine the appropriate steps.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 214,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q215",
+    "question": "You are responsible for ensuring safe isolation of a section of a chemical plant ahead of intrus ive inspection and maintenance. The highest standard of isolation that you can achieve is",
+    "options": [
+      "Insertion of a blank plate.",
+      "Double block and bleed.",
+      "Single valve isolation.",
+      "Double valve isolation."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Insertion of a blank plate.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 215,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q216",
+    "question": "Partial or complete shutdown, due to equipment malfunction is called",
+    "options": [
+      "Planned",
+      "Emergency",
+      "Unplanned",
+      "Staged"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Unplanned",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 216,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q217",
+    "question": "All planned shut-downs are -----------to prevent impact on operations.",
+    "options": [
+      "Planned",
+      "Staged",
+      "Both planned & staged",
+      "None of the other shutdown types"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Staged",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 217,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q218",
+    "question": "The type of unplanned shutdown with a hazardous situation is called",
+    "options": [
+      "High Hazard",
+      "Advanced Risk",
+      "Emergency",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Emergency",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 218,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q219",
+    "question": "Plant shutdown is required for?",
+    "options": [
+      "Communications & training",
+      "Testing & checking of safety operational controls",
+      "Checking of blinds & physical connections",
+      "All of the other answers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Testing & checking of safety operational controls",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 219,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q220",
+    "question": "Plant supervisors noticed by visual inspection corrosion in some of plant piping, knowing that deterioration already began, what is the most costeffective way to prevent loss of containment?",
+    "options": [
+      "Visual inspection notes documented in daily reports.",
+      "Replacement of all plant piping by stainless steel pipes.",
+      "Plant shutdown and prepare affected pipe sections for maintenance and weld the affected patches then weld test.",
+      "Planned shutdown and replacement of affected piping according to thickness test."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Planned shutdown and replacement of affected piping according to thickness test.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 220,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q221",
+    "question": "One control adopted for safe start-up of plant is:",
+    "options": [
+      "Closing recirculation valves.",
+      "Closing drain valves.",
+      "Close flare manifold valves.",
+      "Closing all valves."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Closing drain valves.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 221,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q222",
+    "question": "Planned shut-down is sometimes referred to as ---------------- shut-down.",
+    "options": [
+      "Proposed",
+      "Approved",
+      "Turnaround",
+      "Staged"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Turnaround",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 222,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q223",
+    "question": "Inspection, aging, life extension and obsolescence are all things that need to be considered as part of a plant's",
+    "options": [
+      "Start-up process.",
+      "Shutdown process.",
+      "Operational procedures.",
+      "Maintenance strategy."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Maintenance strategy.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 223,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q224",
+    "question": "Shutdown can be planned, unplanned, emergency, staged or delayed. In which of the following circumstances would a delayed process shutdown be appropriate?",
+    "options": [
+      "An alarm indicates that the process safe operating envelope is about to be breached",
+      "The power to part of the process has suddenly failed unexpectedly",
+      "The cooling for a reaction vessel has been lost due to a major water leak",
+      "Minor valve leaks appear two weeks before a planned shutdown"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Minor valve leaks appear two weeks before a planned shutdown",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 224,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q225",
+    "question": "A process plant is at its most vulnerable during shut down and start-up operations. To improve the safety of plant start-up operation, a safety evaluation system must be developed. There are several controls adopted for safe start-up of plant with one of them being the:",
+    "options": [
+      "Closing of all valves.",
+      "Closing of drain valves.",
+      "Opening of all valves.",
+      "Opening of drain valves."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Closing of drain valves.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 225,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q226",
+    "question": "---------------- shut-down invariably refers to a situation where an issue has been raised e.g. leaking valve but an assessment is made that the situation can be controlled until an appropriate full/partial shut-down can be dealt with.",
+    "options": [
+      "Planned shutdown",
+      "Emergency Shutdown",
+      "Delayed shutdown",
+      "Unplanned shutdown"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Delayed shutdown",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 226,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q227",
+    "question": "The Engineering Equipment and Material Users Association (EEMUA) recommends no more than ----- alarms per hour should actuate requiring an operator to respond.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "6",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 227,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q228",
+    "question": "In order for a process plant to start-up safely PRVs must be in working order. PRVs are:",
+    "options": [
+      "Process resource values.",
+      "Pressure relief valves.",
+      "Pressure resistance valves.",
+      "Process running valves"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pressure relief valves.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 228,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q229",
+    "question": "The pre-startup safety review is based on the --------------- and its purpose is to identify design and other changes, including variations to maintenance and operational procedures.",
+    "options": [
+      "Process Hazard Analysis (PHA)",
+      "HAZOP",
+      "HAZID",
+      "SCEs"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Process Hazard Analysis (PHA)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 229,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q230",
+    "question": "----------valve should be used to describe a relief device on a liquid filled vessel that opens gradually in proportion to any increase in pressure over the pre-set pressure.",
+    "options": [
+      "Butterfly valve",
+      "Pressure relive valve (PRV)",
+      "Pressure safety valve (PSV)",
+      "Diaphragm Valve"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Pressure relive valve (PRV)",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 230,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q231",
+    "question": "The process was shutdown automatically due to a sudden pressure increase, so it was outside of standard operating ......",
+    "options": [
+      "Preventing",
+      "Emergency",
+      "Procedures",
+      "Plan"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Procedures",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 231,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q232",
+    "question": "In terms of safety critical performance standards, what does ‘FARSI’ stand for?",
+    "options": [
+      "Functionality, availability, resource, survivability, interdependency.",
+      "Functionality, asset integrity, reliability, survivability, interdependency.",
+      "Functionality, asset integrity, reliability, systemic, interdependency.",
+      "Functionality, availability, reliability, survivability, interdependency."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Functionality, availability, reliability, survivability, interdependency.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 232,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q233",
+    "question": "Safety critical performance standards for safety critical elements can best be derived from",
+    "options": [
+      "Information from reporting and recording documents.",
+      "Condition monitoring within planned maintenance.",
+      "Analysis of the design through process hazard analysis.",
+      "Process operation parameters within operating procedures."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Analysis of the design through process hazard analysis.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 233,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q234",
+    "question": "Process safety, performance standards are most important for",
+    "options": [
+      "Safety critical systems and items of equipment.",
+      "Quality of standards operating procedures.",
+      "Quality of risk assessment procedures.",
+      "Safety training and competence levels."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Safety critical systems and items of equipment.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 234,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q235",
+    "question": "What is the main purpose of a pressure relief valve fitted to a vessel?",
+    "options": [
+      "Prevent vessel reaction.",
+      "Prevent vessel collapse.",
+      "Prevent thermal runaway.",
+      "Prevent vessel rupture."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Prevent vessel rupture.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 235,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q236",
+    "question": "Performance standards for SCE can best be derived from",
+    "options": [
+      "Information from reporting and recording documents",
+      "Process operation parameters within operating procedures",
+      "Condition monitoring within planned maintenance",
+      "Analysis of the design through process hazard analysis"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Analysis of the design through process hazard analysis",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 236,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q237",
+    "question": "An SCE that cannot survive an emergency, or at least function until the emergency is under control, will degrade the total -------- of the installation:",
+    "options": [
+      "Importance",
+      "Credibility",
+      "Safety",
+      "Durability"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Safety",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 237,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q238",
+    "question": "By using the --------- approach it is possible to describe and check the performance standard for each of the SCEs and also the SCEs n relation to each other and their relative dependencies and interactions.",
+    "options": [
+      "FARSI",
+      "HAZOP",
+      "HAZID",
+      "MOC"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "FARSI",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 238,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q239",
+    "question": "-------------- is often expressed in terms of the probability of failure on demand. (PFD)",
+    "options": [
+      "Credibility",
+      "Security",
+      "Survivability",
+      "Reliability"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Reliability",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 239,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q240",
+    "question": "What is meant by Potential of Failure in Demand PFD?",
+    "options": [
+      "Chances in functional failures",
+      "Mean time between failure",
+      "Both Chances in functional failures & Mean time between failure",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Chances in functional failures",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 240,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q241",
+    "question": "What does SIL stand for?",
+    "options": [
+      "Safety Instrumented Level.",
+      "Safety Integrity Level.",
+      "Safety Integrity Layer.",
+      "Security Integrity Level"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Safety Integrity Level.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 241,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

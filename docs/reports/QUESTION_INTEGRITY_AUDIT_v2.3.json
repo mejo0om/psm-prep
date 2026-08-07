@@ -1,0 +1,46 @@
+{
+  "release": "2.3",
+  "name": "Question Integrity Baseline",
+  "rules": {
+    "unsupportedExplanations": "Removed",
+    "wrongOptionRationales": "Removed",
+    "allowedEvidenceLevels": [
+      "Level 1 - Official",
+      "Level 2 - Directly Derived"
+    ],
+    "unverifiedContent": "Not shown as explanation"
+  },
+  "files": {
+    "data/elements/element1.json": {
+      "questions": 59,
+      "correctExplanationsRemoved": 59,
+      "wrongOptionRationalesRemoved": 177
+    },
+    "data/elements/element2.json": {
+      "questions": 94,
+      "correctExplanationsRemoved": 94,
+      "wrongOptionRationalesRemoved": 282
+    },
+    "data/elements/element3.json": {
+      "questions": 100,
+      "correctExplanationsRemoved": 100,
+      "wrongOptionRationalesRemoved": 298
+    },
+    "data/elements/element4.json": {
+      "questions": 103,
+      "correctExplanationsRemoved": 103,
+      "wrongOptionRationalesRemoved": 309
+    },
+    "data/exams/exam1.json": {
+      "questions": 40,
+      "correctExplanationsRemoved": 40,
+      "wrongOptionRationalesRemoved": 120
+    }
+  },
+  "totals": {
+    "questions": 396,
+    "correctExplanationsRemoved": 396,
+    "wrongOptionRationalesRemoved": 1186,
+    "pendingVerification": 396
+  }
+}

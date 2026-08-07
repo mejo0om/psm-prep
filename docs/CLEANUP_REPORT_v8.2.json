@@ -1,0 +1,470 @@
+{
+  "removed_count": 93,
+  "removed": [
+    [
+      "acronyms (1).json",
+      "data/acronyms.json",
+      "exact duplicate"
+    ],
+    [
+      "acronyms.json",
+      "data/acronyms.json",
+      "exact duplicate"
+    ],
+    [
+      "ACRONYM_AUDIT_REPORT_v2.2.json",
+      "docs/reports/ACRONYM_AUDIT_REPORT_v2.2.json",
+      "exact duplicate"
+    ],
+    [
+      "ELEMENT1_EXPLANATION_AUDIT_v2.3.1.json",
+      "docs/reports/ELEMENT1_EXPLANATION_AUDIT_v2.3.1.json",
+      "exact duplicate"
+    ],
+    [
+      "book.js",
+      "js/book.js",
+      "exact duplicate"
+    ],
+    [
+      "book (5).js",
+      "js/book.js",
+      "exact duplicate"
+    ],
+    [
+      "exam (24).css",
+      "exam.css",
+      "exact duplicate"
+    ],
+    [
+      "supabase_progress_fix.sql",
+      "database/supabase_progress_fix.sql",
+      "exact duplicate"
+    ],
+    [
+      "concepts (7).json",
+      "data/concepts.json",
+      "exact duplicate"
+    ],
+    [
+      "concepts.json",
+      "data/concepts.json",
+      "exact duplicate"
+    ],
+    [
+      "logo.svg",
+      "assets/logo.svg",
+      "exact duplicate"
+    ],
+    [
+      "book-sections.json",
+      "data/book-sections.json",
+      "exact duplicate"
+    ],
+    [
+      "book-sections (6).json",
+      "data/book-sections.json",
+      "exact duplicate"
+    ],
+    [
+      "acronyms (2).js",
+      "acronyms.js",
+      "exact duplicate"
+    ],
+    [
+      "exam6 (21).json",
+      "exam6.json",
+      "exact duplicate"
+    ],
+    [
+      "element4 (14).json",
+      "element4.json",
+      "exact duplicate"
+    ],
+    [
+      "exam2 (17).json",
+      "exam2.json",
+      "exact duplicate"
+    ],
+    [
+      "DEPLOYMENT_CHECKLIST.md",
+      "docs/changelogs/DEPLOYMENT_CHECKLIST.md",
+      "exact duplicate"
+    ],
+    [
+      "app (4).js",
+      "js/app.js",
+      "exact duplicate"
+    ],
+    [
+      "app.js",
+      "js/app.js",
+      "exact duplicate"
+    ],
+    [
+      "element3 (13).json",
+      "element3.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.2.0.md",
+      "docs/changelogs/CHANGELOG_v3.2.0.md",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.1.1.md",
+      "docs/changelogs/CHANGELOG_v3.1.1.md",
+      "exact duplicate"
+    ],
+    [
+      "BUILD_REPORT.json",
+      "docs/reports/BUILD_REPORT.json",
+      "exact duplicate"
+    ],
+    [
+      "element1 (11).json",
+      "element1.json",
+      "exact duplicate"
+    ],
+    [
+      "config (9).json",
+      "config.json",
+      "exact duplicate"
+    ],
+    [
+      "concept-types (8).json",
+      "data/concept-types.json",
+      "exact duplicate"
+    ],
+    [
+      "concept-types.json",
+      "data/concept-types.json",
+      "exact duplicate"
+    ],
+    [
+      "exam5 (20).json",
+      "exam5.json",
+      "exact duplicate"
+    ],
+    [
+      "exam8 (22).json",
+      "exam8.json",
+      "exact duplicate"
+    ],
+    [
+      "hazards.json",
+      "data/hazards.json",
+      "exact duplicate"
+    ],
+    [
+      "relationships.json",
+      "data/relationships.json",
+      "exact duplicate"
+    ],
+    [
+      "QUESTION_INTEGRITY_AUDIT_v2.3.json",
+      "docs/reports/QUESTION_INTEGRITY_AUDIT_v2.3.json",
+      "exact duplicate"
+    ],
+    [
+      "acronym-verification-log (3).json",
+      "acronym-verification-log.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.2.5.md",
+      "docs/changelogs/CHANGELOG_v3.2.5.md",
+      "exact duplicate"
+    ],
+    [
+      "element2 (12).json",
+      "element2.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.1.md",
+      "docs/changelogs/CHANGELOG_v3.1.md",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.2.3.md",
+      "docs/changelogs/CHANGELOG_v3.2.3.md",
+      "exact duplicate"
+    ],
+    [
+      "dashboard.js",
+      "js/dashboard.js",
+      "exact duplicate"
+    ],
+    [
+      "dashboard (10).js",
+      "js/dashboard.js",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v2.2.md",
+      "docs/changelogs/CHANGELOG_v2.2.md",
+      "exact duplicate"
+    ],
+    [
+      "supabase-config.js",
+      "js/supabase-config.js",
+      "exact duplicate"
+    ],
+    [
+      "question-intelligence.json",
+      "data/question-intelligence.json",
+      "exact duplicate"
+    ],
+    [
+      "knowledge-graph.json",
+      "data/knowledge-graph.json",
+      "exact duplicate"
+    ],
+    [
+      "supabase_auth_progress_migration.sql",
+      "database/supabase_auth_progress_migration.sql",
+      "exact duplicate"
+    ],
+    [
+      "exam4 (19).json",
+      "exam4.json",
+      "exact duplicate"
+    ],
+    [
+      "exam3 (18).json",
+      "exam3.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.2.2.md",
+      "docs/changelogs/CHANGELOG_v3.2.2.md",
+      "exact duplicate"
+    ],
+    [
+      "knowledge.css",
+      "css/knowledge.css",
+      "exact duplicate"
+    ],
+    [
+      "IMPORT_REPORT.json",
+      "docs/reports/IMPORT_REPORT.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v2.3.md",
+      "docs/changelogs/CHANGELOG_v2.3.md",
+      "exact duplicate"
+    ],
+    [
+      "EXPLANATION_IMPORT_REPORT_v3.0.1.json",
+      "docs/reports/EXPLANATION_IMPORT_REPORT_v3.0.1.json",
+      "exact duplicate"
+    ],
+    [
+      "EXAM_IMPORT_AUDIT_v3.2.0.json",
+      "docs/reports/EXAM_IMPORT_AUDIT_v3.2.0.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v3.2.4.md",
+      "docs/changelogs/CHANGELOG_v3.2.4.md",
+      "exact duplicate"
+    ],
+    [
+      "question-mapping.json",
+      "data/question-mapping.json",
+      "exact duplicate"
+    ],
+    [
+      "AUTH_PROGRESS_CHANGELOG.md",
+      "docs/changelogs/AUTH_PROGRESS_CHANGELOG.md",
+      "exact duplicate"
+    ],
+    [
+      "progress.css",
+      "css/progress.css",
+      "exact duplicate"
+    ],
+    [
+      "exam (15).js",
+      "exam.js",
+      "exact duplicate"
+    ],
+    [
+      "supabase-tracker.js",
+      "js/supabase-tracker.js",
+      "exact duplicate"
+    ],
+    [
+      "QA_REPORT.md",
+      "docs/changelogs/QA_REPORT.md",
+      "exact duplicate"
+    ],
+    [
+      "index.json",
+      "data/exams/index.json",
+      "exact duplicate"
+    ],
+    [
+      "style.css",
+      "css/style.css",
+      "exact duplicate"
+    ],
+    [
+      "KNOWLEDGE_ENGINE_BUILD_REPORT.json",
+      "docs/reports/KNOWLEDGE_ENGINE_BUILD_REPORT.json",
+      "exact duplicate"
+    ],
+    [
+      "CHANGELOG_v2.3.1.md",
+      "docs/changelogs/CHANGELOG_v2.3.1.md",
+      "exact duplicate"
+    ],
+    [
+      "exam9 (23).json",
+      "exam9.json",
+      "exact duplicate"
+    ],
+    [
+      "knowledge.js",
+      "js/knowledge.js",
+      "exact duplicate"
+    ],
+    [
+      "techniques.json",
+      "data/techniques.json",
+      "exact duplicate"
+    ],
+    [
+      "practice.js",
+      "js/practice.js",
+      "legacy root copy"
+    ],
+    [
+      "exam.css",
+      "css/exam.css",
+      "legacy root copy"
+    ],
+    [
+      "acronyms.js",
+      "js/acronyms.js",
+      "legacy root copy"
+    ],
+    [
+      "exam6.json",
+      "data/exams/exam6.json",
+      "legacy root copy"
+    ],
+    [
+      "exam2.json",
+      "data/exams/exam2.json",
+      "legacy root copy"
+    ],
+    [
+      "auth.css",
+      "css/auth.css",
+      "legacy root copy"
+    ],
+    [
+      "element3.json",
+      "data/elements/element3.json",
+      "legacy root copy"
+    ],
+    [
+      "exam5.json",
+      "data/exams/exam5.json",
+      "legacy root copy"
+    ],
+    [
+      "exam8.json",
+      "data/exams/exam8.json",
+      "legacy root copy"
+    ],
+    [
+      "cloud-progress.js",
+      "js/cloud-progress.js",
+      "legacy root copy"
+    ],
+    [
+      "element4.json",
+      "data/elements/element4.json",
+      "legacy root copy"
+    ],
+    [
+      "acronym-verification-log.json",
+      "data/acronym-verification-log.json",
+      "legacy root copy"
+    ],
+    [
+      "exam1.json",
+      "data/exams/exam1.json",
+      "legacy root copy"
+    ],
+    [
+      "search.js",
+      "js/search.js",
+      "legacy root copy"
+    ],
+    [
+      "storage.js",
+      "js/storage.js",
+      "legacy root copy"
+    ],
+    [
+      "practice.css",
+      "css/practice.css",
+      "legacy root copy"
+    ],
+    [
+      "config.json",
+      "data/config.json",
+      "legacy root copy"
+    ],
+    [
+      "progress.js",
+      "js/progress.js",
+      "legacy root copy"
+    ],
+    [
+      "auth.js",
+      "js/auth.js",
+      "legacy root copy"
+    ],
+    [
+      "element2.json",
+      "data/elements/element2.json",
+      "legacy root copy"
+    ],
+    [
+      "exam3.json",
+      "data/exams/exam3.json",
+      "legacy root copy"
+    ],
+    [
+      "element1.json",
+      "data/elements/element1.json",
+      "legacy root copy"
+    ],
+    [
+      "exam9.json",
+      "data/exams/exam9.json",
+      "legacy root copy"
+    ],
+    [
+      "exam.js",
+      "js/exam.js",
+      "legacy root copy"
+    ],
+    [
+      "exam4.json",
+      "data/exams/exam4.json",
+      "legacy root copy"
+    ],
+    [
+      "exam1 (16).json",
+      "exam1.json",
+      "numbered duplicate/legacy copy"
+    ]
+  ]
+}

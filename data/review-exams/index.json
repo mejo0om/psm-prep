@@ -1,0 +1,119 @@
+[
+  {
+    "element": 1,
+    "part": 2,
+    "file": "element1-part2.json",
+    "label": "Element 1 – Part 2",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 1,
+    "part": 3,
+    "file": "element1-part3.json",
+    "label": "Element 1 – Part 3",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 1,
+    "part": 4,
+    "file": "element1-part4.json",
+    "label": "Element 1 – Part 4",
+    "questionCount": 1,
+    "gradableCount": 1,
+    "durationMinutes": 60
+  },
+  {
+    "element": 2,
+    "part": 2,
+    "file": "element2-part2.json",
+    "label": "Element 2 – Part 2",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 2,
+    "part": 3,
+    "file": "element2-part3.json",
+    "label": "Element 2 – Part 3",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 2,
+    "part": 4,
+    "file": "element2-part4.json",
+    "label": "Element 2 – Part 4",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 3,
+    "part": 2,
+    "file": "element3-part2.json",
+    "label": "Element 3 – Part 2",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 3,
+    "part": 3,
+    "file": "element3-part3.json",
+    "label": "Element 3 – Part 3",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 3,
+    "part": 4,
+    "file": "element3-part4.json",
+    "label": "Element 3 – Part 4",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 3,
+    "part": 5,
+    "file": "element3-part5.json",
+    "label": "Element 3 – Part 5",
+    "questionCount": 38,
+    "gradableCount": 38,
+    "durationMinutes": 60
+  },
+  {
+    "element": 4,
+    "part": 2,
+    "file": "element4-part2.json",
+    "label": "Element 4 – Part 2",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 4,
+    "part": 3,
+    "file": "element4-part3.json",
+    "label": "Element 4 – Part 3",
+    "questionCount": 40,
+    "gradableCount": 40,
+    "durationMinutes": 60
+  },
+  {
+    "element": 4,
+    "part": 4,
+    "file": "element4-part4.json",
+    "label": "Element 4 – Part 4",
+    "questionCount": 40,
+    "gradableCount": 39,
+    "durationMinutes": 60
+  }
+]

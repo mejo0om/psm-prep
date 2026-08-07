@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "EX2-Q001",
+    "question": "Workers competently perform routine tasks on a process line. A new process will shortly be introduced that requires many different skill sets. What is the best way to help with planning to fill the skills gap? 5 go8 aul basil Zaye aah Le AALS Ci) lee lb pane Malic LA) als GSI Sel Aas gy sles 50's Jha Ft leat",
+    "options": [
+      "A psychometric test",
+      "Atraining needs analysis slat) Gl tgal) Jithe Aa gael) Gi Lgal) sing Ay yal) Claliay) ula",
+      "An ability test",
+      "An occupational personality questionnaire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Atraining needs analysis slat) Gl tgal) Jithe Aa gael) Gi Lgal) sing Ay yal) Claliay) ula",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.6",
+    "bookTopic": "Competence",
+    "bookPageStart": 18,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 18",
+    "sourceQuestion": 1,
+    "sourcePage": 1,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 2
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Leadership",
+      "Competence",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "AALS",
+      "GSI",
+      "LA"
+    ],
+    "keywords": [
+      "claliay",
+      "sing",
+      "gael",
+      "lgal",
+      "atraining",
+      "leat"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 18",
+    "section": "1.6",
+    "topic": "Competence",
+    "bookPage": 18,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q002",
+    "question": "What is the main reason for sharing lessons learnt from major incidents with other organisations? 54) CLARE a os p80) Sol gall ge Salta Gey pall AS LET oat Ih Copel Le",
+    "options": [
+      "Integration of quality, environmental and health and safety management systems",
+      "Potential benefits are much greater forthe process safety industry as a whole",
+      "Accident investigations are more effective in determining immediate and root causes",
+      "Operating procedures are standardised so that workers have a consistent approach wSalstly Glaberl) Adler Glad le Bul a yeiy CIS 19S li Gay yall 4S Ute OY"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Potential benefits are much greater forthe process safety industry as a whole",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 12,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 12",
+    "sourceQuestion": 2,
+    "sourcePage": 1,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 3
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Organisational learning"
+    ],
+    "relatedAcronyms": [
+      "AS",
+      "CLARE",
+      "LET"
+    ],
+    "keywords": [
+      "forthe",
+      "copel",
+      "salta",
+      "clare",
+      "gall",
+      "sharing"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 12",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 12,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q003",
+    "question": "Which of the following best describes the main focus of process safety? Setabeedl Lede (cous 52S sill Go Gee ll",
+    "options": [
+      "Preventing major incidents with process machinery in large manufacturing industries",
+      "Preventing major incidents in food processing industries",
+      "Preventing major incidents with flammable substances in chemical industries Feliall ¢ 53 Ye plaill oaks by ght Aulte AGN) 28 5 Sl) Sol yall id Gangs GLa Lda",
+      "Preventing major incidents within high-hazard industries Feliall ¢ 53 Ye plaill oaks by ght Aulte AGN) 28 5 Sl) Sol yall id Gangs GLa Lda"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Preventing major incidents within high-hazard industries Feliall ¢ 53 Ye plaill oaks by ght Aulte AGN) 28 5 Sl) Sol yall id Gangs GLa Lda",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 127,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "sourceQuestion": 3,
+    "sourcePage": 1,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 4
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "AGN",
+      "BS",
+      "EN",
+      "ISO",
+      "Q1"
+    ],
+    "keywords": [
+      "gangs",
+      "oaks",
+      "aulte",
+      "plaill",
+      "cous",
+      "feliall"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 127,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q004",
+    "question": "Process safety differs from personal safety because it protects Sand LAY Apna ADI! ye Callas Chal dL",
+    "options": [
+      "public only and allindustries",
+      "public only and process industries",
+      "workers only and allindustries",
+      "workers, public and process industries Bid +40) Quuly AinMy pogentl «culelall Jaci"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "workers, public and process industries Bid +40) Quuly AinMy pogentl «culelall Jaci",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.1",
+    "bookTopic": "Process safety management meaning",
+    "bookPageStart": 4,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "sourceQuestion": 4,
+    "sourcePage": 2,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 5
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Personal safety"
+    ],
+    "relatedAcronyms": [
+      "ADI",
+      "LAY"
+    ],
+    "keywords": [
+      "apna",
+      "culelall",
+      "jaci",
+      "pogentl",
+      "ainmy",
+      "quuly"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "section": "1.1",
+    "topic": "Process safety management meaning",
+    "bookPage": 4,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q005",
+    "question": "A permit-to-work is usually required in preparation for an activity with Send ALAS Bale Called aall ep peat",
+    "options": [
+      "any risk",
+      "no risk",
+      "high risk Ate 5) 98",
+      "lowrisk"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "high risk Ate 5) 98",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 47,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "sourceQuestion": 5,
+    "sourcePage": 2,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 6
+    },
+    "relatedConcepts": [
+      "Permit-to-work"
+    ],
+    "relatedAcronyms": [
+      "ALAS"
+    ],
+    "keywords": [
+      "aall",
+      "peat",
+      "bale",
+      "alas",
+      "send",
+      "preparation"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 47,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "EX2-Q006",
+    "question": "‘Bowtie’ is a risk management tool that identifies § may GU sll cA pi",
+    "options": [
+      "barriers to change",
+      "prevention barriers only",
+      "mitigation barriers only",
+      "prevention and mitigation barriers 04%) CidSai) jal gag Gatal) JS aiall Jal Qa"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "prevention and mitigation barriers 04%) CidSai) jal gag Gatal) JS aiall Jal Qa",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "sourceQuestion": 6,
+    "sourcePage": 2,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 7
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "Bowtie analysis"
+    ],
+    "relatedAcronyms": [
+      "GU",
+      "JS"
+    ],
+    "keywords": [
+      "aiall",
+      "gatal",
+      "cidsai",
+      "bowtie",
+      "identifies",
+      "tool"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "EX2-Q007",
+    "question": "Which of the following is a lagging indicator? 4ie li |i. a2} hy Lee Gi",
+    "options": [
+      "Percentage of safety critical equipment successful tests",
+      "Number of safety critical equipment tests",
+      "Percentage of safety critical equipment failurestily ea! Gul Agta ¢ dy my cue full",
+      "Number of safety critical equipmentinspections"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Percentage of safety critical equipment failurestily ea! Gul Agta ¢ dy my cue full",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 29,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "sourceQuestion": 7,
+    "sourcePage": 2,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 8
+    },
+    "relatedConcepts": [
+      "Asset integrity",
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "agta",
+      "failurestily",
+      "indicator",
+      "percentage",
+      "lagging",
+      "critical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 29,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "EX2-Q008",
+    "question": "Itis very common practice to segregate an accommodation block from process plant. Which type of risk control is this an example of? SaSa Gg 55 gl gle Ds ied! Ye Ghul und REGIE 20. 2 20 2",
+    "options": [
+      "Elimination Jasty 42 ail) 415)",
+      "Engineering control",
+      "Administrative control",
+      "Substitution"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Elimination Jasty 42 ail) 415)",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.6",
+    "bookTopic": "Competence",
+    "bookPageStart": 21,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21",
+    "sourceQuestion": 8,
+    "sourcePage": 3,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 9
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Risk assessment",
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "HSE",
+      "Q3",
+      "Q4",
+      "REGIE"
+    ],
+    "keywords": [
+      "regie",
+      "ghul",
+      "jasty",
+      "segregate",
+      "sasa",
+      "block"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21",
+    "section": "1.6",
+    "topic": "Competence",
+    "bookPage": 21,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q009",
+    "question": "Asset management includes consideration of integrity standards, such as maintainability and ease of inspection at SAls ys i G4 jue Y! 8",
+    "options": [
+      "design stage aeaill Us ya",
+      "construction stage",
+      "operation stage",
+      "modification stage"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "design stage aeaill Us ya",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "sourceQuestion": 9,
+    "sourcePage": 3,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 10
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "relatedAcronyms": [
+      "G4"
+    ],
+    "keywords": [
+      "aeaill",
+      "sals",
+      "ease",
+      "maintainability",
+      "asset",
+      "stage"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "EX2-Q010",
+    "question": "Which of the following is a leading indicator? 42Aiu) p50 cy Le i BAMAUGTOPOSUNES C2) a) ¢ ody Ja coca tes 5a",
+    "options": [
+      "Audit results Gala) ¢ shy JB coisa) Cds, 5.8.1)",
+      "Manufacturing defects",
+      "Design failure",
+      "Defective equipment"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Audit results Gala) ¢ shy JB coisa) Cds, 5.8.1)",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 29,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "sourceQuestion": 10,
+    "sourcePage": 3,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 11
+    },
+    "relatedConcepts": [
+      "Asset integrity",
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "C2",
+      "JB"
+    ],
+    "keywords": [
+      "coisa",
+      "gala",
+      "coca",
+      "42aiu",
+      "bamaugtoposunes",
+      "audit"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 29",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 29,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "EX2-Q011",
+    "question": "The key elements of a process safety management system follow the Plan Do Check Act model. ‘Policy’ aligns with which part of the model?",
+    "options": [
+      "Plan",
+      "Do",
+      "Check",
+      "Act"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Plan",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 26,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "sourceQuestion": 11,
+    "sourcePage": 3,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 12
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "PSMS"
+    ],
+    "keywords": [
+      "model",
+      "plan",
+      "aligns",
+      "policy",
+      "check",
+      "follow"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 26,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q012",
+    "question": "The concept of risk being as low as reasonably practicable is best described as the riskis as lowas itcanbe 1 ai) Slsiey) (baa pi ai 5 Ss",
+    "options": [
+      "using current technology and knowledge",
+      "taking account of the resources of the organisation",
+      "without being disproportionately costly",
+      "taking account of the priorities of the organisation"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "without being disproportionately costly",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 41,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "sourceQuestion": 12,
+    "sourcePage": 4,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 13
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "relatedAcronyms": [
+      "ALARP"
+    ],
+    "keywords": [
+      "slsiey",
+      "lowas",
+      "itcanbe",
+      "riskis",
+      "disproportionately",
+      "costly"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 41,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "EX2-Q013",
+    "question": "Hot work permits are typically used where work could include Sell Jats Lente pada ALI Jie VI cy slecti PEUAUESHEVETORISTRIESISBANSBMIaNES 5 18 1 2",
+    "options": [
+      "generation of ares, sparks or flames 44S ll / gt",
+      "high voltage (HV) electricity cables",
+      "emergency and rescue procedures",
+      "isolation of hot rotating machinery"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "generation of ares, sparks or flames 44S ll / gt",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 55,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "sourceQuestion": 13,
+    "sourcePage": 4,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 14
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "ALI",
+      "Q6",
+      "VI"
+    ],
+    "keywords": [
+      "ares",
+      "peuaueshevetoristriesisbansbmianes",
+      "slecti",
+      "jats",
+      "pada",
+      "lente"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 55,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "EX2-Q014",
+    "question": "Shift handover between an incoming and outgoing operator should be conducted safely with S45 sue ais gy) Css Aya yl) aalas",
+    "options": [
+      "at least one participant taking sole responsibility",
+      "none of the participants taking responsibility Be ee",
+      "both participants taking joint responsibility 4834 4:1 yj.00",
+      "an operations supervisor taking sole responsibility"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "both participants taking joint responsibility 4834 4:1 yj.00",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.5",
+    "bookTopic": "Safe shift handover",
+    "bookPageStart": 50,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "sourceQuestion": 14,
+    "sourcePage": 4,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 15
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "Competence",
+      "Shift handover",
+      "Safety critical equipment",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "S45"
+    ],
+    "keywords": [
+      "4834",
+      "participants",
+      "aalas",
+      "conducted",
+      "joint",
+      "outgoing"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "section": "2.5",
+    "topic": "Safe shift handover",
+    "bookPage": 50,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "EX2-Q015",
+    "question": "Overfilling of tanks can be prevented most effectively through a combination of",
+    "options": [
+      "calculation of mass flow rates in, knowledge of tank capacity and low level alarms",
+      "calculation of mass flow rates in and mass flow rates out, knowledge of tank capacity and low level alarms",
+      "calculation of mass flow rates in and mass flow rates out, knowledge of tank capacity and high level alarms Je ¢ gies GINS) + dau) Abe + GLa Gad",
+      "calculation of mass flowrates out, Knowledge of tank capacity and high level alarms"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "calculation of mass flow rates in and mass flow rates out, knowledge of tank capacity and high level alarms Je ¢ gies GINS) + dau) Abe + GLa Gad",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 59,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "sourceQuestion": 15,
+    "sourcePage": 4,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 16
+    },
+    "relatedConcepts": [
+      "Safety instrumented system",
+      "Bulk storage",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "GINS",
+      "SIS"
+    ],
+    "keywords": [
+      "mass",
+      "rates",
+      "flow",
+      "gins",
+      "gies",
+      "calculation"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 59,
+    "primaryConcept": "Safety instrumented system"
+  },
+  {
+    "id": "EX2-Q016",
+    "question": "Pressure, temperature, flow, level, pH and density are common Sad... Sasi) | patl aad",
+    "options": [
+      "processes associated with safe operating envelopes",
+      "problems associated with safe operating envelopes",
+      "parameters associated with safe operating envelopes",
+      "procedures associated with safe operating envelopes"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "parameters associated with safe operating envelopes",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 58,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "sourceQuestion": 16,
+    "sourcePage": 5,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 17
+    },
+    "relatedConcepts": [
+      "Safe operating envelope"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "sasi",
+      "patl",
+      "density",
+      "envelopes",
+      "parameters",
+      "associated"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 58,
+    "primaryConcept": "Safe operating envelope"
+  },
+  {
+    "id": "EX2-Q017",
+    "question": "Shutdown can be planned, unplanned, emergency, staged or delayed. In which of the following circumstances would a delayed process shutdown be appropriate?",
+    "options": [
+      "An alarm indicates that the process safe operating envelope is about to be breached",
+      "The power to part of the process has suddenly failed unexpectedly",
+      "The cooling for a reaction vessel has been lost due to a major water leak PRLS GY Sa 4 Sal Sy Lee Cd",
+      "Minor valve leaks appear two weeks before a planned shutdown PRLS GY Sa 4 Sal Sy Lee Cd"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Minor valve leaks appear two weeks before a planned shutdown PRLS GY Sa 4 Sal Sy Lee Cd",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.2",
+    "bookTopic": "Safe start-up and shut-down",
+    "bookPageStart": 64,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "sourceQuestion": 17,
+    "sourcePage": 5,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 18
+    },
+    "relatedConcepts": [
+      "Start-up and shut-down",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "GY",
+      "PRLS"
+    ],
+    "keywords": [
+      "shutdown",
+      "delayed",
+      "planned",
+      "prls",
+      "appear",
+      "weeks"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.2 – Safe start-up and shut-down, p. 64",
+    "section": "3.2",
+    "topic": "Safe start-up and shut-down",
+    "bookPage": 64,
+    "primaryConcept": "Start-up and shut-down"
+  },
+  {
+    "id": "EX2-Q018",
+    "question": "Safety critical performance standards for safety critical elements can best be derived from S4e jal) dk) patte clal pole Git Cel Ge",
+    "options": [
+      "information from reporting and recording documents",
+      "condition monitoring within planned maintenance",
+      "analysis of the design through process hazard analysis",
+      "process operation parameters within operating procedures"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "analysis of the design through process hazard analysis",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "sourceQuestion": 18,
+    "sourcePage": 5,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 19
+    },
+    "relatedConcepts": [
+      "Safety critical equipment",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "SCE"
+    ],
+    "keywords": [
+      "patte",
+      "pole",
+      "clal",
+      "analysis",
+      "critical",
+      "derived"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "EX2-Q019",
+    "question": "Alerting and informing when problems occur during process operation is the main function of 4 Agi ji) db 4) Auleall at clit] JSLA. Gr yaa aie EY! Ayutll ae",
+    "options": [
+      "an indicator",
+      "adial",
+      "analarm",
+      "a gauge"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "analarm",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "sourceQuestion": 19,
+    "sourcePage": 5,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 20
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "EY",
+      "JSLA"
+    ],
+    "keywords": [
+      "analarm",
+      "ayutll",
+      "auleall",
+      "jsla",
+      "clit",
+      "alerting"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "EX2-Q020",
+    "question": "Process safety performance standards are mostimportant for SS yt L aa) SUL) Le lal pales",
+    "options": [
+      "safety critical systems and items of equipment",
+      "quality of standard operating procedures",
+      "quality of risk assessment procedures",
+      "safety training and competence levels"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "safety critical systems and items of equipment",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "sourceQuestion": 20,
+    "sourcePage": 6,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 21
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "PS",
+      "SS",
+      "SUL",
+      "TERMS"
+    ],
+    "keywords": [
+      "pales",
+      "items",
+      "mostimportant",
+      "standards",
+      "performance",
+      "safety"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q021",
+    "question": "Inerting ensures that the concentration of oxygen is SGsSsVl 3S 8 Gl Gees Spd",
+    "options": [
+      "above the level that supports combustion in a flammable atmosphere",
+      "at the level that supports combustion in a flammable atmosphere",
+      "below the level that supports combustion in a flammable atmosphere",
+      "at or above the level that supports combustion in a flammable atmosphere"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "below the level that supports combustion in a flammable atmosphere",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "sourceQuestion": 21,
+    "sourcePage": 6,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 22
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "gees",
+      "sgsssvl",
+      "supports",
+      "ensures",
+      "combustion",
+      "inerting"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "EX2-Q022",
+    "question": "In direct current electrical circuits, by convention current flows from the SoMa! Coss DC ed sil ygSll Laid oll",
+    "options": [
+      "negative to positive terminal in the same direction as electrons",
+      "positive to negative terminal in the opposite direction to electrons",
+      "positive to negative terminalin the same direction as electrons",
+      "negative to positive terminalin the opposite direction to electrons"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "positive to negative terminal in the opposite direction to electrons",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 78,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "sourceQuestion": 22,
+    "sourcePage": 6,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 23
+    },
+    "relatedConcepts": [
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "AC",
+      "DC"
+    ],
+    "keywords": [
+      "current",
+      "coss",
+      "ygsll",
+      "soma",
+      "laid",
+      "circuits"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 78,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "EX2-Q023",
+    "question": "A large proportion of hydrocarbon storage tank fires are due to lightning strikes. Which of the following types of storage tanks is most vulnerable to fires from this cause? SG Gl aliie . isl Gus ¢ 8 i",
+    "options": [
+      "Fixed roof",
+      "Floating roof",
+      "Cone roof",
+      "Umbrella roof \"(Rim Seal). .2 ill GL\" 4 535 Gee"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Floating roof",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 98,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "sourceQuestion": 23,
+    "sourcePage": 6,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 24
+    },
+    "relatedConcepts": [
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "SG"
+    ],
+    "keywords": [
+      "fires",
+      "aliie",
+      "storage",
+      "proportion",
+      "vulnerable",
+      "hydrocarbon"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 98",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 98,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "EX2-Q024",
+    "question": "Steam that does not wet the surface it touches is usually called Sosy chal! ly Y gill jug",
+    "options": [
+      "saturated",
+      "high pressure",
+      "superheated",
+      "vacuum"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "superheated",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.4",
+    "bookTopic": "Utilities",
+    "bookPageStart": 72,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "sourceQuestion": 24,
+    "sourcePage": 7,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 25
+    },
+    "relatedConcepts": [
+      "Utilities",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "sosy",
+      "chal",
+      "touches",
+      "gill",
+      "superheated",
+      "surface"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72",
+    "section": "3.4",
+    "topic": "Utilities",
+    "bookPage": 72,
+    "primaryConcept": "Utilities"
+  },
+  {
+    "id": "EX2-Q025",
+    "question": "When filling a vessel with a flammable liquid, one of the main factors that increases the generation of an electrostatic charge is S4Sttiss eS) Gis (al 5 IST) dela}",
+    "options": [
+      "overfilling",
+      "splash filling",
+      "bottom filling",
+      "continuous filling"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "splash filling",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.5",
+    "bookTopic": "Electricity/static electricity",
+    "bookPageStart": 81,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "sourceQuestion": 25,
+    "sourcePage": 7,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 26
+    },
+    "relatedConcepts": [
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "IST"
+    ],
+    "keywords": [
+      "filling",
+      "dela",
+      "s4sttiss",
+      "splash",
+      "electrostatic",
+      "generation"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81",
+    "section": "3.5",
+    "topic": "Electricity/static electricity",
+    "bookPage": 81,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "EX2-Q026",
+    "question": "For which category of worker is a Personal Emergency Evacuation Plan most appropriate? SJ dmc d4neadll say) Abs",
+    "options": [
+      "Plant workers",
+      "Vulnerable workers",
+      "Contract workers",
+      "Site workers"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Vulnerable workers",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 124,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 124",
+    "sourceQuestion": 26,
+    "sourcePage": 7,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 27
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "SJ"
+    ],
+    "keywords": [
+      "d4neadll",
+      "category",
+      "vulnerable",
+      "evacuation",
+      "personal",
+      "worker"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 124",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 124,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "EX2-Q027",
+    "question": "Howdoes an intumescent material operate in a fire? i!) s2Uhl) Jar Gs",
+    "options": [
+      "Contracts when heated to prevent the spread of fire and smoke",
+      "Expands when heated to prevent the spread of fire and smoke",
+      "Illuminates when heated to help evacuation in the event of a fire",
+      "Radiates when heated to increase the spread of fire and smoke"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Expands when heated to prevent the spread of fire and smoke",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 112,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "sourceQuestion": 27,
+    "sourcePage": 7,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 28
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "s2uhl",
+      "howdoes",
+      "expands",
+      "intumescent",
+      "heated",
+      "smoke"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 112,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "EX2-Q028",
+    "question": "The transfer of heat through solids is known as S4sall a! sell 48) a) lal",
+    "options": [
+      "convection",
+      "direct burning",
+      "radiation",
+      "conduction"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "conduction",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 106,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "sourceQuestion": 28,
+    "sourcePage": 8,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 29
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "s4sall",
+      "sell",
+      "conduction",
+      "solids",
+      "transfer",
+      "known"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 106,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "EX2-Q029",
+    "question": "Which is the appropriate type of fire extinguisher to use on metal fires? Syaleal) Gil jad Auli) ytalall",
+    "options": [
+      "Water",
+      "Foam",
+      "Dry powder",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Dry powder",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 114,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "sourceQuestion": 29,
+    "sourcePage": 8,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 30
+    },
+    "relatedConcepts": [
+      "Fire triangle/tetrahedron",
+      "Explosion"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "ytalall",
+      "auli",
+      "syaleal",
+      "extinguisher",
+      "powder",
+      "metal"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 114,
+    "primaryConcept": "Fire triangle/tetrahedron"
+  },
+  {
+    "id": "EX2-Q030",
+    "question": "Sometimes a ‘table-top exercise’ is used to simulate an emergency. What are the main benefits of such exercises? (214 ods sali",
+    "options": [
+      "Validates plans, develops staff competency by practising roles and tests Procedures",
+      "Identifies hazards, considers those affected, evaluates risk and implements suitable controls",
+      "Analyses unsafe working conditions and behaviours and implements corrective actions",
+      "Examines a process safety management system, identifies problems and provides solutions"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Validates plans, develops staff competency by practising roles and tests Procedures",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 125,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "sourceQuestion": 30,
+    "sourcePage": 8,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 31
+    },
+    "relatedConcepts": [
+      "Competence",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "sali",
+      "practising",
+      "validates",
+      "simulate",
+      "table",
+      "exercise"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 125",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 125,
+    "primaryConcept": "Competence"
+  },
+  {
+    "id": "EX2-Q031",
+    "question": "A fire from a nearby building reaches a metal tank containing a liquefied flammable gas under pressure. A short time later, the pressure relief valve on the tank operates and eventually the tank suddenly ruptures in a large explosion. What type of explosion does this describe?",
+    "options": [
+      "A confined vapour cloud explosion",
+      "A boiling liquid expanding vapour explosion (BLEVE)",
+      "A jet fire",
+      "A pool fire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A boiling liquid expanding vapour explosion (BLEVE)",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 110,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "sourceQuestion": 31,
+    "sourcePage": 9,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 32
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BLEVE",
+      "CVCE",
+      "LPG"
+    ],
+    "keywords": [
+      "tank",
+      "explosion",
+      "nearby",
+      "reaches",
+      "suddenly",
+      "eventually"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 110,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "EX2-Q032",
+    "question": "As a supervisor you have noticed that, despite clear organisational guidelines, operators regularly bypass the Standard Operating Procedures. An independent review has suggested that this is due to management failure. Which of the following management actions is most likely to improve process safety on site? Sead) cla Yl Le gs) Jd Gus SOPs 3 slat",
+    "options": [
+      "Reminder sent to all staff highlighting the importance of process safety and that non- compliance will not be tolerated",
+      "Conduct a Hazard and Operability study, recording all significant findings and actions",
+      "Develop an effective competence management system, based on task analysis SSeidinglon aRVURINFREHON AA op) 91 S894 g 9 el ol",
+      "Conduct further investigation into the causes to verify the review findings before deciding on any further action 34 sla} gi dB Yui gods Gull gd"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Conduct further investigation into the causes to verify the review findings before deciding on any further action 34 sla} gi dB Yui gods Gull gd",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 59,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "sourceQuestion": 32,
+    "sourcePage": 9,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 33
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Operating procedures"
+    ],
+    "relatedAcronyms": [
+      "SOP"
+    ],
+    "keywords": [
+      "review",
+      "gods",
+      "sead",
+      "verify",
+      "gull",
+      "slat"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 59",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 59,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "EX2-Q033",
+    "question": "A bulk fuel tank is normally filled automatically from a pipeline though a filling valve. The tank is fitted with a level gauge that enables operators to remotely monitor the level from a control room. The tank is also fitted with a high level alarm and an independent high level switch that, if activated, closes the filling valve. The filling valve can also be closed using an emergency switch located inthe control room. On one occasion all of these devices failed and the tank overflowed. While all of these devices help prevent overfilling, which is the most safety critical item required to effectively prevent the tank overfilling? Sul 580) glasd gid aaY) waiall",
+    "options": [
+      "High level alarm",
+      "Level gauge PRSUIRHSBERSSTERIEAICVEIEWAER 2 51 5, cima oo",
+      "Independent high level switch 43)4 ai 1 aly Gate Ga 4 Sa",
+      "The filling valve"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Independent high level switch 43)4 ai 1 aly Gate Ga 4 Sa",
+    "element": 3,
+    "part": null,
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 92,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "sourceQuestion": 33,
+    "sourcePage": 10,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 34
+    },
+    "relatedConcepts": [
+      "Safety critical equipment",
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Explosion",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "switch",
+      "overfilling",
+      "independent",
+      "filling",
+      "devices",
+      "level"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 92,
+    "primaryConcept": "Safety critical equipment"
+  },
+  {
+    "id": "EX2-Q034",
+    "question": "You are conducting a hazardous area classification for a petroleum fuel storage site; in particular you are concerned with the area around the fuel pump and pipelines connected to each storage tank. Assuming all components are in good condition, what zone is the area around the fuel pump likely to be under normal operation? [2585 48.2 Jes Ail! Guat",
+    "options": [
+      "Zone 21",
+      "Zone 22",
+      "Zone 1",
+      "Zone2"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Zone2",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "sourceQuestion": 34,
+    "sourcePage": 10,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 35
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "fuel",
+      "area",
+      "pump",
+      "guat",
+      "zone2",
+      "storage"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "EX2-Q035",
+    "question": "You are conducting a hazardous area classification for a factory that makes foodstuffs; in particular you are concerned with the hopper where icing sugar (a combustible dust) is routinely poured into the machinery. What zone is the area immediately around the hopper likely to be?",
+    "options": [
+      "Zone 21",
+      "Zone 22",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 21",
+    "element": 4,
+    "part": null,
+    "bookSection": "4.2",
+    "bookTopic": "Fire and explosion control",
+    "bookPageStart": 113,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "sourceQuestion": 35,
+    "sourcePage": 11,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 36
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Dangerous substances",
+      "Dust explosion"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "hopper",
+      "zone",
+      "foodstuffs",
+      "area",
+      "icing",
+      "makes"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113",
+    "section": "4.2",
+    "topic": "Fire and explosion control",
+    "bookPage": 113,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "EX2-Q036",
+    "question": "You are responsible for ensuring safe isolation of a section of a chemical plant ahead of intrusive inspection and maintenance. The highest standard of isolation that you can achieve is SUj+ Gate clei",
+    "options": [
+      "insertion of a blank plate 1 a8) GlsaeY) Ga Ss",
+      "double block and bleed",
+      "single valve isolation",
+      "double valve isolation"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "insertion of a blank plate 1 a8) GlsaeY) Ga Ss",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 46,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "sourceQuestion": 36,
+    "sourcePage": 11,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 37
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "isolation",
+      "glsaey",
+      "clei",
+      "gate",
+      "insertion",
+      "intrusive"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 46,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "EX2-Q037",
+    "question": "There has been a near miss incident where an experienced operator failed to respond to a high level alarm on a fuel tank, resulting ina loss of containment from the tank. The incident could have had major catastrophic consequences had the fuel found an ignition source. It is important that lessons are learnt from allincidents, including near misses. Which of the following is the best way to learn lessons from this incident and prevent such an incident happening again? 4825 5) Cs! ya) Ge alaill iy yb nil",
+    "options": [
+      "Discuss the incident with the operator as a personal matter",
+      "Investigate the incident thoroughly, identify the root causes and ensure this is communicated to as wide an audience as possible",
+      "Accept that on this occasion a mistake was made and offer refresher training",
+      "Suggest the organisation re-train the operator for anewrole"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Investigate the incident thoroughly, identify the root causes and ensure this is communicated to as wide an audience as possible",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 11,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "sourceQuestion": 37,
+    "sourcePage": 11,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 38
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Fire triangle/tetrahedron",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [],
+    "keywords": [
+      "incident",
+      "lessons",
+      "near",
+      "4825",
+      "audience",
+      "alaill"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 11,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "EX2-Q038",
+    "question": "You are part of a team developing a design for a highly complex process to be added to an existing major petrochemical plant. You will be leading the risk assessment. What level of risk assessmentis appropriate for this project? r+ ¢ 5 piel pblaoll auf 5 she",
+    "options": [
+      "A qualitative risk assessment",
+      "A semi-quantitative risk assessment",
+      "A dynamic risk assessment",
+      "Afully quantitative risk assessment"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Afully quantitative risk assessment",
+    "element": 2,
+    "part": null,
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "sourceQuestion": 38,
+    "sourcePage": 12,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 39
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "afully",
+      "pblaoll",
+      "piel",
+      "assessmentis",
+      "project",
+      "petrochemical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "EX2-Q039",
+    "question": "The site that you work on has a series of reactors in a line, one of which is found to be leaking. To keep production going, it is decided that a bypass pipe needs to be installed on the leaking reactor to keep production going. What is the mostimportant thing you should do before installing the bypass pipe? bypass 8 9 dS el jal asl",
+    "options": [
+      "Review implications of the proposed change",
+      "Consult the relevant international standard",
+      "Develop a preventive maintenance programme",
+      "Use the correct grade of steel for the process"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Review implications of the proposed change",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.4",
+    "bookTopic": "Management of change",
+    "bookPageStart": 14,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14",
+    "sourceQuestion": 39,
+    "sourcePage": 12,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 40
+    },
+    "relatedConcepts": [
+      "Management of change",
+      "Competence",
+      "Risk assessment",
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "MOC",
+      "UK"
+    ],
+    "keywords": [
+      "bypass",
+      "going",
+      "leaking",
+      "production",
+      "pipe",
+      "installing"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14",
+    "section": "1.4",
+    "topic": "Management of change",
+    "bookPage": 14,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "EX2-Q040",
+    "question": "An accident report detailed that similar plants owned by the same organisation in other international locations were built upwind of cities. This was as a result of previous incidents where smaller quantities of toxic gas had been released into the atmosphere. This chemical plant was built upwind of a city. This is primarily an example of a failure in $58 SU 43 thls (oy 53 ee chy pl ole Se Ghedll oly",
+    "options": [
+      "operational control",
+      "asset management",
+      "management of change ee",
+      "organisational learning . * * a"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "organisational learning . * * a",
+    "element": 1,
+    "part": null,
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 10,
+    "bookPageEnd": null,
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "sourceQuestion": 40,
+    "sourcePage": 12,
+    "notes": null,
+    "source": "Master workbook Exam 2",
+    "evidenceLevel": "Pending",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Workbook book mapping",
+    "knowledgeTrace": {
+      "source": "NEBOSH_PSM_Master_All_Questions_Updated_Summary workbook",
+      "sheet": "Exam 2",
+      "row": 41
+    },
+    "relatedConcepts": [
+      "Organisational learning",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "EXAMPLE",
+      "SU"
+    ],
+    "keywords": [
+      "upwind",
+      "built",
+      "ghedll",
+      "thls",
+      "cities",
+      "owned"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 10,
+    "primaryConcept": "Organisational learning"
+  }
+]

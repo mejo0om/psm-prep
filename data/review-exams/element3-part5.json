@@ -1,0 +1,724 @@
+[
+  {
+    "id": "MR-E3-Q322",
+    "question": "There has been a near miss incident where an experienced operator failed to respond to Level Alarm High (LAH) on the fuel tank, resulting in a LOC from the tank. Which of the following is the best way to learn lessons from all incidents and prevent reoccurrence?",
+    "options": [
+      "Discuss the incident with the operator to ensure his understanding for the incident significance and they must respond appropriately to alarm in future",
+      "Investigate the incident and its root causes and ensure this is communicated to the wide audience",
+      "Accept that on this occasion a mistake was made. Offer the operator refresher training to manage alarms effectively",
+      "Suggest the organization to retrain the operator for a new role"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Investigate the incident and its root causes and ensure this is communicated to the wide audience",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 322,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q323",
+    "question": "At storage depots, flammable liquids may be pumped between storage vessels, pipelines, and tankers. Which of the following measures is most effective in preventing flammable vapor releases?",
+    "options": [
+      "Maintaining plant integrity.",
+      "Vapor detection systems.",
+      "Emergency pump shutdown.",
+      "Storage tank bunds."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Maintaining plant integrity.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 323,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q324",
+    "question": "Flammable liquids pumped between vessels, piping and tankers. Which of the following measures is most effective in preventing a liquid release",
+    "options": [
+      "Maintaining plant integrity",
+      "Vapor detection system",
+      "Emergency pump shut down",
+      "Storage tank bund"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Maintaining plant integrity",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 324,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q325",
+    "question": "Overfilling of tanks can be prevented most effectively through a combination of",
+    "options": [
+      "Calculation of mass flow rates in, knowledge of tank capacity and low-level alarms.",
+      "Calculation of mass flow rates in and mass flow rates out , knowledge of tank capacity and low-level alarms.",
+      "Calculation of mass flow rates in and mass flow rates out , knowledge of tank capacity and high-level alarms.",
+      "Calculation of mass flow rates out, knowledge of tank capacity and high-level alarms."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Calculation of mass flow rates in and mass flow rates out , knowledge of tank capacity and high-level alarms.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 325,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q326",
+    "question": "Liquid is being transferred from a road tanker into a storage vessel. The failure to open a vent valve on the tanker during the transfer could result in a tanker.",
+    "options": [
+      "Explosion.",
+      "Overflow.",
+      "Over-pressure.",
+      "Implosion."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Implosion.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 326,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q327",
+    "question": "Tank level gauges can be made more reliable through",
+    "options": [
+      "Testing and maintenance.",
+      "Information and instruction.",
+      "Auditing and reporting.",
+      "Assessment and controls."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Testing and maintenance.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 327,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q328",
+    "question": "An incident similar to Buncefield Incident (UK, 2005) where a large commercial fuel tank overflowed. The tank is normally filled automatically from a pipeline through a filling valve. The tank has a level gauge fitted that enables operators in the control room to remotely monitor the tank level. The tank also has a high-level alarm and an independent high-level switch that once activated closes the filling valve. The filling valve can also be closed using the emergency switch by the operators in the control room. On one occasion, all these devices failed, and the tank overflowed. Although all these devices prevent overfilling, which is the most safety critical item required to effectively prevent the tank overfilling?",
+    "options": [
+      "High-level alarm",
+      "Level gauge.",
+      "Independent high-level switch",
+      "The filling valve"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "The filling valve",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 328,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q329",
+    "question": "Under What circumstances does brittle fracture occur?",
+    "options": [
+      "Form exposing materials to rapid and extreme temperature changes with uneven expansion and stress overcoming materials strength.",
+      "As a result of a repeated application of loads that, individually, do not create sufficient stress to cause failure.",
+      "With the gradual extension of materials under a steady tensile stress over a long period of high temperature conditions nearing the melting point of the material.",
+      "Suddenly when a material with no elasticity is put under excessive stress, or one with limited elasticity has no time to be elastic under excessive stress."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Suddenly when a material with no elasticity is put under excessive stress, or one with limited elasticity has no time to be elastic under excessive stress.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 329,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q330",
+    "question": "An instrument, such as a tank level gauge on a storage tank, can be made more reliable through which one of the following activities?",
+    "options": [
+      "Reviewing, auditing, and reporting the findings.",
+      "Information, purchasing and quality standards.",
+      "Inspection, testing and maintenance.",
+      "Assessment, controls, and safeguards"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Inspection, testing and maintenance.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 330,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q331",
+    "question": "Heater high temperature interlock can be made more reliable through….",
+    "options": [
+      "Assessment and controls.",
+      "Testing and maintenance",
+      "Information and instruction",
+      "Auditing and reporting"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Testing and maintenance",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 331,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q332",
+    "question": "A bulk fuel tank is normally filled automatically from a pipeline through a filling valve. The tank is fitted with a level gauge that enables operators to remotely monitor the level from a control room. The tank is also fitted with a high-level alarm and an independent high-level switch that, if activated, closes the filling valve. The filling valve can also be closed using an emergency switch located in the control room. On one occasion all these devices failed, and the tank overflowed. While all of these devices help prevent overfilling, which is the most safety critical item required to effectively prevent the tank overfilling?",
+    "options": [
+      "Level gauge.",
+      "High level alarm.",
+      "The filling valve.",
+      "Independent high-level switch."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "The filling valve.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 332,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q333",
+    "question": "A large storage tank had regularly been filled with liquid",
+    "options": [
+      "The weight of the liquid exceeds the design load.",
+      "Liquid was added to the tank too quickly.",
+      "The tank was filled beyond what it was designed to hold.",
+      "The tank base was not properly anchored."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "The weight of the liquid exceeds the design load.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 333,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q334",
+    "question": "With regard to PSM, chemical warehouses should be managed and routinely inspected to ensure that:",
+    "options": [
+      "Production is not affected is stock runs low.",
+      "Incompatible materials are kept separated.",
+      "Material can be stockpiled ready for use.",
+      "Stock is not left outside where it could become contaminated."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Incompatible materials are kept separated.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 334,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q335",
+    "question": "A facility stores gasoline and LPG in storage vessels that are being filled from a pipeline when the connecting pipe between 2 of the storage vessels ruptures. A violent explosion results after the vapor cloud finds an ignition source in a remote area. For the following 90 min. a series of explosions occurs as each of the storage vessels explodes in turn.",
+    "options": [
+      "Effective plant layout with respect to positioning of bulk storage vessels.",
+      "Suitable site emergency planning with good emergency vehicle access.",
+      "Suitable active and passive fire protection to prevent fires from spreading.",
+      "Effective inspection and maintenance program for plant pipework."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Effective plant layout with respect to positioning of bulk storage vessels.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 335,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q336",
+    "question": "The failure to open a valve on a road tanker during transfer Liquid into a storage vessel could result in a tanker",
+    "options": [
+      "Explosion",
+      "Overflow",
+      "Over-pressure",
+      "Implosion"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Implosion",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 336,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q337",
+    "question": "Rapid temperature change can cause cracking of materials This type of failure mode is known as",
+    "options": [
+      "Creep",
+      "Brittle failure",
+      "Thermal shock",
+      "Stress corrosion cracking"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Thermal shock",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 337,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q338",
+    "question": "When a material is put under excessive stress and has no, or limited elasticity and fail, what type of failure mode is this known as?",
+    "options": [
+      "Fatigue Failure.",
+      "Thermal Shock",
+      "Creep.",
+      "Brittle Fracture."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Brittle Fracture.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 338,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q339",
+    "question": "Formation of cracks as a result of repeated application of loads that individually do not create sufficient stress to cause failure, can be described as which type of failure mode?",
+    "options": [
+      "Fatigue Failure.",
+      "Thermal Shock",
+      "Creep.",
+      "Brittle Fracture."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Fatigue Failure.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 339,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q340",
+    "question": "Under what circumstances does a brittle fracture occur?",
+    "options": [
+      "From exposing materials to rapid and extreme temperature changes with uneven expansion and stress overcoming material strength.",
+      "As a result of a repeated application of loads that, individually, do not create sufficient stress to cause failure.",
+      "With the gradual extension of material under a steady tensile stress over a long period of high temperature conditions nearing the melting point of the material.",
+      "Suddenly when a material with no elasticity is put under excessive stress, or one with limited elasticity has no time to be elastic under excessive stress."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Suddenly when a material with no elasticity is put under excessive stress, or one with limited elasticity has no time to be elastic under excessive stress.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 340,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q341",
+    "question": "What is the most likely fire risk presented by external floating roof tanks?",
+    "options": [
+      "Ignition of flammable vapor within the tank",
+      "Impact with tankers igniting the contents due to friction",
+      "Ignition of flammable vapor leaking from a defective rim seal",
+      "Ignition of flammable vapor passing out of pressure vacuum relief valves"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Ignition of flammable vapor leaking from a defective rim seal",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 341,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q342",
+    "question": "What is the main purpose of a Vacuum Breaker?",
+    "options": [
+      "Prevent Thermal Run-away?",
+      "Prevent Vessel Rupture?",
+      "Prevent Vessel Reaction?",
+      "Prevent Vessel Collapse?"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Prevent Vessel Collapse?",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 342,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q343",
+    "question": "What is the main purpose of a Pressure Safety Valve (PSV) or Pressure Relief Valve (PRV) on an LPG tank?",
+    "options": [
+      "To prevent material being released, even if the tank is over-pressured.",
+      "To allow gases to escape when filling the tank.",
+      "To prevent vessel rupture from an overpressure scenario.",
+      "To prevent vacuum and protect against collapse when unloading the tank."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "To prevent vessel rupture from an overpressure scenario.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 343,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q344",
+    "question": "A large proportion of hydrocarbon storage tank fires are due to lightning strikes. Which of the following types of storage tanks is most vulnerable to fires from this cause?",
+    "options": [
+      "Fixed roof",
+      "Floating roof",
+      "Cone roof",
+      "Umbrella roof"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Floating roof",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 344,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q345",
+    "question": "Best type of tanks to avoid Light Striking for flammable storage?",
+    "options": [
+      "Floating roof tanks",
+      "Spherical tanks",
+      "Cylindrical Tanks",
+      "Dome Roof Tanks"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Dome Roof Tanks",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 346,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q346",
+    "question": "Safe distance between two flammable tanks is?",
+    "options": [
+      "2 m",
+      "3 m",
+      "4 m",
+      "15 m"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "15 m",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 347,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q347",
+    "question": "Which of the following tanks are most vulnerable to lightning strikes",
+    "options": [
+      "Fixed roof",
+      "Floating roof",
+      "Cone roof",
+      "Umbrella roof"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Floating roof",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 348,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q348",
+    "question": "Tanks are normally fitted with ------ types of alarms",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Two",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 349,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q349",
+    "question": "Function of Vacuum breaker",
+    "options": [
+      "Release of Vacuum",
+      "Release of Pressure",
+      "Compensation of pressure",
+      "Avoid crash cooling"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Compensation of pressure",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 350,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q350",
+    "question": "What is the best type of tank that can be used for more flammable liquids which have a high vapor pressure, low flash point?",
+    "options": [
+      "Floating roof tanks",
+      "Spherical tanks",
+      "Cylindrical Tanks",
+      "Dome Roof Tanks"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Floating roof tanks",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 351,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q351",
+    "question": "The broader categories of stress can be presented with the below word in combination of stress & strain XY relation?",
+    "options": [
+      "Fracture",
+      "Brittle",
+      "Ductile",
+      "All of the other answers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the other answers",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 352,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q352",
+    "question": "When the material is subjected to rapid and extreme temperature changes causing different part of the material to expand by differing amount is known as :",
+    "options": [
+      "Stress",
+      "Brittle fracture",
+      "Thermal shock",
+      "Fatigue Failure"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Thermal shock",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 353,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q353",
+    "question": "There are ----------- types of tanks used to store liquids:",
+    "options": [
+      "Five",
+      "Three",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Eight",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 354,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q354",
+    "question": "Which of the following is a process safety risk reduction measure?",
+    "options": [
+      "Wearing protective gloves when handling acidic waste.",
+      "Safety signs that help ensure handrails are used on stairways.",
+      "Building a brick bund wall around an acid storage tank.",
+      "Safety rules that help ensure high-visibility vests are worn."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Building a brick bund wall around an acid storage tank.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 355,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q355",
+    "question": "A large storage tank, located above ground, is being filled with petroleum (gasoline) . The tank eventually overflows and petroleum cascades to the ground. The subsequent vapor could spread and contact an ignition source located a considerable distance way. This initially results in a flashfire but is quickly follows by an explosion and series of fires engulfing the whole site. What is most likely to have prevented this incident?",
+    "options": [
+      "Hazardous area classification and selection of suitable ignition-protected electrical and mechanical equipment.",
+      "A high-level alarm with an independent high level trip system and an automatic overprotection system.",
+      "Constant flow filling rate combined with accurate calculations of tank filling based manual level readings.",
+      "Local fire departments have sufficient training and resources to respond to induction fires and explosions."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A high-level alarm with an independent high level trip system and an automatic overprotection system.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 356,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q356",
+    "question": "A chemical reaction process to make 4 tons of product is carried out monthly by mixing equal quantities of two chemicals stored in storage tanks, each with a capacity of 60 tons. On one occasion, process water was accidently allowed to enter one of the storage tanks, leading to an explosion and gas release. Which of the following measures would have been the most inherently safe method of reducing the consequences.",
+    "options": [
+      "Minimizing/Reducing inventories stored",
+      "Competency development and training of operators responsible for the chemical reaction.",
+      "Storage in ventilated buildings",
+      "Detailed Standard Operating Procedure (SOP) and correct labelling of each storage tank."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Storage in ventilated buildings",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 357,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q357",
+    "question": "A chemical reaction process to make 4-tonnes of products is carried out once per month by mixing equal quantities of two chemicals. All chemicals are stored in storage tanks, each with a capacity of 60-tonnes. On one occasion, processed water was accidentally allowed to enter one of the storage tanks, leading to an explosion and large-scale release of gas and vapor. Which of the following measures would have been the most inherently safe methods of reducing the potential consequences?",
+    "options": [
+      "Proper labelling of each tank",
+      "Detailed process operating procedures",
+      "Minimizing inventories stored",
+      "Stored in ventilated buildings"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Stored in ventilated buildings",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 358,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q358",
+    "question": "Given the scenario in the question above, which of the following measures would have been more closely aligned with the elimination method of reducing the potential consequences (as per the NEBOSH syllabus)?",
+    "options": [
+      "Storage in ventilated buildings.",
+      "Reducing inventories stored.",
+      "Competency development and training of operators responsible for the chemical reaction process.",
+      "Detailed Standard Operating Procedure (SOP) and correct labelling of each storage tank."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Reducing inventories stored.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 359,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E3-Q359",
+    "question": "During the offloading of tankers to a fixed tank, what are the most two common and crucial hazards and their corresponding control measures?",
+    "options": [
+      "Hazards: Electrostatic charging and Vacuum (implosion), Control Measure: Earth bonding, and Vacuum breaker valve.",
+      "Hazards: Leaking vapors and Overfilling, Control Measure: Sealing gaskets and Automatic shutoff valve.",
+      "Hazards: Electrostatic charging and Chemical spillage, Control Measure: Grounding cable and Spill containment barriers.",
+      "Hazards: Tank overpressure and Electrostatic charging, Control Measure: Pressure relief valve and Spark arrestor."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Hazards: Electrostatic charging and Vacuum (implosion), Control Measure: Earth bonding, and Vacuum breaker valve.",
+    "element": 3,
+    "part": "3.1",
+    "sourceQuestion": 360,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

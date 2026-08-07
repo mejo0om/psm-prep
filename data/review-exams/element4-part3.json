@@ -1,0 +1,762 @@
+[
+  {
+    "id": "MR-E4-Q400",
+    "question": "Dividing a building into fire-resisting compartments to limit the spread of smoke and fire is an example of which type of fire precaution",
+    "options": [
+      "Active fire protection",
+      "Fire detection system",
+      "Passive fire protection",
+      "Smoke detection system"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Passive fire protection",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 401,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q401",
+    "question": "The fire doors under the Passive Fire Protection may offer ----- minutes of fire protection.",
+    "options": [
+      "10 minutes",
+      "15 minutes",
+      "20 minutes",
+      "30 minutes"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "30 minutes",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 402,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q402",
+    "question": "For which operating environment is ATEX- approved equipment essential?",
+    "options": [
+      "Corrosive atmospheres in offshore oil and gas installations",
+      "Toxic atmospheres within confined space work activities",
+      "Pressurized atmospheres requiring associated relief valves",
+      "Potentially flammable atmospheres from dust or vapor"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Potentially flammable atmospheres from dust or vapor",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 403,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q403",
+    "question": "A material that expands when heated and, as a result, fills a space and prevents the spread of fire and smoke.",
+    "options": [
+      "Passive Fire Protection",
+      "Active Fire Protection",
+      "Intumescent material",
+      "Wall Linings"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Intumescent material",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 404,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q404",
+    "question": "How does an intumescent material operate in a fire",
+    "options": [
+      "Contracted when heated to prevent the spread of fire and smoke",
+      "Expands when heated to prevent the spread of fire and smoke",
+      "Radiates when heated to increase the spread of fire and smoke",
+      "Illuminates when heated to help evacuation in the event of fire"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Expands when heated to prevent the spread of fire and smoke",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 405,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q405",
+    "question": "Which of the following is not an Explosion Protection Methodology?",
+    "options": [
+      "Atmosphere Control- where the atmosphere is managed through the introduction of an inert gas in order to exclude oxygen and prevent the formation of a flammable mixture.",
+      "Install ATEX Rated or Approved Equipment- In order to avoid ignition of a flammable mixture.",
+      "Pressure Relief or Explosion Venting – Designed to relieve pressure below the pressure that would cause damage to the vessel or process.",
+      "Install Flame Arrestors – A device that allows gas to pass through it but is designed to stop a flame in order to avoid an explosion."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Install ATEX Rated or Approved Equipment- In order to avoid ignition of a flammable mixture.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 406,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q406",
+    "question": "Where would you install ATEX rated or approved equipment?",
+    "options": [
+      "Places where corrosive atmosphere have the potential to exist.",
+      "Places where toxic atmospheres have the potential to exist.",
+      "Places where asphyxiant or inert atmosphere have the potential to exist.",
+      "Places where flammable atmosphere have the potential to exist."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Places where flammable atmosphere have the potential to exist.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 407,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q407",
+    "question": "In area classification, the place in which an explosive atmosphere is present continuously, in the form of a cloud of combustible dust in air is likely to occur or for long periods or frequently, comes under zone --------.",
+    "options": [
+      "Zone 20",
+      "Zone 2",
+      "Zone 21",
+      "Zone 22"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 20",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 408,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q408",
+    "question": "In the headspace of a fixed roof flammable liquid tank in normal operation, what would you expect the zone to be?",
+    "options": [
+      "Zone 0",
+      "Zone 22",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 0",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 409,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q409",
+    "question": "Which of the following best describes a Zone 1 hazardous area?",
+    "options": [
+      "A place in which an explosive mixture in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation, but if it does occur, will persist for a short period only.",
+      "A place in which an explosive atmosphere in the form of a flammable gas in air is not likely to occur in normal operation, but if it does occur, will persist for a short period only."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 410,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q410",
+    "question": "In area classification, the place in which an explosive atmosphere in the form of the cloud of combustible dust in air is not likely to occur in normal operation, but if it does occur it persist for the short period only, comes under zone ----------.",
+    "options": [
+      "Zone 20",
+      "Zone 2",
+      "Zone 21",
+      "Zone 22"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Zone 22",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 411,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q411",
+    "question": "Which hazardous areas can ATEX category 1 electrical equipment be used in?",
+    "options": [
+      "ZONE 1& 2 or ZONE 21 & 22.",
+      "ZONE 0, 1 & 2 or ZONE 20, 21 & 22.",
+      "ZONE 1 or ZONE 21.",
+      "ZONE 2 or ZONE 22."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "ZONE 0, 1 & 2 or ZONE 20, 21 & 22.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 412,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q412",
+    "question": "Which hazardous areas can ATEX category 2 electrical equipment be used in?",
+    "options": [
+      "ZONE 1& 2 or ZONE 21 & 22.",
+      "ZONE 0, 1 & 2 or ZONE 20, 21 & 22.",
+      "ZONE 1 or ZONE 21.",
+      "ZONE 2 or ZONE 22."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "ZONE 1& 2 or ZONE 21 & 22.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 413,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q413",
+    "question": "You are conducting HAC for a factory that makes foodstuffs; you are concerned with the hopp er where icing sugar (combustible dust) is routinely poured into machinery. What zone is the area immediately around the hopper?",
+    "options": [
+      "Zone 21",
+      "Zone 22",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 21",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 414,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q414",
+    "question": "Which hazardous areas can ATEX category 3 electrical equipment be used in?",
+    "options": [
+      "ZONE 1& 2 or ZONE 21 & 22.",
+      "ZONE 0, 1 & 2 or ZONE 20, 21 & 22.",
+      "ZONE 1 or ZONE 21.",
+      "ZONE 2 or ZONE 22."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "ZONE 2 or ZONE 22.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 415,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q415",
+    "question": "You are conducting a hazardous area classification study on an LPG tank and pipe distraction system, including flanges. You are concerned the flanges connecting the pipe distribution system and the LPG tank itself. If all components are in a good condition, what would you expect the zone to be from the flanges described above?",
+    "options": [
+      "Zone 21",
+      "Zone 22",
+      "Zone 1",
+      "Zone 2"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Zone 2",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 416,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q416",
+    "question": "In a flammable dust bag filter in normal operation, what zone would be allocated to the clean side of the filter?",
+    "options": [
+      "Zone 20",
+      "Zone 22",
+      "Zone 21",
+      "Zone 2"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 22",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 417,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q417",
+    "question": "One of the main typical features of a jet fire is:",
+    "options": [
+      "A highly directional flame.",
+      "A rapid spread in every direction.",
+      "A flame with an enormous surface area.",
+      "A diffuse flame with low momentum."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "A highly directional flame.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 418,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q418",
+    "question": "Which of the following best describes a ZONE 2 hazardous area?",
+    "options": [
+      "A place in which an explosive atmosphere is not likely to occur in normal operations.",
+      "A place in which an explosive atmosphere is present continuously, or for long periods or frequently.",
+      "A place in which an explosion atmosphere is not likely to occur.",
+      "A place in which an explosive atmosphere is present in normal operation occasionally."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "A place in which an explosive atmosphere is not likely to occur in normal operations.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 419,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q419",
+    "question": "Which of the following best describe a ZONE 21 hazardous area?",
+    "options": [
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 420,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q420",
+    "question": "Which of the following best describes a Zone 0 hazardous area?",
+    "options": [
+      "A place in which an explosive mixture in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation, but if it does occur, will persist for a short period only.",
+      "a place in which an explosive atmosphere is present continuously, or for long periods or frequently."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "a place in which an explosive atmosphere is present continuously, or for long periods or frequently.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 421,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q421",
+    "question": "Which of the following best describe a ZONE 20 hazardous area?",
+    "options": [
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "a place in which an explosive atmosphere in the form of a cloud of combustible dust in air is present continuously, or for long periods or frequently.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "a place in which an explosive atmosphere in the form of a cloud of combustible dust in air is present continuously, or for long periods or frequently.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 422,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q422",
+    "question": "Which of the following best describe a ZONE 22 hazardous area?",
+    "options": [
+      "a place in which an explosive atmosphere in the form of a cloud of combustible dust in air is present continuously, or for long periods or frequently.",
+      "a place in which an explosive atmosphere in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time."
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 423,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q423",
+    "question": "Which of the following best describes a Zone 1 hazardous area?",
+    "options": [
+      "A place in which an explosive mixture in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation, but if it does occur, will persist for a short period only.",
+      "A place in which an explosive atmosphere is present continuously in the form of a cloud of flammable gas in air is likely to occur or for long periods or frequently."
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 424,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q424",
+    "question": "Which of the following best describes a Zone 2 hazardous area?",
+    "options": [
+      "A place in which an explosive mixture in the form of a cloud of combustible dust in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of flammable gas in air is likely to occur in normal operation occasionally.",
+      "A place in which an explosive atmosphere in the form of a cloud of combustible dust in air is not likely to occur in normal operation, but if it does occur, will persist for a short period only.",
+      "A place in which an explosive atmosphere is present continuously in the form of a cloud of flammable gas in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time."
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A place in which an explosive atmosphere is present continuously in the form of a cloud of flammable gas in air is not likely to occur in normal operations, but if it does occur, will persist for a short period of time.",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 425,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q425",
+    "question": "What ATEX zone classification applies to the interior of a fuel tanker vessel at a fuel station, where flammable vapors are expected to be present almost continuously?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Zone 22"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 0",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 426,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q426",
+    "question": "Which ATEX zone classification is most appropriate for the inside of an underground fuel storage vessel at a fuel station?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Zone 22"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 0",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 427,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q427",
+    "question": "What is the correct ATEX zone classification for the area adjacent to the filling nozzle at a fuel station, where vapors are likely to be present during vehicle refueling?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Zone 22"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 428,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q428",
+    "question": "In the vicinity of where trucks refill the underground tanks at a fuel station, which ATEX zone classification is typically assigned, considering the occasional release of vapors?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Zone 22"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 429,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q429",
+    "question": "What ATEX zone classification should be assigned to the surrounding area near a fuel station, which may have occasional vapor presence but not under normal operations?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Zone 22"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 2",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 430,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q430",
+    "question": "What ATEX zone classification applies to the interior of a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 0",
+    "element": 4,
+    "part": "4.2",
+    "sourceQuestion": 431,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q431",
+    "question": "What is the correct ATEX zone classification for the area around a thief hatch less than 1.5 meters from a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 432,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q432",
+    "question": "Which ATEX zone classification is most appropriate for the area around vents less than 1.5 meters from a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 433,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q433",
+    "question": "What is the ATEX zone classification for a below-grade location such as a sump or trench inside the bund area of a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Zone 1",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 434,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q434",
+    "question": "What ATEX zone classification should be assigned to the area around vents more than 1.5 meters and less than 3 meters from a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 2",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 435,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q435",
+    "question": "What is the correct ATEX zone classification for the area around a thief hatch more than 1.5 meters and less than 3 meters from a hydrocarbon flammable tank?",
+    "options": [
+      "Zone 0",
+      "Zone 1",
+      "Zone 2",
+      "Non-hazardous"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Zone 2",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 436,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q436",
+    "question": "In an industrial facility where explosive dust is stored in hoppers, What is the correct classification zone of these ATEX zone classifications?",
+    "options": [
+      "Zone 21 near the hoppers, Zone 20 inside the silos, and Zone 22 far from the hoppers during housekeeping activities.",
+      "Zone 20 near the hoppers, Zone 21 inside the silos, and Zone 22 far from the hoppers during housekeeping activities.",
+      "Zone 21 near the hoppers, Zone 22 inside the silos, and Zone 20 far from the hoppers during housekeeping activities.",
+      "Zone 22 near the hoppers, Zone 21 inside the silos, and Zone 20 far from the hoppers during housekeeping activities."
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Zone 21 near the hoppers, Zone 20 inside the silos, and Zone 22 far from the hoppers during housekeeping activities.",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 437,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q437",
+    "question": "What is the most appropriate type of Fire Extinguishing system suitable for a large operation tank farm",
+    "options": [
+      "Water Sprinkler system",
+      "Inert gas system",
+      "Foam Deluge system",
+      "CO2 system"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Foam Deluge system",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 438,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q438",
+    "question": "What type of fire protection system is suitable for a large storage warehouse?",
+    "options": [
+      "Water Sprinkler system",
+      "Inert gas system",
+      "Foam Deluge system",
+      "CO2 system"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Water Sprinkler system",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 439,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  },
+  {
+    "id": "MR-E4-Q439",
+    "question": "What type of fire suppression system is best for a large server room or data center?",
+    "options": [
+      "Water Sprinkler system",
+      "Inert gas system",
+      "Foam Deluge system",
+      "CO2 system"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Inert gas system",
+    "element": 4,
+    "part": "1.5",
+    "sourceQuestion": 440,
+    "source": "NEBOSH PSM Mock Exam Book extraction workbook",
+    "sourceWorkbook": "NEBOSH_PSM_Mock_Exam_Book_All_Questions_Extracted.xlsx",
+    "reviewMode": true,
+    "gradable": true
+  }
+]

@@ -1,0 +1,920 @@
+{
+  "meta": {
+    "schemaVersion": "3.0.0",
+    "generatedFrom": [
+      "PSM Prep v2.3.1 databases",
+      "NEBOSH PSM Master Knowledge Base Phase 1",
+      "Official NEBOSH HSE Process Safety Management Book"
+    ],
+    "singleSourceOfTruth": "concepts.json",
+    "authoritativeSource": "Official NEBOSH HSE Process Safety Management Book, Edition 1 Version 1"
+  },
+  "items": [
+    {
+      "id": "H0039",
+      "conceptId": "C0039",
+      "name": "Dangerous Substance",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.6",
+          "pageStart": 84,
+          "pageEnd": 86,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.6 - Dangerous substances, pages 84-86"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0040",
+      "conceptId": "C0040",
+      "name": "Dangerous Substances",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.6",
+          "pageStart": 84,
+          "pageEnd": 86,
+          "reference": "NEBOSH HSE Process Safety Management, 3.6 - Dangerous substances"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 113,
+          "pageEnd": 113,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113"
+        },
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 81,
+          "pageEnd": 81,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 106,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 110,
+          "pageEnd": 110,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110"
+        },
+        {
+          "element": 1,
+          "section": "1.3",
+          "pageStart": 10,
+          "pageEnd": 10,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10"
+        },
+        {
+          "element": 3,
+          "section": "3.1",
+          "pageStart": 58,
+          "pageEnd": 58,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 2,
+          "section": "2.3",
+          "pageStart": 43,
+          "pageEnd": 43,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 127,
+          "pageEnd": 127,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 107,
+          "pageEnd": 107,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 119,
+          "pageEnd": 119,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 55,
+          "pageEnd": 55,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 128,
+          "pageEnd": 128,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128"
+        },
+        {
+          "element": 1,
+          "section": "1.1",
+          "pageStart": 4,
+          "pageEnd": 4,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0047",
+      "conceptId": "C0047",
+      "name": "Dust Explosion",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 113,
+          "pageEnd": 113,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 116,
+          "pageEnd": 116,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 128,
+          "pageEnd": 128,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 107,
+          "pageEnd": 107,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 118,
+          "pageEnd": 118,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 118"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0048",
+      "conceptId": "C0048",
+      "name": "Dust Explosions",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 116,
+          "pageEnd": 118,
+          "reference": "NEBOSH HSE Process Safety Management, 4.3 - Dust explosions"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 116,
+          "pageEnd": 116,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 118,
+          "pageEnd": 118,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 118"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0054",
+      "conceptId": "C0054",
+      "name": "Electricity and Static Electricity",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 78,
+          "pageEnd": 83,
+          "reference": "NEBOSH HSE Process Safety Management, 3.5 - Electricity and static electricity"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0055",
+      "conceptId": "C0055",
+      "name": "Electricity/static Electricity",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 78,
+          "pageEnd": 78,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 78"
+        },
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 81,
+          "pageEnd": 81,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 81"
+        },
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 79,
+          "pageEnd": 79,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79"
+        },
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 83,
+          "pageEnd": 83,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 83"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0068",
+      "conceptId": "C0068",
+      "name": "Explosion",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 114,
+          "pageEnd": 114,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 110,
+          "pageEnd": 110,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110"
+        },
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 92,
+          "pageEnd": 92,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92"
+        },
+        {
+          "element": 1,
+          "section": "1.4",
+          "pageStart": 14,
+          "pageEnd": 14,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 116,
+          "pageEnd": 116,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116"
+        },
+        {
+          "element": 2,
+          "section": "2.3",
+          "pageStart": 43,
+          "pageEnd": 43,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43"
+        },
+        {
+          "element": 3,
+          "section": "3.7",
+          "pageStart": 88,
+          "pageEnd": 88,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 128,
+          "pageEnd": 128,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 53,
+          "pageEnd": 53,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 53"
+        },
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 97,
+          "pageEnd": 97,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 97"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 107,
+          "pageEnd": 107,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107"
+        },
+        {
+          "element": 2,
+          "section": "2.1",
+          "pageStart": 24,
+          "pageEnd": 24,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 24"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 119,
+          "pageEnd": 119,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 119"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 118,
+          "pageEnd": 118,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 118"
+        },
+        {
+          "element": 2,
+          "section": "2.6",
+          "pageStart": 55,
+          "pageEnd": 55,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 127,
+          "pageEnd": 127,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0069",
+      "conceptId": "C0069",
+      "name": "Explosion Control",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 111,
+          "pageEnd": 115,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.2 - Fire and explosion control, pages 111-115"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0070",
+      "conceptId": "C0070",
+      "name": "Explosion Pentagon",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 111,
+          "pageEnd": 115,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.2 - Fire and explosion control, pages 111-115"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0074",
+      "conceptId": "C0074",
+      "name": "Fire and Explosion Control",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 111,
+          "pageEnd": 115,
+          "reference": "NEBOSH HSE Process Safety Management, 4.2 - Fire and explosion control"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 113,
+          "pageEnd": 113,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 112,
+          "pageEnd": 112,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 114,
+          "pageEnd": 114,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 111,
+          "pageEnd": 111,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 111"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 115,
+          "pageEnd": 115,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 115"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0075",
+      "conceptId": "C0075",
+      "name": "Fire Hazards",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 110,
+          "reference": "NEBOSH HSE Process Safety Management, 4.1 - Fire hazards"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 106,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 110,
+          "pageEnd": 110,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 107,
+          "pageEnd": 107,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0076",
+      "conceptId": "C0076",
+      "name": "Fire Protection",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 110,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.1 - Fire hazards, pages 106-110"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0077",
+      "conceptId": "C0077",
+      "name": "Fire Tetrahedron",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 110,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.1 - Fire hazards, pages 106-110"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0078",
+      "conceptId": "C0078",
+      "name": "Fire Triangle",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 110,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.1 - Fire hazards, pages 106-110"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0079",
+      "conceptId": "C0079",
+      "name": "Fire Triangle/tetrahedron",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 113,
+          "pageEnd": 113,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 113"
+        },
+        {
+          "element": 3,
+          "section": "3.4",
+          "pageStart": 72,
+          "pageEnd": 72,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 72"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 112,
+          "pageEnd": 112,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 112"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 106,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 106"
+        },
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 114,
+          "pageEnd": 114,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.2 – Fire and explosion control, p. 114"
+        },
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 92,
+          "pageEnd": 92,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92"
+        },
+        {
+          "element": 1,
+          "section": "1.3",
+          "pageStart": 11,
+          "pageEnd": 11,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11"
+        },
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 79,
+          "pageEnd": 79,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.5 – Electricity/static electricity, p. 79"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 117,
+          "pageEnd": 117,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 117"
+        },
+        {
+          "element": 3,
+          "section": "3.7",
+          "pageStart": 88,
+          "pageEnd": 88,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88"
+        },
+        {
+          "element": 4,
+          "section": "4.3",
+          "pageStart": 116,
+          "pageEnd": 116,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.3 – Dust explosions, p. 116"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 110,
+          "pageEnd": 110,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 110"
+        },
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 97,
+          "pageEnd": 97,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 97"
+        },
+        {
+          "element": 1,
+          "section": "1.6",
+          "pageStart": 21,
+          "pageEnd": 21,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21"
+        },
+        {
+          "element": 4,
+          "section": "4.4",
+          "pageStart": 127,
+          "pageEnd": 127,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 127"
+        },
+        {
+          "element": 2,
+          "section": "2.4",
+          "pageStart": 48,
+          "pageEnd": 48,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 48"
+        },
+        {
+          "element": 3,
+          "section": "3.4",
+          "pageStart": 77,
+          "pageEnd": 77,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.4 – Utilities, p. 77"
+        },
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 107,
+          "pageEnd": 107,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 107"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0080",
+      "conceptId": "C0080",
+      "name": "Firewater",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.2",
+          "pageStart": 111,
+          "pageEnd": 115,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.2 - Fire and explosion control, pages 111-115"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0087",
+      "conceptId": "C0087",
+      "name": "Hazardous Area",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 78,
+          "pageEnd": 83,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.5 - Electricity and static electricity, pages 78-83"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0129",
+      "conceptId": "C0129",
+      "name": "Overfill",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.8",
+          "pageStart": 92,
+          "pageEnd": 104,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.8 - Bulk storage operations, pages 92-104"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0131",
+      "conceptId": "C0131",
+      "name": "Passive Fire Protection",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 4,
+          "section": "4.1",
+          "pageStart": 106,
+          "pageEnd": 110,
+          "reference": "NEBOSH HSE Process Safety Management, Element 4, Section 4.1 - Fire hazards, pages 106-110"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0155",
+      "conceptId": "C0155",
+      "name": "Reaction",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.7",
+          "pageStart": 87,
+          "pageEnd": 91,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.7 - Reaction hazards, pages 87-91"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0156",
+      "conceptId": "C0156",
+      "name": "Reaction Hazards",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.7",
+          "pageStart": 87,
+          "pageEnd": 91,
+          "reference": "NEBOSH HSE Process Safety Management, 3.7 - Reaction hazards"
+        },
+        {
+          "element": 3,
+          "section": "3.7",
+          "pageStart": 88,
+          "pageEnd": 88,
+          "reference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.7 – Reaction hazards, p. 88"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0187",
+      "conceptId": "C0187",
+      "name": "Static",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.5",
+          "pageStart": 78,
+          "pageEnd": 83,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.5 - Electricity and static electricity, pages 78-83"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    },
+    {
+      "id": "H0194",
+      "conceptId": "C0194",
+      "name": "Toxicity",
+      "category": "Process Safety Hazard",
+      "causes": [],
+      "consequences": [],
+      "controlMeasureConceptIds": [],
+      "officialReferences": [
+        {
+          "element": 3,
+          "section": "3.6",
+          "pageStart": 84,
+          "pageEnd": 86,
+          "reference": "NEBOSH HSE Process Safety Management, Element 3, Section 3.6 - Dangerous substances, pages 84-86"
+        }
+      ],
+      "verificationStatus": "Verified reference"
+    }
+  ]
+}

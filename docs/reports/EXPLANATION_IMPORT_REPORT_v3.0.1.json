@@ -1,0 +1,52 @@
+{
+  "practice": {
+    "element1": {
+      "questions": 59,
+      "explanationsImported": 59,
+      "withoutExplanationInWorkbook": 0
+    },
+    "element2": {
+      "questions": 94,
+      "explanationsImported": 85,
+      "withoutExplanationInWorkbook": 9
+    },
+    "element3": {
+      "questions": 100,
+      "explanationsImported": 89,
+      "withoutExplanationInWorkbook": 11
+    },
+    "element4": {
+      "questions": 103,
+      "explanationsImported": 85,
+      "withoutExplanationInWorkbook": 18
+    }
+  },
+  "exams": {
+    "exam1": {
+      "questions": 40,
+      "explanationsImported": 35,
+      "withoutExplanationInWorkbook": 5
+    },
+    "exam2": {
+      "questions": 40,
+      "explanationsImported": 21,
+      "withoutExplanationInWorkbook": 19
+    },
+    "exam3": {
+      "questions": 40,
+      "explanationsImported": 21,
+      "withoutExplanationInWorkbook": 19
+    },
+    "exam4": {
+      "questions": 40,
+      "explanationsImported": 16,
+      "withoutExplanationInWorkbook": 24
+    },
+    "exam5": {
+      "questions": 40,
+      "explanationsImported": 29,
+      "withoutExplanationInWorkbook": 11
+    }
+  },
+  "generatedAt": "2026-08-03T16:01:39.347656+00:00"
+}

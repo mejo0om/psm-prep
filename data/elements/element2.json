@@ -1,0 +1,5174 @@
+[
+  {
+    "id": "E2-Q060",
+    "question": "A flammable liquid has overflowed from a vessel during the filling operation while the liquid was transferred via a pump to a vessel where it is metered in based on the transfer time & pump speed. What is the root cause from the below?",
+    "options": [
+      "Operator Error",
+      "Pump changed for a higher rate",
+      "Poor initial risk assessment",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "1",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 128,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Dangerous substances",
+      "Bulk storage"
+    ],
+    "relatedAcronyms": [
+      "Q6"
+    ],
+    "keywords": [
+      "pump",
+      "metered",
+      "vessel",
+      "liquid",
+      "transferred",
+      "overflowed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 128",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 128,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E2-Q061",
+    "question": "Avoidance of corporate amnesia means is to?",
+    "options": [
+      "Relay on individuals",
+      "Learnt lessons",
+      "Decisions & designs",
+      "Both 2 & 3"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Both 2 & 3",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "2",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 10,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Organisational learning"
+    ],
+    "keywords": [
+      "avoidance",
+      "amnesia",
+      "corporate",
+      "means"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 10,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q062",
+    "question": "External Sources of Process Safety Management information are the below EXCEPT?",
+    "options": [
+      "Manufacturers & Suppliers",
+      "OSHA, HSE, BS & ILO",
+      "Clients",
+      "Chemical Laboratories"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Chemical Laboratories",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "3",
+    "sourcePage": "1",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 13,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 13",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "EXCEPT",
+      "HSE"
+    ],
+    "keywords": [
+      "laboratories",
+      "sources",
+      "external",
+      "information",
+      "chemical",
+      "management"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 13",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 13,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q063",
+    "question": "What is the MOC Process steps?",
+    "options": [
+      "Produce document detailing changes & risk assessment",
+      "Getting Authorization of Changes & document & record it",
+      "Consult & inform those effected",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "4",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.4",
+    "bookTopic": "Management of change",
+    "bookPageStart": 14,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change",
+      "Safe operating envelope",
+      "Safety critical equipment",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "MOC"
+    ],
+    "keywords": [
+      "steps",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 14",
+    "section": "1.4",
+    "topic": "Management of change",
+    "bookPage": 14,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E2-Q064",
+    "question": "Organizations do not learn from previous accidents and same incident happen again due to:",
+    "options": [
+      "Lack of Risk Assessment",
+      "Lack of Incident Investigations",
+      "Lack of Decision Making",
+      "Lack of Corporate Amnesia"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Lack of Corporate Amnesia",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "5",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 10,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Organisational learning"
+    ],
+    "keywords": [
+      "amnesia",
+      "lack",
+      "organizations",
+      "corporate",
+      "learn",
+      "accidents"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 10,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q065",
+    "question": "Which one is benefit of Consultation?",
+    "options": [
+      "All matters are not being agreed",
+      "Do not improve Safety Culture",
+      "Clear demonstration of management commitment",
+      "Workers do not feel more involved"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Clear demonstration of management commitment",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "6",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.5",
+    "bookTopic": "Worker engagement",
+    "bookPageStart": 16,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.5 – Worker engagement, p. 16",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Worker engagement",
+      "Contractor management",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "demonstration",
+      "benefit",
+      "commitment",
+      "consultation",
+      "clear",
+      "management"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.5 – Worker engagement, p. 16",
+    "section": "1.5",
+    "topic": "Worker engagement",
+    "bookPage": 16,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q066",
+    "question": "The ability to understand responsibilities and perform activities according to standards are properties of:",
+    "options": [
+      "Leadership",
+      "Competency",
+      "Training",
+      "Accountability"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Competency",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "7",
+    "sourcePage": "2",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.6",
+    "bookTopic": "Competence",
+    "bookPageStart": 18,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 18",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Competence"
+    ],
+    "relatedAcronyms": [
+      "KEY",
+      "TERM"
+    ],
+    "keywords": [
+      "perform",
+      "ability",
+      "competency",
+      "properties",
+      "responsibilities",
+      "according"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 18",
+    "section": "1.6",
+    "topic": "Competence",
+    "bookPage": 18,
+    "primaryConcept": "Competence"
+  },
+  {
+    "id": "E2-Q067",
+    "question": "Structural collapse is an example of lack of:",
+    "options": [
+      "Construction Safety",
+      "Process Safety",
+      "Personal Safety",
+      "Inherent Safety"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Process Safety",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "8",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.1",
+    "bookTopic": "Fire hazards",
+    "bookPageStart": 109,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "HSE"
+    ],
+    "keywords": [
+      "lack",
+      "collapse",
+      "structural",
+      "example",
+      "safety",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.1 – Fire hazards, p. 109",
+    "section": "4.1",
+    "topic": "Fire hazards",
+    "bookPage": 109,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q068",
+    "question": "Which one is an example of external source of information in PSM?",
+    "options": [
+      "Safety data Sheet",
+      "Process control System",
+      "Manufacturer Data",
+      "Audit Record"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Manufacturer Data",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "9",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "4.4",
+    "bookTopic": "Emergency preparedness",
+    "bookPageStart": 121,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 121",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "COMAH",
+      "EXAMPLE",
+      "PSM"
+    ],
+    "keywords": [
+      "manufacturer",
+      "data",
+      "external",
+      "source",
+      "information",
+      "example"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 4, Section 4.4 – Emergency preparedness, p. 121",
+    "section": "4.4",
+    "topic": "Emergency preparedness",
+    "bookPage": 121,
+    "primaryConcept": "Emergency preparedness"
+  },
+  {
+    "id": "E2-Q069",
+    "question": "Which one is not a method of Consulting?",
+    "options": [
+      "Email",
+      "Safety Circles",
+      "Discussion Groups",
+      "None of Above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "None of Above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "10",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.4",
+    "bookTopic": "Management of change",
+    "bookPageStart": 15,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 15",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change"
+    ],
+    "relatedAcronyms": [
+      "MOC"
+    ],
+    "keywords": [
+      "consulting",
+      "method"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.4 – Management of change, p. 15",
+    "section": "1.4",
+    "topic": "Management of change",
+    "bookPage": 15,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E2-Q070",
+    "question": "Safety objectives means in PSM?",
+    "options": [
+      "Targets",
+      "Aims",
+      "Mission",
+      "Policy"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Aims",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "11",
+    "sourcePage": "3",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "MAPP",
+      "PSM"
+    ],
+    "keywords": [
+      "aims",
+      "objectives",
+      "means",
+      "safety"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q071",
+    "question": "Which one is not a reason of incident investigation in PSM?",
+    "options": [
+      "Update Risk Assessment",
+      "Determine Disciplinary action needed",
+      "Legal Compliance",
+      "MOC Compliance"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "MOC Compliance",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "12",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 11,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY",
+      "MOC",
+      "PSM"
+    ],
+    "keywords": [
+      "compliance",
+      "investigation",
+      "reason",
+      "incident"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 11",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 11,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E2-Q072",
+    "question": "If an oil storage tank outer walls faced some corrosion what could be the first possible reason?",
+    "options": [
+      "Environmental Aspects",
+      "Material Shelf Life",
+      "Both 1 & 2",
+      "Poor control on Process Parameters"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "13",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.8",
+    "bookTopic": "Bulk storage operations",
+    "bookPageStart": 92,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bulk storage",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "EXAMPLES"
+    ],
+    "keywords": [
+      "outer",
+      "faced",
+      "corrosion",
+      "walls",
+      "reason",
+      "storage"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.8 – Bulk storage operations, p. 92",
+    "section": "3.8",
+    "topic": "Bulk storage operations",
+    "bookPage": 92,
+    "primaryConcept": "Bulk storage"
+  },
+  {
+    "id": "E2-Q073",
+    "question": "Process Risk Management includes?",
+    "options": [
+      "Established PSMS & Risk Management Techniques",
+      "Assets & Maintenance Management",
+      "Responsibilities, PTW, Shift handover & Contractor Management",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "14",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 33,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system",
+      "Risk assessment"
+    ],
+    "keywords": [
+      "includes",
+      "management",
+      "risk",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 33,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q074",
+    "question": "Reasons for developing PSMS?",
+    "options": [
+      "Moral, Ethical, Financial",
+      "Financial, Legal & customer compliance",
+      "Legal, environmental & ethical",
+      "Moral, Legal & Financial"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Moral, Legal & Financial",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "15",
+    "sourcePage": "4",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 24,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 24",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "BP",
+      "PSMS"
+    ],
+    "keywords": [
+      "moral",
+      "psms",
+      "financial",
+      "legal",
+      "developing",
+      "reasons"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 24",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 24,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q075",
+    "question": "Avoidance of incidents and disasters is essential because of?",
+    "options": [
+      "Financial Reasons",
+      "Legal/Compliance reasons",
+      "Moral Reasons",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "16",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.3",
+    "bookTopic": "Organisational learning",
+    "bookPageStart": 10,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Organisational learning"
+    ],
+    "keywords": [
+      "avoidance",
+      "disasters",
+      "essential",
+      "incidents"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.3 – Organisational learning, p. 10",
+    "section": "1.3",
+    "topic": "Organisational learning",
+    "bookPage": 10,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q076",
+    "question": "Strong Leadership, hazard analysis, MOC, Operation within design intent & competence management are the key elements of?",
+    "options": [
+      "PSMS",
+      "PDCA",
+      "MOC",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "PSMS",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "17",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 25,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "Management of change",
+      "Competence",
+      "Start-up and shut-down"
+    ],
+    "relatedAcronyms": [
+      "MOC",
+      "PSMS"
+    ],
+    "keywords": [
+      "strong",
+      "intent",
+      "psms",
+      "competence",
+      "leadership",
+      "elements"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 25,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "E2-Q077",
+    "question": "Contractors control, Assets Integrity, Emergency response, incident investigation & performance monitoring/review are the key elements of?",
+    "options": [
+      "MOC",
+      "PDCA",
+      "PSMS",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "PSMS",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "18",
+    "sourcePage": "5",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 25,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Contractor management",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "PSMS"
+    ],
+    "keywords": [
+      "assets",
+      "psms",
+      "investigation",
+      "response",
+      "integrity",
+      "monitoring"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 25,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q078",
+    "question": "PDCA is a key element of?",
+    "options": [
+      "HAZOP",
+      "HAZID",
+      "PSMS",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "PSMS",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "19",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 25,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "OHSAS",
+      "PDCA",
+      "PSMS",
+      "SMS"
+    ],
+    "keywords": [
+      "pdca",
+      "psms",
+      "element"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 25,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "E2-Q079",
+    "question": "Management review & ensuring continual improvement falls under?",
+    "options": [
+      "Act",
+      "Check",
+      "Do",
+      "Plan"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Act",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "20",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety management system",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "PROVOKER",
+      "PSMS",
+      "THOUGHT"
+    ],
+    "keywords": [
+      "continual",
+      "falls",
+      "improvement",
+      "ensuring",
+      "review",
+      "management"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Process safety management system"
+  },
+  {
+    "id": "E2-Q080",
+    "question": "Licence to operate required to submit a Safety Case with one of the below information?",
+    "options": [
+      "Identified High Hazards",
+      "Identification & control of Major Accident Risks",
+      "Controlled Risks to ALARP",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "21",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Establishing a process safety management system"
+    ],
+    "keywords": [
+      "submit",
+      "licence",
+      "operate",
+      "case",
+      "information",
+      "required"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Establishing a process safety management system"
+  },
+  {
+    "id": "E2-Q081",
+    "question": "MAPP stands for:",
+    "options": [
+      "Management performance procedure",
+      "Major accident prevention policy",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Major accident prevention policy",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "22",
+    "sourcePage": "6",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Establishing a process safety management system"
+    ],
+    "relatedAcronyms": [
+      "COMAH",
+      "MAPP",
+      "UK"
+    ],
+    "keywords": [
+      "mapp",
+      "policy",
+      "stands",
+      "prevention",
+      "accident",
+      "major"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Establishing a process safety management system"
+  },
+  {
+    "id": "E2-Q082",
+    "question": "Emergency plans with monitoring & auditing process falls under?",
+    "options": [
+      "ALARP",
+      "ETA",
+      "HAZOP",
+      "MAPP"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "MAPP",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "23",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "MAPP"
+    ],
+    "keywords": [
+      "mapp",
+      "auditing",
+      "falls",
+      "plans",
+      "monitoring",
+      "emergency"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q083",
+    "question": "One of the key difference between leading & lagging indicators is?",
+    "options": [
+      "Proactive & reactive approaches",
+      "Monitoring of unsafe acts & conditions",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Proactive & reactive approaches",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "24",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 28,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "keywords": [
+      "approaches",
+      "proactive",
+      "difference",
+      "reactive",
+      "lagging",
+      "indicators"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 28,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q084",
+    "question": "Reported near misses of a plant which is operated outside of intended operational envelope is considered an example of:",
+    "options": [
+      "Leading Indicators",
+      "Process Indicators",
+      "Lagging indicator",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Leading Indicators",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "25",
+    "sourcePage": "7",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 28,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Establishing a process safety management system"
+    ],
+    "keywords": [
+      "reported",
+      "misses",
+      "intended",
+      "envelope",
+      "operated",
+      "outside"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 28,
+    "primaryConcept": "Establishing a process safety management system"
+  },
+  {
+    "id": "E2-Q085",
+    "question": "Determining what can go wrong in the process and identify risk controls to prevent such incidents is an important step for development & implementation of?",
+    "options": [
+      "Leading Indicators",
+      "Process Safety Indicators PSI",
+      "Lagging Indicators",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Process Safety Indicators PSI",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "26",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 30,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 30",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "HSE",
+      "HSG254",
+      "PSI"
+    ],
+    "keywords": [
+      "determining",
+      "wrong",
+      "implementation",
+      "step",
+      "development",
+      "indicators"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 30",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 30,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q086",
+    "question": "For the development & implementation of PSIs needs the below things to do?",
+    "options": [
+      "Risks identification & controls",
+      "Establishing Leading & Lagging indicators",
+      "Monitoring & reviewing the indicators",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "27",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.5",
+    "bookTopic": "Worker engagement",
+    "bookPageStart": 17,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.5 – Worker engagement, p. 17",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "keywords": [
+      "psis",
+      "things",
+      "implementation",
+      "development",
+      "needs"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.5 – Worker engagement, p. 17",
+    "section": "1.5",
+    "topic": "Worker engagement",
+    "bookPage": 17,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E2-Q087",
+    "question": "Testing of Emergency systems to plan as per PSIs is an example of?",
+    "options": [
+      "Lagging indicators",
+      "Leading Indicators",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Leading Indicators",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "28",
+    "sourcePage": "8",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 28,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Emergency preparedness"
+    ],
+    "relatedAcronyms": [
+      "COMAH"
+    ],
+    "keywords": [
+      "psis",
+      "testing",
+      "indicators",
+      "leading",
+      "plan",
+      "systems"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 28",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 28,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q088",
+    "question": "A systematic, objective, critical evaluation of how well an organization's management system is performing by examining evidence is called?",
+    "options": [
+      "Inspection",
+      "Risk Assessment",
+      "Monitoring",
+      "Auditing"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Auditing",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "29",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 32,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 32",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety management system"
+    ],
+    "keywords": [
+      "examining",
+      "systematic",
+      "evaluation",
+      "performing",
+      "auditing",
+      "objective"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 32",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 32,
+    "primaryConcept": "Process safety management system"
+  },
+  {
+    "id": "E2-Q089",
+    "question": "Auditing Compliance needs that the audits are?",
+    "options": [
+      "Proactive & checking of HSE system",
+      "Checking of controls",
+      "Identifying the areas for improvement",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "30",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 32,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 32",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "keywords": [
+      "audits",
+      "auditing",
+      "compliance",
+      "needs"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 32",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 32,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q090",
+    "question": "Quantitative Risk Assessment differs from qualitative risk assessment because it is more:",
+    "options": [
+      "Adaptive",
+      "Objective",
+      "Subjective",
+      "Detective"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Objective",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "31",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "assessment",
+      "qualitative",
+      "differs",
+      "objective",
+      "quantitative",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q091",
+    "question": "The chances of a hazard that can cause harm, in a combination with the severity of injury damage or loss that might foreseeably occur is called?",
+    "options": [
+      "Hazard",
+      "Advance Risk",
+      "Risk",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Risk",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "32",
+    "sourcePage": "9",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 33,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "keywords": [
+      "foreseeably",
+      "chances",
+      "harm",
+      "combination",
+      "injury",
+      "severity"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 33,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "E2-Q092",
+    "question": "What is purpose of Risk Assessment?",
+    "options": [
+      "Workplace safety",
+      "Risk reduction",
+      "Both 1 & 2",
+      "Legal compliance"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "33",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "purpose",
+      "assessment",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q093",
+    "question": "Recording the significant findings in the _____ step of Risk Assessment.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "4",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "34",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "_____",
+      "recording",
+      "findings",
+      "step",
+      "significant",
+      "assessment"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q094",
+    "question": "Identification of possible additional risk reduction is an important step in?",
+    "options": [
+      "Risk Assessment",
+      "HAZID",
+      "ALARP",
+      "Advance Risk Assessment"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Advance Risk Assessment",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "35",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "advance",
+      "reduction",
+      "identification",
+      "additional",
+      "step",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q095",
+    "question": "Risk estimation & ranking of risks is the _____ step of Advanced Risk Assessment.",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Second",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "36",
+    "sourcePage": "10",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "ranking",
+      "estimation",
+      "_____",
+      "advanced",
+      "second",
+      "step"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q096",
+    "question": "What is most important & comprehensive risk assessment in PSM?",
+    "options": [
+      "SQ",
+      "QRA",
+      "Q",
+      "All of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "QRA",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "37",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "PSM",
+      "Q3",
+      "QRA"
+    ],
+    "keywords": [
+      "comprehensive",
+      "important",
+      "assessment",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q097",
+    "question": "Hazard can be realized much deeper through?",
+    "options": [
+      "HAZOP",
+      "HAZID",
+      "ETA",
+      "Swiss Cheese Model"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "HAZOP",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "38",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP",
+      "ICI",
+      "PROVOKER",
+      "THOUGHT"
+    ],
+    "keywords": [
+      "realized",
+      "deeper",
+      "hazop",
+      "hazard"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q098",
+    "question": "The application of effective risk management tools are initially considered at:",
+    "options": [
+      "Concept & design stage",
+      "Before Start up",
+      "During unusual process activities i.e. start-up & shut down",
+      "All of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Concept & design stage",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "39",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 35,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 35",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Risk assessment",
+      "Start-up and shut-down"
+    ],
+    "keywords": [
+      "tools",
+      "initially",
+      "application",
+      "concept",
+      "stage",
+      "considered"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 35",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 35,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q099",
+    "question": "Hazard realization when drawn together is known as:",
+    "options": [
+      "ETA",
+      "Bow-tie diagram",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Bow-tie diagram",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "40",
+    "sourcePage": "11",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bowtie analysis",
+      "Layers of protection",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "LOD",
+      "LOP"
+    ],
+    "keywords": [
+      "realization",
+      "drawn",
+      "diagram",
+      "known",
+      "hazard"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Bowtie analysis"
+  },
+  {
+    "id": "E2-Q100",
+    "question": "Active & passive protection barriers are the examples used in?",
+    "options": [
+      "PFD",
+      "HAZOP",
+      "QRA",
+      "Bow tie Model"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Bow tie Model",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "41",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bowtie analysis"
+    ],
+    "keywords": [
+      "barriers",
+      "model",
+      "examples",
+      "active",
+      "passive",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Bowtie analysis"
+  },
+  {
+    "id": "E2-Q101",
+    "question": "Process parameters are represented with guideword set more, less, no, reverse in:",
+    "options": [
+      "HAZOP",
+      "HAZID",
+      "ETA",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "HAZOP",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "42",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.1",
+    "bookTopic": "Operating Procedures",
+    "bookPageStart": 58,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP"
+    ],
+    "keywords": [
+      "reverse",
+      "guideword",
+      "represented",
+      "parameters",
+      "hazop",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.1 – Operating Procedures, p. 58",
+    "section": "3.1",
+    "topic": "Operating Procedures",
+    "bookPage": 58,
+    "primaryConcept": "HAZOP"
+  },
+  {
+    "id": "E2-Q102",
+    "question": "Multidisciplinary team approach is essential for:",
+    "options": [
+      "HAZID",
+      "HAZOP",
+      "Risk Assessments",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "HAZOP",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "43",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP"
+    ],
+    "keywords": [
+      "multidisciplinary",
+      "hazop",
+      "approach",
+      "team",
+      "essential"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "E2-Q103",
+    "question": "In HAZOP, the use SCALD word against Temperature Process Parameter is noted as:",
+    "options": [
+      "Guideword",
+      "Deviation",
+      "Cause",
+      "Consequence"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Deviation",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "44",
+    "sourcePage": "12",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP",
+      "SCALD"
+    ],
+    "keywords": [
+      "noted",
+      "word",
+      "parameter",
+      "scald",
+      "deviation",
+      "hazop"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "HAZOP"
+  },
+  {
+    "id": "E2-Q104",
+    "question": "FARSI stands for:",
+    "options": [
+      "Functionality, Availability, Reliability, Survivability, Interdependency"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Functionality, Availability, Reliability, Survivability, Interdependency",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "45",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "3.3",
+    "bookTopic": "Safety critical performance standards",
+    "bookPageStart": 69,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Management of change",
+      "Asset integrity",
+      "Safety critical equipment"
+    ],
+    "relatedAcronyms": [
+      "FARSI",
+      "KEY",
+      "MOC",
+      "PS",
+      "TERM"
+    ],
+    "keywords": [
+      "interdependency",
+      "survivability",
+      "functionality",
+      "availability",
+      "farsi",
+      "stands"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 3, Section 3.3 – Safety critical performance standards, p. 69",
+    "section": "3.3",
+    "topic": "Safety critical performance standards",
+    "bookPage": 69,
+    "primaryConcept": "Management of change"
+  },
+  {
+    "id": "E2-Q105",
+    "question": "Top down study with brain storming process is used for ______ in PSM.",
+    "options": [
+      "HAZOP",
+      "PFDs",
+      "HAZID",
+      "ETA"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "HAZID",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "46",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 39,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Risk assessment",
+      "HAZID",
+      "Failure modes and effects analysis",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "FMEA",
+      "HAZID",
+      "PSM"
+    ],
+    "keywords": [
+      "storming",
+      "brain",
+      "hazid",
+      "study",
+      "______",
+      "used"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 39,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q106",
+    "question": "FMEA stands for?",
+    "options": [
+      "Failure mood effect alarm",
+      "Failure mode elements analysis",
+      "Failure mode effect analysis",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Failure mode effect analysis",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "47",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 39,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Risk assessment",
+      "HAZID",
+      "Failure modes and effects analysis",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "FMEA",
+      "HAZID"
+    ],
+    "keywords": [
+      "fmea",
+      "mode",
+      "stands",
+      "effect",
+      "analysis",
+      "failure"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 39,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q107",
+    "question": "FMEA requires a multidisciplinary team to ______?",
+    "options": [
+      "Identify failure modes & effect of failures",
+      "Severity, cause, occurrence & detection",
+      "Recommendation actions to be taken",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "48",
+    "sourcePage": "13",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "HAZOP",
+      "Failure modes and effects analysis"
+    ],
+    "relatedAcronyms": [
+      "FMEA",
+      "HAZOP"
+    ],
+    "keywords": [
+      "multidisciplinary",
+      "fmea",
+      "team",
+      "requires",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "E2-Q108",
+    "question": "Event Tree Analysis (ETA) can be used for evaluating the:",
+    "options": [
+      "Active controls",
+      "Passive controls",
+      "Pro-active or re-active controls",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Pro-active or re-active controls",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "49",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 40,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 40",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "Event tree analysis"
+    ],
+    "relatedAcronyms": [
+      "ETA"
+    ],
+    "keywords": [
+      "active",
+      "evaluating",
+      "tree",
+      "analysis",
+      "event",
+      "controls"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 40",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 40,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q109",
+    "question": "In PSM, loss of flammable liquid could potentially result in:",
+    "options": [
+      "Fire & explosion",
+      "Slips trips & fall",
+      "Air contamination",
+      "None of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Fire & explosion",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "50",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 43,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Dangerous substances",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "ATEX",
+      "PSM"
+    ],
+    "keywords": [
+      "potentially",
+      "loss",
+      "liquid",
+      "result",
+      "flammable",
+      "explosion"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 43",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 43,
+    "primaryConcept": "Dangerous substances"
+  },
+  {
+    "id": "E2-Q110",
+    "question": "In PSM, ALARP stands for?",
+    "options": [
+      "As low as is reasonably proactive",
+      "As low as is reasonably practicable",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "As low as is reasonably practicable",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "51",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 41,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "relatedAcronyms": [
+      "ALARP",
+      "PSM"
+    ],
+    "keywords": [
+      "practicable",
+      "alarp",
+      "reasonably",
+      "stands"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 41,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "E2-Q111",
+    "question": "In hierarchy of Risk control Elimination means:",
+    "options": [
+      "Removal of Hazard",
+      "Minimization of Inventories",
+      "Both 1 & 2",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Both 1 & 2",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "52",
+    "sourcePage": "14",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 41,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "hierarchy",
+      "elimination",
+      "means",
+      "control",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 41,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "E2-Q112",
+    "question": "In Process Safety the emphasis is given on the prevention of?",
+    "options": [
+      "Major disasters",
+      "Complex technical control",
+      "Robust Safety Management System",
+      "All of the above"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Major disasters",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "53",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.1",
+    "bookTopic": "Process safety management meaning",
+    "bookPageStart": 4,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Leadership",
+      "Process safety management system"
+    ],
+    "keywords": [
+      "emphasis",
+      "disasters",
+      "prevention",
+      "given",
+      "major",
+      "safety"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "section": "1.1",
+    "topic": "Process safety management meaning",
+    "bookPage": 4,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q113",
+    "question": "In PSM; Leadership is important?",
+    "options": [
+      "For giving high priority to process safety",
+      "To ensure Personal Safety",
+      "To provide Trainings & PPEs",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "54",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.1",
+    "bookTopic": "Process safety management meaning",
+    "bookPageStart": 4,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Leadership",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "PSM"
+    ],
+    "keywords": [
+      "leadership",
+      "important"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.1 – Process safety management meaning, p. 4",
+    "section": "1.1",
+    "topic": "Process safety management meaning",
+    "bookPage": 4,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q114",
+    "question": "What is the most important benefit of involving workers when carrying out risk assessments?",
+    "options": [
+      "To reduce resistance and conflict when risk assessments are introduced",
+      "To make sure there is a balanced representation of workers and managers",
+      "To enable employer and employees to comply fully with legal requirements",
+      "To gather detailed practical knowledge about workplace hazards and risks"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "To gather detailed practical knowledge about workplace hazards and risks",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "55",
+    "sourcePage": "15",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "1.6",
+    "bookTopic": "Competence",
+    "bookPageStart": 21,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Competence",
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "EPSC",
+      "Q5"
+    ],
+    "keywords": [
+      "gather",
+      "benefit",
+      "involving",
+      "practical",
+      "workplace",
+      "detailed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 1, Section 1.6 – Competence, p. 21",
+    "section": "1.6",
+    "topic": "Competence",
+    "bookPage": 21,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q115",
+    "question": "Risk-based maintenance & Inspection Strategy:",
+    "options": [
+      "Breakdown maintenance",
+      "Condition Monitoring",
+      "Planned Preventive Maintenance",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "56",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 45,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "strategy",
+      "inspection",
+      "based",
+      "maintenance",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 45,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E2-Q116",
+    "question": "Management of Process Risk includes:",
+    "options": [
+      "Establishing a process SMS",
+      "Risk Management Techniques-PSM",
+      "Assets Management & Maintenance strategies",
+      "Role, Purpose & features of PTW",
+      "Safe Shift handover & Contractor Management",
+      "All of the above"
+    ],
+    "correctAnswer": "F",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "57",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 56,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 56",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q5",
+      "Q6"
+    ],
+    "keywords": [
+      "includes",
+      "management",
+      "risk",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 56",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 56,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q117",
+    "question": "Process organizations have in place a wide range of mitigation measures designed to reduce the consequences of a major incident. Which risk management technique is especially suited to assess the effectiveness of these mitigation measures?",
+    "options": [
+      "Failure Mode Effects Analysis (FMEA)",
+      "Event Tree Analysis (ETA)",
+      "Risk assessment (RA)",
+      "Hazard Identification (HAZID)"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Event Tree Analysis (ETA)",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "58",
+    "sourcePage": "16",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "HAZID",
+      "Event tree analysis",
+      "Failure modes and effects analysis"
+    ],
+    "relatedAcronyms": [
+      "AEA",
+      "ETA",
+      "FMEA",
+      "HAZID",
+      "HSE",
+      "INDG163",
+      "RA"
+    ],
+    "keywords": [
+      "mitigation",
+      "measures",
+      "technique",
+      "suited",
+      "tree",
+      "effectiveness"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q118",
+    "question": "Which of the following is an example of planned preventive maintenance?",
+    "options": [
+      "Daily visual inspection of process plant",
+      "Greasing of pump bearings",
+      "Regular sampling of product",
+      "Testing of stack emissions"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Greasing of pump bearings",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "59",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 45,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "greasing",
+      "bearings",
+      "preventive",
+      "planned",
+      "pump",
+      "maintenance"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 45,
+    "primaryConcept": "Asset integrity"
+  },
+  {
+    "id": "E2-Q119",
+    "question": "Quantitative risk assessment differs from qualitative risk assessment because it is more:",
+    "options": [
+      "Adaptive",
+      "Objective",
+      "Subjective",
+      "Detective"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Objective",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "60",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "assessment",
+      "qualitative",
+      "differs",
+      "objective",
+      "quantitative",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q120",
+    "question": "A preferred method of conducting a shift handover is:",
+    "options": [
+      "Face to face using verbal and written communication",
+      "By telephone using verbal communication",
+      "Via a log book using written communication",
+      "By radio using verbal communication"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Face to face using verbal and written communication",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "61",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.5",
+    "bookTopic": "Safe shift handover",
+    "bookPageStart": 50,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Permit-to-work",
+      "Shift handover"
+    ],
+    "keywords": [
+      "face",
+      "verbal",
+      "written",
+      "communication",
+      "preferred",
+      "conducting"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "section": "2.5",
+    "topic": "Safe shift handover",
+    "bookPage": 50,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "E2-Q121",
+    "question": "Which of the following is the most important consideration when selecting contractors?",
+    "options": [
+      "Proving that they have no previous or pending enforcement actions",
+      "Providing method statements, risk assessments and safety policies",
+      "Evidence of previous safe working and understanding their impact on others",
+      "Membership of a professional body and adequate insurance cover for the work"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Evidence of previous safe working and understanding their impact on others",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "62",
+    "sourcePage": "17",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 55,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "Q5"
+    ],
+    "keywords": [
+      "selecting",
+      "previous",
+      "evidence",
+      "consideration",
+      "understanding",
+      "working"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 55,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q122",
+    "question": "Two separate work permits had been issued for maintenance work on a pump. The pump was started after service with the relief valve blanked. Which control would have prevented the incident?",
+    "options": [
+      "A verbal communication in a quiet place between incoming and outgoing workers",
+      "Confirmation of permits signed off as completed",
+      "Discussion of recorded process checks undertaken by outgoing workers",
+      "A physical demonstration of the plant state between incoming and outgoing workers"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "A physical demonstration of the plant state between incoming and outgoing workers",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "63",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 55,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "keywords": [
+      "pump",
+      "blanked",
+      "prevented",
+      "started",
+      "outgoing",
+      "work"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 55,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q123",
+    "question": "Housing of contractors must be ______ from the worksite or plant?",
+    "options": [
+      "Closer",
+      "Away",
+      "No housing at all",
+      "None of the above"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Away",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "67",
+    "sourcePage": "18",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 53,
+    "bookPageEnd": 56,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 53",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.6",
+      "pageStart": 51,
+      "pageEnd": 56,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "BP",
+      "ISOM",
+      "NDU"
+    ],
+    "keywords": [
+      "worksite",
+      "housing",
+      "away",
+      "contractors",
+      "______",
+      "plant"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 53",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 53,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q124",
+    "question": "Contractor must be audited:",
+    "options": [
+      "After finishing the project",
+      "During the Project",
+      "Before-during & after completion",
+      "None of the above"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Before-during & after completion",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "68",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 51,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 51",
+    "evidenceLevel": null,
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "keywords": [
+      "audited",
+      "completion",
+      "contractor"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 51",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 51,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q125",
+    "question": "Shift handover must not be?",
+    "options": [
+      "Face to face",
+      "Telecom",
+      "Email",
+      "Both 2 & 3"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Both 2 & 3",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "69",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.5",
+    "bookTopic": "Safe shift handover",
+    "bookPageStart": 50,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Shift handover",
+      "Safety critical equipment"
+    ],
+    "keywords": [
+      "handover",
+      "shift"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "section": "2.5",
+    "topic": "Safe shift handover",
+    "bookPage": 50,
+    "primaryConcept": "Shift handover"
+  },
+  {
+    "id": "E2-Q126",
+    "question": "PTW is not required when the activities:",
+    "options": [
+      "Away from Process areas",
+      "Don't require isolation",
+      "Do not fall in confined spaces",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "70",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 49,
+    "bookPageEnd": 49,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 49",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.4",
+      "pageStart": 47,
+      "pageEnd": 49,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Permit-to-work"
+    ],
+    "relatedAcronyms": [
+      "PTW"
+    ],
+    "keywords": [
+      "activities",
+      "required"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 49",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 49,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "E2-Q127",
+    "question": "Elements of Process Safety Management System?",
+    "options": [
+      "Strong Leadership, Hazard Analysis, Management of Change",
+      "Operation within Design Intent, Competence Management, Control of Contractors",
+      "Assets Integrity, Emergency Response, Process Safety Related Incident Recording & Investigation, Performance Monitoring & Auditing",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "71",
+    "sourcePage": "19",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 26,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "elements",
+      "management",
+      "safety",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 26,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q128",
+    "question": "Health & Safety Management Systems Sections?",
+    "options": [
+      "Health & Safety Policy (Plan) & Health & Safety Planning (Plan)",
+      "Implementation & Operation",
+      "Checking & Corrective Action (Check) & Management Review (Act)",
+      "All of the above"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "All of the above",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "72",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 26,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "sections",
+      "health",
+      "systems",
+      "management",
+      "safety"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 26,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q129",
+    "question": "There are other legal and financial objectives in a process safety management system. ______ obligations.",
+    "options": [
+      "Moral",
+      "Lethal",
+      "Ethical",
+      "Motivational"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Moral",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "73",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 33,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system",
+      "Risk assessment"
+    ],
+    "keywords": [
+      "obligations",
+      "moral",
+      "financial",
+      "objectives",
+      "legal",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 33",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 33,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q130",
+    "question": "Effective process safety management will help an organization meet the ______ obligation.",
+    "options": [
+      "Moral",
+      "Financial",
+      "Legal",
+      "Ethical"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Legal",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "74",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 24,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 24",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Process safety management system",
+      "Explosion"
+    ],
+    "relatedAcronyms": [
+      "PSMS",
+      "SMS"
+    ],
+    "keywords": [
+      "obligation",
+      "meet",
+      "help",
+      "organization",
+      "legal",
+      "effective"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 24",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 24,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q131",
+    "question": "In PSMS Elements which one covers the normal operations, start-up and shut-down procedures, maintenance, cleaning and emergency situations:",
+    "options": [
+      "Hazard Analysis",
+      "Management of Change",
+      "Competence Management",
+      "Operation Within designed intent"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "Operation Within designed intent",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "75",
+    "sourcePage": "20",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 25,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Worker engagement",
+      "Competence",
+      "Risk assessment",
+      "Asset integrity",
+      "Contractor management",
+      "Start-up and shut-down"
+    ],
+    "relatedAcronyms": [
+      "PSMS"
+    ],
+    "keywords": [
+      "covers",
+      "cleaning",
+      "intent",
+      "psms",
+      "situations",
+      "elements"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 25",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 25,
+    "primaryConcept": "Worker engagement"
+  },
+  {
+    "id": "E2-Q132",
+    "question": "All different models of safety management systems follow the same ______ cycle.",
+    "options": [
+      "SMS",
+      "MAPP",
+      "PDCA",
+      "MOC"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "PDCA",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "76",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 26,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Leadership",
+      "Process safety management system"
+    ],
+    "relatedAcronyms": [
+      "PDCA"
+    ],
+    "keywords": [
+      "pdca",
+      "models",
+      "cycle",
+      "follow",
+      "different",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 26",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 26,
+    "primaryConcept": "Leadership"
+  },
+  {
+    "id": "E2-Q133",
+    "question": "In high hazard processes an operator may have to produce a document known as '______' to apply for the license to operate.",
+    "options": [
+      "Permit",
+      "Safety Case",
+      "Signed document",
+      "Consent form"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Safety Case",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "77",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 27,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Establishing a process safety management system"
+    ],
+    "keywords": [
+      "license",
+      "apply",
+      "document",
+      "produce",
+      "operate",
+      "case"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 27",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 27,
+    "primaryConcept": "Establishing a process safety management system"
+  },
+  {
+    "id": "E2-Q134",
+    "question": "According to the document provided by the operator to the above statement, risks are controlled up to:",
+    "options": [
+      "Partial level",
+      "Satisfactory level",
+      "ALARP (as low as reasonably practical)",
+      "Facts and figures"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "ALARP (as low as reasonably practical)",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "78",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 41,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "relatedAcronyms": [
+      "ALARP"
+    ],
+    "keywords": [
+      "statement",
+      "alarp",
+      "reasonably",
+      "document",
+      "provided",
+      "practical"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 41,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "E2-Q135",
+    "question": "Process Safety Indicators can be divided into two indicators:",
+    "options": [
+      "Determined and analyzed",
+      "Fixed and processed",
+      "Leading and lagging",
+      "Controlled and Un-controlled"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Leading and lagging",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "79",
+    "sourcePage": "21",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 31,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 31",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety"
+    ],
+    "relatedAcronyms": [
+      "HSG254"
+    ],
+    "keywords": [
+      "indicators",
+      "divided",
+      "lagging",
+      "leading",
+      "safety",
+      "process"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 31",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 31,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q136",
+    "question": "In overviewing of the six steps to setting performance indicators, deciding on the scope of the measurement system and considering what can go wrong and where, comes at:",
+    "options": [
+      "Step 1",
+      "Step 2",
+      "Step 3",
+      "Step 4",
+      "Step 5",
+      "Step 6"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Step 1",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "80",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.1",
+    "bookTopic": "Establishing a process safety management system",
+    "bookPageStart": 31,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 31",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Establishing a process safety management system"
+    ],
+    "keywords": [
+      "overviewing",
+      "deciding",
+      "scope",
+      "considering",
+      "measurement",
+      "steps"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.1 – Establishing a process safety management system, p. 31",
+    "section": "2.1",
+    "topic": "Establishing a process safety management system",
+    "bookPage": 31,
+    "primaryConcept": "Establishing a process safety management system"
+  },
+  {
+    "id": "E2-Q137",
+    "question": "According to the methods to access the level of risks the process in which full quantification occurs by the use of known data comes under:",
+    "options": [
+      "Qualitative risk assessment",
+      "Semi-quantitative risk assessment",
+      "Quantified risk assessment"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Quantified risk assessment",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "81",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 35,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 35",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY",
+      "QRA",
+      "SQ"
+    ],
+    "keywords": [
+      "quantification",
+      "quantified",
+      "access",
+      "comes",
+      "methods",
+      "according"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 35",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 35,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q138",
+    "question": "LOD (Lines of Defense) or LOP (Layers of Protection) comes under:",
+    "options": [
+      "FMEA",
+      "HAZID",
+      "Bow Tie Model",
+      "HAZOP"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Bow Tie Model",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "82",
+    "sourcePage": "22",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 36,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Bowtie analysis",
+      "Layers of protection"
+    ],
+    "relatedAcronyms": [
+      "LOD",
+      "LOP"
+    ],
+    "keywords": [
+      "defense",
+      "layers",
+      "model",
+      "comes",
+      "lines",
+      "protection"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 36",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 36,
+    "primaryConcept": "Bowtie analysis"
+  },
+  {
+    "id": "E2-Q139",
+    "question": "A HAZOP is carried out on piping and instrumentation diagrams (P&ID's) and breaks the process down in small sections known as:",
+    "options": [
+      "Parts",
+      "Nodes",
+      "Piping sections",
+      "Sub sections"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Nodes",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "83",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP",
+      "ID"
+    ],
+    "keywords": [
+      "nodes",
+      "breaks",
+      "piping",
+      "diagrams",
+      "sections",
+      "hazop"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "HAZOP"
+  },
+  {
+    "id": "E2-Q140",
+    "question": "HAZOP is an advanced risk assessment first used by ______ in 1960.",
+    "options": [
+      "Nestle",
+      "Engro fertilizers",
+      "ICI (Imperial Chemical Industries)",
+      "Unilever"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "ICI (Imperial Chemical Industries)",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "84",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 38,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "HAZOP"
+    ],
+    "relatedAcronyms": [
+      "HAZOP",
+      "ICI",
+      "PROVOKER",
+      "THOUGHT"
+    ],
+    "keywords": [
+      "1960",
+      "imperial",
+      "advanced",
+      "hazop",
+      "industries",
+      "______"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 38",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 38,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q141",
+    "question": "In Failure Mode Effect Analysis (FMEA), Severity × Occurrence × Detection = ______.",
+    "options": [
+      "Recommended Actions",
+      "Detection Mode",
+      "Failure modes",
+      "RPN (Risk Priority Number)"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "RPN (Risk Priority Number)",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "85",
+    "sourcePage": "23",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 39,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety",
+      "Risk assessment",
+      "HAZID",
+      "Failure modes and effects analysis",
+      "Dangerous substances"
+    ],
+    "relatedAcronyms": [
+      "FMEA",
+      "HAZID",
+      "RPN"
+    ],
+    "keywords": [
+      "occurrence",
+      "fmea",
+      "priority",
+      "mode",
+      "detection",
+      "effect"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 39",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 39,
+    "primaryConcept": "Process safety"
+  },
+  {
+    "id": "E2-Q142",
+    "question": "__________ is used to evaluate the mitigation measures that will operate after an event, including initiating event and protective measures.",
+    "options": [
+      "FMEA",
+      "HAZOP",
+      "HAZID",
+      "ETA",
+      "Bow Tie Model"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "ETA",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "86",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 40,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 40",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment",
+      "Event tree analysis"
+    ],
+    "relatedAcronyms": [
+      "ETA"
+    ],
+    "keywords": [
+      "measures",
+      "event",
+      "initiating",
+      "evaluate",
+      "__________",
+      "protective"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 40",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 40,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q143",
+    "question": "Piper Alpha in 1988 was caused by:",
+    "options": [
+      "Design and Engineering Flaw",
+      "Lack of Safety rules",
+      "Lack of Audits",
+      "Un-controllable measures"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Design and Engineering Flaw",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "87",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.2",
+    "bookTopic": "Risk management techniques used within the process industries",
+    "bookPageStart": 41,
+    "bookPageEnd": 32,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.1",
+      "pageStart": 24,
+      "pageEnd": 32,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk management techniques used within the process industries"
+    ],
+    "keywords": [
+      "flaw",
+      "1988",
+      "alpha",
+      "piper",
+      "engineering",
+      "caused"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.2 – Risk management techniques used within the process industries, p. 41",
+    "section": "2.2",
+    "topic": "Risk management techniques used within the process industries",
+    "bookPage": 41,
+    "primaryConcept": "Risk management techniques used within the process industries"
+  },
+  {
+    "id": "E2-Q144",
+    "question": "Ongoing risk assessment, maintenance and inspection, monitoring of control measures, verification are the objectives which are included in the ______ phase of Asset Integrity throughout the lifecycle.",
+    "options": [
+      "Design Phase",
+      "Commissioning Phase",
+      "Operation Phase",
+      "Modifications Phase"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Operation Phase",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "88",
+    "sourcePage": "24",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 44,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 44",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Process safety management system",
+      "Risk assessment",
+      "Asset integrity"
+    ],
+    "keywords": [
+      "phase",
+      "lifecycle",
+      "ongoing",
+      "verification",
+      "asset",
+      "objectives"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 44",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 44,
+    "primaryConcept": "Process safety management system"
+  },
+  {
+    "id": "E2-Q145",
+    "question": "__________ is highly effective and relies on the operator repairing or replacing plant and equipment that has failed while in use.",
+    "options": [
+      "Condition monitoring",
+      "Planned Preventive",
+      "Breakdown Maintenance"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Breakdown Maintenance",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "89",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 45,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset management and maintenance strategies"
+    ],
+    "keywords": [
+      "repairing",
+      "replacing",
+      "breakdown",
+      "relies",
+      "__________",
+      "failed"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 45,
+    "primaryConcept": "Asset management and maintenance strategies"
+  },
+  {
+    "id": "E2-Q146",
+    "question": "Risk based thinking is now a days applied to __________, essentially calculating the legal, human and financial cost to the company if it fails.",
+    "options": [
+      "Plant design",
+      "Reactor design",
+      "Calibration of instrument",
+      "SOP's"
+    ],
+    "correctAnswer": "D",
+    "correctOptionText": "SOP's",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "90",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 46,
+    "bookPageEnd": null,
+    "mappingConfidence": "Unmapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "Element 2",
+      "pageStart": null,
+      "pageEnd": null,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Operating procedures"
+    ],
+    "relatedAcronyms": [
+      "SOP"
+    ],
+    "keywords": [
+      "calculating",
+      "essentially",
+      "thinking",
+      "days",
+      "company",
+      "fails"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 46",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 46,
+    "primaryConcept": "Operating procedures"
+  },
+  {
+    "id": "E2-Q147",
+    "question": "According to the key features of permit to work any isolation needed (such as electrical, mechanical or chemical lines are detailed and recorded and should follow the ______ process that physically prevents the re-energisation of the system.",
+    "options": [
+      "Calibration process",
+      "LOTO process (Lock out, Tag out)",
+      "Accountability process",
+      "Evaluation process"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "LOTO process (Lock out, Tag out)",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "91",
+    "sourcePage": "25",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 47,
+    "bookPageEnd": 49,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.4",
+      "pageStart": 47,
+      "pageEnd": 49,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Permit-to-work",
+      "Electrical safety"
+    ],
+    "relatedAcronyms": [
+      "LOTO",
+      "PPE"
+    ],
+    "keywords": [
+      "loto",
+      "energisation",
+      "physically",
+      "prevents",
+      "recorded",
+      "lock"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 47",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 47,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "E2-Q148",
+    "question": "With reference to the types of permit Drilling, cutting metal and use of metal equipment are included in:",
+    "options": [
+      "Hot work permit",
+      "Electrical permit",
+      "Cold work permit",
+      "Isolation permit"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Hot work permit",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "92",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.4",
+    "bookTopic": "Role, purpose and features of a permit-to-work system",
+    "bookPageStart": 48,
+    "bookPageEnd": 49,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 48",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.4",
+      "pageStart": 47,
+      "pageEnd": 49,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Electrical safety",
+      "Fire triangle/tetrahedron"
+    ],
+    "relatedAcronyms": [
+      "HV"
+    ],
+    "keywords": [
+      "metal",
+      "permit",
+      "drilling",
+      "cutting",
+      "reference",
+      "included"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.4 – Role, purpose and features of a permit-to-work system, p. 48",
+    "section": "2.4",
+    "topic": "Role, purpose and features of a permit-to-work system",
+    "bookPage": 48,
+    "primaryConcept": "Electrical safety"
+  },
+  {
+    "id": "E2-Q149",
+    "question": "Shift handovers must have the right level of technical knowledge, expertise and should also:",
+    "options": [
+      "Communicate effectively",
+      "Higher degree",
+      "Hazards information",
+      "Be punctual"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Communicate effectively",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "93",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.5",
+    "bookTopic": "Safe shift handover",
+    "bookPageStart": 50,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Shift handover",
+      "Emergency preparedness"
+    ],
+    "keywords": [
+      "handovers",
+      "communicate",
+      "expertise",
+      "technical",
+      "effectively",
+      "right"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "section": "2.5",
+    "topic": "Safe shift handover",
+    "bookPage": 50,
+    "primaryConcept": "Shift handover"
+  },
+  {
+    "id": "E2-Q150",
+    "question": "A preferred method of conducting shift handover is:",
+    "options": [
+      "Face to face using verbal and written communication",
+      "By telephone using verbal communication",
+      "Via a log book using written communication",
+      "By radio using verbal communication"
+    ],
+    "correctAnswer": "A",
+    "correctOptionText": "Face to face using verbal and written communication",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "94",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.5",
+    "bookTopic": "Safe shift handover",
+    "bookPageStart": 50,
+    "bookPageEnd": 50,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.5",
+      "pageStart": 50,
+      "pageEnd": 50,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Permit-to-work",
+      "Shift handover"
+    ],
+    "keywords": [
+      "face",
+      "verbal",
+      "written",
+      "communication",
+      "preferred",
+      "conducting"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.5 – Safe shift handover, p. 50",
+    "section": "2.5",
+    "topic": "Safe shift handover",
+    "bookPage": 50,
+    "primaryConcept": "Permit-to-work"
+  },
+  {
+    "id": "E2-Q151",
+    "question": "Which of the following is the most important consideration when selecting contractors?",
+    "options": [
+      "Proving that they have no previous or pending enforcement actions",
+      "Providing method statements, risk assessments and safety policies",
+      "Evidence of previous safe working and understanding their impact on others",
+      "Membership of a professional body and adequate insurance cover for the work"
+    ],
+    "correctAnswer": "C",
+    "correctOptionText": "Evidence of previous safe working and understanding their impact on others",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "95",
+    "sourcePage": "26",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 55,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Contractor management"
+    ],
+    "relatedAcronyms": [
+      "Q5"
+    ],
+    "keywords": [
+      "selecting",
+      "previous",
+      "evidence",
+      "consideration",
+      "understanding",
+      "working"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 55",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 55,
+    "primaryConcept": "Contractor management"
+  },
+  {
+    "id": "E2-Q152",
+    "question": "Quantitative risk assessment differs from qualitative risk assessment because it is more:",
+    "options": [
+      "Adaptive",
+      "Objective",
+      "Subjective",
+      "Detective"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Objective",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "96",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.6",
+    "bookTopic": "Contractor management",
+    "bookPageStart": 54,
+    "bookPageEnd": 42,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.2",
+      "pageStart": 33,
+      "pageEnd": 42,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Risk assessment"
+    ],
+    "relatedAcronyms": [
+      "Q3"
+    ],
+    "keywords": [
+      "assessment",
+      "qualitative",
+      "differs",
+      "objective",
+      "quantitative",
+      "risk"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.6 – Contractor management, p. 54",
+    "section": "2.6",
+    "topic": "Contractor management",
+    "bookPage": 54,
+    "primaryConcept": "Risk assessment"
+  },
+  {
+    "id": "E2-Q153",
+    "question": "Which of the following is an example of planned preventive maintenance?",
+    "options": [
+      "Daily visual inspection of process plant",
+      "Greasing of pump bearings",
+      "Regular sampling of the product",
+      "Testing of stack emissions"
+    ],
+    "correctAnswer": "B",
+    "correctOptionText": "Greasing of pump bearings",
+    "element": 2,
+    "part": null,
+    "sourceQuestion": "97",
+    "sourcePage": "27",
+    "notes": null,
+    "source": "Uploaded official question bank workbook",
+    "bookSection": "2.3",
+    "bookTopic": "Asset management and maintenance strategies",
+    "bookPageStart": 45,
+    "bookPageEnd": 46,
+    "mappingConfidence": "Keyword-mapped",
+    "bookReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "evidenceLevel": "Level 1 - Official",
+    "verificationStatus": "Pending book verification",
+    "referenceStatus": "Unverified mapping",
+    "knowledgeTrace": {
+      "element": 2,
+      "section": "2.3",
+      "pageStart": 43,
+      "pageEnd": 46,
+      "source": "Official NEBOSH HSE Process Safety Management Book",
+      "evidenceLevel": null,
+      "verificationStatus": "Pending book verification"
+    },
+    "relatedConcepts": [
+      "Asset integrity"
+    ],
+    "relatedAcronyms": [
+      "ACTIVITY"
+    ],
+    "keywords": [
+      "greasing",
+      "bearings",
+      "preventive",
+      "planned",
+      "pump",
+      "maintenance"
+    ],
+    "officialReference": "NEBOSH/HSE Process Safety Management, Element 2, Section 2.3 – Asset management and maintenance strategies, p. 45",
+    "section": "2.3",
+    "topic": "Asset management and maintenance strategies",
+    "bookPage": 45,
+    "primaryConcept": "Asset integrity"
+  }
+]

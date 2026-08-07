@@ -1,0 +1,78 @@
+<!DOCTYPE html><html lang="en" data-theme="light"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mock Exams · PSM Prep</title><link rel="stylesheet" href="css/style.css?v=7.0.0"><link rel="stylesheet" href="css/exam.css?v=8.1.0"><link rel="stylesheet" href="css/auth.css?v=7.0.0"></head><body><div id="authLoading" class="auth-loading">Checking account…</div><div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a>
+      <nav class="sidebar-nav"><a class="" href="index.html"><span>⌂</span>Dashboard</a><a class="" href="practice.html"><span>◉</span>Practice</a><a class="active" href="exam.html"><span>✎</span>Mock Exams</a><a class="" href="book.html"><span>▤</span>Book Center</a><a class="" href="acronyms.html"><span>Aa</span>Acronyms</a><a class="" href="knowledge.html"><span>◈</span>Knowledge</a><a class="" href="progress.html"><span>▥</span>Progress</a><a class="" href="search.html"><span>⌕</span>Search</a></nav>
+      <div class="sidebar-bottom">
+        <div class="account-area" data-account-area="desktop">
+          <div class="account-name" data-user-name>Account</div>
+          <div class="account-actions">
+            <a href="profile.html" aria-label="Open profile">Profile</a>
+            <button type="button" data-logout aria-label="Log out">Logout</button>
+          </div>
+        </div>
+        <div class="sidebar-card"><small>Official content</small><b>356 Questions</b><br><small>8 Mock Exams · 293 Questions</small></div>
+        <button class="icon-button" id="themeToggle" aria-label="Toggle theme">◐</button>
+      </div>
+    </aside><div class="main-shell"><header class="mobile-topbar"><a class="brand" href="index.html"><img src="assets/logo.svg" alt=""><span>PSM Prep</span></a><div class="account-area account-area-mobile" data-account-area="mobile">
+        <div class="account-name" data-user-name>Account</div>
+        <div class="account-actions">
+          <a href="profile.html" aria-label="Open profile">Profile</a>
+          <button type="button" data-logout aria-label="Log out">Logout</button>
+        </div>
+      </div><button class="icon-button" id="themeToggle">◐</button></header><main class="container">
+  <section class="page-intro"><span class="eyebrow">MOCK EXAMS</span><h1>Test your readiness</h1><p>Complete a timed mock exam and review your performance.</p></section>
+  <section id="examSetup" class="exam-options-grid">
+      <article class="exam-card official-exams-card">
+        <div>
+          <span class="badge">Official</span>
+          <h2>Complete Mock Exam Library</h2>
+          <p>Select any available source exam · 60 minutes each · question counts preserved exactly</p>
+        </div>
+        <div class="official-exam-buttons" role="group" aria-label="Official mock exams">
+          <button class="button primary official-exam-button" data-exam="1" type="button">Mock Exam 1 · 40 Questions</button>
+          <button class="button primary official-exam-button" data-exam="2" type="button">Mock Exam 2 · 40 Questions</button>
+          <button class="button primary official-exam-button" data-exam="3" type="button">Mock Exam 3 · 40 Questions</button>
+          <button class="button primary official-exam-button" data-exam="4" type="button">Mock Exam 4 · 40 Questions</button>
+          <button class="button primary official-exam-button" data-exam="5" type="button">Mock Exam 5 · 40 Questions</button>
+          <button class="button primary official-exam-button" data-exam="6" type="button">Mock Exam 6 · 38 Questions</button>
+          <button class="button primary official-exam-button" data-exam="8" type="button">Mock Exam 8 · 22 Questions</button>
+          <button class="button primary official-exam-button" data-exam="9" type="button">Mock Exam 9 · 33 Questions</button>
+        </div>
+      </article>
+      <article class="exam-card review-exams-card">
+        <div>
+          <span class="badge">Review</span>
+          <h2>Element Review Exams</h2>
+          <p>Additional review sets built from the NEBOSH PSM Mock Exam Book · up to 40 questions per part</p>
+        </div>
+        <div id="reviewExamButtons" class="review-exam-library" aria-live="polite">
+          <p class="muted">Loading element review exams…</p>
+        </div>
+      </article>
+      <article class="exam-card">
+        <div>
+          <span class="badge">Unlimited</span>
+          <h2>Generate 40 Questions</h2>
+          <p>10 questions from each complete element bank.</p>
+        </div>
+        <button class="button secondary" id="generateExam" type="button">Generate Mock Exam</button>
+      </article>
+    </section>
+  <section id="examSession" class="hidden">
+    <div class="exam-toolbar"><span id="examProgress">1 / 40</span><div class="exam-status"><span class="status-chip"><strong id="timer">60:00</strong></span><button class="button secondary" id="pauseExam">Pause</button></div><button class="button secondary" id="flagQuestion">☆ Flag</button></div>
+    <article class="question-card">
+      <h2 id="examQuestion"></h2>
+      <div id="examOptions" class="options-list"></div>
+      <div class="exam-actions"><button class="button secondary" id="prevExam">Previous</button><button class="button primary" id="nextExam">Next</button></div>
+    </article>
+    <div id="examNavigator" class="question-nav"></div>
+    <button class="button danger" id="finishExam">Finish Exam</button>
+  </section>
+  <section id="examResult" class="hidden result-card"></section>
+</main><div id="pauseOverlay" class="pause-overlay hidden"><div class="pause-box"><h2>Exam paused</h2><p>Your current answers are saved automatically.</p><button class="button primary" onclick="togglePause()">Resume Exam</button></div></div><footer>Prepared by Mahmood Eisa · PSM Prep v3.2.0</footer><nav class="bottom-nav"><a href="index.html"><b>⌂</b>Home</a><a href="practice.html"><b>◉</b>Practice</a><a href="exam.html"><b>✎</b>Exam</a><a href="progress.html"><b>▥</b>Progress</a><a href="search.html"><b>⌕</b>Search</a></nav></div></div><script src="js/storage.js?v=7.0.0"></script><script src="js/app.js?v=7.0.0"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/supabase-config.js?v=7.0.0"></script>
+<script src="js/auth.js?v=7.0.0"></script>
+<script src="js/cloud-progress.js?v=8.1.0"></script>
+<script src="js/supabase-tracker.js?v=7.0.0"></script>
+<script src="js/exam.js?v=8.4.0"></script>
+</body></html>

@@ -1,0 +1,40 @@
+
+begin;
+create table if not exists public.profiles (id uuid primary key references auth.users(id) on delete cascade, full_name text, email text, role text not null default 'student' check(role in ('student','admin')), created_at timestamptz not null default now(), updated_at timestamptz not null default now());
+create or replace function public.handle_new_user() returns trigger language plpgsql security definer set search_path=public as $$ begin insert into public.profiles(id,full_name,email) values(new.id,coalesce(new.raw_user_meta_data->>'full_name','Student'),new.email) on conflict(id) do update set email=excluded.email; return new; end; $$;
+drop trigger if exists on_auth_user_created on auth.users; create trigger on_auth_user_created after insert on auth.users for each row execute procedure public.handle_new_user();
+alter table public.profiles enable row level security;
+drop policy if exists "profiles select own" on public.profiles; create policy "profiles select own" on public.profiles for select to authenticated using(auth.uid()=id);
+drop policy if exists "profiles update own" on public.profiles; create policy "profiles update own" on public.profiles for update to authenticated using(auth.uid()=id) with check(auth.uid()=id);
+drop policy if exists "profiles insert own" on public.profiles; create policy "profiles insert own" on public.profiles for insert to authenticated with check(auth.uid()=id);
+
+alter table public.exam_attempts add column if not exists user_id uuid references auth.users(id) on delete cascade;
+alter table public.exam_attempts add column if not exists exam_code text;
+alter table public.exam_attempts add column if not exists total_questions integer;
+alter table public.exam_attempts add column if not exists correct_answers integer;
+alter table public.exam_attempts add column if not exists wrong_answers integer;
+alter table public.exam_attempts add column if not exists percentage numeric;
+alter table public.exam_attempts add column if not exists duration_seconds integer;
+alter table public.exam_attempts add column if not exists started_at timestamptz;
+alter table public.exam_attempts add column if not exists completed_at timestamptz default now();
+alter table public.question_attempts add column if not exists user_id uuid references auth.users(id) on delete cascade;
+alter table public.question_attempts add column if not exists attempt_id text;
+alter table public.question_attempts add column if not exists question_id text;
+alter table public.question_attempts add column if not exists element text;
+alter table public.question_attempts add column if not exists selected_answer text;
+alter table public.question_attempts add column if not exists is_correct boolean;
+alter table public.question_attempts add column if not exists answer_time_seconds integer;
+alter table public.question_attempts add column if not exists attempted_at timestamptz default now();
+alter table public.practice_sessions add column if not exists user_id uuid references auth.users(id) on delete cascade;
+alter table public.practice_sessions add column if not exists practice_mode text;
+alter table public.practice_sessions add column if not exists element text;
+alter table public.practice_sessions add column if not exists total_questions integer;
+alter table public.practice_sessions add column if not exists correct_answers integer;
+alter table public.practice_sessions add column if not exists wrong_answers integer;
+alter table public.practice_sessions add column if not exists duration_seconds integer;
+alter table public.practice_sessions add column if not exists completed_at timestamptz default now();
+
+alter table public.exam_attempts enable row level security; alter table public.question_attempts enable row level security; alter table public.practice_sessions enable row level security;
+do $$ declare t text; begin foreach t in array array['exam_attempts','question_attempts','practice_sessions'] loop execute format('drop policy if exists "users insert own" on public.%I',t); execute format('create policy "users insert own" on public.%I for insert to authenticated with check(auth.uid()=user_id)',t); execute format('drop policy if exists "users select own" on public.%I',t); execute format('create policy "users select own" on public.%I for select to authenticated using(auth.uid()=user_id)',t); execute format('drop policy if exists "users update own" on public.%I',t); execute format('create policy "users update own" on public.%I for update to authenticated using(auth.uid()=user_id) with check(auth.uid()=user_id)',t); execute format('drop policy if exists "users delete own" on public.%I',t); execute format('create policy "users delete own" on public.%I for delete to authenticated using(auth.uid()=user_id)',t); end loop; end $$;
+create index if not exists exam_attempts_user_id_idx on public.exam_attempts(user_id); create index if not exists question_attempts_user_id_idx on public.question_attempts(user_id); create index if not exists practice_sessions_user_id_idx on public.practice_sessions(user_id);
+commit;
